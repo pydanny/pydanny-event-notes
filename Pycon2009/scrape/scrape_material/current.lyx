@@ -1,0 +1,1750 @@
+#LyX 1.6.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\setlength{\extrarowheight}{2pt}\@ifundefined{definecolor}
+ {\usepackage{color}}{}
+\setlength{\admonitionwidth}{0.9\textwidth}\setlength{\docinfowidth}{0.9\textwidth}\setlength{\lineblockindentation}{2.5em}\setlength{\floatsep}{0.5em}\setlength{\textfloatsep}{\fill}\setcounter{totalnumber}{50}\setcounter{topnumber}{50}\setcounter{bottomnumber}{50}
+\end_preamble
+\use_default_options false
+\language english
+\inputencoding utf8x
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 0
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.8in
+\bottommargin 0.8in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Scrape the Web: Strategies for programming websites that don't expect it
+\end_layout
+
+\begin_layout Author
+Presenter: Asheesh Laroia (scrape-pycon@asheesh.org, +1-585-506-8865)
+\end_layout
+
+\begin_layout Section
+Meta
+\end_layout
+
+\begin_layout Subsection
+Introduction 
+\end_layout
+
+\begin_layout Standard
+(screen is in presentation-only mode)
+\end_layout
+
+\begin_layout Itemize
+You will learn neat tricks
+\end_layout
+
+\begin_layout Itemize
+DO NOT BECOME AN EVIL COMMENT SPAMMER
+\end_layout
+
+\begin_layout Itemize
+Theory, practice, and iterative development
+\end_layout
+
+\begin_layout Itemize
+Brittle? Sometimes.
+\end_layout
+
+\begin_layout Itemize
+The comics aren't mine; ask me for references.
+\end_layout
+
+\begin_layout Subsection
+Format introduction (5 minutes)
+\end_layout
+
+\begin_layout Standard
+(screen switches from presentation-only mode to presentation+agenda+chat)
+\end_layout
+
+\begin_layout Itemize
+Format: Interactive agenda and 
+\begin_inset Quotes eld
+\end_inset
+
+backchannel
+\begin_inset Quotes erd
+\end_inset
+
+ chat always visible
+\end_layout
+
+\begin_layout Itemize
+Go to http://pycon09.asheesh.org/ and:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+join the IRC chat (keep that URL visible in the chat window; make it the
+ topic)
+\end_layout
+
+\begin_layout Itemize
+install FireBug
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+We will not proceed until many/most people have joined
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Only
+\begin_inset Quotes erd
+\end_inset
+
+ three hours (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+Slow me down,
+\end_layout
+
+\begin_layout Itemize
+or speed me up.
+\end_layout
+
+\begin_layout Itemize
+Do this with your voice, by raising your hand, or in chat.
+\end_layout
+
+\begin_layout Subsection
+What is web scraping? (2 minutes)
+\end_layout
+
+\begin_layout Standard
+Generally speaking,
+\end_layout
+
+\begin_layout Enumerate
+You retrieve some page from the web,
+\end_layout
+
+\begin_layout Enumerate
+You extract some information,
+\end_layout
+
+\begin_layout Enumerate
+and optionally you repeat.
+\end_layout
+
+\begin_layout Subsection
+When web scrape? (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+If you need data right now (like curry), or
+\end_layout
+
+\begin_layout Itemize
+if you will need the data later.
+\end_layout
+
+\begin_layout Itemize
+See Cathy comic: http://www.gocomics.com/cathy/2009/02/11/
+\end_layout
+
+\begin_layout Subsection
+The point of this presentation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/redmeat-2008-09-30-precious-minutes.png
+	scale 40
+	rotateAngle 360
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Example 1
+\end_layout
+
+\begin_layout Subsection
+Download and analyze curry (5 minutes)
+\end_layout
+
+\begin_layout Standard
+First, define the problem
+\end_layout
+
+\begin_layout Itemize
+Load up http://mehfilindian.com/LunchMenuTakeOut.htm
+\end_layout
+
+\begin_layout Itemize
+Decide the question we want to answer
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Is there eggplant?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Now, from Python
+\end_layout
+
+\begin_layout Standard
+examples/curry/trivial.py
+\end_layout
+
+\begin_layout Itemize
+urllib2.urlopen() gives you a file descriptor
+\end_layout
+
+\begin_layout Itemize
+Now you can read() it...
+ (and you get a big ol' string)
+\end_layout
+
+\begin_layout Itemize
+test its contents for eggplant
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Extract some information
+\begin_inset Quotes erd
+\end_inset
+
+ (8 minutes)
+\end_layout
+
+\begin_layout Itemize
+HTML
+\end_layout
+
+\begin_layout Itemize
+vs.
+ XHTML (2000)
+\end_layout
+
+\begin_layout Itemize
+Both are trees of tags; both can be visualized in FireBug.
+\end_layout
+
+\begin_layout Itemize
+...did XHTML win?
+\end_layout
+
+\begin_layout Section
+Stats pop quiz
+\end_layout
+
+\begin_layout Standard
+(Stats from the MAMA survey published by Opera <http://dev.opera.com/articles/view
+/mama-key-findings/>.)
+\end_layout
+
+\begin_layout Itemize
+Average page size? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+16.5K
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+HTML to XHTML ratio?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+2:1
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Transitional vs.
+ Strict/Frameset:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+10:1
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+How many in "Quirks" mode?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+85%
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What's more popular? TITLE or BODY? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+TITLE
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What percent validate in general? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ca.
+ 4.13%
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What percent of web pages that have validation badges validate? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ca.
+ 
+\begin_inset Formula $\frac{1}{2}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Parsing considerations
+\end_layout
+
+\begin_layout Subsection
+A showcase of some of your options
+\end_layout
+
+\begin_layout Itemize
+An example of valid HTML (written by hand) (examples/parsing/)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Parsed with HTMLParser
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+An example of invalid HTML (cooked by hand) (examples/parsing/invalid-html/)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Parsed with HTMLParser
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+An example of valid XHTML (written by hand) (examples/parsing/valid-xhtml/)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Parsed with xml.dom.minidom
+\end_layout
+
+\begin_layout Itemize
+Parsed with HTMLParser
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+An example of invalid XHTML <http://www.washington.edu/accessit/webdesign/student/
+unit5/invalidHTML.htm> (examples/parsing/invalid-xhtml/)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+in Firefox
+\end_layout
+
+\begin_layout Itemize
+In xml.dom.minidom
+\end_layout
+
+\begin_layout Itemize
+in HTMLParser
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+If web HTML is not always parseable, we need a different approach.
+\end_layout
+
+\begin_layout Subsection
+Other ways to get information out of web pages? (1 minute)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+eggplant
+\begin_inset Quotes erd
+\end_inset
+
+ in page_contents.lower()
+\end_layout
+
+\begin_layout Itemize
+re.search(
+\begin_inset Quotes eld
+\end_inset
+
+eggplant
+\begin_inset Quotes erd
+\end_inset
+
+, page_contents, re.IGNORECASE)
+\end_layout
+
+\begin_layout Subsection
+Inspirational quote: JWZ (1 minute)
+\end_layout
+
+\begin_layout Quote
+Some people, when confronted with a problem, think 
+\begin_inset Quotes eld
+\end_inset
+
+I know, I'll use regular expressions.
+\begin_inset Quotes erd
+\end_inset
+
+ Now they have two problems.
+\end_layout
+
+\begin_layout Quote
+-- Jamie Zawinski 
+\end_layout
+
+\begin_layout Subsection
+What's wrong with regular expressions for scraping (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+<a href=
+\begin_inset Quotes erd
+\end_inset
+
+/whatever/
+\begin_inset Quotes erd
+\end_inset
+
+>
+\end_layout
+
+\begin_layout Itemize
+<a href='whatever'>
+\end_layout
+
+\begin_layout Itemize
+<a href=`whatever
+\begin_inset Quotes erd
+\end_inset
+
+>
+\end_layout
+
+\begin_layout Itemize
+Okay for 
+\begin_inset Quotes eld
+\end_inset
+
+Reviews 1-10 of 430
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Kodos: Regular expression GUI (since redemo.py seems unmaintained)
+\end_layout
+
+\begin_layout Subsection
+Inspirational quote: Jon Postel (1 minute)
+\end_layout
+
+\begin_layout Standard
+Robustness principle: 
+\begin_inset Quotes eld
+\end_inset
+
+Be conservative in what you do, be liberal in what you accept from others.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-- Jon Postel, 
+\emph on
+Transmission Control Protocol
+\emph default
+, RFC 793
+\end_layout
+
+\begin_layout Subsection
+Inspirational quote: Leonard Richardson (1 minute)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You didn't write that awful page.
+ You're just trying to get some data out of it.
+ Right now, you don't really care what HTML is supposed to look like.
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-- Leonard Richardson, author of BeautifulSoup
+\end_layout
+
+\begin_layout Section
+Structured data
+\end_layout
+
+\begin_layout Subsection
+Searching those document trees (8 minutes)
+\end_layout
+
+\begin_layout Itemize
+BeautifulSoup API (examples/tree-builders/beautifulsoup/search.py)
+\end_layout
+
+\begin_layout Itemize
+html5lib creates BeautifulSoup objects (or others) (examples/tree-builders/html5
+lib/search.py)
+\end_layout
+
+\begin_layout Itemize
+lxml provides XPath (examples/tree-builders/lxml/search_xpath.py)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+minimal stable XPath
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+lxml provides CSSSelect (examples/tree-builders/lxml/search_css.py)
+\end_layout
+
+\begin_layout Subsection
+Model the data (3 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/curry/menu.py
+\end_layout
+
+\begin_layout Standard
+class Entree:
+\end_layout
+
+\begin_layout Itemize
+index
+\end_layout
+
+\begin_layout Itemize
+name
+\end_layout
+
+\begin_layout Itemize
+description
+\end_layout
+
+\begin_layout Itemize
+long_winded_description
+\end_layout
+
+\begin_layout Itemize
+price
+\end_layout
+
+\begin_layout Subsection
+New goal for curry: Objectify (5 minutes)
+\end_layout
+
+\begin_layout Standard
+Map the menu to Python objects.
+\end_layout
+
+\begin_layout Itemize
+...play with source in BeautifulSoup
+\end_layout
+
+\begin_layout Itemize
+...realize this is a text processing problem, not a tag processing problem
+\end_layout
+
+\begin_layout Subsection
+Mini-lesson
+\end_layout
+
+\begin_layout Itemize
+hand-written pages vs.
+\end_layout
+
+\begin_layout Itemize
+machine-written pages
+\end_layout
+
+\begin_layout Subsection
+New goal: Scrape Yahoo! finance
+\end_layout
+
+\begin_layout Standard
+examples/tree-builders/beautifulsoup_yfinance.py
+\end_layout
+
+\begin_layout Subsection
+We're done!
+\end_layout
+
+\begin_layout Standard
+right?
+\end_layout
+
+\begin_layout Section
+Interacting with the web (5 minutes)
+\end_layout
+
+\begin_layout Subsection
+Basic Yahoo! search (hard-coded) (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/yahoo.py
+\end_layout
+
+\begin_layout Subsection
+Basic Google! search (hard-coded) (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/google.py
+\end_layout
+
+\begin_layout Itemize
+Great code, but broken due to ?
+\end_layout
+
+\begin_layout Subsection
+Something's wrong...
+\end_layout
+
+\begin_layout Section
+More about HTTP (20 minutes)
+\end_layout
+
+\begin_layout Subsection
+A network trace of an HTTP conversation (10 minutes)
+\end_layout
+
+\begin_layout Subsubsection
+User-Agent, and other headers the client sends (3 minutes)
+\end_layout
+
+\begin_layout Subsubsection
+Status codes (3 minutes)
+\end_layout
+
+\begin_layout Itemize
+2xx: Success
+\end_layout
+
+\begin_layout Itemize
+3xx: Redirection
+\end_layout
+
+\begin_layout Itemize
+4xx: Error
+\end_layout
+
+\begin_layout Itemize
+402: Payment Required
+\end_layout
+
+\begin_layout Itemize
+404 Not Found
+\end_layout
+
+\begin_layout Itemize
+410 Gone
+\end_layout
+
+\begin_layout Itemize
+418 I'm a teapot
+\end_layout
+
+\begin_layout Subsubsection
+HTTP methods (3 minutes)
+\end_layout
+
+\begin_layout Itemize
+GET
+\end_layout
+
+\begin_layout Itemize
+POST
+\end_layout
+
+\begin_layout Itemize
+PUT
+\end_layout
+
+\begin_layout Itemize
+BREW
+\end_layout
+
+\begin_layout Subsection
+Once we set User-Agent, are we just like Firefox? (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+JavaScript behavior
+\end_layout
+
+\begin_layout Itemize
+Image download behavior
+\end_layout
+
+\begin_layout Itemize
+Cookie behavior
+\end_layout
+
+\begin_layout Itemize
+Invalid HTML handling behavior (?)
+\end_layout
+
+\begin_layout Itemize
+Accept: headers
+\end_layout
+
+\begin_layout Subsection
+What if we settle for approximate emulation?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/redmeat-2008-04-01-complications.png
+	scale 40
+	rotateAngle 360
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Re-do of Google search with a cooked user-agent (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/urllib2-user-agent/google_as_ie.py
+\end_layout
+
+\begin_layout Itemize
+My favorite user-agent is Internet Explorer 5.0 on Windows 98.
+\end_layout
+
+\begin_layout Subsection
+HTTP: State via cookies (3 minutes)
+\end_layout
+
+\begin_layout Itemize
+HTTP implements state on 
+\emph on
+top
+\emph default
+ of TCP
+\end_layout
+
+\begin_layout Subsection
+robots.txt (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+User-agent: *
+\end_layout
+
+\begin_layout Itemize
+Disallow: /
+\end_layout
+
+\begin_layout Itemize
+Allow: /crawlme.html
+\end_layout
+
+\begin_layout Itemize
+http://www.robotstxt.org/
+\end_layout
+
+\begin_layout Subsection
+robots.txt and detectability (2 minutes)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+How does the server know you're a robot?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Well, if you GET /robots.txt...
+\end_layout
+
+\begin_layout Section
+Filling out more forms: POST and GET (20 minutes)
+\end_layout
+
+\begin_layout Standard
+(Be sure to pay attention to the clock; minute 90 is when snack break starts.)
+\end_layout
+
+\begin_layout Subsection
+POST: Cepstral Weather demo (by hand) (10 minutes)
+\end_layout
+
+\begin_layout Standard
+http://cepstral.com/cgi-bin/demos/weather
+\end_layout
+
+\begin_layout Subsubsection
+Note the URL we POST to
+\end_layout
+
+\begin_layout Itemize
+from FireBug
+\end_layout
+
+\begin_layout Subsubsection
+Note the data we POST
+\end_layout
+
+\begin_layout Itemize
+from FireBug
+\end_layout
+
+\begin_layout Subsubsection
+Write simple Python that also POSTs
+\end_layout
+
+\begin_layout Standard
+examples/cepstral/just_post.py
+\end_layout
+
+\begin_layout Subsubsection
+Pull out the .wav file and play it with mplayer
+\end_layout
+
+\begin_layout Standard
+examples/cepstral/play_wav.py
+\end_layout
+
+\begin_layout Subsection
+POST: Cepstral weather demo (via mechanize) (3 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/cepstral/just_post_via_mechanize.py
+\end_layout
+
+\begin_layout Subsection
+Basic Yahoo! search (via mechanize) (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/yahoo_mechanize.py
+\end_layout
+
+\begin_layout Itemize
+Great code, but broken due to robots.txt
+\end_layout
+
+\begin_layout Subsection
+Basic Yahoo! search (via mechanize, handle_robots=False) (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/yahoo_mechanize_norobots.py
+\end_layout
+
+\begin_layout Subsection
+Basic Google! search (via mechanize, handle_robots=False, change user-agent)
+ (2 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/search/google_mechanize.py
+\end_layout
+
+\begin_layout Section
+Cookies (10 minutes)
+\end_layout
+
+\begin_layout Subsection
+emusic: Log in and verify that we logged in successfully (with cookielib)
+ (optional) (5 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/cookies/emusic_login_byhand.py
+\end_layout
+
+\begin_layout Subsection
+emusic: Log in and verify that we logged in successfully (with mechanize)
+ (5 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/cookies/emusic_login_mechanize.py
+\end_layout
+
+\begin_layout Subsection
+emusic: Check how many downloads we have left (with mechanize) (5 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/cookies/emusic_check_downloads.py
+\end_layout
+
+\begin_layout Subsection
+Now we're done, right?
+\end_layout
+
+\begin_layout Standard
+Whew.
+\end_layout
+
+\begin_layout Section
+Recap and philosophy (3 minutes)
+\end_layout
+
+\begin_layout Subsection
+Recap
+\end_layout
+
+\begin_layout Standard
+We've seen:
+\end_layout
+
+\begin_layout Itemize
+Loading web pages from the network with urllib2
+\end_layout
+
+\begin_layout Itemize
+Parsing web pages (even broken ones)
+\end_layout
+
+\begin_layout Itemize
+Scraping that page into a set of structured Python objects
+\end_layout
+
+\begin_layout Itemize
+HTTP status codes
+\end_layout
+
+\begin_layout Itemize
+Faking the user agent header
+\end_layout
+
+\begin_layout Itemize
+Submitting forms
+\end_layout
+
+\begin_layout Itemize
+Keeping a session with cookies
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Play nice
+\begin_inset Quotes erd
+\end_inset
+
+ on the web (5 minutes)
+\end_layout
+
+\begin_layout Itemize
+Ignore Terms of Service at your own peril
+\end_layout
+
+\begin_layout Itemize
+robots.txt
+\end_layout
+
+\begin_layout Itemize
+DO NOT BECOME AN EVIL COMMENT SPAMMER
+\end_layout
+
+\begin_layout Subsection
+Why scrape the web? (4 minutes)
+\end_layout
+
+\begin_layout Itemize
+Anger
+\end_layout
+
+\begin_layout Itemize
+Interoperation with unmaintained systems
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Rogue interoperability
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Three perspectives on web scraping (5 minutes)
+\end_layout
+
+\begin_layout Itemize
+Be a Maverick
+\end_layout
+
+\begin_layout Itemize
+Use the old standby XML tools
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Use the web tools against the web
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Parser redux
+\end_layout
+
+\begin_layout Subsection
+Choosing a parser
+\end_layout
+
+\begin_layout Itemize
+Performance
+\end_layout
+
+\begin_layout Itemize
+Ease-of-use
+\end_layout
+
+\begin_layout Itemize
+Quality
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Especially as relates to cleaning broken HTML
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Benchmarks by Ian Bicking
+\end_layout
+
+\begin_layout Subsection
+Ease of use
+\end_layout
+
+\begin_layout Subsection
+Quality of resulting tree
+\end_layout
+
+\begin_layout Itemize
+lxml > BeautifulSoup
+\end_layout
+
+\begin_layout Itemize
+lxml 
+\begin_inset Formula $\approx$
+\end_inset
+
+ html5lib
+\end_layout
+
+\begin_layout Itemize
+BeautifulSoup 3.0.7 > BeautifulSoup 3.1.0
+\end_layout
+
+\begin_layout Subsection
+A winner
+\end_layout
+
+\begin_layout Itemize
+lxml!
+\end_layout
+
+\begin_layout Section
+Countermeasures
+\end_layout
+
+\begin_layout Subsection
+Imagine a really stupid bot
+\end_layout
+
+\begin_layout Subsection
+Check Referer header
+\end_layout
+
+\begin_layout Itemize
+mechanize solves this
+\end_layout
+
+\begin_layout Subsection
+Extra hidden form fields
+\end_layout
+
+\begin_layout Itemize
+mechanize solves this
+\end_layout
+
+\begin_layout Subsection
+Requiring cookies
+\end_layout
+
+\begin_layout Itemize
+mechanize solves this
+\end_layout
+
+\begin_layout Section
+Countermeasures: hard (12 minutes)
+\end_layout
+
+\begin_layout Subsection
+Per-IP address query limits (6 minutes)
+\end_layout
+
+\begin_layout Standard
+Example: Yahoo web search API
+\end_layout
+
+\begin_layout Itemize
+Use more IPs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Tor, or
+\end_layout
+
+\begin_layout Itemize
+your own machines
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Use SOCKS (plus SSH) to make this easy
+\end_layout
+
+\begin_layout Subsection
+CAPTCHAs (3 minutes)
+\end_layout
+
+\begin_layout Standard
+Example: Google web search (when you exceed undeclared query limits).
+\end_layout
+
+\begin_layout Itemize
+uh-oh
+\end_layout
+
+\begin_layout Subsection
+JavaScript (3 minutes)
+\end_layout
+
+\begin_layout Standard
+Example: 
+\begin_inset Quotes eld
+\end_inset
+
+Hash cash
+\begin_inset Quotes erd
+\end_inset
+
+ system for avoiding comment spam.
+\end_layout
+
+\begin_layout Itemize
+uh-oh
+\end_layout
+
+\begin_layout Section
+Invisible coubntermeasures
+\end_layout
+
+\begin_layout Subsection
+Behavior profiling
+\end_layout
+
+\begin_layout Itemize
+Time-based?
+\end_layout
+
+\begin_layout Subsection
+Inserting false link visible only to bots
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Tarpits
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+robots.txt access
+\end_layout
+
+\begin_layout Itemize
+As soon as you access it, you lose.
+\end_layout
+
+\begin_layout Section
+Getting around IP address limits
+\end_layout
+
+\begin_layout Subsection
+Understand
+\end_layout
+
+\begin_layout Itemize
+We still have to stay within the limits.
+ We can just take advantage of IPs we do have.
+\end_layout
+
+\begin_layout Subsection
+ssh -D
+\end_layout
+
+\begin_layout Itemize
+Borrow the IP of any machine you can log in to
+\end_layout
+
+\begin_layout Itemize
+ssh -D 1080 asheesh.org
+\end_layout
+
+\begin_layout Subsection
+socks_monkey
+\end_layout
+
+\begin_layout Itemize
+SOCKSify Python from within Python
+\end_layout
+
+\begin_layout Itemize
+examples/ip-limits/socks_monkey.py
+\end_layout
+
+\begin_layout Subsection
+tsocks
+\end_layout
+
+\begin_layout Itemize
+SOCKSify Python via LD_PRELOAD
+\end_layout
+
+\begin_layout Itemize
+examples/ip-limits/tsocks/
+\end_layout
+
+\begin_layout Subsection
+tor
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The onion router
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+SOCKSify but borrow someone else's IP
+\end_layout
+
+\begin_layout Itemize
+(play nice...)
+\end_layout
+
+\begin_layout Subsection
+Cycling strategies
+\end_layout
+
+\begin_layout Itemize
+Drain it dry
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+easy to implement first
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Round-robin
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+generally preferable
+\end_layout
+
+\end_deeper
+\begin_layout Section
+JavaScript: breaking Hash Cash (15 minutes)
+\end_layout
+
+\begin_layout Subsection
+Detecting its presence
+\end_layout
+
+\begin_layout Itemize
+Attempt to submit a comment with JS disabled
+\end_layout
+
+\begin_layout Itemize
+Attempt to submit a comment with JS enabled
+\end_layout
+
+\begin_layout Itemize
+Trace the second in FireBug
+\end_layout
+
+\begin_layout Subsection
+Rewriting the JavaScript as Python
+\end_layout
+
+\begin_layout Itemize
+You may think I'm joking, but this is a common strategy.
+\end_layout
+
+\begin_layout Subsection
+DOMForm
+\end_layout
+
+\begin_layout Itemize
+Good news
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+DOMForm is a Python module for web scraping and web testing.
+ It knows how to evaluate embedded JavaScript code in response to appropriate
+ events.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-- John J.
+ Lee of mechanize
+\end_layout
+
+\begin_layout Itemize
+Bad news
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This module is unmaintained.
+ Maybe someday...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Also, it does not execute page-global JavaScript, which is where HashCash
+ is implemented.
+\end_layout
+
+\begin_layout Subsection
+python-spidermonkey
+\end_layout
+
+\begin_layout Itemize
+Good news
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript
+ implementation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Bad news
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+...do you really want to parse the web page for JavaScript and execute it?
+\end_layout
+
+\begin_layout Itemize
+examples/javascript/hashcash.py
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Ick
+\end_layout
+
+\begin_layout Itemize
+None of this is as clean and automated as mechanize.
+\end_layout
+
+\begin_layout Section
+\begin_inset Quotes eld
+\end_inset
+
+Breaking
+\begin_inset Quotes erd
+\end_inset
+
+ CAPTCHAs (15 minutes)
+\end_layout
+
+\begin_layout Subsection
+Fallback: yourself
+\end_layout
+
+\begin_layout Itemize
+Can always just prompt the operator to figure it out and enter it
+\end_layout
+
+\begin_layout Subsection
+Mailinator: 
+\begin_inset Quotes eld
+\end_inset
+
+Enter these words to delete the email
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Only so many different images
+\end_layout
+
+\begin_layout Itemize
+So build a look-up table
+\end_layout
+
+\begin_layout Itemize
+...indexed by URL?
+\end_layout
+
+\begin_layout Itemize
+...indexed by image contents?
+\end_layout
+
+\begin_layout Itemize
+...indexed by fuzzy image contents?
+\end_layout
+
+\begin_layout Standard
+(I don't have a good tool for the last one.)
+\end_layout
+
+\begin_layout Subsection
+Audio captchas: 
+\begin_inset Quotes eld
+\end_inset
+
+Simple
+\begin_inset Quotes erd
+\end_inset
+
+ signal analysis
+\end_layout
+
+\begin_layout Itemize
+Should be doable in pylab/matplotlib with fast Fourier transforms
+\end_layout
+
+\begin_layout Subsection
+JavaScript CAPTCHAs (like reCAPTCHA)
+\end_layout
+
+\begin_layout Itemize
+re-implement CAPTCHA-downloading logic in Python
+\end_layout
+
+\begin_layout Itemize
+...or execute the JavaScript with spidermonkey
+\end_layout
+
+\begin_layout Section
+The website from Hell: US PTO Public PAIR
+\end_layout
+
+\begin_layout Standard
+http://portal.uspto.gov/external/portal/pair
+\end_layout
+
+\begin_layout Subsection
+Start with a CAPTCHA
+\end_layout
+
+\begin_layout Subsection
+Solve it and move on to...
+\end_layout
+
+\begin_layout Itemize
+document.write()
+\end_layout
+
+\begin_layout Subsection
+The page is invisible.
+\end_layout
+
+\begin_layout Section
+Automating the web browser
+\end_layout
+
+\begin_layout Subsection
+Selenium Remote Control (5 minutes)
+\end_layout
+
+\begin_layout Standard
+examples/seleniumrc/start.py
+\end_layout
+
+\begin_layout Subsection
+Selenium IDE (10 minutes)
+\end_layout
+
+\begin_layout Itemize
+Our friend, XPath
+\end_layout
+
+\begin_layout Itemize
+FireBug
+\end_layout
+
+\begin_layout Subsection
+Why don't we just do this all the time?
+\end_layout
+
+\begin_layout Itemize
+Firefox memory footprint
+\end_layout
+
+\begin_layout Itemize
+Flexibility
+\end_layout
+
+\begin_layout Section
+Conclusions
+\end_layout
+
+\begin_layout Subsection
+Scaling and stability (5 minutes)
+\end_layout
+
+\begin_layout Itemize
+Choosing reliable queries from web pages
+\end_layout
+
+\begin_layout Itemize
+Expanding to more IP addresses when necessary using SSH (and Python 2.6 multiproc
+essing for a plausible model of how to rotate SOCKS proxies)
+\end_layout
+
+\begin_layout Itemize
+Tor (and other proxy considerations)
+\end_layout
+
+\begin_layout Itemize
+registrar.py: Six and a half years stable
+\end_layout
+
+\begin_layout Subsection
+Summary (5 minutes)
+\end_layout
+
+\begin_layout Itemize
+If it's on a web page, you can scrape it out.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Now you have an API for everything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Future directions
+\end_layout
+
+\begin_layout Itemize
+More automation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Automatic migration from data tables into Python dictionaries
+\end_layout
+
+\begin_layout Itemize
+Crawling a site to verify assumptions
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Do you do these?
+\end_layout
+
+\begin_layout Subsection
+Bonus time (? minutes)
+\end_layout
+
+\begin_layout Standard
+If we have time: 
+\end_layout
+
+\begin_layout Itemize
+Greasemonkey demo: scraping in the browser
+\end_layout
+
+\begin_layout Itemize
+Audience-suggested scraping lab
+\end_layout
+
+\begin_layout Itemize
+Workshopping on queries or regular expressions
+\end_layout
+
+\end_body
+\end_document

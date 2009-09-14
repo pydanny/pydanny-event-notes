@@ -1,0 +1,55 @@
+8
+
+dir
+2355
+http://svn.asheesh.org/svn/public/20082009/pycon/examples
+http://svn.asheesh.org/svn
+
+
+
+2009-03-26T15:51:11.656026Z
+2352
+paulproteus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+987cfd08-4ce9-0310-92e7-850db3015cc3
+
+parsing
+dir
+
+curry
+dir
+
+search
+dir
+
+verbose
+dir
+
+javascript
+dir
+
+tree-builders
+dir
+
+ip-limits
+dir
+
+trivial
+dir
+
+cepstral
+dir
+

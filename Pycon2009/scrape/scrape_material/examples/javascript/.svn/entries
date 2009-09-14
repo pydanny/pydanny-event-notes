@@ -1,0 +1,52 @@
+8
+
+dir
+2355
+http://svn.asheesh.org/svn/public/20082009/pycon/examples/javascript
+http://svn.asheesh.org/svn
+
+
+
+2009-03-16T03:30:56.598782Z
+2269
+paulproteus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+987cfd08-4ce9-0310-92e7-850db3015cc3
+
+hashcash.py
+file
+
+
+
+
+2009-03-26T15:59:46.000000Z
+cd3bfb36d1a9f11c240dfd3a825aa91c
+2009-03-16T03:30:56.598782Z
+2269
+paulproteus
+
+README
+file
+
+
+
+
+2009-03-26T15:59:46.000000Z
+f9948328a404c01729afd337a0b75f39
+2009-03-15T22:38:45.089604Z
+2263
+paulproteus
+

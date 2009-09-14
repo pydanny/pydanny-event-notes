@@ -1,0 +1,43 @@
+8
+
+dir
+2355
+http://svn.asheesh.org/svn/public/20082009/pycon/examples/ip-limits
+http://svn.asheesh.org/svn
+
+
+
+2009-03-26T15:51:03.030514Z
+2350
+paulproteus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+987cfd08-4ce9-0310-92e7-850db3015cc3
+
+tsocks
+dir
+
+socks_monkey.py
+file
+
+
+
+
+2009-03-26T15:59:46.000000Z
+28cb247c5b47613e3c7de1bcc34ee9f4
+2009-03-26T15:50:58.905557Z
+2349
+paulproteus
+

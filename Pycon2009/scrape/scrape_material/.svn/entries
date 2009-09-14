@@ -1,0 +1,94 @@
+8
+
+dir
+2355
+http://svn.asheesh.org/svn/public/20082009/pycon
+http://svn.asheesh.org/svn
+
+
+
+2009-03-26T15:52:26.296755Z
+2355
+paulproteus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+987cfd08-4ce9-0310-92e7-850db3015cc3
+
+images
+dir
+
+report2slides.py
+file
+
+
+
+
+2009-03-26T15:59:47.000000Z
+8287bb025cc4c8f83778c87f54151cc9
+2009-03-26T15:51:11.656026Z
+2352
+paulproteus
+
+proposal.lyx
+file
+
+
+
+
+2009-03-26T15:59:47.000000Z
+7de49f14443d0a5ecaf2d8e1f03156a0
+2009-03-14T23:48:08.445772Z
+2255
+paulproteus
+
+current.lyx
+file
+
+
+
+
+2009-03-26T15:59:47.000000Z
+17462b8fd1d154822c07494937f53433
+2009-03-26T15:51:11.656026Z
+2352
+paulproteus
+
+examples
+dir
+
+proposal.tex
+file
+
+
+
+
+2009-03-26T15:59:47.000000Z
+101e85cec769668a2c4403afe5ab8de8
+2009-03-14T23:47:15.234578Z
+2254
+paulproteus
+
+slides3.pdf
+file
+
+
+
+
+2009-03-26T15:59:47.000000Z
+a205c5d4890f5557f4e05102c45d702a
+2009-03-26T15:51:58.720460Z
+2354
+paulproteus
+

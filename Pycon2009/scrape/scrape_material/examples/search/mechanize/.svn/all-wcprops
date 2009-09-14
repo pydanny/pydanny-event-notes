@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2309/public/20082009/pycon/examples/search/mechanize
+END
+google.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2309/public/20082009/pycon/examples/search/mechanize/google.py
+END
+yahoo.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2308/public/20082009/pycon/examples/search/mechanize/yahoo.py
+END
+yahoo_norobots.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2308/public/20082009/pycon/examples/search/mechanize/yahoo_norobots.py
+END

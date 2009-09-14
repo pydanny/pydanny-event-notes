@@ -1,0 +1,58 @@
+8
+
+dir
+2355
+http://svn.asheesh.org/svn/public/20082009/pycon/examples/search
+http://svn.asheesh.org/svn
+
+
+
+2009-03-26T15:48:06.465493Z
+2310
+paulproteus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+987cfd08-4ce9-0310-92e7-850db3015cc3
+
+mechanize
+dir
+
+urllib2-user-agent
+dir
+
+google.py
+file
+
+
+
+
+2009-03-26T15:59:46.000000Z
+1aa8dec0194b8ebf47309fd521645c31
+2009-03-19T15:22:07.253250Z
+2292
+paulproteus
+
+yahoo.py
+file
+
+
+
+
+2009-03-26T15:59:46.000000Z
+35ce7da4a29ec4ead36eeca8cf30afa2
+2009-03-19T13:49:24.787524Z
+2275
+paulproteus
+

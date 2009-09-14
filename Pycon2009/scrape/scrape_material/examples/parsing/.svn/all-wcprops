@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2351/public/20082009/pycon/examples/parsing
+END
+invalid.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2284/public/20082009/pycon/examples/parsing/invalid.xhtml
+END
+parsed_with_htmlparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2351/public/20082009/pycon/examples/parsing/parsed_with_htmlparser.py
+END
+sample.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2281/public/20082009/pycon/examples/parsing/sample.html
+END
+invalid.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2285/public/20082009/pycon/examples/parsing/invalid.html
+END
+parsed_with_minidom.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2286/public/20082009/pycon/examples/parsing/parsed_with_minidom.py
+END
+sample.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2287/public/20082009/pycon/examples/parsing/sample.xhtml
+END
