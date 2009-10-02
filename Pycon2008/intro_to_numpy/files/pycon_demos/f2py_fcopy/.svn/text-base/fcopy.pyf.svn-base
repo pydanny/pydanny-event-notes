@@ -1,0 +1,15 @@
+!    -*- f90 -*-
+! Note: the context of this file is case sensitive.
+
+python module fcopy ! in 
+    interface  ! in :fcopy
+        subroutine fcopy(ain,n,aout) ! in :fcopy:fcopy.f
+            double complex dimension(*) :: ain
+            integer :: n
+            double complex dimension(*) :: aout
+        end subroutine fcopy
+    end interface 
+end python module fcopy
+
+! This file was auto-generated with f2py (version:2_3719).
+! See http://cens.ioc.ee/projects/f2py2e/
