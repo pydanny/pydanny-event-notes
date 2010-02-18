@@ -41,5 +41,17 @@ Django Views
 ------------
 
  * ``SystemExit`` is not caught by Django, otherwise can be caught
+ 
  * Exceptions raised by exception middleware or 404 pages
+ 
  * Deliberately uses empty ``Context`` because nothing about the ``Context`` can be trusted.
+ 
+AdminSite
+---------
+
+Here we go!
+
+Overriding templates
+--------------------
+
+ * 
