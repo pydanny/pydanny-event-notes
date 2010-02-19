@@ -3,7 +3,7 @@ Leafy Chat
 
 by Alex Gaynor
 
-*Get the slides later*
+*TODO: Get the slides later*
 
 Intro
 ------
