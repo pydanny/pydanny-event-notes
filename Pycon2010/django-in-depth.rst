@@ -3,7 +3,7 @@ Django in Depth
 
 by James Bennet
 
-*I was trying to fix some problems at work so my notes here are amazingly imcomplete.*
+*I was trying to fix some problems at work so my notes here are amazingly incomplete.*
 
 Model Inheritence
 -----------------
