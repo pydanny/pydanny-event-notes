@@ -1,0 +1,22 @@
+0.9 Pinax Roadmap
+==================
+
+Must
+------
+
+ * Implement per object permission system
+ * Finish the django-friends split
+ * Notifications redo
+ * Clean up profiles
+ * Finish off the improved install branch
+ * Test runner (I've got this)
+ * Tagging (I've got this)
+ 
+Should
+-------
+
+ * Alternative themes (we want 3 or 4 themes) 
+ * Settings refactor
+ * Externalizing some of the apps
+ * Better i18n support
+ * Add more external authentication
