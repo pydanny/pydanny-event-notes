@@ -26,3 +26,32 @@ What PBS likes about Django
  * Django Admin
  * Active community
  * Python!
+ 
+Things that worked for PBS
+===========================
+
+ * Django is opinionated in a generally good way
+ * A culture of self-criticism
+ * Isolate functionality into reusable components
+ 
+Lessons learned
+==================
+
+ * Never override the User model
+ * Make tests right away
+ * Make the most of your VCS
+ * use tests
+ * take your time
+ 
+Sell the upgrade to the Uppers
+==============================
+
+ * it will lower the cost of future development
+ * it will alleviate a pain point felt by staff processes
+ 
+What he wants
+==============
+
+ * Multi-configuration support out-of-the-box
+ * A better way to know when Django's modules are completely loaded into memory
+ * More robust handling (Signals++)
