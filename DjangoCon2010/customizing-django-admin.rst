@@ -40,3 +40,38 @@ Poor display for complex models
  * Way too many fields on complex models
  * Try to limit your fields
  
+Customizing the Experience
+==========================
+
+ModelAdminMedia
+---------------
+ 
+   * js
+ 
+     * JQuery
+     * AJAX
+     * Fancy inlines
+     * Inject HTML
+   
+   * CSS
+ 
+     * colors
+     * layout
+
+
+Custom templates
+-----------------
+
+(base.html, change_form.html, etc)
+ 
+Model admin / Model Form hacking
+--------------------------------
+ 
+   * list_editable
+   * row level permissions
+   
+ModelForms
+----------
+
+Use a model form and tell the Admin class to use ModelForms.
+Not well documented - UNNACCEPTABLE!
