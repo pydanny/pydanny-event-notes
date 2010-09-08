@@ -4,6 +4,8 @@ Maps of imaginary lands
 
 By Malcom Tredinnick
 
+.. contents:: Contents
+
 GeoDjango Admin
 ===============
 

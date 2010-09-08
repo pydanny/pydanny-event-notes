@@ -4,7 +4,7 @@ Why Django sucks and how we can fix it
 
 By Eric Florenzano
 
-.. contents: Table of Contents
+.. contents:: Contents
 
 Apps
 ====

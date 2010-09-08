@@ -4,6 +4,8 @@ Maintaining an old Django project
 
 By Shawn Rider
 
+.. contents:: Contents
+
 Background
 ==========
 
