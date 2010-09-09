@@ -6,7 +6,7 @@ By Adam Baldwin
 
 .. contents: Table of Contents
 
-He breaks stuff. He hack and cracks,
+He breaks stuff. He hack and cracks. And gave a really useful talk!
 
 Notes
 =====
