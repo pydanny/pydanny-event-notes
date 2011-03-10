@@ -228,6 +228,30 @@ Headers are files that end in '.h' and contain function declarations. This way t
 
 Sometimes you see `typedef struct Foo Foo` and this is to just let the compiler know there will be a struct called Foo.
 
+Useful functions
+================
+
+* string.h
+
+    * length: `size_t strlen(const char *s)`
+    * compare: `strcmp(char *s1, char *s2)`
+    * copy: `*strncpy(char *s1, char *s2, size_t n);`
+    * `memcpy(void *s1, void *s2, size_t n)`
+
+* malloc (buffer management)
+
+    * `#include <stdlib.h>`
+    * `void *malloc(size_t)`
+    * `void free(void *ptr)`
+    * `void *calloc(size_t count, size_t size)`
+    
+* stdio.h (I/O handling - files writing and reading)
+
+Runtimes
+=========
+
+Check out: http://docs.python.org/c-api/
+
 Convore
 ==================
 
