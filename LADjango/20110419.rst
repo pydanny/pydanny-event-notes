@@ -1,0 +1,30 @@
+===============
+April 19, 2011
+===============
+
+Caching
+========
+
+Concept::
+
+    class CacheManager(managers.Manager):
+        """ 
+            usage:
+                objects = CacheManager()
+        
+        """
+        ...
+        DNE = "DoesNotExist"
+        # put caching methods here 
+        # put signal handling here
+        
+        
+Unittesting
+============
+
+FactoryBoy looks awesome!
+
+FB Integration
+===============
+
+Using the Facebook python SDK?
