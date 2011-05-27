@@ -1,0 +1,69 @@
+================================================
+Python at Walt Disney Animation Studios
+================================================
+
+WDA = Walt Disney Animation Studios
+
+How many ways does WDA use Python?
+========================================
+
+* Scripting in Maya.
+* DLight (lighting controls)
+* Scene Navigation (navigation through scenes in a script once audio/video added)
+* Art version control systems.
+* Scripts to facilitate moving images and data in and out of sequences
+* syrup - SAP scraper. Python Interface to our SAP based timecard system.
+* Python CGI that interfaces with Production management tools and generates Excel.
+* munki - A client/server to distribute 3rd party packages to max
+* Coda - queuing system. C++ application with Python expressions and API
+* Squish - 3rd party QT GUI test automation. Lots of Python scripts there.
+* Mentor - Unittest library that interfaces well with Maya.
+* GEMS - Python CGI system for searching Disney Archives
+* Most 3rd party tools for the visual effect community comes with a Python API. How cool is that?
+* Another 20 things I couldn't keep up with!
+
+Specifics on how WDA use Python?
+=================================
+
+Sample apps out of many:
+
+* Dlight
+
+    * C++ 52%, Python 48%
+    * Surfacing
+    * Lighting
+    * Render Picture
+    
+* DLight GUI
+
+    * C++ 48%, Python 52%
+
+* Scene Navigator
+
+    * Python 100%
+    * Shot management
+    * Element properties
+    
+*all tools are fully scriptable in Python*
+
+Disney Messaging
+-----------------
+
+* Defines messages independent of Language
+* Generates C++ header files with Python bindings
+
+Regression Testing
+------------------
+
+* Approx 2,000 regression tests between products
+* Tests cover both C++ and Python functions
+* 99% written using unittest
+
+Performance
+-------------
+
+* A hot topic!
+* PyQt vs Qt
+* Smart use of classes far mor important than Language interface
+* Time-critical functions written (or rewritten) in C++
+
