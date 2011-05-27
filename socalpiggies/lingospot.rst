@@ -17,11 +17,5 @@ Thoughts
 
  * Looks like overly complex implementation of memo-ization
  * Suffering from too much Not-Invented-Here
- 
-Things I don't know
-===================
-
- * custom iterators and iterables
- * yield built-in
 
  

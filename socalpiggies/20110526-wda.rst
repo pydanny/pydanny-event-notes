@@ -67,3 +67,19 @@ Performance
 * Smart use of classes far mor important than Language interface
 * Time-critical functions written (or rewritten) in C++
 
+Package interoperability
+-------------------------
+
+All provide a Python API!!!
+
+* Maya (autodesk)
+* Houdini (Side effects)
+* Renderman (Pixar)
+
+Choosing Python
+---------------
+
+* Performance trade-off
+* Development cost
+* Support cost
+* Pipeline integration
