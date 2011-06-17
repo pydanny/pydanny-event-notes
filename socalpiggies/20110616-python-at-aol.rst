@@ -6,8 +6,9 @@ AOL at Python given on June 6, 2011
 
 By Jathan (Security Engineer)
 
-* Most of AOL is Java and Perl.
-* A third of AOL are developers.
+* Most of AOL is Java and Perl, and there remains a lot of TCL.
+* A third of AOL staff are developers.
+* Moving towards open source more and more!
 * But they had 7 people at PyCon 2011.
 * Still have 70% of the old infrastructure run by 25K employees now maintained by 4K employees
 * Data centers in:
@@ -97,7 +98,7 @@ What Jathan does for work.
     * 37000+ host nodes
     * 5,300 host nodes
 
-* Simian (still) Coming Soon
+* Simian Python suite of tools:
 
     * Twisted
     * Django
@@ -110,3 +111,10 @@ What Jathan does for work.
     * Nudge (Evite's API library)
     
         * Not selling this product so they don't need to worry about the GPL on Nudge.    
+
+History of Getting Python into AOL
+------------------------------------------
+
+* Moved to Python from Perl in 2006.
+* Had to deal with thousands of moving components and twisted solved a major problem.
+* Entire network/security system is in Python.
