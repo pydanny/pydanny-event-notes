@@ -1,0 +1,95 @@
+==============================
+Knowing Things on June 6, 2011
+==============================
+
+By Jeff Schenk
+
+.. note:: Way too many comments from one person who kept taking him off topic so I asked Jeff to not take so many questions. Not sure how well that went over...
+
+Ad.ly's story
+==============
+
+* Kinda knowing things is easy
+* Really knowing with certainty a lot of complex things is maybe harder
+* Need to know things with precision is really important
+
+Thing Types
+===========
+
+* Integers (how many people clicked)
+* Strings
+* Booleans
+* Bling (money)
+* Time
+
+Bling
+=====
+
+Do you want to misplace money and get fired? No? Use Decimal::
+
+    from decimal import Decimal
+    moneys = Decimal('100.01')
+
+Decimal oddities in rounding so use quantize::
+
+    >>> moneys  / 2
+    Decimal('50.005') # Copied something wrong here..
+    
+    # so use quantize
+    >>> (moneys / 2).quantize('001')
+    Decimal('50.005') # ... or maybe here cause these numbers are the same
+
+Time
+=====
+
+* Timezones suck
+* Computers like integers
+* So they use hours since epoch
+* all the work is done in about 10 lines of Python code.
+
+Storage
+=======
+
+* SQL
+
+    * Joins are death
+    * If you join, you will die
+    * intelligent index are super
+    * if you're going to group bu it or filter on it, you probably want it indexed.
+    
+* Pre-Aggregate
+
+    * When you're working with a lot of data, you need to aggregate chunks as you go.
+    * `My Guess`: A lot of Celery tasks!
+    * Spooned into a single report table that breaks normalization
+    
+Iterate
+========
+
+They use itertools a lot!
+
+ * itertools.chain is your friend
+ * itertools.tee is also your friend 
+
+heapq
+======
+
+Algorithms makes merging of iterables really powerful::
+
+    import heapq
+    for result in heapq.merge(query1, query2):
+        # merge results and know they are in order
+        print(result)
+
+Caching is key!
+=================
+
+ * They need flexibility to slice and dice the data
+ * Once its been sliced, they want to be able to view, page, and sort the data
+ * Redis gives the speed of cache with the power to sort and page
+ * They use `redis-py` as their library
+
+Questions
+===========
+
+ * Test coverage?
