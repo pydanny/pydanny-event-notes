@@ -1,11 +1,8 @@
-==========================
-Meetup on June 6, 2011
-==========================
+======================================
+AOL at Python given on June 6, 2011
+======================================
 
-.. note:: Late because of traffic so missed part of the first talk.
-
-AOL at Python
-=============
+.. note:: Late because of traffic so missed part of the first talk. Some of the audience commentary was not as polite as it should be, and I'm guilty of a little of it. :P
 
 By Jathan (Security Engineer)
 
