@@ -1,2 +1,5 @@
 *.pyc
 *.svn/*
+_build
+_static
+_templates
