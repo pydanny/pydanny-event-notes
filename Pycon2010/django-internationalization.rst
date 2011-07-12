@@ -1,3 +1,4 @@
+============================
 Django Internationalization
 ============================
 
@@ -25,9 +26,11 @@ Translating models
 Translating templates
 ------------------------
 
-{% load i18n %}
-{% block trans %}{% endblock trans %}
-{% trans "blah"%}
+sample::
+
+    {% load i18n %}
+    {% block trans %}{% endblock trans %}
+    {% trans "blah"%}
 
         
 Its just Python

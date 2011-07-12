@@ -15,6 +15,7 @@ Conferences
    :maxdepth: 1
    
    Pycon2011/index
+   Pycon2010/index
 
 Indices and tables
 ==================

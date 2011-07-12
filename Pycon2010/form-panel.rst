@@ -1,14 +1,16 @@
+==========
 Form Panel
-===========
+==========
 
 by all the framework builders!
 
 Who is who?
 --------------
-Johnathon Ellis - FormAlchemy
-Christoner McDonough - Formish
-JKM - Django Forms
-Chris Perkins -
+
+ * Johnathon Ellis - FormAlchemy
+ * Christoner McDonough - Formish
+ * JKM - Django Forms
+ * Chris Perkins -
 
 
 FormAlchemy
