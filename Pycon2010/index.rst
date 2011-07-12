@@ -2,7 +2,7 @@
 Pycon 2010
 ============
 
-I met Audrey here. So my notes are even more incomplete than usual. Ha ha ha.
+.. note:: I met Audrey at this conference. So my notes are even more incomplete than usual. Ha ha ha.
 
 .. toctree::
    :maxdepth: 2
