@@ -6,12 +6,15 @@
 Welcome to pydanny-event-notes's documentation!
 ===============================================
 
-Pycon 2011:
+I've been collecting my notes taken over the years into this one location. My intention is to capture all that I've learned or forgotten, share it with others, and compare that with where I am now.
+
+Conferences
+============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
-   Pycon2011/README
+   Pycon2011/index
 
 Indices and tables
 ==================

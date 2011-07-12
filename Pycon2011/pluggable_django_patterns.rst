@@ -2,6 +2,8 @@
 Pluggable Django Patterns
 =========================
 
+.. warning:: Corey is a great guy and really smart. I've learned from him on other topics. But I strongly disagree with what he presented in this talk. My notes are extremely incomplete.
+
 by Corey Oordt
 
 * An app should not be a monolithic pile of code
