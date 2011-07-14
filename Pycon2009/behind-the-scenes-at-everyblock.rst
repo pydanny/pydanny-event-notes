@@ -30,4 +30,4 @@ Data Scraping
 IMPORTANT
 -------------
 
- * June 30th Everyblock gets open sourced!
+ * June 30th of 2009 Everyblock gets open sourced!

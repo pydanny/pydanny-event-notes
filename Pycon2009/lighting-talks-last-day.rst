@@ -1,4 +1,8 @@
-=====================
+========================
+Lightning Talks last Day
+========================
+
+
 GeoDjango
 =====================
 
@@ -11,7 +15,7 @@ What up with Zope
 =====================
 
     * Why is Zope still relevant
-    * PyPy is 90% Zope packages
+    * PyPI is 90% Zope packages
     * Age
     * ZODB
     
@@ -21,7 +25,7 @@ New command line parsing called argparse
     * argparse
     * look on code.google.com
 
-Zain's cheapo continious integration tool
+Zain's cheapo continuos integration tool
 =========================================
 
     * http://inzain.net/blog/

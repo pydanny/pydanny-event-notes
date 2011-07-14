@@ -2,7 +2,7 @@
 Plone front end other front end
 ====================================
 
- * Carlos A de la Guardia
+by Carlos A de la Guardia
  
 Why Plone?
 ------------

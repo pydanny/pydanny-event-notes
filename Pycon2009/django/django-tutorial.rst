@@ -2,6 +2,8 @@
 Django in the real world
 =========================
 
+By James Bennett and Jacob Kaplan-Moss
+
     * What's on the plate
     * testing
     * production environments
