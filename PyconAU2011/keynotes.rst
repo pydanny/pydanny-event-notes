@@ -32,3 +32,16 @@ LA's own Raymond Hettiger talked about `What makes Python Awesome?`
         * Mailing lists
         * Newsgroups? HA HA HA
         * Python User Groups
+    
+    * PyPI
+    
+        * Repo for Python programming language
+        * Over 16,000 packages
+        * `pip install ordereddict` works for Python 2.5!
+        
+    * Killer apps
+    
+        * Zope, Django, PYramid
+        * Numpy and Scipy
+        * Bittorrent and Twisted
+        * YouTube
