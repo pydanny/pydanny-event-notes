@@ -17,6 +17,7 @@ Talks
    how_python_evolves
    zookeeper
    pyramid
+   zen_of_python
 
 Social
 -------
