@@ -207,7 +207,12 @@ In the face of ambiguity, refuse the temptation to guess.
         # blows up in Python, not in other languages
         # We like this behavior!
         
+Also, remove the ambiguity and whack some parenthesis
         
+There should be one - and preferably only one- obvious way to do it
+===================================================================
+
+blah
 
 Reference: Zen of Python
 ========================
