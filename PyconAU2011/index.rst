@@ -6,6 +6,7 @@ Keynotes
 ---------
 
 * Audrey was opening keynote speaker. I'm partial but I think she rocked it. :)
+* Mary Gardiner spoke about plover, a steno project.
 
 Talks
 -----
