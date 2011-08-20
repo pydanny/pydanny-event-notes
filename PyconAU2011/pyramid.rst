@@ -92,3 +92,10 @@ Templates
 
 * Default: Chameleon (latest version ZPT system)
 * Can use Jinja2 trivially
+
+Traversal
+=========
+
+* I don't really care but the Zope fans seem to love it.
+* Works in that you can get things within things
+* Some claim you can't do this in Django - but they are wrong. See MPTT.
