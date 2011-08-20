@@ -7,17 +7,29 @@ by Richard Jones
 **aka 19 Pythonic Theses**
 
 Guido's Original Design Philosophy
+====================================
 
-* borrow ideas
-* As simple as possible, no simpler
-* Do one thing well
-* Don't fret about performance
-* Go with the flow
+Timesaving concepts
+-------------------
 
+* Borrow ideas from elsewhere whenever it makes sense.
+* “Things should be as simple as possible, but no simpler.” (Einstein)
+* Do one thing well (The "UNIX philosophy").
+* Don’t fret too much about performance--plan to optimize later when needed.
+* Don’t fight the environment and go with the flow.
+* Don’t try for perfection because “good enough” is often just that.
+* (Hence) it’s okay to cut corners sometimes, especially if you can do it right later.
 
-* Avoid platform ties, but not religiously
-* Don't bother the user with details
-* etc
+Clarity concepts
+-----------------
+
+* The Python implementation should not be tied to a particular platform. It’s okay if some functionality is not always available, but the core should work everywhere.
+* Don’t bother users with details that the machine can handle (I didn’t always follow this rule and some of the of the disastrous consequences are described in later sections).
+* Support and encourage platform-independent user code, but don’t cut off access to platform capabilities or properties (This is in sharp contrast to Java.)
+* A large complex system should have multiple levels of extensibility. This maximizes the opportunities for users, sophisticated or not, to help themselves.
+* Errors should not be fatal. That is, user code should be able to recover from error conditions as long as the virtual machine is still functional.
+* At the same time, errors should not pass silently (These last two items naturally led to the decision to use exceptions throughout the implementation.)
+* A bug in the user’s Python code should not be allowed to lead to undefined behavior of the Python interpreter; a core dump is never the user’s fault.
 
 
 Beautiful is better than ugly
@@ -108,6 +120,60 @@ Break up complex structure
 * Keep your `if/elif/else` use as light as possible
 * Smaller code == Better code
 
+Sparse is better than Dense
+===========================
+
+* Is this a style guide thing?
+
+    * whitespace?
+    * naming standards
+    
+* I (pydanny) think it is about spartan programming
+
+    * http://www.codinghorror.com/blog/2008/07/spartan-programming.html
+    * http://ssdl-wiki.cs.technion.ac.il/wiki/index.php/Spartan_programming
+
+* Koans by Tim Ansell
+
+    * 14 arguments for a method is too much
+    * Don't compromise on complexity by adding more complexity
+    
+Readability counts.
+====================
+    
+* Koan: Readability is the number 1 reason why organizations select Python
+
+.. sourcecode:: javascript
+
+    if (x == y);
+    {
+        // logic
+    };
+    
+    // a day wasted
+
+Special cases aren't special enough to break the rules
+======================================================
+
+* Everything is an object
+
+Although practicality beats purity
+==================================
+
+Sometimes the rules need to be broken:
+
+.. sourcecode:: python
+
+    >>> class Two(int):
+    ...     pass
+    ...    
+    >>> print(Two(1))
+    1
+    >>> Two.__str__ = lambda x: '2'
+    >>> print(Two(1))
+    2
+
+A better example is circular imports. TODO - Add example
 
 Reference: Zen of Python
 ========================
