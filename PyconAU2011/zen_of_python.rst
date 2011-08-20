@@ -184,6 +184,9 @@ Errors should never pass silently
     * Either the core devs fault
     * Or the user added in ctypes
     
+Check out except Exception at the bottom!
+-----------------------------------------
+    
 .. sourcecode::
 
     try:
