@@ -12,6 +12,11 @@ Mary Gardiner
 
 Mary Gardiner spoke about:
 
+    * Be an open source super hero and try to change the world
+    * Find a project that helps people and get involved!
+
+Sample projects:
+
    * plover http://plover.
    * Software Carpentry http://software-carpentry.com
    * calibre TODO get link
@@ -47,3 +52,21 @@ LA's own Raymond Hettiger talked about `What makes Python Awesome?`
         * YouTube
         * Blender and Maya
         * Win32 - Factoid: Me, @pydanny, has done all his windows programming using cpython and Win32!
+        
+    * Easy to learn!
+    
+        * Good teachers.
+        * Think how fast you got the types and control structures in Python. General 3 hours
+        * In a day you can learn special methods and stdlib
+        * Critical because if you need good Python developers it doesn't take long to get up to speed. Converting developers takes:
+        
+            * C takes 2 years to get competent
+            * Java takes 6 months to get competent
+            * Python takes a week to get competent
+            
+        * Rapid development cycle
+        
+            * Scripting languages are unbeatable for development speed
+            * Programs are grown organically
+            * Interactive testing lets people work with their code results immediately.
+            * Bang out real code fast
