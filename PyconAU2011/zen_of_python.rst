@@ -17,6 +17,7 @@ Guido's Original Design Philosophy
 
 * Avoid platform ties, but not religiously
 * Don't bother the user with details
+* etc
 
 
 Beautiful is better than ugly
@@ -64,3 +65,4 @@ Simple is better than complex
 * Something simple is easily knowable
 * Something complex is not
 * Automatic memory management means code is simpler
+* That we can define getter/setters and override existing ones in Python is awesome.
