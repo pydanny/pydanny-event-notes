@@ -66,3 +66,44 @@ Simple is better than complex
 * Something complex is not
 * Automatic memory management means code is simpler
 * That we can define getter/setters and override existing ones in Python is awesome.
+
+Getting length of objects is simple in python:
+
+.. sourcecode:: python
+
+    l = [1,2,3,4,5,6,7,8]
+    len(l)
+
+Try to keep your try/except blocks a small as possible. You'll thank yourself later.
+
+Complex is better than complicated
+==================================
+
+.. note:: I never actually think about this koan.
+
+.. sourcecode:: python
+
+    for line in open('document.txt'):
+        print(len(line), line, end='')
+
+    # how about opening up things
+    for file in glob.glob('*.txt.gz'):
+        for line in gzip.
+
+Flat is better than nested
+==============================
+
+Inheritance flattening
+----------------------
+
+* Keep object inheritance shallow
+* Multiple inheritance keeps things shallow but things get more complex
+
+    * Richard Jones worries about this
+    * I don't worry that much. Never bites me the way Java did.
+
+Break up complex structure
+------------------------------
+
+* Keep your `if/elif/else` use as light as possible
+* Smaller code == Better code
