@@ -186,6 +186,8 @@ Errors should never pass silently
     
 Check out except Exception at the bottom!
 -----------------------------------------
+
+`logging.exception() captures the entire error to the logs!`
     
 .. sourcecode:: python
 
