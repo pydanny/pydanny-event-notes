@@ -5,7 +5,7 @@ Pycon AU 2011
 Keynotes
 ---------
 
-* Audrey was opening keynote speaker. I'm partial but I think she rocked it.
+* Audrey was opening keynote speaker. I'm partial but I think she rocked it. :)
 
 Talks
 -----
@@ -14,6 +14,7 @@ Talks
    :maxdepth: 2
    
    state_of_cpython_and_python_ecosystem
+   how_python_evolves
 
 Social
 -------
