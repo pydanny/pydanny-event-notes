@@ -175,6 +175,24 @@ Sometimes the rules need to be broken:
 
 A better example is circular imports. TODO - Add example
 
+Errors should never pass silently
+===================================
+
+* Errors should not be fatal
+* Don't blame the user for bugs in Python
+
+    * Either the core devs fault
+    * Or the user added in ctypes
+    
+.. sourcecode::
+
+    try:
+        handle_a_client()
+    except socket.error, e:
+        log.warning('client went away: %s', e)
+    except Exception:
+        logging.exception() # This captures the whole traceback!!!
+
 Reference: Zen of Python
 ========================
 
