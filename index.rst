@@ -13,7 +13,8 @@ Conferences
 
 .. toctree::
    :maxdepth: 1
-   
+
+   PyconAU2011/index   
    Pycon2011/index
    Pycon2010/index
    Pycon2009/index   
