@@ -16,7 +16,7 @@ Guido's Original Design Philosophy
 
 
 * Avoid platform ties, but not religiously
-* Don't bother the user with detais
+* Don't bother the user with details
 
 
 Beautiful is better than ugly
@@ -40,5 +40,27 @@ Wikipedia's version is not as pretty as Python:
             a, b = b, a % b
         return a
 
-Explicit is better than implicit.
+Explicit is better than implicit
+================================
 
+File openings are not that explicit
+
+The `:` in Python is lovely and explicit.
+
+.. sourcecode:: python
+
+    class Circle(object):
+        
+        def __init__(self, radius):
+            self.radius = radius
+            
+        def area(self):
+            """ The 'tau' value is from outside the class """        
+            return tau * self.radius
+            
+Simple is better than complex
+=============================
+
+* Something simple is easily knowable
+* Something complex is not
+* Automatic memory management means code is simpler
