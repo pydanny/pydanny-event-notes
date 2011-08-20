@@ -41,7 +41,9 @@ LA's own Raymond Hettiger talked about `What makes Python Awesome?`
         
     * Killer apps
     
-        * Zope, Django, PYramid
+        * Zope, Django, Pyramid
         * Numpy and Scipy
         * Bittorrent and Twisted
         * YouTube
+        * Blender and Maya
+        * Win32 - Factoid: Me, @pydanny, has done all his windows programming using cpython and Win32!
