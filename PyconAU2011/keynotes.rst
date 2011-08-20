@@ -98,3 +98,37 @@ Beauty Counts
  * The beautiful appearance on the page directly affects a programmer's sense of joy
  * Makes us go home and write code
  * If you can read other people's code that makes it easier to maintain
+ * Because we all `mostly` share the same idiom it means we can read each other's code. That doesn't stifle creativity - it just means we can get along.
+ 
+    * As a parent I can say I would have *loved* having a formal uniform at school. As a geek in school I would have loved that too. :P
+
+Interactive Prompt (REPL)
+----------------------------------------
+
+    * Python experts don't memorize Python
+    * They use the interactive prompt often (I try to write tests...)
+    * This is a killer features that runs circles around compiled languages
+    
+        * Python shell
+        * IPython 
+        * BPython (My favorite)
+
+Behind the Scenes
+------------------
+
+Philosophy of core dev
+
+ * Conservative growth
+ * `We read Knuth so you don't have to`
+ * Aim for simple implementation
+ 
+Protocols
+----------
+
+To interact with these we have defined protocols
+
+ * DBAPI
+ * Hashlib
+ * Compression
+ * WSGI for the web
+ * Conversion protocols
