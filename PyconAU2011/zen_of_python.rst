@@ -212,7 +212,52 @@ Also, remove the ambiguity and whack some parenthesis
 There should be one - and preferably only one- obvious way to do it
 ===================================================================
 
-blah
+Protocols:
+
+ * File API
+ * DB API
+ * WSGI
+ * etc
+ 
+Although that way may not be obvious at first unless you're Dutch
+=================================================================
+
+* Guido can be quirky
+* Community feedback keeps BDFL in check
+
+*You try to shoot yourself in the foot, only to realize there's no need, since Guido thoughtfully shot you in the foot years ago.* - TODO: find who said that
+
+Now is better than never
+========================
+
+* Fix the problem now
+* Try it in your shell, and your tests
+* *Perfection is the enemy of the good*
+* Python 3 was years in the making, but much less than Perl 6.
+
+
+Although never is often better than *right* now.
+=================================================
+
+Things that ain't gonna happen
+
+ * Adding '?' to identifiers in Python
+  
+If the implementation is hard to explain, it's a bad idea.
+============================================================
+
+If you can't say it, don't do it
+
+If the implementation is easy to explain, it may be a good idea.
+================================================================
+
+Just because you can explain your idea, if it has no point then it shouldn't be included.
+
+Namespaces are one honking great idea -- let's do more of those!
+================================================================
+
+* locals > nonlocals > globals > builtins
+* Me (pydanny) loves this about Python
 
 Reference: Zen of Python
 ========================
