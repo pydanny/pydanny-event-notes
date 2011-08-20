@@ -12,8 +12,8 @@ By Nick Coghlan
 
     from __future__ import unicode_literals
     
-What do we mean by Python?
-==========================
+The Python Ecosystem
+====================
 
 **Gigantic community**
 
@@ -32,12 +32,14 @@ What do we mean by Python?
     * gdb
     * Reitveld
     * Bazaar
+    * etc
 
 * Distribution efforts
 
     * SciPy
     * ActiveState
     * Python(x, y)
+    * etc
 
 * Frameworks
 
@@ -69,3 +71,28 @@ Taking Python where CPython won't go
 * Jython
 * Stackless
 
+What kind of changes get accepted
+=================================
+
+Any time a chance happens there is a cost. So...
+
+* 'do no harm'
+* Want the 'obvious way' and the 'right way' to be identical
+* Follow the **Zen of Python**
+* Keep the whole ecosystem in mind
+
+Role of Core Developers
+=======================
+
+* Decide when and where to commit changes
+* different standards for bug fixes and feature requests
+* direct commits
+* opine on direction
+
+Why contribute to CPython?
+==============================
+
+* educational
+* fun problem solving
+* terrifying and exhilarating
+* CPython sprint on Monday and Tuesday!
