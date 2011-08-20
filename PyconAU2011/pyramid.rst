@@ -99,3 +99,42 @@ Traversal
 * I don't really care but the Zope fans seem to love it.
 * Works in that you can get things within things
 * Some claim you can't do this in Django - but they are wrong. See MPTT.
+
+View Predicates
+===============
+
+.. note:: TODO - Look this up later cause I missed it. :P
+
+Security
+=========
+
+* Seperation of authentication and authorization.
+* You can easily control the security context of a request
+* Seems to rely natively on ACL, but you can replace that if you want
+
+.. sourcecode:: python
+
+    # TODO - add example
+    config.add_view(myview, name='my-view.html', )
+    
+See the fun of:
+
+.. sourcecode:: python
+
+    class Blog(object):
+        pass
+        
+    blog = Blog()
+    
+    blog.__acl__ = [
+        (Allow, Everyone, 'view'),
+        (Allow, Editors, 'edit'),
+        (Allow, Editors, 'delete'),                
+    
+        ]
+        
+Scaffolding
+============
+
+* Provides a default best practices layout. **Why doesn't Django do this?**
+* Very obvious static directory
