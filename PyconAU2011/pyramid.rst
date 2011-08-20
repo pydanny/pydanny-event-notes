@@ -136,5 +136,10 @@ See the fun of:
 Scaffolding
 ============
 
-* Provides a default best practices layout. **Why doesn't Django do this?**
+* Provides a default best practices project layout. **Why doesn't Django do this?!?**
 * Very obvious static directory
+
+How Django does it better
+===========================
+
+* Django's consistent persistence system means easier to cook up reusable apps
