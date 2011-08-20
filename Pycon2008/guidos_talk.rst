@@ -1,5 +1,8 @@
+========
 Why Py3k
 ========
+
+by Guido van Rossum
 
  * Open source needs to move or die - Mats (creator of ruby)
  * To fix early,, sticky design mistakes (classic classes, int division, print statement)

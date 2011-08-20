@@ -1,3 +1,7 @@
+==============================
+A database in the clouds
+==============================
+
 Using the Google Spreadsheets API
 ---------------------------------
  * Lots of Python community support
@@ -40,7 +44,6 @@ Simplified Interface
  * gdata.spreadsheet.text.db
  * Keep it simple
  * for mashups
- * Keep it simple
  * text data only
  
 Searches

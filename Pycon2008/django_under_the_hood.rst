@@ -1,5 +1,10 @@
+======================
+Django under the hood
+======================
+
+
 Intro
-=====
+-----
  * This is the undocumented stuff under the hood
  * Declarative syntax
  * Easy ORM
