@@ -16,6 +16,7 @@ Talks
    state_of_cpython_and_python_ecosystem
    how_python_evolves
    zookeeper
+   pyramid
 
 Social
 -------
