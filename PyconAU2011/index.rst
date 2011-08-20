@@ -2,23 +2,20 @@
 Pycon AU 2011
 =============
 
-Keynotes
----------
-
-* Audrey was opening keynote speaker. I'm partial but I think she rocked it. :)
-* Mary Gardiner spoke about plover, a steno project.
-
 Talks
 -----
 
 .. toctree::
    :maxdepth: 2
    
+   keynotes
    state_of_cpython_and_python_ecosystem
    how_python_evolves
    zookeeper
    pyramid
    zen_of_python
+
+
 
 Social
 -------
