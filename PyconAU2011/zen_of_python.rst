@@ -187,7 +187,7 @@ Errors should never pass silently
 Check out except Exception at the bottom!
 -----------------------------------------
     
-.. sourcecode::
+.. sourcecode:: python
 
     try:
         handle_a_client()
@@ -195,6 +195,17 @@ Check out except Exception at the bottom!
         log.warning('client went away: %s', e)
     except Exception:
         logging.exception() # This captures the whole traceback!!!
+
+In the face of ambiguity, refuse the temptation to guess.
+============================================================
+
+.. sourcecode:: python
+    
+        1 + '1' 
+        # blows up in Python, not in other languages
+        # We like this behavior!
+        
+        
 
 Reference: Zen of Python
 ========================
