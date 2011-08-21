@@ -15,6 +15,7 @@ Talks
    :maxdepth: 2
    
    keynotes
+   decorators
    state_of_cpython_and_python_ecosystem
    teaching_python   
    how_python_evolves
