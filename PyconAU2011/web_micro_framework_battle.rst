@@ -239,21 +239,21 @@ Structure of an app::
 How do they rank?
 =================
 
-Well?
+
+.. warning:: this is for sites without sessions or user tracking! His criteria is not for large websites!!
 
 ============= =====
 Framework     Total
 ============= =====
 **bottle**    **7**
+pesto           6
+itty            4
 cgi + wsgiref   3
-bobo           -7
+flask           3
+werkzeug        2
 cherrypy        1
 web.py          1
-itty            4
-flask           3
-pesto           6
-werkzeug        2
 aspen.io       -5
+bobo           -7
 ============= =====
 
-Remember - this is for sites without sessions or user tracking!
