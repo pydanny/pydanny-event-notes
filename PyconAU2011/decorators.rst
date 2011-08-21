@@ -114,7 +114,7 @@ Properties! (A favorite of mine!)
     class Love(object):
     
         @property
-        def fiancee(self):
+        def fianceé(self):
             return 'Audrey Roy'
 
 Let's write a decorator!
