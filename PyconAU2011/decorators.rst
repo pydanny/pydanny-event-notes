@@ -243,6 +243,7 @@ Some decorator thoughts by myself about Django and caching
     
 * Again, what are we missing?
 * Ask my good friend and caching master Jacob Burch why we don't do this...
+* Is this what Johnny Cache et al is about?
 
 Some advice
 ============
@@ -254,8 +255,8 @@ Some advice
     * A clear name
     * No side effects
 
-* Don't overuse decorators - what is a good rule of thumb?
-* Not  one for one match for the classic decorator pattern!
+* Don't overuse decorators - TODO ask what is a good rule of thumb
+* Not a one-for-one match for the classic decorator pattern!
 
 Further reading
 ===============
