@@ -167,3 +167,31 @@ Winning language Decorators
  * Works for functions, methods, and classes
  * **Factoid**: I have problem writing them. Serious problems. :'(
 
+Winning Language Features: exec, eval, type
+--------------------------------------------
+
+ * Not a fan of `exec` and `eval` because when used in my experience they are done badly
+ * But `type` is awesome
+ 
+Winning Language Feature: With Statement
+------------------------------------------
+
+    * Clean, elegant resource management: threads, locks. etc
+    * Important tool for factoring code
+    * Contains the setUp and tearDown code.
+    * The reverse of functions
+
+Winning Language Feature: Abstract Base Classes
+--------------------------------------------------
+
+ * TODO - go over this one
+ 
+Winning Language Feature: Indentation 
+--------------------------------------------------
+
+ * Makes the code really clear
+ * We write our pseudo code this way
+ * Less errors!
+ * Less ambiguity!
+ 
+ 
