@@ -2,8 +2,6 @@
 Pycon AU 2011
 =============
 
-
-
 Social
 -------
 
@@ -21,7 +19,6 @@ Talks
    teaching_python   
    how_python_evolves
    zookeeper
+   web_micro_framework_battle
    pyramid
    zen_of_python
-   
-
