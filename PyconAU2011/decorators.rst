@@ -33,3 +33,21 @@ What is a decorator?
         # calculate factors of n
         # takes lots of time for large n
         return factors
+
+Why use decorators?
+====================
+
+* Robust design
+
+    * separation of concerns
+        
+        * example: you can work the function and not the caching
+    
+    * Can easily turn behavior on/off
+    
+* Improved readability
+
+    * Less baggage in code (Cache code is outside the function)
+    * less lines of boilerplate
+    * less code duplication
+    * simplifies 
