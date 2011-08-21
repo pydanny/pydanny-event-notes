@@ -84,14 +84,16 @@ Decorator Syntax
 Typical uses
 ============
 
-* preconditions and post-conditions
+preconditions and post-conditions
+----------------------------------
 
     * Assert types
     * check returned values
     * authentication
     * authorization
 
-* Moar
+Awesome ideas I need to use ASAP!
+----------------------------------------
 
     * debugging
     * logging
@@ -100,7 +102,7 @@ Typical uses
         * maybe deprecated by `with` statement?
         
     * threads
-    * hardward
+    * hardware
 
 Classic decorators
 ===================
