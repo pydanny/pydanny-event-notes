@@ -6,6 +6,8 @@ by Dr. Graeme Cross
 
 .. note:: I have a **lot of trouble writing decorators and I'm here to correct it!**
 
+Question: How do we write decorators so that Sphinx/Docutils can handle decorated stuff?
+
 The preamble
 ============
 
@@ -53,3 +55,62 @@ Why use decorators?
     * simplifies code maintenance
     
 * Widely used in Python libraries & frameworks
+
+Why wouldn't use Python?
+=========================
+
+* Not built into Python 2.3 or earlier
+* Can slow your code down (nested functions can sink your performance)
+* Can hamper debugging when a decorator is written badly
+* Documentation doesn't seem to work so well
+
+Decorator Syntax
+==================
+
+ * stackable
+ * prefixed with '@'
+ * can have arguments
+ * same for functions, methods and classes
+
+.. sourcecode:: python
+
+    @assert_inputs
+    @log_event
+    @validate_item
+    def itemable(x, y, z):
+        a = x * y * z
+        return a
+
+Typical uses
+============
+
+* preconditions and post-conditions
+
+    * Assert types
+    * check returned values
+    * authentication
+    * authorization
+
+* Moar
+
+    * debugging
+    * logging
+    * locking of resources (threading, io, database)
+    
+        * maybe deprecated by `with` statement?
+        
+    * threads
+    * hardward
+
+Classic decorators
+===================
+
+Properties! (A favorite of mine!)
+
+.. sourcecode:: python
+
+    class Love(object):
+    
+        @property
+        def fiance(self):
+            return 'Audrey Roy'
