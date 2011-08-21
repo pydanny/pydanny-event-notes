@@ -2,6 +2,14 @@
 Pycon AU 2011
 =============
 
+
+
+Social
+-------
+
+* Women's breakfast packed the place. Lots of great people showed up!
+* Everyone at the conference was lovely.
+
 Talks
 -----
 
@@ -17,9 +25,3 @@ Talks
    zen_of_python
    
 
-
-
-Social
--------
-
-* Women's breakfast packed the place. Lots of great people showed up!
