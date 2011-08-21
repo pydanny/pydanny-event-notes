@@ -256,4 +256,4 @@ werkzeug        2
 aspen.io       -5
 ============= =====
 
-There!
+Remember - this is for sites without sessions or user tracking!
