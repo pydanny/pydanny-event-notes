@@ -18,10 +18,10 @@ Talks
    
    keynotes
    state_of_cpython_and_python_ecosystem
+   teaching_python   
    how_python_evolves
    zookeeper
    pyramid
-   teaching_python
    zen_of_python
    
 
