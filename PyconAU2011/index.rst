@@ -18,6 +18,7 @@ Talks
    state_of_cpython_and_python_ecosystem
    teaching_python   
    how_python_evolves
+   panel_python_webs
    zookeeper
    web_micro_framework_battle
    pyramid
