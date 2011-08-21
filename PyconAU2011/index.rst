@@ -13,7 +13,9 @@ Talks
    how_python_evolves
    zookeeper
    pyramid
+   teaching_python
    zen_of_python
+   
 
 
 
