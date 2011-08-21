@@ -132,3 +132,38 @@ To interact with these we have defined protocols
  * Compression
  * WSGI for the web
  * Conversion protocols
+
+Specifics of Python: The Foundation
+------------------------------------
+
+ * Dictionaries and Lists
+ * Automatic memory management
+ * Overridable syntax
+ * Exceptions
+ * **You can reprogram the brackets?**
+ * **And we can reprogram the dot?!?**
+ 
+Winner Language Feature: Iterator Protocol
+------------------------------------------------
+
+ * High level glue that holds the language together
+ * Iterables: strings, lsits, sets, dicts, collections, files, open urls, csv readers, itertools
+ * Um... I know this. I've had to construct these on my own in other languages. But not Python... Wow - I just realized this just now.
+ * List comprehensions give us joy
+ * List generators are amazing. No one else has them
+
+Winner Language Feature: Generators
+--------------------------------------------
+
+ * Serious magic
+ * A million rows in a generators is nothing
+ * Simple syntax to do them. You only need the YIELD keyword.
+
+Winning language Decorators
+------------------------------
+
+ * Expressive
+ * Easy on the eyes
+ * Works for functions, methods, and classes
+ * **Factoid**: I have problem writing them. Serious problems. :'(
+
