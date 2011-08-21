@@ -211,3 +211,55 @@ Best practices for using decorators
 * Document them well
 * If you stack them, notate where stacking them can be a proble,
 * Use the `functools.wraps` decorator for internal functions
+
+Some real-world uses
+====================
+
+* @precondition
+* @postcondition
+* @assert_range
+* @assert_type
+* @stress_data - maybe used in tests to fire off 'random' craziness?
+
+Class decorators
+================
+
+* Added in Python 2.6.+ and Python 3
+* Singletons
+* Class checks
+
+    * must have unittests
+    * must have docstrings!!!
+
+Some decorator thoughts by myself about Django and caching
+==========================================================
+
+* Why don't we have a beaker style decorator pattern for Django projects?
+* Is this just a behavioral thing?
+* Can we write something that caches:
+
+    * Key taken from name of function/method/class + args
+    * Value from return object
+    
+* Again, what are we missing?
+* Ask my good friend and caching master Jacob Burch why we don't do this...
+
+Some advice
+============
+
+* beware the spaghetti!
+* No hidden surprises
+
+    * Do one thing and do it well
+    * A clear name
+    * No side effects
+
+* Don't overuse decorators - what is a good rule of thumb?
+* Not  one for one match for the classic decorator pattern!
+
+Further reading
+===============
+
+* PEP 318
+* PEP 3129
+* Learning Python 38
