@@ -61,7 +61,6 @@ bobo
 
 * Started as one of the first object parsing libraries. 
 * Became Zope "Bobo became tainted on the way"
-* Docs focus too much on the Bobo way and not how to make it works
 * Form objects are pulled into the request
 
 .. sourcecode:: python
@@ -80,8 +79,11 @@ bobo
         import boboserver
         boboserver.server(['f', __file__])
 
+**Cons**
+
 * Docs were not clear about display of index
 * Strange behavior like weird page not found issues
+* Docs focus too much on the Bobo way and not how to make it works
 
 cherrypy
 --------
@@ -113,6 +115,8 @@ The funky bit:
     
     }
 
+**Cons**
+
 * Richard Jones had to guess to make things work
 * Missing/funky bits
 
@@ -137,6 +141,8 @@ My first web framework in Python!
     
     if __name__ == '__main__':
         app.run()
+
+**Cons**
         
 * Weird way of handling form post data
 * urls are not a list of tuples
@@ -165,7 +171,7 @@ bottle
 itty
 -----
 
-* Very similiar to bottle
+* Very similar to bottle
 * more explicit
 * By Daniel Lindsley methinks
 * much smaller docs
@@ -180,7 +186,28 @@ flask
 
 * Relies on werkzueg on jinja2
 * Downloadable docs
+* utilities for testing
+* shell/repl
+* awesome debugger `app.run(debug=True)`
+* Methinks it rocks. My own personal favorite microframework. :)
 
 **cons**
 
 * redirects require a download from wekzueg, not flask?!?
+
+pesto
+-------
+
+* Kind of like Flask but more explicit
+* utilities for testing
+* More verbose
+
+werkzeug
+--------
+
+* Sample docs are kind of laid out in a funny way
+* Sample project does more than Flask sample app - how weird is that?
+* Very clear code
+* Url mapping done at the end
+* No top-level application. So you have wire it together urls to views yourself. Maybe just use Flask? :D
+
