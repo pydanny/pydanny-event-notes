@@ -15,7 +15,7 @@ The preamble
 * Slides and content at https://bitbucket.org/gjcross/talks
 
 
-.. warning:: Designed for clarity and not production code!
+.. warning:: Code examples are designed for clarity and not for production code!
 
 What is a decorator?
 =====================
@@ -50,4 +50,6 @@ Why use decorators?
     * Less baggage in code (Cache code is outside the function)
     * less lines of boilerplate
     * less code duplication
-    * simplifies 
+    * simplifies code maintenance
+    
+* Widely used in Python libraries & frameworks
