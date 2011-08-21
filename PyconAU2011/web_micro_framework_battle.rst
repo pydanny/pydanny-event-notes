@@ -211,3 +211,49 @@ werkzeug
 * Url mapping done at the end
 * No top-level application. So you have wire it together urls to views yourself. Maybe just use Flask? :D
 
+aspen.io
+----------
+
+* Very different than everything else
+* So neat/odd that he had to include it
+* Requires weird templates that make you stick in page breaks::
+
+    form aspen import Response
+    ^L
+    raise Response(301, headers={'Location':'/FrontPage'})
+    ^L
+    
+Structure of an app::
+
+    .aspen
+    index.html
+    %name/index.html
+    %name/edit
+
+**Cons**    
+
+* Odd boilerplate
+* Not sure how to escape certain things
+* Very thin documentation
+
+How do they rank?
+=================
+
+Well?
+
+============= =====
+Framework     Total
+============= =====
+**bottle**    **7**
+cgi + wsgiref   3
+bobo           -7
+cherrypy        1
+web.py          1
+itty            4
+flask           3
+pesto           6
+werkzeug        2
+aspen.io       -5
+============= =====
+
+There!
