@@ -116,3 +116,98 @@ Properties! (A favorite of mine!)
         @property
         def fiance(self):
             return 'Audrey Roy'
+
+Let's write a decorator!
+========================
+
+* See PEP 318
+* Because functions are objects you can pass them around with state and all that...
+
+.. sourcecode:: python
+
+    # remember functions are just objects, right?
+    import math
+    
+    def trig_power(trig_func):
+        print "Storing function=", trig_func
+        
+        def power(deg, n):
+            return math.pow(trig_func(deg), n)
+        return power
+        
+    if __name__ == "__main__":
+        sine_power = trig_power(math.sin)
+        tan_power = trig_power(math.tan)
+        
+Another example:
+
+.. sourcecode:: python
+
+    def report_entry(func):
+        print 'Just entered a %s function' % func
+        return func
+        
+    @report_entry
+    def add2(n):
+        ''' I add two '''
+        return n + 2
+        
+    if __name__ == "__main__":
+        print add2(5)
+        help(add2)
+        
+The problem with docstrings and wrappers:
+
+.. sourcecode:: python
+
+    def report_entry(func):
+        print 'Just entered a %s function' % func
+        
+        def wrapper(*args):
+            ''' our internal wrapper thingee '''
+            print 'This will be our docs issue'
+            return func(*args)
+            
+        return wrapper
+        
+    @report_entry
+    def add2(n):
+        ''' I add two '''
+        return n + 2
+        
+    if __name__ == "__main__":
+        print add2(5)
+        help(add2)
+        
+A better version of our decorator
+===================================
+
+from functools import wraps
+
+.. sourcecode:: python
+
+    def report_entry(func):
+        print 'Just entered a %s function' % func
+        
+        @wraps(func)
+        def wrapper(*args):
+            ''' our internal wrapper thingee '''
+            print 'This will be our docs issues'
+            return func(*args)  
+        return wrapper
+        
+    @report_entry
+    def add2(n):
+        ''' I add two '''
+        return n + 2
+        
+    if __name__ == "__main__":
+        print add2(5)
+        help(add2)
+
+Best practices for using decorators
+====================================
+
+* Document them well
+* If you stack them, notate where stacking them can be a proble,
+* Use the `functools.wraps` decorator for internal functions
