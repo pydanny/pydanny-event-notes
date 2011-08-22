@@ -1,12 +1,14 @@
+============
 nose and TDD
 ============
+
  * Write tests first so you never have any wasted code
  * For this, writing and running tests has t be easy
  * And the tests have to be useful, especially when they fail
  
 How laziness drove the development of NOSE
 ------------------------------------------
- * traditional unittest is high-frcition
+ * traditional unittest is high-friction
  * py.test is great, but hard to install and complex
  * no boilerplate
  

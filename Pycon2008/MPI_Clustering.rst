@@ -1,3 +1,4 @@
+=============
 Netflix Prive
 =============
 
@@ -6,7 +7,8 @@ Netflix Prive
  
 More CPUs
 =========
- * Some algorthms take weeks
+
+ * Some algorithms take weeks
  * Need runs over many sets of data
  * Problem if your resources are limited
  
@@ -16,6 +18,7 @@ Beowulf Clustering
  
 Amazon EC2
 ==========
+
  * __init__(Amazon Machine Images)
  * Pay for what you use
  * About $0.10 per hour per small box, 0.80 for that

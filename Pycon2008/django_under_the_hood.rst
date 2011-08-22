@@ -12,6 +12,7 @@ Intro
 
 Pluggables
 ----------
+
  * HTTP middleware
  * Database connections
  * Cache mechanisms
@@ -21,12 +22,14 @@ Pluggables
  
 New features
 ------------
+
  * Easy admin customizations
  * Subclassing of queries
  * File storage
  
 Metaclasses
 ------------------
+
  * Class for creating a class.  
  * Aren't these just factories?
  * Signals using PyDispatcher
