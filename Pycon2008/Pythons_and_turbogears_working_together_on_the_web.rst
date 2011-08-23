@@ -1,5 +1,7 @@
+=====================
 Turbogears Philosophy
 =====================
+
  * grab best of breed items and created framework
  * Replaced Kid with Genshi (faster, more flexible)
  
@@ -30,13 +32,16 @@ Going forward with other frameworks
  * Web frameworks need to work better
  * Need to communicate better
  * Biodiversity is the SIGN of a healthy ecosystem
+ 
   - Lots of ways to handle different problems like forms and security
+  
  * repoze.tm
  * repoze.profile
  * Stop reinventing the wheel!
  * DBSprockets (django admin for other frameworks!) -- look this up!!!
  * WebOp makes writing middleware easy
  * Social prerequisites
+ 
   - Play nice!
   - Respect each other
   - willingness to listen

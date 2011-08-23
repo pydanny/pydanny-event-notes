@@ -16,5 +16,7 @@ Pycon 2008
    nose_testing_tool
    pyglet
    python_for_the_sys_admin
+   Pythons_and_turbogears_working_together_on_the_web
+   Roll_your_own_persistence_in_python
 
 TODO - the other titles too
