@@ -1,5 +1,7 @@
-Summary
-=======
+========================
+Python for the sys admin
+========================
+
  * http://dev.tummy.com/~jafo/pycon2008/
  * Monitoring
  * Helpers
@@ -9,12 +11,14 @@ Summary
  
 Why Python?
 -----------
+
  * Perl not comfortable
  * Python is comfortable
  * They use Nagios and needed custom bits
 
 Sys admin constraints
 ----------------------
+
  * 5% programmer
  * Using older versions of Python on older systems
  * Security/priviledge issues
@@ -23,8 +27,11 @@ Sys admin constraints
  
 Q&A
 ---
+
  * System monitoring & reporting
+ 
   - They use Nagios
+  
  * Backups and recovery
  * Configuration management
  * User accounts and security / SSH

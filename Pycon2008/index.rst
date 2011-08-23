@@ -14,5 +14,7 @@ Pycon 2008
    more_iterators_in_action
    MPI_Clustering
    nose_testing_tool
+   pyglet
+   python_for_the_sys_admin
 
 TODO - the other titles too

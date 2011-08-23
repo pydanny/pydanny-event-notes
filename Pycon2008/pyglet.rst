@@ -1,5 +1,7 @@
+===========
 Why Pyglet?
------------
+===========
+
  * Content display
  * No extra compilation
  * Multiplatform
@@ -9,7 +11,8 @@ Why Pyglet?
  * Ate their own own dogfood (presentation is done in Pyglet)
  
 Pyglet!
-=======
+-------
+
  * Modern graphic cards are powerful
  * Showed of mandlebrot sets that were live
  * Demo done in eee pc.
@@ -18,6 +21,7 @@ Pyglet!
  
 Compared to other things (pygame, pyopengl)
 -------------------------------------------
+
  * Runs without extra bits
  * easier to control
  * very pythonic
@@ -48,6 +52,7 @@ Features
  
 Third parties
 -------------
+
  * Cocos (A sprite and game engine that runs over Pyglet)
  * rabbyt (a fast sprite rendering and animation library)
  * ToGepy ()
