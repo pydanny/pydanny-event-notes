@@ -21,5 +21,5 @@ Venue: Chicago! My first PyCon!
    sqlalchemy0.4_and_beyond   
    Unix_Linux_tools
    Using_stackless
-   Why_python_sucks
+   why_python_sucks
 
