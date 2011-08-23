@@ -1,5 +1,7 @@
+=====================
 History of SQLAlchemy
 =====================
+
  * 0.1 - 2006, very small API, threadlocal, ActiveMapper added to handle objects nicely
  * 0.2 - Lots of users, changed the API to be closer to today, inspired by Hibernate, Threadlocal turned off, wrote very fast
  * 0.3 - Rewrite a lot internals, ORMs reorganized, users needs evaluated, API stabilized
@@ -70,8 +72,8 @@ Other features
 
 What is coming back
 -------------------
- * Migrate is back!
- * Dialects will soon decouple SQL compilers from DBAPI behavors, allowing reuse among JDBC, ODBC, multiple native DBAPI connectors
-  * Jython support
-  * Customize class instrumentation; PJE using it to integrate with Trellis
-  * SQLAlchemy books
+    * Migrate is back!
+    * Dialects will soon decouple SQL compilers from DBAPI behavors, allowing reuse among JDBC, ODBC, multiple native DBAPI connectors
+    * Jython support
+    * Customize class instrumentation; PJE using it to integrate with Trellis
+    * SQLAlchemy books

@@ -2,7 +2,7 @@
 Pycon 2008
 ============
 
-
+Venue: Chicago! My first PyCon!
 
 .. toctree::
    :maxdepth: 2
@@ -18,5 +18,8 @@ Pycon 2008
    python_for_the_sys_admin
    Pythons_and_turbogears_working_together_on_the_web
    Roll_your_own_persistence_in_python
+   sqlalchemy0.4_and_beyond   
+   Unix_Linux_tools
+   Using_stackless
+   Why_python_sucks
 
-TODO - the other titles too
