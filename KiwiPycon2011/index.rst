@@ -11,3 +11,4 @@ Talks
    
    keynotes
    website_command_line
+   intro_to_matplotlab
