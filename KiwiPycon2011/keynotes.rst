@@ -1,15 +1,17 @@
-============================
+========
+Keynotes
+========
+
+
 Metaprogramming Keynote
 ============================
 
 By jeff Rush
 
-
 "*Metaprogramming is the programming of programming*"
 
-
 Make use of
-============
+-----------
 
     * metaclasses
     * decorators
@@ -17,7 +19,7 @@ Make use of
     * more
   
 What is metaprogramming orientation
-====================================
+-----------------------------------
 
   
  * Code **Manipulates** Data
@@ -32,8 +34,11 @@ What is metaprogramming orientation
             * Pre/post initialization
             * read/write
             * call-and-return
+            
+Addressing a problem
+--------------------
 
-.. sourcecode::
+.. sourcecode:: python
 
     class Request(object):
         
