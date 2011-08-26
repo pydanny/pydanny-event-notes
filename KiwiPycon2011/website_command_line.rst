@@ -59,7 +59,8 @@ Used Encryption instead
 Live the Server Code
 ====================
 
-at: https://launchpad.net/linaro-django-xmlrpc
+* https://launchpad.net/linaro-django-xmlrpc
+* http://djangopackages.com/packages/p/linaro-django-xmlrpc/
 
 .. sourcecode:: python
 
