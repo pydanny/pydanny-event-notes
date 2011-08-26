@@ -16,6 +16,8 @@ By Jeff Rush
 
 "*Metaprogramming is the programming of programming*"
 
+.. note:: Apologies, but I couldn't keep up with the firehouse of knowledge. This is woefully incomplete.
+
 Make use of
 -----------
 
@@ -112,8 +114,29 @@ Meta classes? class decorators
 * Class decorated can be (more easily stacked)
 * MISSED BULLET
 
+Example using class decorator
+-----------------------------------
 
+.. sourcecode:: python
 
+    def CallTracer(attr):
+        """ Do custom logic stuff here """
+        return attr
+
+    def tracecalls(cls):
+    
+        def my__getattribute(self, name):
+        
+            attr - super(cls, self).__getattribute__(name)
+            return attr if not callable(attr) else CallTracer(attr)
+            
+        cls.__getatttribute__ = my__getattribute
+        return cls
+    
+    @tracecalls
+    class MyClass(object):
+        pass
+    
 
 base::
 
