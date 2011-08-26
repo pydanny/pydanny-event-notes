@@ -148,15 +148,3 @@ The talk dived a bit into things like:
 Diving into this sort of code is tricky, because the reasons for use of these tools is
 not necessary in 99% of Python projects. I prefer to rely on `decorators` to alter behavior 
 because they are syntactical sugar. Easy to find and very explicit.
-    
-
-base::
-
-    Section
-    ----------
-
-    .. sourcecode:: python
-
-    .. sourcecode:: python
-
-    .. sourcecode:: python
