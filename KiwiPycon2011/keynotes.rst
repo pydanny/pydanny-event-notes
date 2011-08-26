@@ -9,8 +9,8 @@ By Audrey Roy
 
 *I'm partial but I think she did a great job of pointing out where Python might/should go.*
 
-Metaprogramming Keynote
-============================
+Metaprogramming
+===============
 
 By Jeff Rush
 
