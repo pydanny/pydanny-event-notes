@@ -41,8 +41,8 @@ Ways to run matplotlib
 * Normal Python modules
 * Some other way?
 
-Simple bargraph using bar
-=========================
+Simple bar graph using bar
+==========================
 
 .. sourcecode:: python
 
@@ -70,4 +70,13 @@ Clarified versionL
 
     ind = numpy.arange(len(data1)) # what is ind representing? An index?
     rects = axis.bar(ind+0.125, data1, width=0.75, color='thistle')
-    plot.show()    
+    plot.show()
+    
+You can do more!
+-----------------
+
+* titles
+* plot range
+* Axis labels
+* Axil ticks and labels
+* Add bar labels
