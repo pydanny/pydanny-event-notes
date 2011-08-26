@@ -25,3 +25,10 @@ Install
 Linux: http://matplotlib.sourceforge.net/users/installing.html
 
 Windows: Download and install
+
+Examples
+=========
+
+Huge gallery of examples!
+
+* http://matplotlib.sourceforge.net
