@@ -18,8 +18,8 @@ By Jeff Rush
 
 .. note:: Apologies, but I couldn't keep up with the firehouse of knowledge. This is woefully incomplete.
 
-Make use of
------------
+This talk makes use of
+----------------------
 
     * metaclasses
     * decorators
@@ -65,7 +65,7 @@ Addressing a problem
     sys.models['__builtin__'].__import__ = self.__import__
     
 Sample code
-----------
+-----------
 
 .. sourcecode:: python
 
@@ -136,6 +136,18 @@ Example using class decorator
     @tracecalls
     class MyClass(object):
         pass
+
+Diving into attribute manipulators
+-----------------------------------
+
+The talk dived a bit into things like:
+
+* `__getattribute__`
+* `__getattr__`
+
+Diving into this sort of code is tricky, because the reasons for use of these tools is
+not necessary in 99% of Python projects. I prefer to rely on `decorators` to alter behavior 
+because they are syntactical sugar. Easy to find and very explicit.
     
 
 base::
