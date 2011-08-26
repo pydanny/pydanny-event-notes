@@ -30,3 +30,54 @@ Need security
 * The boards in our lab are a limited resource
 * Some risk of mischief
 * Eventually may have test results from unreleased hardware
+
+Protocol Choices
+==============================
+
+* They use XML-RPC
+* Didn't think about it very hard
+* will probably use JSON-RPC
+
+Authentication
+==============================
+
+OAUTH
+-----
+
+* Hard to implement
+* Hard to consume
+* Doesn't sign the body of the request in XML-RPC
+
+Used Encryption instead
+------------------------------
+
+* Use HTTPS
+* Followed RFC 2617 Basic Authentication
+* They provide API tokens
+* Similar to my Storymarket API work
+
+Live the Server Code
+====================
+
+at: https://launchpad.net/linaro-django-xmlrpc
+
+.. sourcecode:: python
+
+    from linaro_django_xmlrpc.models import ExposedAPI
+    from linaro_django_xmlrpc.globals import mapper    
+    
+    class ExampleAPI(ExposedAPI):
+    
+        def whoami(self):
+            return self.user
+            
+    mapper.register(ExampleApi)
+    
+Live the Client Code
+====================
+
+at: https://launchpad.net/lava-tool
+
+.. sourcecode:: python
+
+    # TODO find a code example
