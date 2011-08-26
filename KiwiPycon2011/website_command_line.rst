@@ -81,3 +81,8 @@ at: https://launchpad.net/lava-tool
 .. sourcecode:: python
 
     # TODO find a code example
+    
+Conclusion
+==========
+
+ * Don't try to be clever - just use HTTPS and Basic Auth
