@@ -15,7 +15,7 @@ Why Matplotlib?
 Dependencies
 =============
 
- * Python 2.5., 2.6, 2.6
+ * Python 2.5., 2.6, 2.6, 3.2x
  * Numpy 1.3+
  * Matplotlib 1.0.1
  
@@ -80,3 +80,9 @@ You can do more!
 * Axis labels
 * Axil ticks and labels
 * Add bar labels
+
+Things to think about
+======================
+
+* Somewhat challenging learning curve
+* People with lots of money can't understand why you aren't using Matlab
