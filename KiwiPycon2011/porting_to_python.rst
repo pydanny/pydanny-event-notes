@@ -65,3 +65,12 @@ Lots of issues
     io.open(path, 'rt',encoding='utf-8')
     a = u'Unicode String'
     b = b'Binary string'
+
+You now have a working port, now what?
+=======================================
+
+* Two code bases
+* Maintain both
+* Leave one to die in the cold?
+* Way too common a situation
+    
