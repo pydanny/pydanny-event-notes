@@ -94,3 +94,7 @@ Interlude: Naming things
 * Language helps guide our brain
 * Focuses the mind
 * Perhaps too exclusively
+
+**The Sapir-Whorf Hypothesis**
+
+.. note:: Read http://en.wikipedia.org/wiki/Sapir-Whorf_Hypothesis
