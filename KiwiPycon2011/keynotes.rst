@@ -208,5 +208,10 @@ Why I NEED relational
     
 Mark says **BULLSHIT**
 
+    * Amazon tracks financial data using NoSQL
+    * You can make things more durable and consistent if you know what you are doing
+    
+
+
 
 
