@@ -71,3 +71,19 @@ Danny Cons:
 * Needs to be better at explaining itself as not a framework for programming beginners
 * Some WSGI weirdness that is being resolved shortly
 
+
+Sample model code
+=================
+
+.. sourcecode:: python
+
+    from django.db import models
+    from django.contrib.auth.models import User
+    
+    class Movie(models.Model):
+        title = models.CharField(max_length=100)
+        genre = models.CharField(max_length=100)
+        description = models.TextField()
+        
+    class Attendee(models.Model):
+        user = models.ForeignKey(User, related_name="plus") # She used '+' but I'm not sure if this is a good idea. Need to research it!
