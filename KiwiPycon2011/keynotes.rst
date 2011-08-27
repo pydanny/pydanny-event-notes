@@ -14,7 +14,8 @@ Relate or !relate
 
 by Mark Ramm
 
-
+* "*Python has been very good to me*"
+* Double major in Philosophy, Literature and minors in Theatre and something else
 
 
 
