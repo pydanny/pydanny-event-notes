@@ -7,7 +7,7 @@ by Alex Dong
 Roadmap
 ========
 
-* Crawler the unsung here
+* Crawler: the unsung here
 * Async 101
 * Gevent: the monkey king
 * Redis: data structure server
@@ -30,3 +30,16 @@ Talking about a crawler
 5. Store to local file store, database and index
 
 Add in scheduling, throttling, status monitoring, scale up by flicking on more servers.
+
+Async 101
+=========
+
+* Whats wrong with multi-thread
+    
+    * GIL issues
+    * Yield on IO/socket, but
+    * Computational expensive will block
+* What about multi-pocess?
+
+    * Memory efficiency
+    * Context switch overhead
