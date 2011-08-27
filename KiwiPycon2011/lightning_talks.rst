@@ -129,3 +129,31 @@ by Aldo Cortesi
 
 * A Windows layout tool for Python. He also presented this at PyCon AU.
 * https://github.com/cortesi/qtile
+
+Job security in Python
+======================
+
+by Chris Neugebauer
+
+.. note:: This is going to hurt my talk but it's funny
+
+* "Readability" is not a virtue if you want job security
+* PEP 0008 is not a good style code if you want to keep your job
+* Contention: Readabiluty sucks
+
+    * Other people can comprehend your code
+    * You can maintain your own code - less billable hours
+    * Your code will be more 
+
+How do you write unmaintainable code?
+----------------------------------------
+
+* Bad variable names
+* Metaprogramming
+    
+    * Breaks the help function
+    * all kinds of ways to bury logic
+    
+* monkey patching
+
+    * Roll your own standard library
