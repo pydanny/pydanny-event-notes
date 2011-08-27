@@ -2,6 +2,14 @@
 Lightning Talks
 ===============
 
+Web Scraping
+=============
+
+by Chris Esther
+
+* http://pypi.python.org/pypi/selenium
+* http://pypi.python.org/pypi/mechanize
+
 Crowdsourcing from NZ
 =====================
 
@@ -51,3 +59,15 @@ by John Graves
 
 * Converts presenters notes to speech
 * This way it will convert your slide shows to full presentations
+
+Pythonic Slide Generation
+==================================
+
+by Leon Mathews
+
+* Wrote some restructured text
+* Using rst2pdf to generate slides 
+* Created a slides.style file to define the results better
+* Generated PDF slides
+
+.. note:: TODO - ask him to provide source code and instructions
