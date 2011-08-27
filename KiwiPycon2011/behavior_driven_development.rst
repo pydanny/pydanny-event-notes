@@ -47,4 +47,5 @@ Testing Strategies
     * Kind of drives Malolm crazy
     * Really about "*specification, not verification*"
     
-* Documentation driven development (DDD)
+* Documentation Driven Development (DDD)
+* Behavior Driven Development (BDD)
