@@ -11,14 +11,17 @@ Why have I asked you here today
 * A different way to think about this
 * Code
 
-Some terms
+Intro
 ===========
+
+Data
+----
 
 * Stubs is empty data
 * Mocking is pretend versions of data
 
 Mocks
-======
+-----
 
 * Substitute for external systems & components
 * Need to be injected into the tests
@@ -31,7 +34,7 @@ Mocks
 .. warning:: I've run into this with mocks. This is why Open Comparison includes real API calls to it's target systems.
 
 Testing Strategies
-==================
+-------------------------
 
 * formal verification
 * test everything you can think of
@@ -50,10 +53,13 @@ Testing Strategies
 * Documentation Driven Development (DDD)
 * Behavior Driven Development (BDD)
 
-.. note:: Apparently this is the point at which we are done with the intro
+BDD
+====
+
+Here we go!
 
 Specification
-=============
+---------------
 
 * On paper
 * Capturing the idea is probably good
@@ -64,3 +70,20 @@ Specification
     As a [user or role]
     I want [feature]
     so that [something happens]
+    
+BDD
+-----
+
+* What is the next most important thing the code should do?
+
+    * Need to be able to test 
+    * Need to be able to run
+    
+Scenario
+--------
+
+.. parsed-literal::
+
+    Given that [initial context],
+    if and when [some event occurs],
+    then [ensure some outcomes]
