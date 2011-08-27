@@ -44,3 +44,16 @@ Async 101
 
     * Memory efficiency
     * Context switch overhead
+
+The overhead of multi-process in Python causes a lot of server load.
+
+Another way
+------------
+
+* controller + worker model
+* Cooperative multitasking
+* Some unix code::
+
+    epollfd = epoll_create();
+    epoll_ctl(epollfd, EPOLL_CTL_ADD, listen_sock, &ev)
+    epoll_wait(epollfd, events, MAX_EVENTS, -1)
