@@ -71,3 +71,28 @@ by Leon Mathews
 * Generated PDF slides
 
 .. note:: TODO - ask him to provide source code and instructions
+
+Valgrind Memcheck
+=================
+
+by Tim Penhey
+
+* "*Humans are bad at finding memory leaks*"
+* Not really a python talk, but rather a review of how to check for memory leaks.
+* Created an alias to run his valgrind check with all the arguments already defined
+
+
+Sorry state of the New Zealand Job Market
+=========================================
+
+by Juergen Brendel
+
+* At NZ bookstore only could find 1 book on Python and one Django 0.96 books
+* Need more Python jobs
+* Need to expand the community
+
+What Parkour Taught Me About Programming
+=========================================
+
+by Danver Braganza
+
