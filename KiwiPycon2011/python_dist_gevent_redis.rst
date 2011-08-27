@@ -74,3 +74,31 @@ Monkey patches python and magically makes multi-processing work.
     pool.spawn(socket.getaddrinfo, payload)
     
 Question: Whats the downside?
+
+Redis - Data Structure Server
+=============================
+
+* High performance 15,000 req/sec
+
+    * Lock free, single process
+    * master/save ready
+    
+* Data Structures
+
+    * FIFO queue: Lists - LPOP, RPUSH
+    * Working hashtable - HSET, HDEL
+    
+.. note:: lots more I didn't get in! 
+
+Lessons Learned - Dashboard
+==============================
+
+* Turning point: Most important code we've written
+* 25% code for status update and monitoring
+* What's causing the piling up?
+
+    * Someone abusing the system?
+    * DNS is down?
+    * ISP's bandwidth?
+    * Large file download?
+    * Scheduler re-submit tasks?
