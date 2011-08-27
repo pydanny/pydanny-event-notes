@@ -87,3 +87,15 @@ Sample model code
         
     class Attendee(models.Model):
         user = models.ForeignKey(User, related_name="plus") # She used '+' but I'm not sure if this is a good idea. Need to research it!
+        
+Sample view code
+=================
+
+.. sourcecode:: python
+
+    def home(request, template_name="movies/home.html"):
+    
+        movies = Movie.objects.filter()
+        data = {'movies': movies}
+        return render_to_response(template_name, data, RequestContext(request)
+        
