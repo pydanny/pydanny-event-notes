@@ -59,3 +59,27 @@ PHP
 
 * PhpUnit
 * SimpleTest is cool
+
+Erlang
+------
+
+* EUnit
+* Best intro to testing ever.
+
+Write Tests
+=============
+
+* Write tests before you write code
+
+    * I switched from the Shell to writing Unit Tests as well!
+    * This is how I write a huge majority of my tests.
+    
+Re-run
+======
+
+* Hudson/Jenkins
+
+    * Oracle Sucks
+
+* Just do it
+* I want this to have a service to do setup for you.
