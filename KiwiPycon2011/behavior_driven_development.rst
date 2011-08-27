@@ -40,3 +40,11 @@ Testing Strategies
     * no bug fix without a test
     
 * Test Driven Development (TDD)
+
+    * Wraite failing test for next method or clas
+    * Write minimal code to make test pass
+    * Rinse, wash, repeat
+    * Kind of drives Malolm crazy
+    * Really about "*specification, not verification*"
+    
+* Documentation driven development (DDD)
