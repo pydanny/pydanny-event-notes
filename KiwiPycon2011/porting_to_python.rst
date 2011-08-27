@@ -58,3 +58,10 @@ Lots of issues
 
     * All strings in Python 3 are Unicode
     * Initial transition can hurt but then it gets easy
+    
+.. sourcecode:: python
+
+    import io
+    io.open(path, 'rt',encoding='utf-8')
+    a = u'Unicode String'
+    b = b'Binary string'
