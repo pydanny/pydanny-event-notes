@@ -240,4 +240,9 @@ Many different types:
 * column oriented stores
 * map-reduce store/system
 * documented oriented store
+
+    * MongoDB
+    * CouchDB
+    * XML (now we use JSON instead of this)
+
 * graph oriented stores
