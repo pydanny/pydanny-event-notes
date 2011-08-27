@@ -6,7 +6,11 @@ by Jen Zajac
 
 * Works for Catalyst
 * Uses Sublime 2. So do I!
-* See https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
+
+
+.. note:: Jen educated me on the use of '+' in related names. How cool is that?!? See https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
+
+
 
 
 Introduction
