@@ -49,3 +49,18 @@ Testing Strategies
     
 * Documentation Driven Development (DDD)
 * Behavior Driven Development (BDD)
+
+.. note:: Apparently this is the point at which we are done with the intro
+
+Specification
+=============
+
+* On paper
+* Capturing the idea is probably good
+* "What was I *thinking* when I cooked this up?"
+
+.. parsed-literal::
+
+    As a [user or role]
+    I want [feature]
+    so that [something happens]
