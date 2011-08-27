@@ -211,7 +211,12 @@ Mark says **BULLSHIT**
     * Amazon tracks financial data using NoSQL
     * You can make things more durable and consistent if you know what you are doing
     
+Reason to use SQL
+~~~~~~~~~~~~~~~~~
 
+* Well known, easier to find people who know it
+* Robust, scalable, flexible, simple
+* pretty ACID
 
 
 
