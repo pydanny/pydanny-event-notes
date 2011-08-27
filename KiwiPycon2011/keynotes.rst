@@ -256,3 +256,37 @@ It is impossible for a distributed computer system to simultaneously provide all
 * Consistency
 * Availability
 * Partition tolerance (the system continues to operate despite arbitrary message loss)
+
+Google and Facebook scale has to handle downtown gracefully so has to choose which of these three things they'll focus on
+
+Focused
+~~~~~~~~~
+
+NoSQL systems tend to have a few but not all of the following bullets:
+
+* Scalable
+* Simple
+* Fast
+* Flexible
+* Topic
+
+It's WebScale
+~~~~~~~~~~~~~~
+
+Mark calls **BULLSHIT**
+
+* 99% of sites don't care about this issue
+* 99% of people are okay if their sites have a feature that fails on a continent
+* Think about what you actually need
+
+    * Don't implement a database just cause it's cool
+
+* merciless.sourceforge.net
+
+.. sourcecode:: sql
+
+    select * from document where x=3 and y="foo"
+
+.. sourcecode:: javascript
+
+    b.things.find({x:3, y: "foo"});
