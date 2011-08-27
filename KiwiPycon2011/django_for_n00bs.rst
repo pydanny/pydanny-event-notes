@@ -6,6 +6,8 @@ by Jen Zajac
 
 * Works for Catalyst
 * Uses Sublime 2. So do I!
+* See https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
+
 
 Introduction
 =============
@@ -86,7 +88,8 @@ Sample model code
         description = models.TextField()
         
     class Attendee(models.Model):
-        user = models.ForeignKey(User, related_name="plus") # She used '+' but I'm not sure if this is a good idea. Need to research it!
+        # see https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
+        user = models.ForeignKey(User, related_name="+") 
         
 Sample view code
 =================
