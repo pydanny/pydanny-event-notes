@@ -114,6 +114,13 @@ Just because you can, doesn't mean you should OR An evil web framework/thing
 
 by Aurynn Shaw
 
+* Generators
+* Generators.send()
+* Wrote a web framework that uses send to store sessions
+* Runs on twisted
+* But has a race condition
+* Silly prototype
+* code: https://github.com/aurynn/evil
 
 
 
