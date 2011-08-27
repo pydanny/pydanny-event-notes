@@ -66,7 +66,7 @@ Monkey patches python and magically makes multi-processing work.
 .. sourcecode:: python
 
     from gevent import monkey
-    monkey.patch_all() # patches the Python default sockt
+    monkey.patch_all() # patches the Python magically
 
     from gevent.pool import Pool
     worker_pool = Pool(size)
@@ -102,3 +102,11 @@ Lessons Learned - Dashboard
     * ISP's bandwidth?
     * Large file download?
     * Scheduler re-submit tasks?
+
+Lesson Learned - Fine balance
+==============================
+
+* Conflict between frontend an backend
+* Capacity planning
+
+Example: *If the worker takes too long to return control you can block your system*
