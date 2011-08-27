@@ -149,6 +149,6 @@ Conclusions
 
 * Behavioral tests are worth trying
 * Question the way you think from time to time
-* Are your tests' purpose clear to future you
+* Are your tests' purpose clear to the *future you*?
 
 
