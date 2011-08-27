@@ -244,5 +244,15 @@ Many different types:
     * MongoDB
     * CouchDB
     * XML (now we use JSON instead of this)
+    * ZODB (A really good system in Python - just so long as you don't want to share your data with other languages)
 
 * graph oriented stores
+
+CAP theorem
+~~~~~~~~~~~
+
+It is impossible for a distributed computer system to simultaneously provide all three of the following guarantees:
+
+* Consistency
+* Availability
+* Partition tolerance (the system continues to operate despite arbitrary message loss)
