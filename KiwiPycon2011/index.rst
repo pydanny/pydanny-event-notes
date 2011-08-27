@@ -20,3 +20,11 @@ Talks
    django_for_n00bs
    python_business_model
    automated_testing
+   
+Tourist suggestions
+=====================
+ 
+Pickton
+Malborough Sound
+Nelson
+Golden Bay
