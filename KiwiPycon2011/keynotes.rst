@@ -161,3 +161,52 @@ by Mark Ramm
 * "*Python has been very good to me*"
 * Double major in Philosophy, Literature and minors in Theatre and something else
 * Wrote the TurboGears 1 book and became a web developer
+
+Opening
+-------
+
+* Tools matter
+
+    * Python is a great tool
+    * "SQLAlchemy is the best ORM on the planet regardless of language"
+    
+* Data matters just as much 
+
+Tools matter
+------------
+
+* Know your tools
+
+    * Screws and nails
+
+        * deck (screws are stronger than nails, but harder to use)
+        * siding (nailing yourself to the siding)
+        * mongodb (nailed the SourceForge team to the wall via MongoDB)
+
+**Takeaway**: If you don't know your tools when you hit production you are going to be trying to debug something critical.
+
+SQL
+----
+
+"*Who here has used a non-relational database? Not many? Oh, there's this thing called a FILESYSTEM.*"
+
+ACID
+~~~~
+
+    * Atomicity
+    * Consistency
+    * Independent
+    * Durable
+
+Why I NEED relational
+~~~~~~~~~~~~~~~~~~~~~
+
+ * I can't use NoSQL because
+ 
+    * It's financial data (need consistency)
+    * my data is relational
+    
+Mark says **BULLSHIT**
+
+
+
