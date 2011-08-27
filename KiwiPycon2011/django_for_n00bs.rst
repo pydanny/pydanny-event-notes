@@ -10,7 +10,8 @@ by Jen Zajac
 Awesomeness
 ============
 
-.. note:: Jen educated me on the use of '+' in related names. How cool is that?!? See https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
+Jen educated me on the use of '+' in related names. How cool is that?!?
+* https://docs.djangoproject.com/en/1.3/ref/models/fields/#django.db.models.ForeignKey.related_name
 
 
 Introduction
