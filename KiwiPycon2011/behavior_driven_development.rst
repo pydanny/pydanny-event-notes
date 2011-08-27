@@ -98,3 +98,26 @@ Interlude: Naming things
 **The Sapir-Whorf Hypothesis**
 
 .. note:: Read http://en.wikipedia.org/wiki/Sapir-Whorf_Hypothesis
+
+Test Titles
+-----------
+
+.. sourcecode:: python
+
+    class BasicFieldTests(TestCase):
+        def test_field_name(self):
+            ...
+        def test_show_hidden_fields(self):
+            ...
+            
+Better:
+
+.. sourcecode:: python
+
+    class Fields(TestCase):
+        def show_allow_name_override(self):
+            ...
+            
+    class ChoiceFields(TestCase):
+        def should_permit_initial_values_in_hidden_widgets(self):
+            ...
