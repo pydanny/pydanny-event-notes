@@ -87,3 +87,10 @@ Scenario
     Given that [initial context],
     if and when [some event occurs],
     then [ensure some outcomes]
+    
+Interlude: Naming things
+-------------------------
+
+* Language helps guide our brain
+* Focuses the mind
+* Perhaps too exclusively
