@@ -17,3 +17,4 @@ Talks
    beginner_talk
    lightning_talks
    porting_to_python
+   django_for_n00bs
