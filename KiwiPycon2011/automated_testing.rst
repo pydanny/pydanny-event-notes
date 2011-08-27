@@ -6,8 +6,8 @@ by Brenda Wallace
 
 .. note:: missed the beginning :(
 
-Step 1 - Have unit tests
-==========================
+Have unit tests
+================
 
 * Debugging is fast
 * Find bugs elsewhere
