@@ -124,7 +124,10 @@ by Aurynn Shaw
 
 
 
-Qoile: A Python Tiling Window Manager
+Qtile: A Python Tiling Window Manager
 =====================================
 
 by Aldo Cortesi
+
+* A Windows layout tool for Python. He also presented this at PyCon AU.
+* https://github.com/cortesi/qtile
