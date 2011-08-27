@@ -57,3 +57,20 @@ Another way
     epollfd = epoll_create();
     epoll_ctl(epollfd, EPOLL_CTL_ADD, listen_sock, &ev)
     epoll_wait(epollfd, events, MAX_EVENTS, -1)
+    
+gevent - Monkey King and Pool
+===================================
+
+Monkey patches python and magically makes multi-processing work.
+
+.. sourcecode:: python
+
+    from gevent import monkey
+    monkey.patch_all() # patches the Python default sockt
+
+    from gevent.pool import Pool
+    worker_pool = Pool(size)
+    # get domain into payload
+    pool.spawn(socket.getaddrinfo, payload)
+    
+Question: Whats the downside?
