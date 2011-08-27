@@ -35,3 +35,27 @@ WETA digital uses Disney open source code!
     * Writes a stub unit test for all your methods
     * "*You'll have 100% code coverage and everything will fail!*"
 
+Other language test frameworks
+========================================
+
+Everyone forks and no one works together
+
+Java
+----
+
+* JUnit
+* JTiger
+* TestNG
+* Looks like Python, but with more words
+
+Perl
+----
+
+* PerlUnit
+* Over 60 other test frameworks!!!
+
+PHP
+----
+
+* PhpUnit
+* SimpleTest is cool
