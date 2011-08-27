@@ -39,7 +39,8 @@ Async 101
     * GIL issues
     * Yield on IO/socket, but
     * Computational expensive will block
-* What about multi-pocess?
+    
+* What about multi-process?
 
     * Memory efficiency
     * Context switch overhead
