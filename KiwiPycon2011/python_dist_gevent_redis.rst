@@ -4,7 +4,7 @@ Python distributed programming using gevent and redis
 
 by Alex Dong
 
-* http://trunk.ly/?q
+* trunk.ly/?q=from:alexdong+gevent
 
 Roadmap
 ========
