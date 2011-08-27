@@ -99,3 +99,10 @@ Sample view code
         data = {'movies': movies}
         return render_to_response(template_name, data, RequestContext(request)
         
+Quick overview
+===============
+
+* templatetags
+* rss
+* admin
+* signals (ugh - I keep running into misuse of them)
