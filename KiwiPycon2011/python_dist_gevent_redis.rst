@@ -110,3 +110,12 @@ Lesson Learned - Fine balance
 * Capacity planning
 
 Example: *If the worker takes too long to return control you can block your system*
+
+Lessons Learned - Use Profiler
+==============================
+
+* Structure the code to make it possible to run all steps in one non-gevent enabled process
+* Carefully profile to make sure `socket.recv` becomes the main bottleneck
+* Rule of thumb `load average` < 1 to saturate 10M Bandwith
+
+Question: Where they using regex to parse HTML?
