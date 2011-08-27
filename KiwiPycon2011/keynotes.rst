@@ -226,3 +226,18 @@ Really good reasons to use RDBS
     * Business and marketing types can run their own queries
 
 * blah blah inconsistencies blah blah latency
+* Being down is better than being wrong
+
+    * Critical for medical applications!
+    
+NoSQL
+-----
+
+Many different types:
+
+* key/value store
+* distributed key/value store
+* column oriented stores
+* map-reduce store/system
+* documented oriented store
+* graph oriented stores
