@@ -9,17 +9,6 @@ By Audrey Roy
 
 *I'm partial but I think she did a great job of pointing out where Python might/should go.*
 
-Relate or !relate
-==================
-
-by Mark Ramm
-
-* "*Python has been very good to me*"
-* Double major in Philosophy, Literature and minors in Theatre and something else
-
-
-
-
 
 Metaprogramming
 ===============
@@ -163,3 +152,12 @@ Diving into this sort of code is tricky, because the reasons for use of these to
 not necessary in 99% of Python projects. I prefer to rely on `decorators` to alter behavior 
 because they are syntactical sugar. Easy to find and very explicit.
 
+
+relate or !relate
+==================
+
+by Mark Ramm
+
+* "*Python has been very good to me*"
+* Double major in Philosophy, Literature and minors in Theatre and something else
+* Wrote the TurboGears 1 book and became a web developer
