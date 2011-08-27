@@ -9,6 +9,17 @@ By Audrey Roy
 
 *I'm partial but I think she did a great job of pointing out where Python might/should go.*
 
+Relate or !relate
+==================
+
+by Mark Ramm
+
+
+
+
+
+
+
 Metaprogramming
 ===============
 
@@ -17,6 +28,8 @@ By Jeff Rush
 "*Metaprogramming is the programming of programming*"
 
 .. note:: Apologies, but I couldn't keep up with the firehouse of knowledge. This is woefully incomplete.
+
+.. warning:: This is from me: Metaprogramming should be done carefully. Only use it when you have no other options!
 
 This talk makes use of
 ----------------------
@@ -148,3 +161,4 @@ The talk dived a bit into things like:
 Diving into this sort of code is tricky, because the reasons for use of these tools is
 not necessary in 99% of Python projects. I prefer to rely on `decorators` to alter behavior 
 because they are syntactical sugar. Easy to find and very explicit.
+
