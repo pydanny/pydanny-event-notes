@@ -10,8 +10,12 @@ Overview
 ========
 
  * Why bother?
- * Possible strategies
+ * Possible strategies 
  * Porting to Python 3
+ * Maintaining Python 2 **AND** Python 3
+
+    * Two concurrent code bases (Python 2 AND Python 3) 
+    * IF/ELSE logic for imports/code
 
 Why Bother?
 ============
