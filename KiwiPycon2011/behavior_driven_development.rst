@@ -4,6 +4,8 @@ Behaviour Driven Development
 
 By Malcolm Tredennick
 
+* Slides at http://github.com/malcolmt/bdd-and-testing-talk
+
 Why have I asked you here today
 ===============================
 
@@ -121,3 +123,32 @@ Better:
     class ChoiceFields(TestCase):
         def should_permit_initial_values_in_hidden_widgets(self):
             ...
+            
+Excercise
+----------
+
+ * write a `load_test` that changes the `test_` prefix with `should_` prefix
+ * Cause language matters
+
+Closing thoughts on unittest
+-----------------------------
+
+* Create more test classes
+* Make them more explicit
+
+DSL Packages for testing
+-------------------------
+
+* Lettuce (via PyPI)
+* Freshen (via PyPI)
+
+These tools are unique and probably good showing to non-coder types with money.
+
+Conclusions
+=============
+
+* Behavioral tests are worth trying
+* Question the way you think from time to time
+* Are your tests' purpose clear to future you
+
+
