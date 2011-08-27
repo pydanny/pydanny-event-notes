@@ -283,10 +283,24 @@ Mark calls **BULLSHIT**
 
 * merciless.sourceforge.net
 
+SQL version: 
+
 .. sourcecode:: sql
 
     select * from document where x=3 and y="foo"
+    
+MongoDB version:
 
 .. sourcecode:: javascript
 
     b.things.find({x:3, y: "foo"});
+    
+Conclusuon
+============
+
+* Figure out what YOUR app needs
+
+    * SQL, MongoDB and Cassandra is great at some things
+    * Mark couldn't answer this for Hadoop
+
+* Don't obsess about SCALE you'll never achieve
