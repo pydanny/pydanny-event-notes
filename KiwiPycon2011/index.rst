@@ -15,3 +15,4 @@ Talks
    python_dist_gevent_redis
    behavior_driven_development
    beginner_talk
+   lightning_talks
