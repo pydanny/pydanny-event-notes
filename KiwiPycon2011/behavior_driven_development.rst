@@ -38,3 +38,5 @@ Testing Strategies
 * anti-regression suite
 
     * no bug fix without a test
+    
+* Test Driven Development (TDD)
