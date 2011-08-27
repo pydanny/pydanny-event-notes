@@ -5,6 +5,7 @@ Django for n00bs
 by Jen Zajac
 
 * Works for Catalyst
+* Uses Sublime 2. So do I!
 
 Introduction
 =============
