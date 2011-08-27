@@ -218,5 +218,11 @@ Reason to use SQL
 * Robust, scalable, flexible, simple
 * pretty ACID
 
+Really good reasons to use RDBS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* DSL for ad-hock queries understood by everyone
+    
+    * Business and marketing types can run their own queries
 
+* blah blah inconsistencies blah blah latency
