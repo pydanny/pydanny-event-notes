@@ -4,6 +4,8 @@ Python distributed programming using gevent and redis
 
 by Alex Dong
 
+* http://trunk.ly/?q
+
 Roadmap
 ========
 
@@ -74,6 +76,9 @@ Monkey patches python and magically makes multi-processing work.
     pool.spawn(socket.getaddrinfo, payload)
     
 Question: Whats the downside?
+
+ * Alex says that it makes debugging harder
+ * Hence the lesson of making a dashboard!
 
 Redis - Data Structure Server
 =============================
