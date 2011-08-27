@@ -38,9 +38,24 @@ Django backstory
 Pros and cons of Django
 =======================
 
+Pros:
+
 * Big community
 * Tightly integrated components
 * Built-in interface
 * Documentation
 * Release process
 * Authentication & Security
+
+Jen Cons:
+
+* Not playing so well with others
+
+Danny Cons:
+
+* No defined best practices by Django core devs
+* Documentation has stagnated in places
+* Documentation could use better organization
+* Needs to be better at explaining itself as not a framework for programming beginners
+* Some WSGI weirdness that is being resolved shortly
+
