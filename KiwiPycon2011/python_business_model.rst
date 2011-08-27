@@ -37,3 +37,15 @@ Successful open source business models
 * Redhat: Enterprise guarantees as a business model
 * Mozilla: He says it is Google (sugar daddy) but this is not true: Mozilla cleans up on advertising
 * Eclipse: IDE support
+
+Models
+======
+
+* Vulture Model: Pick up projects abandoned/dropped/screwed by Oracle
+* Bounty Model: Throw out money to get something done
+* Honey Model: TODO - find this out
+
+Statements
+==========
+
+"People who complain about open source companies closing off parts of their code generally haven't tried to make money off of their open source projects. I suggest they go and try to do it."
