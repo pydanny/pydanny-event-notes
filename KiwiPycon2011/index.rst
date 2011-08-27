@@ -12,3 +12,4 @@ Talks
    keynotes
    website_command_line
    intro_to_matplotlab
+   python_dist_gevent_redis
