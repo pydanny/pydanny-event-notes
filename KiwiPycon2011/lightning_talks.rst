@@ -122,8 +122,6 @@ by Aurynn Shaw
 * Silly prototype
 * code: https://github.com/aurynn/evil
 
-
-
 Qtile: A Python Tiling Window Manager
 =====================================
 
