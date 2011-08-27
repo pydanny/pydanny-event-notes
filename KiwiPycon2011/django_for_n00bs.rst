@@ -32,7 +32,7 @@ CMS:
 * Does everything
 * Lots of wasted features
 
-.. note:: Did you know that Django was extraced from the Ellington CMS? So the next time someone tells you that Django isn't suited for CMS work, show them https://www.django-cms.org and tell them that http://nasa.science.gov is powered by Django (used to be Plone but we rescued it).
+.. note:: Did you know that Django was extraced from the Ellington CMS? So the next time someone tells you that Django isn't suited for CMS work, show them https://www.django-cms.org and tell them that http://science.nasa.gov/ is powered by Django (used to be Plone but we rescued it).
 
 Django backstory
 ====================
