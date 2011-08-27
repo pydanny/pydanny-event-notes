@@ -42,3 +42,12 @@ by Greg Fawcett
 * NoSQL database BigTable
 * Runs with a Google version of memcached. Question: How do you ask for it?
 * Has scheduled task system
+* Google App Engine apparently ran the Royal Wedding website
+
+Wiki-to-speech Robot Presentations
+==================================
+
+by John Graves
+
+* Converts presenters notes to speech
+* This way it will convert your slide shows to full presentations
