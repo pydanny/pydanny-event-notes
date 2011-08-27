@@ -18,3 +18,4 @@ Talks
    lightning_talks
    porting_to_python
    django_for_n00bs
+   python_business_model
