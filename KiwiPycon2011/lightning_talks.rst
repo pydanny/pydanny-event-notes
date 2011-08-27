@@ -94,5 +94,30 @@ by Juergen Brendel
 What Parkour Taught Me About Programming
 =========================================
 
-by Danver Braganza
+by Danver Braganza (Organizes his clothes into an array)
 
+* You learn by doing
+* You don't become a good developer by wishing you were a developer and watching the Social Network
+* The best practitioners get better by taking their work home with them.
+* Learn how to apply your knowledge to other avenues
+
+Dependency Management in Python with Buildout
+=============================================
+
+by Brad Milne
+
+* They control the environments very tightly so they don't run into the problems I've had.
+* His examples also seem much cleaner than the sort of thing I've suffered through
+
+Just because you can, doesn't mean you should OR An evil web framework/thing
+============================================================================
+
+by Aurynn Shaw
+
+
+
+
+Qoile: A Python Tiling Window Manager
+=====================================
+
+by Aldo Cortesi
