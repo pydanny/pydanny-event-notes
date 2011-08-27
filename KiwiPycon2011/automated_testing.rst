@@ -31,6 +31,7 @@ WETA digital uses Disney open source code!
 
  * Pythoscope
  
+    * http://pypi.python.org/pypi/pythoscope
     * Reads your python
     * Writes a stub unit test for all your methods
     * "*You'll have 100% code coverage and everything will fail!*"
