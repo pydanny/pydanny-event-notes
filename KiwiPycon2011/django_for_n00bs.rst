@@ -18,10 +18,21 @@ Quotes:
 Frameworks vs CMS's
 ====================
 
+Frameworks:
+
 * Frameworks take longer to set up
 * Frameworks are for specific applications
 * Frameworks only do what you plan them to do
 * Few wasted features
+
+CMS:
+
+* Take less time to set up
+* Broad in design
+* Does everything
+* Lots of wasted features
+
+.. note:: Did you know that Django was extraced from the Ellington CMS? So the next time someone tells you that Django isn't suited for CMS work, show them https://www.django-cms.org and tell them that http://nasa.science.gov is powered by Django (used to be Plone but we rescued it).
 
 Django backstory
 ====================
