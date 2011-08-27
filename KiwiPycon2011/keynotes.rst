@@ -273,7 +273,7 @@ NoSQL systems tend to have a few but not all of the following bullets:
 It's WebScale
 ~~~~~~~~~~~~~~
 
-Mark calls **BULLSHIT**
+Mark calls **BULLSHIT** on WebScale
 
 * 99% of sites don't care about this issue
 * 99% of people are okay if their sites have a feature that fails on a continent
@@ -295,8 +295,8 @@ MongoDB version:
 
     b.things.find({x:3, y: "foo"});
     
-Conclusuon
-============
+Conclusion
+----------
 
 * Figure out what YOUR app needs
 
@@ -304,3 +304,5 @@ Conclusuon
     * Mark couldn't answer this for Hadoop
 
 * Don't obsess about SCALE you'll never achieve
+
+* Launch your project, then worry about scale
