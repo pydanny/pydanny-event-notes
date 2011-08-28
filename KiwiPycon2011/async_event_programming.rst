@@ -62,4 +62,20 @@ So really, what is async?
     
 * But once the code is in the loop, **you have to let go**.
 
-    * 
+    * Once the code is in the loop it can slow everything down
+    * Your functions have to be as small as possible
+    * Keep data/functions/etc really tiny
+    
+Async code is hard
+===================
+
+* functions don't work anymore - you are working with **Deferred**'s
+* Most APIs built on twited return Deferreds
+
+
+.. sourcecode:: python
+
+    
+    from twisted.internet import defer
+    
+    df = defer.Deferred()
