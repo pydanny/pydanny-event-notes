@@ -146,4 +146,4 @@ So why Tornado over Twisted
 ============================
 
 * Supposedly faster
-* Graham Dumpleton objects because the performance tests are biased
+* Aren't performance tests biased?
