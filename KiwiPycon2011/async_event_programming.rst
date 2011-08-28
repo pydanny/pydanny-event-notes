@@ -96,13 +96,11 @@ Async code is hard
         response.render(rows)
         response.finish()
     
-Seque Power!
-===================
-
 This is how you fire off things:
-    
+
 * `.callback` starts the callback chain
 * `.errback` causes the callback chain to explode and die messily
+
 
 Synchronous Example of same thing
 ==========================================
@@ -124,6 +122,24 @@ Asynchronous != faster
 So why do this?
 =================
 
+Aurynn says: 
+
 * Scales beautifully
 * Terribly elegant (not sure I agree with this - need to try it)
 * closer mapping to reality
+
+What about Tornado?
+====================
+
+* Event loop + web framework
+* uses inline callbacks
+
+Incomplete code example:
+
+.. sourcecode:: python
+
+    def my_func():
+        def rows(results):
+            for res in results:
+                
+        
