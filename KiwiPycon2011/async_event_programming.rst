@@ -10,7 +10,9 @@ by Aurynn Shaw
 * https://github.com/aurynn
 * She likes shiny things
 
-Not really covering Tornado
+
+.. note:: This talk not really covering Tornado
+
 
 Introduction
 ============
@@ -65,6 +67,8 @@ So really, what is async?
     * Once the code is in the loop it can slow everything down
     * Your functions have to be as small as possible
     * Keep data/functions/etc really tiny
+        
+        * should do this anyway
     
 Async code is hard
 ===================
@@ -85,6 +89,7 @@ Async code is hard
         return df  
         
     def _transform(rows):
+        # rows here is now the returned data
         return [my_object(row) for row in rows]
         
     def _someData(rows, response):
@@ -109,5 +114,16 @@ Synchronous Example of same thing
         # This will hang until DB gets back to us
         return response.row(rows)
 
-Composition, or chaining callbacks
-==========================================
+Asynchronous != faster
+======================
+
+* Not actually faster
+* The event loop is overhead
+* The event loop is overhead without proper coding
+
+So why do this?
+=================
+
+* Scales beautifully
+* Terribly elegant (not sure I agree with this - need to try it)
+* closer mapping to reality
