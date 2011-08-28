@@ -9,5 +9,5 @@ by Danny Adair
 
 **Quote:** No one is forced to use Python. That doesn't apply to other languages. 
 
-Website: http://nzpug.org/
-Kiwi PyCon: http://nz.pycon.org/
+* Website: http://nzpug.org/
+* Kiwi PyCon: http://nz.pycon.org/
