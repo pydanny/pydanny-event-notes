@@ -72,10 +72,42 @@ Async code is hard
 * functions don't work anymore - you are working with **Deferred**'s
 * Most APIs built on twited return Deferreds
 
-
 .. sourcecode:: python
 
-    
     from twisted.internet import defer
     
     df = defer.Deferred()
+    
+    def gotARequest(request, response):
+        df = conn.query('select * from user;')
+        df.addCallback(_someData, response)
+        df.addErrback(_someError, response)
+        return df  
+        
+    def _transform(rows):
+        return [my_object(row) for row in rows]
+        
+    def _someData(rows, response):
+        response.render(rows)
+        response.finish()
+    
+Seque Power!
+===================
+
+This is how you fire off things:
+    
+* `.callback` starts the callback chain
+* `.errback` causes the callback chain to explode and die messily
+
+Synchronous Example of same thing
+==========================================
+
+.. sourcecode:: python
+
+    def my_functZ(request, response):
+        rows = conn.query('select * from user;')
+        # This will hang until DB gets back to us
+        return response.row(rows)
+
+Composition, or chaining callbacks
+==========================================
