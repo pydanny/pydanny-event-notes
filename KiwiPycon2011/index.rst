@@ -21,6 +21,7 @@ Talks
    python_business_model
    automated_testing
    async_event_programming
+   nzpug
    
 Tourist suggestions
 =====================
