@@ -146,4 +146,14 @@ So why Tornado over Twisted
 ============================
 
 * Supposedly faster
-* Aren't performance tests biased?
+
+    * Aren't performance tests biased?
+    * Tornado's benchmarks are on extremely insignificant tasks. Literally "Hello, World".
+    * Twisted does have libraries to interact with real blockers like:
+    
+        * AMQP
+        * IMAP
+        * POP
+        * PostGres
+        
+    
