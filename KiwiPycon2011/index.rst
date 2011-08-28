@@ -22,7 +22,6 @@ Talks
    automated_testing
    async_event_programming
    nzpug
-   python_in_vfx_pipeline
    
 Tourist suggestions
 =====================
