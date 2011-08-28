@@ -141,5 +141,9 @@ Incomplete code example:
     def my_func():
         def rows(results):
             for res in results:
-                
-        
+
+So why Tornado over Twisted
+============================
+
+* Supposedly faster
+* Graham Dumpleton objects because the performance tests are biased
