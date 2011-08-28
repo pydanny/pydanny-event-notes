@@ -7,9 +7,7 @@ by Danny Adair
 * Trying to get Python into NZ
 * Started around 2005
 
-Resources
-==========
+**Quote:** No one is forced to use Python. That doesn't apply to other languages. 
 
-* Google Groups
-* MoinMoin site
-* Kiwi Pycon
+Website: http://nzpug.org/
+Kiwi PyCon: http://nz.pycon.org/

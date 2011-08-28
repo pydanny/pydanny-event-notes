@@ -22,11 +22,15 @@ Talks
    automated_testing
    async_event_programming
    nzpug
+   python_in_vfx_pipeline
    
 Tourist suggestions
 =====================
  
-Pickton
-Malborough Sound
-Nelson
-Golden Bay
+* Pickton
+* Malborough Sound
+* Nelson
+* Golden Bay
+* Waitomo
+
+    * http://www.waitomo.com/waitomo-glowworm-caves.aspx
