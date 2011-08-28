@@ -20,6 +20,7 @@ Talks
    django_for_n00bs
    python_business_model
    automated_testing
+   async_event_programming
    
 Tourist suggestions
 =====================
