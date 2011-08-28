@@ -41,3 +41,25 @@ Problems
 
 * Hard to share data
 * import multiprocessing can be... quirky
+
+Asynchronous is hard
+======================
+
+* **You have to let go**
+* Bending your mind to the Async way is still hard
+* A single mistake can hang
+* Probably going to be slower
+
+So really, what is async?
+==========================
+
+* The core of async is the event loop.
+
+    * Basically a while loop running
+    * Checks for events
+    * Events are pretty generic
+    * In Twisted they have to be callbacks
+    
+* But once the code is in the loop, **you have to let go**.
+
+    * 
