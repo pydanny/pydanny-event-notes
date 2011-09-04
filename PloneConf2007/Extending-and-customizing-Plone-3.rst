@@ -63,7 +63,9 @@ Policy Product
 
   - Declare it as a development egg so buildoutdoesn;t go to cheese shop
   - edit things so its reconginized to Zope 2 and zcml
-  - Edit buildout.cfg::
+  - Edit buildout.cfg:
+  
+ .. sourcecode:: cfg
 
       eggs =
            elementtree

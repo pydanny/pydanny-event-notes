@@ -17,9 +17,12 @@ Conferences
    KiwiPycon2011/index   
    PyconAU2011/index
    Pycon2011/index
+   DjangoCon2010/index   
    Pycon2010/index
    Pycon2009/index
-   Pycon2008/index   
+   Pycon2008/index 
+   PloneConf2007/index 
+ 
 
 Indices and tables
 ==================

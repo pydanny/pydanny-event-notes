@@ -7,7 +7,9 @@
 Tip 5 - Centered Design
 =========================
 
-Fixed width::
+Fixed width:
+
+.. sourcecode:: css
 
     #visual-portal-wrapper {
     width: 980px;
@@ -30,7 +32,9 @@ Tip 4 -  integration of IE
  - Write styles for IE7 first
  - Then hack your styles for other IE version
  - portal top is top part of Plone
- - For IE6 and lower hack::
+ - For IE6 and lower hack:
+ 
+.. sourcecode:: css 
 
     // Below is IE7 , Firefox, and Safari
     #portal-top {
@@ -56,7 +60,9 @@ Tip 3 - Styles alterations
   - events: yellow;
   - about:green
   
-how::
+how:
+
+.. sourcecode:: css
 
     body.section-news {
         background-color: blue;
@@ -76,10 +82,13 @@ how::
     
 Tip 2 - Drop down menus
 ===========================
+
 - Suckerfish for Plone 2.5.x
+
   - Accessible
   - valid CSS
   - Obvious and clean XHTML
+  
 - Plone Dropdowns is for Plone 3.x
 
   - webcouturier.dropdownmenu

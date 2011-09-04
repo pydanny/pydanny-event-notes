@@ -10,7 +10,9 @@ by Balazs Ree
 http://kssproject.org/docs/tutorials/simple-kss
 http://codespeak.net/svn/kukit/docs/introducing_kss/trunk
 
-get FireKSS for firefox. Then do stuff like::
+get FireKSS for firefox. Then do stuff like:
+
+.. sourcecode:: css
 
     h2: click	{
         action-click: alert;

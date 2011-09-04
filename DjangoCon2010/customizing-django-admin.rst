@@ -4,8 +4,6 @@ Customizing Django Admin
 
 Peter Baumgartner and Michael Trythall
 
-.. contents:: Contents
-
 User Experience
 ===============
 

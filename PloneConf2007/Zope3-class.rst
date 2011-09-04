@@ -1,3 +1,4 @@
+============================================
 Zope 3 for Plone Class Notes
 ============================================
 
@@ -198,7 +199,8 @@ Utilities
     - manage_afterAdd is not good and is replaced via events
     - Since Zope 2.9, ObjectManager fires events properly
     - Object-Manager container manage_XXX methods deprecated in favor of listening for object events
-    - Handy events
+    - Handy events::
+    
       + IOBjectWillBeAddedEvent	
       + IOBjectAddedEvent
       + IOBjectWillBeRemovedEvent
@@ -246,6 +248,7 @@ Useful components
   - CMFonFive
     - Can be used to design menu items in Zope 3 style that will work for CMF
     - Interesting Stuff:
+    
       - <browser:menuItem /> is how you do it
 
   - workingenv.py
@@ -272,17 +275,22 @@ Useful components
 
 Things to look at
 ========================
+
   - Plone4Artists
+  
     - Uses sub typinng
     - Interesting stuff:
+    
       - Enables both file and Blobfile
       - Uses Interfaces
+      
         - IAudio
         - IPossibleAudo
         - IAudioEnhanced
 
   - Plone4ArtistsAudio
   - Interesting stuff:
+  
     - Keeps Zope 3 products seperate from Zope 2 stuff
 
 

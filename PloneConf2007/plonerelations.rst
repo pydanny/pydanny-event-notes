@@ -30,7 +30,9 @@ What is Plone.app.relations
   - DC workflow for relationships 
   - "Holding" relationships
   - Relationships which are copied when their source is copied.
-  - example Plone code::
+  - example Plone code:
+  
+.. sourcecode:: python
 
       src = IRelationshipSource(obj)
       src.createRelationship(target=obj)

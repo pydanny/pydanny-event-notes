@@ -4,8 +4,6 @@ pony pwning
 
 By Adam Baldwin
 
-.. contents: Table of Contents
-
 He breaks stuff. He hack and cracks. And gave a really useful talk!
 
 Notes
@@ -73,7 +71,7 @@ Also, don't expose IDs
 Click Jacking
 ~~~~~~~~~~~~~
 
-/admin/ is vulnerable
+/admin/ **was** vulnerable. This has been fixed as of Django 1.3
 
 Mitigations:
 

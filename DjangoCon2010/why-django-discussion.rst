@@ -1,11 +1,17 @@
-@jdunck - I want to see features of how Django has changed lives.
+=====================
+Why Django Discussion
+=====================
 
-@andymckay - You don't need 400 case studies, you need 6 great ones. Writing case studies is really hard.
+Open spaces thing::
 
--- Idea: DjangoCompanies.com
+    @jdunck - I want to see features of how Django has changed lives.
 
-@natea - Plone allowed sponsorship to get higher rankings in company listings.
+    @andymckay - You don't need 400 case studies, you need 6 great ones. Writing case studies is really hard.
 
-@audreyr - Feature the community on whydjango.com since other advocacy sites do that.
+    -- Idea: DjangoCompanies.com
 
-@jdunk
+    @natea - Plone allowed sponsorship to get higher rankings in company listings.
+
+    @audreyr - Feature the community on whydjango.com since other advocacy sites do that.
+
+    @jdunk

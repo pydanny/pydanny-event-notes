@@ -4,8 +4,6 @@ Reusable apps
 
 By Alex Gaynor
 
-.. contents:: table of contents
-
 Note: Alex talked FAST but it was one of the best talks at DjangoCon.
 
 Basics

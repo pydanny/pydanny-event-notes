@@ -4,8 +4,6 @@ Treehugging
 
 by Brian Luft
 
-.. contents:: table of contents
-
 Introduction
 =============
 
@@ -59,17 +57,19 @@ Django Apps
 
 Comparison chart
  
-http://www.qompr.com/charts/63;django-hierarchical-tree-data/
+ * http://www.qompr.com/charts/63;django-hierarchical-tree-data/
  
-Versus summary::
+Versus:
 
-    Treebeard supports all three models, MPTT only handles Nest Sets
-    Both provide Move Node forms, MPTT provides a TreeNodeChoiceField(ModelChoiceField)
-    MPTT is being maintained, treebead has slightly more active development
-    Front end: Treebead has a get_annotated_list function, MPTT has some handy template tags / filters
+ * Treebeard supports all three models, MPTT only handles Nest Sets
+ * Both provide Move Node forms, MPTT provides a TreeNodeChoiceField(ModelChoiceField)
+ * MPTT is being maintained, treebead has slightly more active development
+ * Front end: Treebead has a get_annotated_list function, MPTT has some handy template tags / filters
+ 
+Overall Impression:
 
-Treebard: Overall impression: treebead model creation methods on model is weird and uncomfortable
-MPTT: Related items methods
+ * Treebard: Overall impression: treebead model creation methods on model is weird and uncomfortable
+ * MPTT: Related items methods
     
 Miscellaneous
 =============
