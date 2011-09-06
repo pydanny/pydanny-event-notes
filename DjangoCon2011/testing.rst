@@ -165,3 +165,10 @@ How to sell testing at your Django shop
  * Saves money when you have problems
  * Makes it easier to add features
  * Happier developers
+ 
+Questions
+==========
+
+ * If someone breaks a test pattern and won't fix it go back and make their tests follow the pattern
+ * Interesting to see that Sandy is into Behavior Driven Development
+ 
