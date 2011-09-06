@@ -72,3 +72,15 @@ Lessons Learned
  * Think about your URLs. Really hard
  
     * Adding versions was hard
+
+ * Lay your project out sanely
+ 
+    * started with no tests
+    * Shoved code in
+    * Racked up a lot of technical debt
+    * worked hard to make the project layout a bit more sane
+
+ * Write tests!
+ 
+    * Had a complicated code base without tests
+    * They have hosted continuous integration
