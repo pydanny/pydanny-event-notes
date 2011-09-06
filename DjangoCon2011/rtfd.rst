@@ -122,3 +122,17 @@ Sponsors
  * Revsys
  * PSF
  * Divio
+ * pyladies
+ 
+Questions
+==========
+
+ * How easy to deploy internally?
+ 
+    * Open Source
+    * Documented
+    * Chef
+ 
+ * Designer thoughts? 
+ 
+    * Started with the project with a designer
