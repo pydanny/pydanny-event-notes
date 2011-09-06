@@ -142,3 +142,26 @@ With good coverage You can survive these things down...
  * Search. 3rd party API, Cache
  * Test your dependencies on these things when they are shut down
  * This way your site doesn't just die
+ 
+Test Infrastructure
+====================
+
+ * No one gets staging environments that match production
+ * Run SOLR and RabbitMQ on staging environments
+ * Don't overdo logging as it will slow everything down
+
+Useful tools
+============
+
+ * coverage
+ * nose
+ * one-more
+ 
+How to sell testing at your Django shop
+=======================================
+
+ * Pretty coverage charts
+ * *Code not tested is broken by design*
+ * Saves money when you have problems
+ * Makes it easier to add features
+ * Happier developers
