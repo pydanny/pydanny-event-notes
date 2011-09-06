@@ -91,3 +91,4 @@ Lessons Learned
     
  * Passing data through systems is hard
  * Serving static files is annoying
+ * Log. Everything.
