@@ -88,3 +88,6 @@ Lessons Learned
  * Build around a standard tool
  
     * Lots of good communication between rtfd and Sphinx
+    
+ * Passing data through systems is hard
+ * Serving static files is annoying
