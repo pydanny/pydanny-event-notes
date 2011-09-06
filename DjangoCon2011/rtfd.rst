@@ -44,3 +44,14 @@ Architecture
  * Chef for deployment
  * Nagios & Munin
  * CoffeeScript (Where is the Python version? This is only in Ruby)
+ 
+Open source!
+============
+
+Pros:
+
+    * Patches
+
+Cons:   
+
+    * Known architecture information was on github
