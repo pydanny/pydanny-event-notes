@@ -7,6 +7,8 @@ DjangoCon US 2011
    
    keynotes
    
+Thoughts::
+   
  * Flew up on the PyLadies Party Plane on September 4th on just 90 minutes of sleep.
  * Taught the Ultimate DjangoCon Tutorial Workshop. Thoughts:
 
