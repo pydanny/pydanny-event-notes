@@ -84,3 +84,7 @@ Lessons Learned
  
     * Had a complicated code base without tests
     * They have hosted continuous integration
+
+ * Build around a standard tool
+ 
+    * Lots of good communication between rtfd and Sphinx
