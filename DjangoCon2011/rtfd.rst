@@ -92,3 +92,15 @@ Lessons Learned
  * Passing data through systems is hard
  * Serving static files is annoying
  * Log. Everything.
+ 
+    * Hard to find people's problems until they added sophisticated logging
+    * I personally like the build reports
+
+ * Promote your projects! 
+ 
+    * Blog
+    * Tweet
+    * http://djangopackages.com
+    * G+
+    
+ * Find a designer
