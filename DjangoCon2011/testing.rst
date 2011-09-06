@@ -119,3 +119,13 @@ Junction between unit and integration
 
  * Difficult areas to test because behavior is driven upon environment
  * Some code doesn't always work the way you want because people don't script/document things out
+
+Testing a virgin codebase: 0-100%
+====================================
+
+ * You may find yourself faced with a project without tests
+ * Set a pattern for tests, establish a framework follow it and get the team on board
+ * Smaller tighter tests really help
+ * Jenkins (continuous integration) is critical
+ * Test Debt is part of Technical debt
+ * Enforce the rule that **All future code MUST have tests**
