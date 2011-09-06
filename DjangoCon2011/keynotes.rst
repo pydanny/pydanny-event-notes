@@ -55,4 +55,12 @@ What does the DSF do?
 =======================
 
  * Trademark management
+ 
+    * The DSF has two lawyers, including a core dev (Justin Bronn) 
+ 
  * stuff
+ 
+Ownership of Django
+----------------------
+ 
+ * Django is owned by the individual contributors
