@@ -50,3 +50,9 @@ Corporate Member
  * Small: $500/year
  * Medium: $1000/year
  * Large: $500/year  
+ 
+What does the DSF do?
+=======================
+
+ * Trademark management
+ * stuff
