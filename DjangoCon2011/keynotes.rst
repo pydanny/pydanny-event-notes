@@ -13,12 +13,14 @@ Russell Keith-Magee
 ======================
 
     * President of DSF
+    * Django core dev
+    * Presenting on Django Software Foundation
     
 Organization
-======================
+------------
 
 Board members
-------------------------
+~~~~~~~~~~~~~
 
  * Russell Keith-Magee
  * Adrian Holovaty
@@ -26,18 +28,18 @@ Board members
  * Dan Cox (presenident of Media4Media)
 
 Officers
----------
+~~~~~~~~~~~~~
 
  * Trea: Joseph something
  * Secretary: 
  
 Committees
------------
+~~~~~~~~~~~~~
 
  * Infrastructure
  
 Developer Members
---------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  * Contributed to Django in a material fashion
  * Admissions approved by the board
@@ -45,14 +47,14 @@ Developer Members
  * Members can nominate new board
  
 Corporate Member
-------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  * Small: $500/year
  * Medium: $1000/year
  * Large: $500/year  
  
 What does the DSF do?
-=======================
+---------------------
 
  * Trademark management
  
@@ -60,7 +62,7 @@ What does the DSF do?
  
  * stuff
  
-Ownership of Django
-----------------------
+Manages Ownership of Django
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
  * Django is owned by the individual contributors
