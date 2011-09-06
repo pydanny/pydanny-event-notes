@@ -52,6 +52,8 @@ Open source!
 Pros:
 
     * Patches
+    * People trust you most because they can see the code
+    * BSD license
 
 Cons:   
 
