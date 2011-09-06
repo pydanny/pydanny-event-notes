@@ -25,3 +25,8 @@ Things you can do
 
  * Add custom sphinx theme
  * PDF generation via download think
+ 
+Some neato things
+==================
+
+ * CNAME support
