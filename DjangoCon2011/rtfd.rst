@@ -127,6 +127,8 @@ Sponsors
 Questions
 ==========
 
+.. note:: ask Russ his question
+
  * How easy to deploy internally?
  
     * Open Source
