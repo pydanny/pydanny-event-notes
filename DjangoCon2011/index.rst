@@ -6,6 +6,7 @@ DjangoCon US 2011
    :maxdepth: 2
    
    keynotes
+   rtfd
    
 General Notes
 --------------
