@@ -104,3 +104,21 @@ Lessons Learned
     * G+
     
  * Find a designer
+ * Follow the Unix Philosophy
+ 
+    * Do one thing and do it well
+    * Stay to your project goal and don't deviate
+    * RTFD does so well cause all it does is Sphinx documentation hosting
+    
+* Have a mission
+
+    * RTFD fixes the problem in open source that projects are not well documented
+    * WIKIs are where your project goes to die
+    * Sphinx lets you accept Pull Requests
+    
+Sponsors
+========
+
+ * Revsys
+ * PSF
+ * Divio
