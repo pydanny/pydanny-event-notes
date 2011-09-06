@@ -2,6 +2,8 @@
 Testing: The Developer Strikes Back
 ====================================
 
+.. note:: Sandy really, really, really rocked this talk
+
 by Sandy Strong
 
  * Been doing Django since fall of 2009
@@ -104,3 +106,16 @@ Well tested code is often a happy medium
  * More realistic
  * More practical
  * Allows for a more individual style in coding 
+ 
+Options to get people to test
+============================================
+
+ * webhooks tests to block code that isn't test
+ * coverage.py makes it a game
+ * Public shaming!
+ 
+Junction between unit and integration
+=====================================
+
+ * Difficult areas to test because behavior is driven upon environment
+ * Some code doesn't always work the way you want because people don't script/document things out
