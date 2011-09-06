@@ -43,7 +43,8 @@ Architecture
  * Haystack and SOLR 
  * Chef for deployment
  * Nagios & Munin
- * CoffeeScript (Where is the Python version? This is only in Ruby)
+ * CoffeeScript (*Where is the Python version? This is only in Ruby*)
+ * CLI support via http://rtd.rtfd.org (**need to check this out!**)
  
 Open source!
 ============
