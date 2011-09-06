@@ -65,3 +65,10 @@ Hoping it makes people write more docs
 
  * mod_wsgi
  * django-piston
+ 
+Lessons Learned
+================
+
+ * Think about your URLs. Really hard
+ 
+    * Adding versions was hard
