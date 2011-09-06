@@ -19,15 +19,16 @@ Things you can do
  * Post commit hooks on Github
  * Add custom sphinx theme
  * PDF generation via download think
+ * Use their REST API for links to http://djangopackages.com
  
 CNAME support 
 ==============
 
 * Request for docs.fabfile.org
-* docs.fabfile.org >
+* docs.fabfile.org > (need to finish this out)
 
-Archiectrure
-==============
+Architecture
+===========
 
  * Python
  * Front end caching via varnish
@@ -41,3 +42,5 @@ Archiectrure
  * Postgres SQL
  * Haystack and SOLR 
  * Chef for deployment
+ * Nagios & Munin
+ * CoffeeScript (Where is the Python version? This is only in Ruby)
