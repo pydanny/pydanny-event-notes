@@ -28,7 +28,7 @@ CNAME support
 * docs.fabfile.org > (need to finish this out)
 
 Architecture
-===========
+============
 
  * Python
  * Front end caching via varnish
@@ -59,3 +59,9 @@ Cons:
 
     * Known architecture information was on github
     * Early version had exposed data like IP addresses and other things
+    
+Hoping it makes people write more docs
+========================================
+
+ * mod_wsgi
+ * django-piston
