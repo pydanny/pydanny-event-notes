@@ -56,3 +56,4 @@ Pros:
 Cons:   
 
     * Known architecture information was on github
+    * Early version had exposed data like IP addresses and other things
