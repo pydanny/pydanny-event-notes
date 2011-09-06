@@ -129,3 +129,16 @@ Testing a virgin codebase: 0-100%
  * Jenkins (continuous integration) is critical
  * Test Debt is part of Technical debt
  * Enforce the rule that **All future code MUST have tests**
+ 
+Graceful code degratation
+===========================
+
+ * Developers need to think outside the box - their local machine is not the same as Staging/Production
+ * Service unavailable should not be an unavailable site
+
+With good coverage You can survive these things down...
+--------------------------------------------------------
+
+ * Search. 3rd party API, Cache
+ * Test your dependencies on these things when they are shut down
+ * This way your site doesn't just die
