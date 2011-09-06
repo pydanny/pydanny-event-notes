@@ -7,6 +7,7 @@ DjangoCon US 2011
    
    keynotes
    rtfd
+   testing
    
 General Notes
 --------------

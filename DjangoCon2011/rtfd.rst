@@ -138,3 +138,15 @@ Questions
  * Designer thoughts? 
  
     * Started with the project with a designer
+    
+Mirror your project in your test layouts
+============================================
+
+.. note:: I love this pattern and use it myself!
+
+ * Create test modules following the same file layout as your project
+ * Have as few root test utils as possible 
+ 
+    * Use it sparingly
+    * just a few simple helper functions!
+ * 
