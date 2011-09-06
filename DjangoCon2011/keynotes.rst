@@ -16,8 +16,8 @@ Russell Keith-Magee
     * Django core dev
     * Presenting on Django Software Foundation
     
-Organization
-------------
+Organization of the DSF
+------------------------
 
 Board members
 ~~~~~~~~~~~~~
