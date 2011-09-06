@@ -12,17 +12,11 @@ Intro
  * launched in Django Dash 2010
  * Makes documentation hosting trivial
  * uses sphinx
-
-What makes it work
-===================
-
- * Django
- * Python
- * Post commit hooks
  
 Things you can do
 ====================
 
+ * Post commit hooks on Github
  * Add custom sphinx theme
  * PDF generation via download think
  
@@ -35,9 +29,15 @@ CNAME support
 Archiectrure
 ==============
 
+ * Python
  * Front end caching via varnish
+ 
+    * Varnish is the current single point of failure.
+ 
  * Django front ended via gunicorn and nginx
 
     * Docs are hosted out via nginx
  
  * Postgres SQL
+ * Haystack and SOLR 
+ * Chef for deployment
