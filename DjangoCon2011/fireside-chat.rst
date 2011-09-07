@@ -62,3 +62,5 @@ Wishlist?
  
     * Less features and more APIs and hooks
     * No more features in Django
+    
+ * Delighted that **Python Package** has been shaped by the Django community!
