@@ -77,3 +77,9 @@ How can Django can become a better part of the Python community?
 
 .. note:: I think having the Django community cook up a good alternative to PIL and make it pure Python.
 
+In your role as BDFL have you had to go against the community?
+==============================================================
+
+ * Jacob/Adrian admit being wrong about the template language not auto-escaping
+ * Doesn't want to overlord too much
+
