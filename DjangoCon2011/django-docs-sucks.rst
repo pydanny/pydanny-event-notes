@@ -31,18 +31,22 @@ No jokes?
  * Humor negates fear
  * But you run the risk of looking silly
 
-Problem areas
-==============
+Problem: overview
+============================
 
  * google "django overview" https://docs.djangoproject.com/en/dev/intro/overview/
 
     * shouldn't a glance be visual?
     * Gigantic document
    
- * Tutorial   
+Problem: Tutorial   
+====================
     
     * Put your apps in project subdirectories
     * It's like they'd never heard of the Python PATH
     * manage.py startapp *still* does it that way.
     
+Problem: SEO optimization
+=========================
  
+    * Why isn't the first Google hit on every 'django' somewhere in the docs
