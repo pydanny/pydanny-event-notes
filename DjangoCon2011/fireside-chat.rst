@@ -64,3 +64,4 @@ Wishlist?
     * No more features in Django
     
  * Delighted that **Python Package** has been shaped by the Django community!
+ * Wants to see more people empowered to help build Django
