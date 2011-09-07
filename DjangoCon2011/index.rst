@@ -8,6 +8,7 @@ DjangoCon US 2011
    keynotes
    rtfd
    testing
+   fireside-chat
    
 General Notes
 --------------
