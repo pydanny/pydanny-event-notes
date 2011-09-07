@@ -30,3 +30,19 @@ No jokes?
  * Jokes cut through barriers and allow people to interact more intimately
  * Humor negates fear
  * But you run the risk of looking silly
+
+Problem areas
+==============
+
+ * google "django overview" https://docs.djangoproject.com/en/dev/intro/overview/
+
+    * shouldn't a glance be visual?
+    * Gigantic document
+   
+ * Tutorial   
+    
+    * Put your apps in project subdirectories
+    * It's like they'd never heard of the Python PATH
+    * manage.py startapp *still* does it that way.
+    
+ 
