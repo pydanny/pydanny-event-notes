@@ -87,3 +87,5 @@ How have things changed for the Django community since the last hate talk?
 ==========================================================================
 
  * Changed the core developer rules so that the quorum for new core devs could work
+ * Any time a core developer says "**no**" to something, they have to explain why
+ 
