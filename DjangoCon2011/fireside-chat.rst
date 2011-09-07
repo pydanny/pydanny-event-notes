@@ -28,3 +28,7 @@ How did Django get started?
  * In July 2005 they released it as open source
 
 
+Why did Django get traction and other light Python frameworks didn't?
+====================================================================================
+
+ * Luck of timing
