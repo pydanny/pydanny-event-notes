@@ -35,5 +35,26 @@ Why did Django get traction and other light Python frameworks didn't?
  * They did a lot more documentation than any other emerging option
 
     * Jacob and Adrian focused on the on-boarding of incoming developers
-    * Good input from Wilson Minor on design and the result was that it looked better than it's options (I remember noticing this early)
+    * Good input from Wilson Minor on design and the result was that it looked better than it's competitors
 
+ * Spent a lot of time considering how the community ought to be built
+
+How has Django's community and structure has changed?
+=====================================================
+
+ * Jacob mentions their are 6 developer journalists. The reality is that there are a lot more
+ * Linear community growth until 2006 and then it's grown exponentially
+ * 20,000 members on the mailing list
+ * **Huge issue**: Not enough man hours for the leadership to increase the number of contributors.
+ 
+What about Django 2.0?
+=================================================
+
+ * Jacob never wants to have a **not backwards** compatible version of Python
+ * Doesn't want to see Django 1.11, wants to go Django 2.0 at that point
+ * Massive incompatible rewrites are really challenging
+
+Wishlist?
+=========
+
+ * Wants to see a better job for formalizing the app interface
