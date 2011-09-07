@@ -29,3 +29,6 @@ Start Organized
 ================
 
  * Structure the templates
+ * Template Tags should express presentation, not logic 
+ 
+.. notes:: I wish people remembered this bullet about template tags and logic
