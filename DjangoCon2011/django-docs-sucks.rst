@@ -11,6 +11,7 @@ Rambles
 
  * All documentation sucks because the mind of the writer can't match the mind of the reader
  * Use cases mostly appear to be "I want to know about X"
+ * No pictures? **A picture is worth a thousand words**
 
 Contention
 ------------
