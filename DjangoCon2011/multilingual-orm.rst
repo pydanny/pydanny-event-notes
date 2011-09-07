@@ -116,7 +116,18 @@ Common problems
 ================
 
  * Admin doesn't like new ideas
+ 
+    * `django.contrib.admin.validation` is a blocker
+    * Extensible but not customizable
+    * Forms are a weak spot in Django, and Admin uses them in a really odd way
+ 
  * ORM just wasn't written to be extended, was written to be used
+ 
+    * Relations: Starting model controls everything
+    * Not intended to be changed
+    * Nice things: `QuerySet.iterator`
+ 
  * Performance issues on all of them
  * Usually written under time pressure (deadline)
  * Many packages are undocumented and lack tests
+
