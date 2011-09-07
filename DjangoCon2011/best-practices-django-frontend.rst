@@ -137,3 +137,4 @@ Wrap Up
 
  * Leverage data loading between front and back ends
  * Use **HTML Boilerplate + CSS/JS** tools to your advantage
+ * Test and performance check the front end! 
