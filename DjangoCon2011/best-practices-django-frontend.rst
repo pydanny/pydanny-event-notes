@@ -124,3 +124,17 @@ Performance
 
  * Minify
  * Control this via a `settings.py` value
+ 
+Documentation
+==============
+
+ * Consistent **folder structures** and **document style guides**
+ * Does Sphinx autodoc doesn't work with docstrings in JavaScript or CSS?
+ * Use a **JavaScript library** and modern authoring **techniques**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
