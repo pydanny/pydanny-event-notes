@@ -100,3 +100,17 @@ All about the data
 
     * Share the work between the front and back side of things
     * Generic Class Based Views for quick prototyping 
+    
+Define you datatypes
+====================================
+
+ * Make an API
+ * Share the models between back and front end
+ 
+Tests
+======
+
+ * CSSLint
+ * JSLint
+ 
+    * .. warning:: it will make you cry
