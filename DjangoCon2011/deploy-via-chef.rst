@@ -1,6 +1,6 @@
-========================
-RW Deployment using Chef
-========================
+================================================
+Real World Deployment using Chef
+================================================
 
 by Noah Kantrowitz
 
@@ -22,4 +22,5 @@ How and why
 ============
 
  * Infrastructure as good
- * 
+ * Rebuild a system via a script that includes servers and database
+ 
