@@ -51,3 +51,24 @@ Approaches
  * Translations serialized into a single field (Pickle/JSON) - **No search without a ton of hacking!!!**
  * gettext
  * Google Translate
+ 
+    * This is not a serious service for a real project
+    * Third party and relies on Google management
+    
+Single Table Approach
+======================
+
+Pros
+
+ * Somewhat easy
+ * few queries
+ * fallbacks
+ * Hard to implement filtering
+ 
+Cons
+
+ * Multisite this falls apart. Doesn't work
+ * Migrations are painful because each language requires a schema migration
+ * Size of query result can get big
+ * Hard to make nice admin
+ * Hard to handle required fields
