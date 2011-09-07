@@ -9,6 +9,7 @@ DjangoCon US 2011
    rtfd
    testing
    fireside-chat
+   deploy-via-chef
    
 General Notes
 --------------
