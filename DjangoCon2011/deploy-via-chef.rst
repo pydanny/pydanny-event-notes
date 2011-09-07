@@ -79,6 +79,10 @@ Infrastructure
         * Have a type
         * have a name
         * have parameters
-        * take actions
+        * take actions to change state
+        * can send notifications to other resources
     
     * Resources
+    
+        * resources take action through providers
+        * What operating system you are on will determine what action is run
