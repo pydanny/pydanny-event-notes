@@ -92,6 +92,8 @@ Sass/Compass instead of CSS
 
     * SASS - nested rules, variables, mixins
     * Image Spriting
+
+ * https://github.com/Kronuz/pyScss
     
 All about the data
 ==================
@@ -114,3 +116,11 @@ Tests
  * JSLint
  
     * .. warning:: it will make you cry
+
+ * Google closure compiler
+ 
+Performance
+=============
+
+ * Minify
+ * Control this via a `settings.py` value
