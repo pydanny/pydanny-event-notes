@@ -101,3 +101,11 @@ Idempotence
 
  * Convergence
  * Gaurd clauses
+ 
+Chef Recipes
+--------------
+
+ * Runs just like a script. Doesn;t that make them... scripts?
+ * Recipes can include other recipes
+ * Extend recipes with Ruby
+ 
