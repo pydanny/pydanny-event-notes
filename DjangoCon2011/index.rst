@@ -12,6 +12,7 @@ DjangoCon US 2011
    deploy-via-chef
    multilingual-orm
    django-docs-sucks
+   best-practices-django-frontend
    
 General Notes
 --------------

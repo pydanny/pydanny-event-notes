@@ -52,3 +52,15 @@ Problem: SEO optimization
     * Why isn't the first Google hit on every 'django' somewhere in the docs
     * Problem: Curious noob gets odd things
     * django users doesn't return good results
+    
+Problem: People might get smug about Django docs
+===========================================================================
+
+ * Because they have become smug
+
+Solutions
+===========
+
+ * Make documentation submissions process easier
+ * Ask for all doc submissions and reserve the right to edit
+ 
