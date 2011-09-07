@@ -25,12 +25,12 @@ Board members
  * Russell Keith-Magee
  * Adrian Holovaty
  * Jacob Kaplan-Moss
- * Dan Cox (presenident of Media4Media)
+ * Dan Cox (president of Mediaphormedia)
 
 Officers
 ~~~~~~~~~~~~~
 
- * Trea: Joseph something
+ * Treasurer: Joseph Kocherhans
  * Secretary: 
  
 Committees
