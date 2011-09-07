@@ -55,3 +55,7 @@ JavaScript
  
     * JQuery
     * Don't mix in other things like Dojo
+    * Avoid plug-in overkill. No more than 3-4
+    
+        * Reduce performance hits and code conflicts
+        * Analyze if you can write your own
