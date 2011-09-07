@@ -60,3 +60,25 @@ Bits
     * chef-client
     * chef-server
     * knife (command line utility)
+
+..note:: mixed a section here
+
+ecosysye,
+----------
+
+    * Apache license 2
+    * 400 contrib
+    * open source code
+    * On github
+    
+Infrastructure
+----------------
+
+    * Recipe
+    
+        * Have a type
+        * have a name
+        * have parameters
+        * take actions
+    
+    * Resources
