@@ -131,3 +131,28 @@ Common problems
  * Usually written under time pressure (deadline)
  * Many packages are undocumented and lack tests
 
+Summary: The Situation
+========================
+
+ * Translatable models are hard
+ * All available solutions have their problems
+ * Maybe something needs to be done in Django
+ 
+What could Django do?
+---------------------
+
+ * Do nothing
+ * Provide hooks/APIs to make this easier
+ * Provide support for translated models
+ 
+If Django does nothing
+-----------------------
+
+ * List of multilingual libraries grow
+ * Many custom undocumented implementations 
+ 
+If Django adds new APIs
+-----------------------
+
+ * Probably too low-level
+ * abstract solutions add overhead
