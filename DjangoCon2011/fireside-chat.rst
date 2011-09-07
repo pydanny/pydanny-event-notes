@@ -32,3 +32,5 @@ Why did Django get traction and other light Python frameworks didn't?
 ====================================================================================
 
  * Luck of timing
+ * They did a lot more documentation than any other emerging option
+ 
