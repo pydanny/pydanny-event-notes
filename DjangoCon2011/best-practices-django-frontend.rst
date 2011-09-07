@@ -59,3 +59,35 @@ JavaScript
     
         * Reduce performance hits and code conflicts
         * Analyze if you can write your own
+        
+ * Namespace your Javascript
+ 
+    * TODO - get sample code from Christine
+    
+ * DON'Ts:
+ 
+.. sourcecode:: html
+
+    <script type="javascript">
+        document.write('foo'');
+    </script>
+    <a onclick="blarg();">Stuff</a>
+    
+ * Lots of JavaScript? Use backbone.js
+ 
+Don't do HTML from scratch: Use html5boilerplate
+========================================================
+
+ * Comes with a layout via 960
+ * JQuery
+ * Modernizr
+
+    * You can do wicked class tricks with this tool. Wow
+    
+Sass instead of CSS
+====================
+
+ * CSS Authoring Framework + Utilities
+
+    * SASS - nested rules, variables, mixins
+    * Image Spriting
