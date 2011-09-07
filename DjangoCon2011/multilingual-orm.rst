@@ -156,3 +156,14 @@ If Django adds new APIs
 
  * Probably too low-level
  * abstract solutions add overhead
+
+Django adds multilingul support
+----------------------------------------------
+
+ * Bikeshedding potential
+ 
+    * What approach to take?
+    * What API should look like?
+    
+ * Easiest way to implement
+ * Could be done backwards compatible
