@@ -151,4 +151,4 @@ notes
  * Always run the migrations!
  * Apparently we have our reqs in a weird place. I kind of agree
  * Old-style custom collectstatic. Need to finish the 1.3 integration!
- 
+ * https://github.com/coderanger/djangocon2011
