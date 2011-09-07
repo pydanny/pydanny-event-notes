@@ -46,3 +46,12 @@ Cascading Style Sheets
     * underscores
     
  * Keep your css files small. Combine it in deployments    
+ 
+JavaScript
+==========
+
+ * Use a framework!
+ * Pick one and stick to it:
+ 
+    * JQuery
+    * Don't mix in other things like Dojo
