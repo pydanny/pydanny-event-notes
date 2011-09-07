@@ -112,3 +112,11 @@ Cons:
  * Usually done with bad performance **I addressed this with caching and celery**
  * Incompatible with lots of other packages (requires custom queries unless you are really careful)
  
+Common problems
+================
+
+ * Admin doesn't like new ideas
+ * ORM just wasn't written to be extended, was written to be used
+ * Performance issues on all of them
+ * Usually written under time pressure (deadline)
+ * Many packages are undocumented and lack tests
