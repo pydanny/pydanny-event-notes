@@ -131,10 +131,9 @@ Documentation
  * Consistent **folder structures** and **document style guides**
  * Does Sphinx autodoc doesn't work with docstrings in JavaScript or CSS?
  * Use a **JavaScript library** and modern authoring **techniques**
- 
- 
- 
- 
- 
- 
- 
+  
+Wrap Up
+=======
+
+ * Leverage data loading between front and back ends
+ * Use **HTML Boilerplate + CSS/JS** tools to your advantage
