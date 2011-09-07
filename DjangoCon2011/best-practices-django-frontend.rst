@@ -83,11 +83,20 @@ Don't do HTML from scratch: Use html5boilerplate
  * Modernizr
 
     * You can do wicked class tricks with this tool. Wow
+    * Need to really look at the slides cause she did this better than the docs
     
-Sass instead of CSS
-====================
+Sass/Compass instead of CSS
+============================
 
  * CSS Authoring Framework + Utilities
 
     * SASS - nested rules, variables, mixins
     * Image Spriting
+    
+All about the data
+==================
+
+ * Leverage the power of both the front and back end
+
+    * Share the work between the front and back side of things
+    * Generic Class Based Views for quick prototyping 
