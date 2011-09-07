@@ -58,3 +58,7 @@ Wishlist?
 =========
 
  * Wants to see a better job for formalizing the app interface
+ * Wants to see Django become a micro-kernel.
+ 
+    * Less features and more APIs and hooks
+    * No more features in Django
