@@ -8,4 +8,6 @@ How did Django get started?
 ============================
 
  * 2002 - 2003 LJ World hired Adrian Holovaty to become their dedicated Web Developer
+ 
+    * Previous to 2002 had Frank Wiles making things for them in Perl
 
