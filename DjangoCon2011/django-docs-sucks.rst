@@ -50,3 +50,4 @@ Problem: SEO optimization
 =========================
  
     * Why isn't the first Google hit on every 'django' somewhere in the docs
+    * Problem: Curious noob
