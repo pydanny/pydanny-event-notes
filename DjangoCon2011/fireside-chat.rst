@@ -33,4 +33,7 @@ Why did Django get traction and other light Python frameworks didn't?
 
  * Luck of timing
  * They did a lot more documentation than any other emerging option
- 
+
+    * Jacob and Adrian focused on the on-boarding of incoming developers
+    * Good input from Wilson Minor on design and the result was that it looked better than it's options (I remember noticing this early)
+
