@@ -11,6 +11,7 @@ DjangoCon US 2011
    fireside-chat
    deploy-via-chef
    multilingual-orm
+   django-docs-sucks
    
 General Notes
 --------------
