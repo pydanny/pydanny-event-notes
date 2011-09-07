@@ -31,4 +31,18 @@ Start Organized
  * Structure the templates
  * Template Tags should express presentation, not logic 
  
-.. notes:: I wish people remembered this bullet about template tags and logic
+    * Presentation and iteration over data, NOT manipulation
+ 
+.. note:: I wish people remembered this bullet about template tags and logic
+
+Cascading Style Sheets
+=========================
+
+ * Define a style guide. **Write it down!!!**
+ * Consistent Variable naming
+ 
+    * Camel case
+    * dashes
+    * underscores
+    
+ * Keep your css files small. Combine it in deployments    
