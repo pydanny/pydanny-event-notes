@@ -10,6 +10,7 @@ DjangoCon US 2011
    testing
    fireside-chat
    deploy-via-chef
+   multilingual-orm
    
 General Notes
 --------------
