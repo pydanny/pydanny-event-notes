@@ -108,4 +108,12 @@ Chef Recipes
  * Runs just like a script. Doesn;t that make them... scripts?
  * Recipes can include other recipes
  * Extend recipes with Ruby
+ * Dynamic configuration through search - so you can search your servers for stuff
  
+Chef Roles
+------------
+
+ * Things can be assigned server roles
+ * Roles describe nodes
+ * Roles have a run list
+ * Roles can have attributes
