@@ -5,7 +5,7 @@ Best Practices for Front-End Django Developers
 by Christine Cheung
 
  * One of the co-founders of Pyladies 
- * Works for Red
+ * Works for Red Interactive Agency
  * Does front end development
  
     * Also does a lot of backend stuff
