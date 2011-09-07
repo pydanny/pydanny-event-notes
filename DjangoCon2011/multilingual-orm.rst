@@ -72,3 +72,43 @@ Cons
  * Size of query result can get big
  * Hard to make nice admin
  * Hard to handle required fields
+ 
+Example::
+ 
+.. sourcecode:: sql
+
+    select book.isbn, book.title_en, book.title_de from book;
+    
+Dictionary Table Approach
+==========================
+
+Pros
+
+ * Easy to implement
+ 
+Cons
+
+ * No filtering
+ * No sorting
+ * Admin
+ 
+No example cause the Query is too big
+
+Two Table Approach
+=====================
+
+Pros:
+
+ * Can be made very fast
+ * few queries
+ * Works with south
+ * makes sense
+ * possible but hard to make nice admin
+ 
+Cons:
+
+ * Hard to implement
+ * joins
+ * Usually done with bad performance **I addressed this with caching and celery**
+ * Incompatible with lots of other packages (requires custom queries unless you are really careful)
+ 
