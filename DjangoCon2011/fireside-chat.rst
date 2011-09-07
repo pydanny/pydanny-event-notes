@@ -83,3 +83,7 @@ In your role as BDFL have you had to go against the community?
  * Jacob/Adrian admit being wrong about the template language not auto-escaping
  * Doesn't want to overlord too much
 
+How have things changed for the Django community since the last hate talk?
+==========================================================================
+
+ * Changed the core developer rules so that the quorum for new core devs could work
