@@ -48,7 +48,7 @@ How has Django's community and structure has changed?
  * **Huge issue**: Not enough man hours for the leadership to increase the number of contributors.
  
 What about Django 2.0?
-=================================================
+======================
 
  * Jacob never wants to have a **not backwards** compatible version of Python
  * Doesn't want to see Django 1.11, wants to go Django 2.0 at that point
@@ -65,3 +65,15 @@ Wishlist?
     
  * Delighted that **Python Package** has been shaped by the Django community!
  * Wants to see more people empowered to help build Django
+
+How can Django can become a better part of the Python community?
+================================================================
+
+ * 2 years ago the communities were a bit separate
+ * Some tension caused by Django because we as a community sometimes get aggressive
+ * Some tension caused by Python because the anti-establishment guys don't like winners
+ * Django needs to help push for better Packaging in python
+ * Let's port to Python 3!
+
+.. note:: I think having the Django community cook up a good alternative to PIL and make it pure Python.
+
