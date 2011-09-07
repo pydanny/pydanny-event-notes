@@ -117,3 +117,38 @@ Chef Roles
  * Roles describe nodes
  * Roles have a run list
  * Roles can have attributes
+ 
+Other chef terms
+------------------
+
+    * Cookbooks are collections recipes
+    * JSON blobs
+    * Other thing 1
+    * Other thing 2
+    
+Python cookbook
+================
+
+ * You can use pip and virtualenv! Yeah!
+ * `gunicorn::default`
+ * `supervisor::default`
+ * Debian-style fot now
+ * servicer service
+ 
+Case Studies - Packaginator
+========================================
+
+ * Inatll users
+ * configure sudo
+ * apt-get update
+ * install gcc
+
+.. Warning:: Some of the Chef stuff Noah goes over isn't public yet. Probably in a few days
+
+notes
+-----
+
+ * Always run the migrations!
+ * Apparently we have our reqs in a weird place. I kind of agree
+ * Old-style custom collectstatic. Need to finish the 1.3 integration!
+ 
