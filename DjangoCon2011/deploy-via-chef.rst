@@ -86,3 +86,18 @@ Infrastructure
     
         * resources take action through providers
         * What operating system you are on will determine what action is run
+        
+common resources
+----------------
+
+    * `package 'apache2`
+    * `template "/etc/apache2/httpd.conf"`
+    * `cookbook_file` (Load a recipe that does this sort of thing)
+    
+Idempotence
+-------------
+
+.. note:: what does that word mean anyhow? Ha ha
+
+ * Convergence
+ * Gaurd clauses
