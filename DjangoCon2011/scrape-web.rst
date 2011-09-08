@@ -137,3 +137,9 @@ Tweepy Innards
  * If you API lib just returns the API with no frills, that's not really helpful
  * IF API data is fairly standardized, do nice thngs like create models
  * "Don't make me convert datetimes or I'll put a nasty mark on djangopackages.com about your project" - @kjam
+ 
+Other tools
+================ 
+
+ * Feedparser for parsing RSS or Atom
+ * Sometimes you don't care about
