@@ -27,3 +27,18 @@ lxml
        dochtml = html.document_fromstring(rss_feed)
        for x in dochtml.cssselect('title'):
             data.append(x)
+            
+lxml: cssselect
+================
+
+Uses a JQuery style language to grab bts
+
+.. sourcecode:: python
+
+    article_title = html.cssselect('div#content h1.title)
+    
+cssselect
+=========
+
+ * Learn css to help you scrape
+ * Various developer tools help to find stuff (firebug)
