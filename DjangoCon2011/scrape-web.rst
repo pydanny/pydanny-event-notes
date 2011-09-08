@@ -138,8 +138,15 @@ Tweepy Innards
  * IF API data is fairly standardized, do nice thngs like create models
  * "Don't make me convert datetimes or I'll put a nasty mark on djangopackages.com about your project" - @kjam
  
-Feedparser, HTMLparser, re
-================================ 
+Other tools 
+============
+
+ * Feedparser
+ * HTMLparser
+ * re
+ * html5lib
+ * mechanize
+
 
  * Feedparser for parsing RSS or Atom
  * Sometimes you want a lighter tool
@@ -152,3 +159,13 @@ Don't forget
  * Ugly web pages with good content is lame
  * Work with your front end people
  * Find some good designers and befriend them
+
+Read up on these!
+============================
+
+ * http://pypi.python.org/pypi/requests library for pulling data
+ * http://lxml.de
+ * http://wwwsearch.sourceforge.nt/mechanize
+ * http://code.google.com/p/html5lib/
+ * http://scrapy.org/
+ 
