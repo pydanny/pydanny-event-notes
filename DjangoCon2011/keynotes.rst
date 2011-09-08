@@ -75,4 +75,9 @@ Edan Gazit
  * Benevolent Designer for Life of Django
  * BDesignerFL
  * Took the role in Spring of 2011
+
+Comprimise is the soul of design
+--------------------------------------------
  
+ * You can't get everything you want
+ * You have to make choices
