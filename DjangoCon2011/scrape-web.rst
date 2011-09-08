@@ -66,6 +66,22 @@ sourceline
 find,findall
 ==============
 
+ * Find the element you want
+ * Grab only what you need
+ * 
+
 .. sourcecode:: python
 
     spans = element.findall('span')
+
+nodes of content
+==================
+
+ * Elements have children
+ * Elements have siblings 
+ * Elements have ancestors
+ 
+.. sourcecode:: python
+
+    h1s = list(h1_element.itersiblings())
+    the_kids = [c for c in element.iterchildren() if len(c.text)]
