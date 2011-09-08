@@ -70,6 +70,8 @@ Manages Ownership of Django
 Edan Gazit
 ==========
 
+**Title** Designers make it go to **eleven**
 
-
- * Benevolent Designer for Life
+ * Benevolent Designer for Life of Django
+ 
+ 
