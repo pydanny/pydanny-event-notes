@@ -85,3 +85,13 @@ nodes of content
 
     h1s = list(h1_element.itersiblings())
     the_kids = [c for c in element.iterchildren() if len(c.text)]
+    
+Web pages change
+=================
+
+ * All your code can break
+ * Make a monitoring system to let you know it things change
+ 
+    * Code that checks the pattern of the layout
+ 
+.. sourcecode:: python 
