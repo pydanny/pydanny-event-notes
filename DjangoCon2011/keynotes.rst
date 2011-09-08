@@ -67,7 +67,7 @@ Manages Ownership of Django
  
  * Django is owned by the individual contributors
  
-Edan Gazit
+Idan Gazit
 ==========
 
 **Title** Designers make it go to **eleven**
@@ -76,8 +76,15 @@ Edan Gazit
  * BDesignerFL
  * Took the role in Spring of 2011
 
-Comprimise is the soul of design
+Compromise is the soul of design
 --------------------------------------------
  
  * You can't get everything you want
  * You have to make choices
+
+Usability Stuff
+------------------
+
+ * Color charts
+ * chunking 8001234567 vs 800-123-4567
+ 
