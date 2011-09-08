@@ -84,7 +84,29 @@ The New Hotness Pattern
     * Add the data back right then and only for that bit
     
  * Use celery or deferred to handle long processes
+ 
+Key-holding
+-------------
 
+ * How about storing cache keys in a file?
+ 
+How to avoid Cache Invalidation Hell
+========================================
+
+Yay!
+
+What's in the box
+-----------------
+
+ * django.core.cache
+ 
+    * simple setup
+    * Multi Cache Support
+    
+ * django.core.cache.backends (best way)
+ 
+    * memcached.MemcachedCache
+    * memcached.PyLibMCCache
 
 Implementation best Practices
 ========================================
