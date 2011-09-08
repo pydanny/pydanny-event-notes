@@ -87,4 +87,11 @@ Usability Stuff
 
  * Color charts
  * chunking 8001234567 vs 800-123-4567
- 
+
+Audience
+--------
+
+ * who
+ * what
+ * why
+ * where
