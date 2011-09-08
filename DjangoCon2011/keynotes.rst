@@ -95,3 +95,11 @@ Audience
  * what
  * why
  * where
+ 
+Critical notes
+----------------
+
+ * Python on windows is a problem
+ * local setup
+ * project templates - some basic architecture layours
+ * deployment has been a pain point
