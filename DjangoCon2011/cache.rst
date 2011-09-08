@@ -74,7 +74,16 @@ Thundering herd problem
  
     * You may get throttled by other systems
 
+The New Hotness Pattern
+------------------------------
 
+ * Cache Forever, Invalidate, explicitly
+ 
+    * Keep the cache forever
+    * Invalidate only when the data changes
+    * Add the data back right then and only for that bit
+    
+ * Use celery or deferred to handle long processes
 
 
 Implementation best Practices
