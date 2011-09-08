@@ -104,3 +104,8 @@ Critical issues that hurts Django in regards to designers
  * project templates - some basic architecture layours
  * deployment has been a pain point
  * trac is sucky 
+ 
+Glyph Lefkowitz
+==================
+
+ * Why does Django hate Python
