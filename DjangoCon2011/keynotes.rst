@@ -66,3 +66,10 @@ Manages Ownership of Django
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
  * Django is owned by the individual contributors
+ 
+Edan Gazit
+==========
+
+
+
+ * Benevolent Designer for Life
