@@ -144,4 +144,10 @@ Feedparser, HTMLparser, re
  * Feedparser for parsing RSS or Atom
  * Sometimes you want a lighter tool
  * Sometimes LXML doesn't install easily
- 
+
+Don't forget
+=============
+
+ * Content is 1/2 the equation
+ * Ugly web pages with good content is lame
+ * Work with your front end people
