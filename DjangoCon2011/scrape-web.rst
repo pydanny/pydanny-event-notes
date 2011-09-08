@@ -151,3 +151,4 @@ Don't forget
  * Content is 1/2 the equation
  * Ugly web pages with good content is lame
  * Work with your front end people
+ * Find some good designers and befriend them
