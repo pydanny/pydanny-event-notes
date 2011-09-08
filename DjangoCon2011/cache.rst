@@ -105,8 +105,42 @@ What's in the box
     
  * django.core.cache.backends (best way)
  
-    * memcached.MemcachedCache
-    * memcached.PyLibMCCache
+    * memcached.MemcachedCache (works with PyPy)
+    * memcached.PyLibMCCache (faster but on C)
+    
+ * View decorators are interesting because they cache HTML
+
+    * But you don't know cache key names so that makes invalidation hard
+    
+ * `{% load cache %}` DON'T USE THIS!!!
+ * django.core.cache
+ 
+    * settings.CACHES[alias]['VERSION']
+    * settings.CACHES[alias]['KEY_PREFIX']
+    * settings.CACHES[alias]['KEY_FUNCTION']
+
+.. sourcecode::
+
+    def make_key(key, prefix, version):
+        return ':'.join([prefix, str(version), smart_str(key)])
+        
+Good cache keys
+---------------
+
+ * Make them unique
+ * Use separators that don't appear in your values
+ * Don't ever write the same format string once
+
+Key files!
+------------
+
+ * Don't define the same key format string in more than one place
+ * Put all the app key names into one file
+
+.. sourcecode:: python
+
+    # TODO - get sample code!
+
 
 Implementation best Practices
 ========================================
