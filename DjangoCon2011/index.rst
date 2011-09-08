@@ -14,6 +14,7 @@ DjangoCon US 2011
    django-docs-sucks
    best-practices-django-frontend
    security-talk
+   scrape-web
    
 General Notes
 --------------
