@@ -73,5 +73,6 @@ Edan Gazit
 **Title** Designers make it go to **eleven**
 
  * Benevolent Designer for Life of Django
- 
+ * BDesignerFL
+ * Took the role in Spring of 2011
  
