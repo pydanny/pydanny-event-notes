@@ -138,8 +138,10 @@ Tweepy Innards
  * IF API data is fairly standardized, do nice thngs like create models
  * "Don't make me convert datetimes or I'll put a nasty mark on djangopackages.com about your project" - @kjam
  
-Other tools
-================ 
+Feedparser, HTMLparser, re
+================================ 
 
  * Feedparser for parsing RSS or Atom
- * Sometimes you don't care about
+ * Sometimes you want a lighter tool
+ * Sometimes LXML doesn't install easily
+ 
