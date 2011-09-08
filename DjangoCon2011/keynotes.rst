@@ -110,6 +110,8 @@ Glyph Lefkowitz
 
 **Title:** Why does Django hate Python
 
+.. note:: Trying to follow Glyph in notes is probably going to fail. He is that awesome
+
  * Started with prose 
  * `I come to bury Python, not to praise it`
  
