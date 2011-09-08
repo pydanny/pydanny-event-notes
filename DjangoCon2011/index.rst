@@ -15,6 +15,7 @@ DjangoCon US 2011
    best-practices-django-frontend
    security-talk
    scrape-web
+   caching
    
 General Notes
 --------------
