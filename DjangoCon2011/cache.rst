@@ -146,3 +146,7 @@ Cache related code stuff
 --------------------------
 
  * try MyModel.cache as a manager
+
+    * `User.cache.get_top10_users.all()`
+    * This is really djangsta!
+ 
