@@ -13,6 +13,7 @@ DjangoCon US 2011
    multilingual-orm
    django-docs-sucks
    best-practices-django-frontend
+   security-talk
    
 General Notes
 --------------
