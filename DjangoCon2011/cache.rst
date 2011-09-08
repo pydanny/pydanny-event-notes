@@ -107,6 +107,7 @@ What's in the box
  
     * memcached.MemcachedCache (works with PyPy)
     * memcached.PyLibMCCache (faster but on C)
+    * 
     
  * View decorators are interesting because they cache HTML
 
@@ -140,9 +141,8 @@ Key files!
 .. sourcecode:: python
 
     # TODO - get sample code!
+    
+Cache related code stuff
+--------------------------
 
-
-Implementation best Practices
-========================================
-
-stuff here
+ * try MyModel.cache as a manager
