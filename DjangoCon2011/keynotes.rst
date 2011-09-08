@@ -96,10 +96,11 @@ Audience
  * why
  * where
  
-Critical notes
-----------------
+Critical issues that hurts Django in regards to designers
+----------------------------------------------------------------
 
  * Python on windows is a problem
  * local setup
  * project templates - some basic architecture layours
  * deployment has been a pain point
+ * trac is sucky 
