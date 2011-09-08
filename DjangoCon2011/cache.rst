@@ -26,6 +26,13 @@ Jacob's rule of architecture
 ------------------------------
 
  * No rules only principals
+ * Start with assumptions/advice
+ * Benchmark/inspect before you break principals
+ 
+Ask some questions
+------------------
+
+
 
 Big Picture
 ====================
