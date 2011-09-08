@@ -159,4 +159,15 @@ Cache related code stuff
 
     # TODO - Get their OriginalStateModel code
     
+Third Party tools
+==================
+
+ * TODO - get this list!
+ 
+Last minute Advice
+===================
+
+ * Don't let your cache servers be accessible
+ * consistent hashing is a neat trick -- use it!
+    
 QUESTION: why not a save() override instead of signals? Wouln't it be less engineering to just put it in the save()?
