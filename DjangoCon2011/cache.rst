@@ -21,6 +21,9 @@ Intro to caching
  
     * Speed up your app
     * Lesson load on third party apps
+    
+Big Picture
+====================
 
 Jacob's rule of architecture
 ------------------------------
@@ -41,12 +44,38 @@ Ask some questions
  
     * May be all you need!
     
-`There are only two things in Computer Science, cache invalidation and naming things` - Phil Karlton
+*There are only two things in Computer Science, cache invalidation and naming things* - Phil Karlton
 
-Big Picture
-====================
+Relying on your cache always being up
+------------------------------------------
 
-stuff here
+ * Rely on a single canonical data source
+ * This data source IS NOT YOUR CACHE
+ 
+
+Common Cache Patterns
+---------------------- 
+
+ * Rollup values often called like settings
+ * Only do it for common data calls
+ * What's easy:
+ 
+    * cache invalidation is relatively easy
+    
+ * What's hard
+ 
+    * Known when to invalidate
+    
+Thundering herd problem
+------------------------
+
+ * If everything in your cache tries to reload at once because you had a service outage
+ * Huge load on your system and third party apps
+ 
+    * You may get throttled by other systems
+
+
+
 
 Implementation best Practices
 ========================================
