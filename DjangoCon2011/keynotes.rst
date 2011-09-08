@@ -113,5 +113,7 @@ Glyph Lefkowitz
 .. note:: Trying to follow Glyph in notes is probably going to fail. He is that awesome
 
  * Started with prose 
- * `I come to bury Python, not to praise it`
- 
+ * I come to bury Python, not to praise it
+ * "Adding manpower to a late software project makes it later." - Fred Brooks
+ * "Over the centuries native Americans came up with sign languages. Developers have a zillion languages" - Alan
+ * 
