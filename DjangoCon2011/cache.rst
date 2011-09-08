@@ -120,7 +120,7 @@ What's in the box
     * settings.CACHES[alias]['KEY_PREFIX']
     * settings.CACHES[alias]['KEY_FUNCTION']
 
-.. sourcecode::
+.. sourcecode:: python
 
     def make_key(key, prefix, version):
         return ':'.join([prefix, str(version), smart_str(key)])
@@ -153,5 +153,10 @@ Cache related code stuff
  * invalidation: 
  
     * try a post_save signal to separate concerns. Hrm...
+    * Using signals can make cache invalidation hard
     
-QUESTION: why not a save() override instead of signals?
+.. sourcecode:: python
+
+    # TODO - Get their OriginalStateModel code
+    
+QUESTION: why not a save() override instead of signals? Wouln't it be less engineering to just put it in the save()?
