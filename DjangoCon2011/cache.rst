@@ -32,7 +32,16 @@ Jacob's rule of architecture
 Ask some questions
 ------------------
 
-blarg
+ * Do you really need caching? Caching adds...
+ 
+    * complexity
+    * additional point of failure
+    
+ * Modern database are stupidly optimized
+ 
+    * May be all you need!
+    
+`There are only two things in Computer Science, cache invalidation and naming things` - Phil Karlton
 
 Big Picture
 ====================
