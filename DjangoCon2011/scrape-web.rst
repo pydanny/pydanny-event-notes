@@ -94,4 +94,31 @@ Web pages change
  
     * Code that checks the pattern of the layout
  
+forms
+======
+
+ * Think: log in pages
+ * Don't use **lxml** for evil
+ * See lxml docs on how to process them
+
+
+text, text_content, iter_text
+================================
+
 .. sourcecode:: python 
+
+    text = element.text
+    text_w_content = element.text_content()
+    text_bit_by_bit = list(element.itertext()) # The best way!
+
+Tips for maintainable scrapers
+================================
+
+ * Skip ugly parsing
+ * Text = Content = Boss
+
+XPATH fundamentals
+====================
+
+ * Not fun but you need to learn it to handle XML. I hate it
+ 
