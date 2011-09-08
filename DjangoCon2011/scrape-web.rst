@@ -121,4 +121,4 @@ XPATH fundamentals
 ====================
 
  * Not fun but you need to learn it to handle XML. I hate it
- 
+ * lxml supports it, of course
