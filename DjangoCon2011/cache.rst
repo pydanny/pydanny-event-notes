@@ -149,4 +149,9 @@ Cache related code stuff
 
     * `User.cache.get_top10_users.all()`
     * This is really djangsta!
+    
+ * invalidation: 
  
+    * try a post_save signal to separate concerns. Hrm...
+    
+QUESTION: why not a save() override instead of signals?
