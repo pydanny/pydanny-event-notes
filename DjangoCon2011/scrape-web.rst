@@ -122,3 +122,12 @@ XPATH fundamentals
 
  * Not fun but you need to learn it to handle XML. I hate it
  * lxml supports it, of course
+ 
+Building LXML w/LXML
+====================
+
+ * Writing templates for things like xml are boring
+ * **Don't be that guy/gal**
+
+.. note:: Not showing the example because kjam says it is evil!
+
