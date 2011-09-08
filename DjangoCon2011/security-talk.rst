@@ -2,6 +2,8 @@
 Security
 ========
 
+.. note:: Had some things to do so did not get a chance to focus on this talk
+
 by Paul McMillon
 
  * Security expert since 1998
@@ -28,8 +30,3 @@ Don't put your database in your github repo
 
  * Django needs better hashing
  * Even on open source projects
- 
-Timing attacks
-===============
-
- * 
