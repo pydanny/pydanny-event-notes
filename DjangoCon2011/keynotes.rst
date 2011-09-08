@@ -108,4 +108,8 @@ Critical issues that hurts Django in regards to designers
 Glyph Lefkowitz
 ==================
 
- * Why does Django hate Python
+**Title:** Why does Django hate Python
+
+ * Started with prose 
+ * `I come to bury Python, not to praise it`
+ 
