@@ -42,3 +42,30 @@ cssselect
 
  * Learn css to help you scrape
  * Various developer tools help to find stuff (firebug)
+ 
+iterlinks
+==========
+
+ * Good for high link pages or finding related links
+
+.. sourcecode:: python
+
+    page_links = html.iterlinks
+    
+sourceline
+============
+
+ * tells you the line the element is on
+ * Helps you determine distance of one element is from another
+
+.. sourcecode:: python
+
+    pos = element.sourceline 
+
+
+find,findall
+==============
+
+.. sourcecode:: python
+
+    spans = element.findall('span')
