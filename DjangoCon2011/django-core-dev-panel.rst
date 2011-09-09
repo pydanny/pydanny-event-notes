@@ -85,4 +85,10 @@ New community roles
 
  * Security Manager: Makes Django to be more secure
  * Front end BDFL: Makes Django prettier
- 
+ * No one should be irreplaceable
+
+How about Django on other interpreters?
+========================================
+
+ * Alex Gaynor is also core dev on CPython and PyPy and says it works
+ * JKM asks about any issues with Django on Iron Python
