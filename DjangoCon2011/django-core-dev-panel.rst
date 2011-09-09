@@ -5,6 +5,10 @@ Django Core Dev Panel
 by cast of thousands
 
  * Jacob Kaplan-Moss
+ 
+    * Farming
+    * Apple ][ basic code just like me!
+ 
  * Justin Bronn
  
     * Linux kernal hacking
@@ -46,6 +50,9 @@ by cast of thousands
     * Doesn't like sproutcore cause it tries to change your system entirely
  
  * Andrew Godwin
+ 
+    * Wrote a breakout clone
+ 
  * Gary Wilson
  * James Bennett
  * Paul McMillon
