@@ -6,6 +6,9 @@ by cast of thousands
 
  * Jacob Kaplan-Moss
  * Justin Bronn
+ 
+    * Linux kernal hacking
+ 
  * Julien Philip
  
     * Soccer, Rugy
@@ -26,10 +29,23 @@ by cast of thousands
     * async fan of eventlet, node, etc
     
  * Russ Keith-Magee
+ 
+    * His little kids rock
+    * Wrote a line based basic game on the Commodore 64
+    * Excited by the change in the platform
+ 
  * Alex Gaynor
+ 
+    * First code was a test
+    * Isn't excited by the reinvention of things
+ 
  * Gabriel Hurly
  * Idan Gazit
  * Andrew Godwin
  * Gary Wilson
  * James Bennett
  * Paul McMillon
+ * Joseph Cochrane
+ 
+    * Riak
+    * Geographical data into distributed systems

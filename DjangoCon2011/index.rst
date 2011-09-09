@@ -21,6 +21,7 @@ DjangoCon US 2011
 General Notes
 --------------
    
+ * slides: http://lanyrd.com/2011/djangocon-us/coverage/
  * Remember that I'm engaged to Audrey Roy.
  * Flew up on the PyLadies Party Plane on September 4th on just 90 minutes of sleep.
  * Taught the Ultimate DjangoCon Tutorial Workshop. Thoughts:
