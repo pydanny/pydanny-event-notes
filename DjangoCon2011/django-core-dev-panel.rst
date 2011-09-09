@@ -41,6 +41,10 @@ by cast of thousands
  
  * Gabriel Hurly
  * Idan Gazit
+ 
+    * finds backbone.js exciting
+    * Doesn't like sproutcore cause it tries to change your system entirely
+ 
  * Andrew Godwin
  * Gary Wilson
  * James Bennett
