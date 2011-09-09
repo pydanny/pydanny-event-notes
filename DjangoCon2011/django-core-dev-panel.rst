@@ -76,3 +76,13 @@ What about App Refactor?
 =========================
 
 .. note:: Zoned out and missed this one. Argh
+
+ * infrastructure API has been cooked up
+ * configurable foreign key
+
+New community roles
+==========================
+
+ * Security Manager: Makes Django to be more secure
+ * Front end BDFL: Makes Django prettier
+ 
