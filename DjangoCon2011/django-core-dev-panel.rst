@@ -105,3 +105,12 @@ Code of conducts
 
  * JKM: Django community ought to have a written code of conduct
  * The Django core dev leadership is very approachable
+
+How can the Django third-party ecosphere be managed?
+====================================================
+
+ * Miguel Araujo wanted to know if we can manage the community of third-party world. Cause some packages are just unmaintained
+ * Possible ideas:
+ 
+    * unmaintained code could fall out of ownership
+    * How do you maintain/control a community of volunteer projects?
