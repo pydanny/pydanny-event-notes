@@ -114,3 +114,5 @@ How can the Django third-party ecosphere be managed?
  
     * unmaintained code could fall out of ownership
     * How do you maintain/control a community of volunteer projects?
+    * Core devs are already overloaded
+    * The DSF can give Django Packages and other projects more support
