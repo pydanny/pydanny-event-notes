@@ -6,10 +6,25 @@ by cast of thousands
 
  * Jacob Kaplan-Moss
  * Justin Bronn
- * Julien
+ * Julien Philip
+ 
+    * Soccer, Rugy
+    * First code was a calculator
+ 
  * Karen Tracy
+ 
+    * Played with Basic on the IBM PC
+ 
  * Carl Meyer
- * Chris
+ 
+    * Ice hockey
+    * first code was a patch
+    * likes playing with Haskell
+ 
+ * Chris Beaven
+ 
+    * async fan of eventlet, node, etc
+    
  * Russ Keith-Magee
  * Alex Gaynor
  * Gabriel Hurly
