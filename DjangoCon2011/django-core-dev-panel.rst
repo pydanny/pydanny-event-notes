@@ -92,3 +92,10 @@ How about Django on other interpreters?
 
  * Alex Gaynor is also core dev on CPython and PyPy and says it works
  * JKM asks about any issues with Django on Iron Python
+
+Talking on django-dev
+=======================
+
+ * be decent
+ * Don't just `+1` or `-1` that doesn't give them any knowledge
+ * Explain why you are sharing your opinion
