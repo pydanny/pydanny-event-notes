@@ -62,6 +62,7 @@ by cast of thousands
  * Karen Tracy
  
     * Played with Basic on the IBM PC
+    * Rescues kittens
     
  * Paul McMillon
  
