@@ -16,6 +16,7 @@ DjangoCon US 2011
    security-talk
    scrape-web
    cache
+   django-core-dev-panel
    
 General Notes
 --------------
