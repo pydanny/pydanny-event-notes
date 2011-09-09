@@ -154,6 +154,11 @@ Cache related code stuff
  
     * try a post_save signal to separate concerns. Hrm...
     * Using signals can make cache invalidation hard
+    * They have to do model.save() magic to make their system
+    * QUESTIONS: Aren't they losing that separation? Why not a save() override instead of signals? Wouldn't it be less engineering to just put it all in the save()? 
+    
+        * The answer is that they are breaking principals
+        * Not a clear answer on what they are getting out of post_save stuff then
     
 .. sourcecode:: python
 
@@ -169,5 +174,9 @@ Last minute Advice
 
  * Don't let your cache servers be accessible
  * consistent hashing is a neat trick -- use it!
+ 
+DoesNotExist Deserves Cache love
+--------------------------------
+
+sfsf
     
-QUESTION: why not a save() override instead of signals? Wouln't it be less engineering to just put it in the save()?
