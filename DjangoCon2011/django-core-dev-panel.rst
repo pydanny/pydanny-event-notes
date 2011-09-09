@@ -99,3 +99,9 @@ Talking on django-dev
  * be decent
  * Don't just `+1` or `-1` that doesn't give them any knowledge
  * Explain why you are sharing your opinion
+
+Code of conducts
+================
+
+ * JKM: Django community ought to have a written code of conduct
+ * The Django core dev leadership is very approachable
