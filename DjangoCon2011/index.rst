@@ -17,6 +17,7 @@ DjangoCon US 2011
    scrape-web
    cache
    django-core-dev-panel
+   sprints
    
 General Notes
 --------------
