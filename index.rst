@@ -17,6 +17,7 @@ Conferences
    DjangoCon2011/index
    KiwiPycon2011/index 
    PyconAU2011/index
+   Django1.3Webinar/index
    Pycon2011/index
    DjangoCon2010/index
    Pycon2010/index

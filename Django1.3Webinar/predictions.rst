@@ -1,4 +1,7 @@
-====================
+==========================================
+Predictions for future Django versions
+==========================================
+
 Predictions for 1.4
 ====================
 
@@ -27,7 +30,6 @@ Rampant Speculation
  * Better time zone support
  * Python 3
 
-====================
 Predictions for 1.5
 ====================
 
