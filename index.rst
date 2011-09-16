@@ -21,6 +21,7 @@ Conferences
    Pycon2011/index
    DjangoCon2010/index
    Pycon2010/index
+   django_master_class/index
    Pycon2009/index
    Pycon2008/index
    PloneConf2007/index
