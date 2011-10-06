@@ -66,4 +66,20 @@ Jesse says we need
 ====================
 
  * More Pythonic APIs (mentions Kenneth Reitz)
- * ..to remain conservative in changing the language too much
+ * ...to remain conservative in changing the language too much
+ * ...but adding to the stdlib is a problem
+ 
+    * Barely fits in the head
+    * stdlib stalls things
+
+PyPy!
+======
+
+ * Super-fast
+ * Gets things done
+ * A bit complex - needs people like Alex Gaynor to do the work
+ * Doesn't handle cpython stuff that touches C stuff.
+ * predictions:
+ 
+    * Will be used more and more
+    * Will continue to be based off the cpython implementation
