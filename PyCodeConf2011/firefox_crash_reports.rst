@@ -18,3 +18,11 @@ Overview
     * The basics
     * The numbers
     * Work process and tools
+    
+How crashy is the browser?
+==========================
+
+* Mozilla Crash report - please use it!
+* Will email you if you have malware they detect
+* Generates https://crash-stats.mozilla.com/products/Firefox
+* Mozilla needs your data to make Firefox better.
