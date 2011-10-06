@@ -76,5 +76,6 @@ Addition Goodies about backbone.js
 ================================================
 
 * Uses similiar routing to Django
+* Handy code snippet by Leah for Django CBV usage:
 
-url: function()
+    * https://gist.github.com/1265346
