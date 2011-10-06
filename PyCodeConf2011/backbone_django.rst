@@ -48,9 +48,19 @@ Backbone!
     window.Message = Backbone.model.extend({
         model: Message,
         
+        initialize: function(){
+            this.model.bind('add', this.addMessage)
+            // TODO 
+        
+        },        
+        
         });
         
-    // views are easy
+    // form submits
+    submitForm: function(){
+        
+    
+    };
 
 .. sourcecode:: python
 
