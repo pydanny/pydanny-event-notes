@@ -110,3 +110,7 @@ Community
  * I got mentioned by Jesse! Yeah!
  * Come to workshops and meetup groups
  * Get involved
+ 
+    * Outreach
+    * sprints
+    * http://pyladies.com
