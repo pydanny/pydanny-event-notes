@@ -8,7 +8,7 @@ PyCodeConf 2011
 .. toctree::
    :maxdepth: 2
    
-   check
+   future_is_bright
    
 Discussions
 =============
