@@ -108,3 +108,5 @@ Community
 
  * Look at the number of Python conferences!
  * I got mentioned by Jesse! Yeah!
+ * Come to workshops and meetup groups
+ * Get involved
