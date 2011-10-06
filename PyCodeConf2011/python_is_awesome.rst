@@ -12,6 +12,18 @@ Future is Bright
     * Commercial distributions like ActiveState and Enthought
     * Python has Zen. Internalized as core developers and internalized by community devs    
     
+Context for Success
+---------------------
+
+ * License
+ * Commercial Distributions
+ * Zen
+ * Community
+ * Repository of Modules (PyPI)
+ * Killer Apps and Success Stories
+ * Win32
+ * Books
+    
 Community
 ---------
     
