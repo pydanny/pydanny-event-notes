@@ -84,3 +84,8 @@ Addition Goodies about backbone.js
 
     * One thing can fire off multiple request
     * So if I am watching and someone else posts then I see the results
+
+Router
+=======
+
+ * Can do overlaps of views
