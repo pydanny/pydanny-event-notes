@@ -14,18 +14,18 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
-    PyCodeConf/index
-    DjangoCon2011/index
-    KiwiPycon2011/index 
-    PyconAU2011/index
-    Django1.3Webinar/index
-    Pycon2011/index
-    DjangoCon2010/index
-    Pycon2010/index
-    django_master_class/index
-    Pycon2009/index
-    Pycon2008/index
-    PloneConf2007/index
+   PyCodeConf/index
+   DjangoCon2011/index
+   KiwiPycon2011/index 
+   PyconAU2011/index
+   Django1.3Webinar/index
+   Pycon2011/index
+   DjangoCon2010/index
+   Pycon2010/index
+   django_master_class/index
+   Pycon2009/index
+   Pycon2008/index
+   PloneConf2007/index
  
 
 Indices and tables
