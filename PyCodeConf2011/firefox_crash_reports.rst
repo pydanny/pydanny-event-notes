@@ -32,3 +32,9 @@ How crashy is the browser?
 * Generates https://crash-stats.mozilla.com/products/Firefox
 * Mozilla needs your data to make Firefox better.
 
+Basic Architecure
+------------------
+
+ * Database is PostGres
+ * Lots of components powered by Python
+ * Front-end is PHP but will be converted to Django in 2012
