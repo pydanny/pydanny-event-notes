@@ -22,7 +22,7 @@ Overview
 The Basics
 ============
 
-* Sorocco crash information collector thingee
+* Socorro crash information collector thingee
 * Lots of companies use it to track this data:
 
     * Steam (game stuff)
@@ -66,3 +66,18 @@ Large number of cron jobs, e.g.:
     * Duplicate detection
     * Match up pairs of dumps (OOPP, content crashes, etc)
     * Generates extracts (CSV) for engineers to analyze
+    
+Middleware
+-----------
+
+* Moving all data access to be through REST API (by end of year)
+* (Still some queries in webapp)
+* Enable other front ends to data and us to rewrite webapp using Django in 2012
+* Upcoming (2011 or 2012) each component will have it's own API
+
+Webapp
+------
+
+* Hard parts: How to vizualize some of this data
+* Ex: Nightly builds, moving to reporting in build time, not clock time
+* Code crufty (old KohanaPHP)
