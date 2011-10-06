@@ -42,7 +42,13 @@ Story of PyPy
     * **Factoid**: PyPY is the only project known to actually use SVN branches!
     * Doing it this way made it faster? How? Wizard Magic?
 
+* Now PyPY is going fast:
 
+    * Crazy that it runs so much faster than cpython
+    * Hard to believe
+    * Python using a JIT generator to create a JIT library?
+    * Faster than cpython
+    * http://speed.pypy.org/
 
 
 Why you should use PyPy
