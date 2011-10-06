@@ -103,5 +103,8 @@ JIT generator means...
     * **Both versions just work!!!**
 
 The Future
+============
 
+* Lets make Python faster!
+* Give us problem children to fix!
 
