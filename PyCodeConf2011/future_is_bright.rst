@@ -24,3 +24,13 @@ What is Python?
     * Humble community - no rockstar personas 
     * Approachable
     * etc
+    
+Where is Python used?
+========================
+
+    * Disney Animation Studios
+    * NASA
+    * Many other things
+    * Too many cool places to list
+    * Python is everywhere
+    * Everyone uses Python
