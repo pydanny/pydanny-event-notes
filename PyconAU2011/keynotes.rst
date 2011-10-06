@@ -25,6 +25,8 @@ Sample projects:
 Raymond Hettiger
 ================
 
+See me fill in all the holes at: http://pydanny-event-notes.readthedocs.org/en/latest/PyCodeConf2011/python_is_awesome.html
+
 LA's own Raymond Hettiger talked about `What makes Python Awesome?`
 
     * Other languages are awesome, how is Python better?
