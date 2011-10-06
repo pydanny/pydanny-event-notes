@@ -131,3 +131,9 @@ Some thoughts
     * No
     * There are other ways to do it
     * GIL released on non-blocking I/O operations
+
+PyDanny take away
+====================
+
+* Now I think I grok the GIL issues finally
+* Ya, me is slow. :)
