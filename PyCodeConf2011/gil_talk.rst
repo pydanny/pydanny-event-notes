@@ -105,3 +105,19 @@ Performance Explained - thread priorities
 * To fix this, you need priorities
 * The original "Fix GIL" patch had priorities
 * That should be revisited
+
+Another experiment
+===================
+
+* David's 3.2 fork with priorities
+* Not suitable for real work
+* Interesting for testing
+* Lets you set the priorities manually
+
+.. sourcecode:: python
+
+    import sys
+    import threading
+    def my_function(value):
+    
+        sys.set_priority(-1) 
