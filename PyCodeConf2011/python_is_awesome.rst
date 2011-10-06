@@ -1,5 +1,5 @@
 ====================
-Future is Bright
+Python is Awesome
 ====================
 
 .. note:: Watched this at PyCon AU. Copied over my notes from there so I can fill in the holes here.
@@ -228,7 +228,7 @@ Winning Language Feature: With Statement
 
     * Clean, elegant resource management: threads, locks. etc
     * Important tool for factoring code
-    * Contains the setUp and tearDown code.
+    * Factors-out common setUp and tearDown code.
     * The reverse of functions
 
 Winning Language Feature: Abstract Base Classes
