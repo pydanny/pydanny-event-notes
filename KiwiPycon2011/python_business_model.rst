@@ -22,7 +22,7 @@ Monetisation
 
 .. warning:: When you play the role of market spoiler it's much easier to be famous than rich
 
-.. warning::  99% of the people who say, "The app store is a gold mine! I'm gonna be rich" are wrng
+.. warning::  99% of the people who say, "The app store is a gold mine! I'm gonna be rich" are wrong
 
 Why an open source business model?
 ===================================
