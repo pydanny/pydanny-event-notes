@@ -14,7 +14,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
-   PyCodeConf/index
+   PyCodeConf2011/index
    DjangoCon2011/index
    KiwiPycon2011/index 
    PyconAU2011/index
