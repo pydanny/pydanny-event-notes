@@ -2,7 +2,7 @@
 Backbone.js + Django
 ====================
 
-.. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
+.. note:: I'm having trouble keeping up when it comes to writing JavaScript fast. :P
 
 * Question: Why not JQuery templates?
 * Question: Best Practices?
