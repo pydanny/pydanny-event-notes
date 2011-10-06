@@ -2,8 +2,9 @@
 Backbone.js + Django
 ====================
 
-* by Leah Culver
+.. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
 
+* by Leah Culver
 * Works at convore.com, a YC Combinator funded project
 * LeafyChat - Django Dash 2009
 * web-based IRC client
@@ -62,7 +63,6 @@ Backbone!
     
     };
 
-.. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
 
 Handlebars templates
 ==============
@@ -79,3 +79,8 @@ Addition Goodies about backbone.js
 * Handy code snippet by Leah for Django CBV usage:
 
     * https://gist.github.com/1265346
+
+* Event based asynchronous
+
+    * One thing can fire off multiple request
+    * So if I am watching and someone else posts then I see the results
