@@ -4,13 +4,8 @@ Future is Bright
 
 .. note:: Watched this at PyCon AU. Copied over my notes from there so I can fill in the holes here.
 
- * By LA Python's own Raymond Hettinger
-
-    * Other languages are awesome, how is Python better?
-    * Most Python releases are GPL-compatible. This makes it free.
-    * Going to a closed source language means you are trapped.
-    * Commercial distributions like ActiveState and Enthought
-    * Python has Zen. Internalized as core developers and internalized by community devs    
+* By LA Python's own Raymond Hettinger
+ 
     
 Context for Success
 ---------------------
@@ -23,7 +18,13 @@ Context for Success
  * Killer Apps and Success Stories
  * Win32
  * Books
-    
+ 
+License
+--------
+
+ * Most Python releases are GPL-compatible. This makes it free.
+ * Going to a closed source language means you are trapped. 
+     
 Community
 ---------
     
