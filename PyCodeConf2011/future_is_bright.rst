@@ -47,4 +47,11 @@ Status of the Language
 ========================
 
  * Approx 123 accepted PEPS
- * about 80 Built-in function
+ * about 80 Built-in functions
+ * 250+ stdlibs
+ * Python 2.7.x is last of the 2.X series
+ * How about status of http://www.python.org/dev/peps/pep-0397/?
+ 
+    * Windows installer for Windows
+    * I don't use Windows, but my students usually do
+    
