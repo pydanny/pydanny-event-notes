@@ -1,5 +1,5 @@
 ========================
-PyCodeConf US 2011
+PyCodeConf 2011
 ========================
 
 Organizer: Github!
