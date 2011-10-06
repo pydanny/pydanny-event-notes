@@ -9,21 +9,21 @@ Backbone.js + Django
 * web-based IRC client
 
 Convore issue?
---------------
+==============
 
 * Who is supposed to use it?
 * Internal company stuff
 * What kind of discussions
 
 Grove!
---------------
+==============
 
 * IRC for your company
 * Internal for companies
 * https://grove.io 
 
 Leafy Chat
---------------
+==============
 
 * Pure JavaScript
 * very barebones - just JQuery
@@ -37,7 +37,7 @@ Each submit for chat:
 4. POST method in AJAX
 
 Backbone!
-----------
+==============
 
 * MVC style of programming for AJAX/JavaScript
 * More like DJango: MTV
@@ -63,3 +63,18 @@ Backbone!
     };
 
 .. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
+
+Handlebars templates
+==============
+
+* handlebars.js templates
+* looks like Django/Jinja2 templates
+* Why not JQuery templates?
+* See include_raw template tag as per htto://djangosnippets.org/snippets/1684
+
+Addition Goodies about backbone.js
+================================================
+
+* Uses similiar routing to Django
+
+url: function()
