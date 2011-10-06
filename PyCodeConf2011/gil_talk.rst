@@ -118,6 +118,16 @@ Another experiment
 
     import sys
     import threading
-    def my_function(value):
+    def spin(value):
     
         sys.set_priority(-1) 
+        
+Some thoughts
+===============
+
+* Huge boost in Python with only minor changes to a few files
+* Is this the only GIL improvement?
+    
+    * No
+    * There are other ways to do it
+    * GIL released on non-blocking I/O operations
