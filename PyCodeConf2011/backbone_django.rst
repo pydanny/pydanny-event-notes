@@ -28,3 +28,10 @@ Leafy Chat
 * Pure JavaScript
 * very barebones - just JQuery
 * Very dirty in that their construct HTML manually
+
+Each submit for chat:
+
+1. handle form submit
+2. create new message
+3. display mesage in list
+4. POST method in AJAX
