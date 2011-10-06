@@ -24,3 +24,5 @@ Best practices
 ===============
 
 * pin your versions
+* Don't use repos for production
+* Not for deployment!
