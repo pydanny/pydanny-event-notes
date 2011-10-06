@@ -13,6 +13,12 @@ by Alex Gaynor
 * Core Django Dev
 * Interned at Quora and got them on PyPY
 
+Two things go faster than C
+==============================
+
+* neutrinos
+* PyPy
+
 Story of PyPy
 ================
 
