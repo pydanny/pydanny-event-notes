@@ -27,6 +27,11 @@ Story of PyPy
     * Managing it was hard
     * hardcoded for 32 bit CPUs and we are on 64 bit
     * Any changes to core Python killed pysco
+    
+* Years ago created a Python interpreter inside of Python
+
+    * 2000x slower than cpython
+    * ran on restricted Python (**r-python**)
 
 Why you should use PyPy
 =======================
