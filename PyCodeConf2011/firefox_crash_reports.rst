@@ -12,3 +12,9 @@ Processing Firefox Crash Reports With Python
     * Done about 100 talks!
     * Mozilla is hiring like crazy
 
+Overview
+=========
+
+    * The basics
+    * The numbers
+    * Work process and tools
