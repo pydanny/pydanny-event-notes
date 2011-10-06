@@ -23,6 +23,10 @@ The Basics
 ============
 
 * Sorocco crash information collector thingee
+* Lots of companies use it to track this data:
+
+    * Steam (game stuff)
+    * Other things
 
 How crashy is the browser?
 --------------------------
@@ -38,3 +42,10 @@ Basic Architecure
  * Database is PostGres
  * Lots of components powered by Python
  * Front-end is PHP but will be converted to Django in 2012
+ 
+Lifetime to a crash
+--------------------
+
+* Browser crashes
+* Sends data to Mozilla in a big binary dump with a JSON header
+* Mozilla processes the header and tries to generate a signature of the crash
