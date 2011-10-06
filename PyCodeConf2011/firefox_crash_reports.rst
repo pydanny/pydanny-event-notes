@@ -124,3 +124,19 @@ Implementation Scale
     * Hiring: https://whitespacejobs.org
 
 * Deploy approximatelt weekly but could do continuous if they need
+
+Development Process
+====================
+
+* Fork
+* Hard to install (must use VM)
+* Pull request with bugfix/feature
+* Code review
+* Jenkins polls github master, picks up changes
+* Jenkins runs tests, builds a package
+* Package picked up and moved to dev
+* Wanted changes merged to release branch
+* Jenkins builds release branch, manual push to stage
+* QA runs acceptance on stage
+* TODO missing
+* TODO missing
