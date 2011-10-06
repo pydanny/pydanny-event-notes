@@ -210,7 +210,11 @@ Winning language Decorators
  * Expressive
  * Easy on the eyes
  * Works for functions, methods, and classes
+ * Adds powerful layer of composable tools
  * **Factoid**: I have problem writing them. Serious problems. :'(
+ * Raymond shows sample code from Daniel Lindsley's Itty!
+ 
+    * https://github.com/toastdriven/itty
 
 Winning Language Features: exec, eval, type
 --------------------------------------------
