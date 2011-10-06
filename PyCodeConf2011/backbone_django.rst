@@ -4,6 +4,9 @@ Backbone.js + Django
 
 .. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
 
+* Question: Why not JQuery templates?
+* Question: Best Practices?
+
 * by Leah Culver
 * Works at convore.com, a YC Combinator funded project
 * LeafyChat - Django Dash 2009
@@ -69,7 +72,6 @@ Handlebars templates
 
 * handlebars.js templates
 * looks like Django/Jinja2 templates
-* Why not JQuery templates?
 * See include_raw template tag as per htto://djangosnippets.org/snippets/1684
 
 Addition Goodies about backbone.js
