@@ -12,6 +12,7 @@ PyCodeConf 2011
    gil_talk
    python_is_awesome
    backbone_django
+   pypy_talk
    
 Discussions
 =============
