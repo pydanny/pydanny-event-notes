@@ -95,3 +95,4 @@ Commentary
  * How about PyPI?
  
     * What? Older version was 567 slower!
+    * New version is much faster. .. note:: Get results!
