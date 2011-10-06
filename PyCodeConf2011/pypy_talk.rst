@@ -67,4 +67,4 @@ Tools
 * TODO: Toolname here
 
     * Finding slow spots in existing code
-    * Looks at Python, byte code, assembly, et al
+    * Looks at Python, byte code, assembler, et al
