@@ -69,3 +69,39 @@ Tools
 
     * Finding slow spots in existing code
     * Looks at Python, byte code, assembler, et al
+    
+**Fast!!!**
+-------------------
+
+* Faster than cpython
+* They now metric it's speed against C, not Python
+* Compatibilities
+
+    * Much work with third-party integration
+    * lots of people are using Python instead of C extensions
+    * PEP in place so that new stdlib stuff has to be pure python
+    
+* Quora is much more snappy
+    
+Python 3
+--------
+
+* PyPy is beginning the move to Python 3
+* JIT generator to the rescue!
+
+
+JIT generator means...
+------------------------
+
+* They can branch the Python 2.7 PyPy stuff to Python 3
+    * Make the Python 3 version work
+    * And since the JIT generator makes the code, both versions **will just work**
+    
+* Can do a GIL version for single CPU or non-GIL for multicore
+
+    * JIT generated so...
+    * **Both versions just work!!!**
+
+The Future
+
+
