@@ -21,3 +21,9 @@ Grove!
 * IRC for your company
 * Internal for companies
 * https://grove.io 
+
+Leafy Chat
+=============================
+
+* Pure JavaScript
+* very barebones - just JQuery
