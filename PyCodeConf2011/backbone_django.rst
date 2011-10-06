@@ -27,3 +27,4 @@ Leafy Chat
 
 * Pure JavaScript
 * very barebones - just JQuery
+* Very dirty in that their construct HTML manually
