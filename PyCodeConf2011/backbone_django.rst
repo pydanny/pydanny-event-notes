@@ -62,6 +62,4 @@ Backbone!
     
     };
 
-.. sourcecode:: python
-
-    def python_here
+.. note:: I'm having trouble keeping up when it comes to writing JS fast. :P
