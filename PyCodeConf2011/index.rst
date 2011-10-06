@@ -11,7 +11,7 @@ PyCodeConf 2011
    future_is_bright
    gil_talk
    python_is_awesome
-   backbone_django.rst
+   backbone_django
    
 Discussions
 =============
