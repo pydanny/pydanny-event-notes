@@ -65,7 +65,7 @@ Science!
 Tools
 -----
 
-* TODO: Toolname here
+* jitviewer
 
     * Finding slow spots in existing code
     * Looks at Python, byte code, assembler, et al
