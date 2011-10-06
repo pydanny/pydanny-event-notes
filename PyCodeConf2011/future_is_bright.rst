@@ -114,3 +114,10 @@ Community
     * Outreach
     * sprints
     * http://pyladies.com
+    
+ * Don't be a jerk
+    
+    * .. note: Me says PEP-0397!
+    * Stay positive
+    * Not all criticism is constructive
+
