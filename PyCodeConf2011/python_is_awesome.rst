@@ -193,6 +193,17 @@ Proposal: Generators that accept inputs
     * Callback coding is hard to follow and debug
     * Wouldn't it be great if we could have the benefits of Twisted in procedural code?
 
+.. sourcecode:: python
+
+    # two way generator example
+    @inlined_defereed
+    def session(request, cleared=False):
+        while not cleared:
+            cleared = yield authenticate(request.user)
+        db_result = yield database_query(request.query)
+        html - yield format_data(db_result)
+        # TODO finish getting this down
+        
 Winning language Decorators
 ------------------------------
 
