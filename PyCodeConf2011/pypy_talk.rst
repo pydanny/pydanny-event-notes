@@ -39,7 +39,7 @@ Story of PyPy
 
     * Writing a JIT for Python sucks
     * Writing a generator for making JITs for any language is easier
-    * **Factoid**: PyPY is the only project known to actually use SVN branches!
+    * **Alex Statement**: "PyPy is the only project I know of that uses SVN branches. That's the most impressive part"
     * Doing it this way made it faster? How? Wizard Magic?
 
 * Now PyPY is going fast:
