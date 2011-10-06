@@ -96,3 +96,6 @@ Commentary
  
     * What? Older version was 567 slower!
     * New version is much faster. .. note:: Get results!
+    
+.. warning:: Distracted by some work stuff. Missed some awesome stuff here.
+
