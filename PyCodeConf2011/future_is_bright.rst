@@ -121,3 +121,11 @@ Community
     * Not all criticism is constructive
     * It can be hard to fight through vitriol and find what's worthwhiel
 
+Questions
+=========
+
+ * CW:  What PEPs will affect the language
+ 
+    * Answer: Hard to say cause there are so many things going on
+    * Answer: Twisted components into core is on the docket
+    * Answer: Some API sugar
