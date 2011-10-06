@@ -155,3 +155,8 @@ Upcoming
 * More analytics; automatic detection of explosive crashes, malware, etc
 * Better queueing
 * Grand Unified Configuration System
+
+Everything is Open Source
+====================================
+
+* https://github.com/mozilla/socorro
