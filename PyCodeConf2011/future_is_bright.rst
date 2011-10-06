@@ -117,7 +117,7 @@ Community
     
  * Don't be a jerk
     
-    * .. note: Me says PEP-0397!
     * Stay positive
     * Not all criticism is constructive
+    * It can be hard to fight through vitriol and find what's worthwhiel
 
