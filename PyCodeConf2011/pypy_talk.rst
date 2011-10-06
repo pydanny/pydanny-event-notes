@@ -12,6 +12,7 @@ by Alex Gaynor
 
 * Core Django Dev
 * Interned at Quora and got them on PyPY
+* Dressed very classy.
 
 Two things go faster than C
 ==============================
