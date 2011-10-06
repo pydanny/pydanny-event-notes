@@ -50,8 +50,21 @@ Story of PyPy
     * Faster than cpython
     * http://speed.pypy.org/
 
-
 Why you should use PyPy
 =======================
 
-thingstocomeblah
+Science!
+---------
+
+* Fast and scientist friendly
+* Now works with numpy!
+
+    * Not complete
+    
+Tools
+-----
+
+* TODO: Toolname here
+
+    * Finding slow spots in existing code
+    * Looks at Python, byte code, assembly, et al
