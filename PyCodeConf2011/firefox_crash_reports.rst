@@ -7,7 +7,8 @@ Processing Firefox Crash Reports With Python
     * Web tools engineering manager
     * author of two books:
     
-        * MySQL
+        * PHP and MySQL Web Development
+        * The Surrealists
     
     * Done about 100 talks!
     * Mozilla is hiring like crazy
