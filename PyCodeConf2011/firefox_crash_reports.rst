@@ -104,3 +104,23 @@ Some Numbers
 * 2.5 million per day
 * Median crash size 150K, max size 20MB (reject bigger)
 * ~110TB stored in HDFS (3x replication, ~40TB of HBase data)
+
+What can they do?
+==================
+
+* Does a version of FF crash more than others?
+* Analyze differences between versions of Flash
+* Detect duplicate crashes
+* Detect explosive crashes
+* Find "frankenstalls" that can happen on Windows
+* Email victims of malware
+
+Implementation Scale
+====================================
+
+* > 115 boxes (not cloud cause that won't cut it)
+* Now 8 devs + sysadmins + QA + Hadoop ops/analysts
+
+    * Hiring: https://whitespacejobs.org
+
+* Deploy approximatelt weekly but could do continuous if they need
