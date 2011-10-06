@@ -11,3 +11,14 @@ by Alex Gaynor
     * PyPy
 
 * Core Django Dev
+* Interned at Quora and got them on PyPY
+
+Story of PyPy
+================
+
+thingstocome
+
+Why you should use PyPy
+=======================
+
+thingstocomeblah
