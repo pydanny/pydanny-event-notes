@@ -9,6 +9,7 @@ PyCodeConf 2011
    :maxdepth: 2
    
    future_is_bright
+   gil_talk
    python_is_awesome
    
 Discussions
