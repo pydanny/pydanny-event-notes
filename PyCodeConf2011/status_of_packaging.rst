@@ -26,3 +26,26 @@ Best practices
 * pin your versions
 * Don't use repos for production
 * Not for deployment!
+
+What's missing?
+===============
+
+* locks
+
+Recap
+=====
+
+* packaging 
+
+    * use PyPI
+
+* Dependency Management
+
+    * Pip
+    * virtualenv
+    
+Thoughts
+=========
+
+ * We're in better shape than realized
+ * Just need to use the tools we have effectively
