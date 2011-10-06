@@ -94,3 +94,16 @@ Python interpeters
     * CPython
     * Jython
     * IronPython
+    
+Python 3
+========
+
+ * Keep calm and carry on
+ * Python is 21 years old, a 5 year plan to migrate to it is nothing
+ * Python 3 porting is getting finding
+ * The PSF is willing to give out grants
+
+Community
+=========
+
+ * Look at the number of Python conferences!
