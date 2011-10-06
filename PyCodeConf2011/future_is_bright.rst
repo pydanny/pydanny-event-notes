@@ -55,3 +55,15 @@ Status of the Language
     * Windows installer for Windows
     * I don't use Windows, but my students usually do
     
+Jesse's Personal Wishlist
+========================
+
+ * Better messaging systems
+ * Actor support in stdlib
+ * Support for gevent and other things
+
+Jesse says we need
+====================
+
+ * More Pythonic APIs (mentions Kenneth Reitz)
+ * ..to remain conservative in changing the language too much
