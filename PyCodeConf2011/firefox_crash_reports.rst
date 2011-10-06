@@ -49,3 +49,7 @@ Lifetime to a crash
 * Browser crashes
 * Sends data to Mozilla in a big binary dump with a JSON header
 * Mozilla processes the header and tries to generate a signature of the crash
+
+    * They need more than just the function that created the crash
+    * Doesn't cover all cases
+    * Uses a regex to glean out other things from the binary crash dump
