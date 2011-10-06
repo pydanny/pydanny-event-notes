@@ -13,6 +13,7 @@ PyCodeConf 2011
    python_is_awesome
    backbone_django
    pypy_talk
+   firefox_crash_reports
    
 Discussions
 =============
