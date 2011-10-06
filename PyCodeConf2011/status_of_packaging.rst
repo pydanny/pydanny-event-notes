@@ -19,3 +19,8 @@ virtualenv
 
 * Sandbox tool
 * Destroy and recreate often
+
+Best practices
+===============
+
+* pin your versions
