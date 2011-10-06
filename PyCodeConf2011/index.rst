@@ -15,6 +15,7 @@ PyCodeConf 2011
    pypy_talk
    firefox_crash_reports
    future_of_collaboration
+   status_of_packagins
    
 Discussions
 =============
