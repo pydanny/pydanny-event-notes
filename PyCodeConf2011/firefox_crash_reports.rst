@@ -40,6 +40,7 @@ Basic Architecure
 ------------------
 
  * Database is PostGres
+ * HBase for map-reduce, she wants to replace it with something else
  * Lots of components powered by Python
  * Front-end is PHP but will be converted to Django in 2012
  
@@ -53,3 +54,15 @@ Lifetime to a crash
     * They need more than just the function that created the crash
     * Doesn't cover all cases
     * Uses a regex to glean out other things from the binary crash dump
+
+Back end processing
+--------------------
+
+Large number of cron jobs, e.g.:
+
+    * Calculate aggregates: Top Crashers (Farmville if you want to know)
+    * Process incoming builds from ftp server
+    * Match known crashes to bugzilla bugs
+    * Duplicate detection
+    * Match up pairs of dumps (OOPP, content crashes, etc)
+    * Generates extracts (CSV) for engineers to analyze
