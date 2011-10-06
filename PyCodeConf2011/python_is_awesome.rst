@@ -145,8 +145,6 @@ Winner Language Feature: Iterator Protocol
  * High level glue that holds the language together
  * Iterables: strings, lsits, sets, dicts, collections, files, open urls, csv readers, itertools
  * Um... I know this. I've had to construct these on my own in other languages. But not Python... Wow - I just realized this just now.
- * List comprehensions give us joy
- * List generators are amazing. No one else has them
  
 .. sourcecode:: python
 
@@ -155,13 +153,41 @@ Winner Language Feature: Iterator Protocol
     sorted(set('abracadabra'))
     sorted(set(open(filename))
     sorted(set(open(filename))
+    
+.. warning:: If you say "Python has iterators, you have to explain how it is globally implemented. Other languages have iterators, but they have to be implemented and extended and stuff"
 
 Winner Language Feature: Generators
 --------------------------------------------
 
- * Serious magic
- * A million rows in a generators is nothing
- * Simple syntax to do them. You only need the YIELD keyword.
+* List comprehensions give us joy
+* Logical extension to list comprehensions and generators to unify the language
+* List generators are amazing. No one else has them
+* Serious magic
+* A million rows in a generators is nothing
+* Simple syntax to do them. You only need the YIELD keyword.
+
+.. sourcecode:: python
+
+    # Sample generator code
+    def pager(lines, page_len=60):
+    
+        for lineno, line in enumerate(lines):
+            yield line
+            if lineno % pagelen == 0:
+                yield FORMFEED
+
+    # genexps setcomps and dictcomps
+    sum(x**3 for x in xrange(10000))
+    
+.. note:: I've used list generations to super-optimize slow code
+
+Proposal: Generators that accept inputs
+----------------------------------------
+
+* Generators support **send(), throw(), close()**
+* Unique to Python
+* Makes it possible to implement **Twisted**'s *inline deferreds*
+* Add one line of **Twisted** to your code and it infects your whole app
 
 Winning language Decorators
 ------------------------------
