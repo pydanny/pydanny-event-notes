@@ -13,3 +13,14 @@ What he does
  * Python core dev
  * Dad, developer
  
+What is Python?
+==================
+
+ * Language
+ * Community
+ * PyPy, PyPI
+ * Heroku: http://bit.ly/o73sOR
+
+    * Humble community - no rockstar personas 
+    * Approachable
+    * etc
