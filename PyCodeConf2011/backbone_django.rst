@@ -2,7 +2,7 @@
 Backbone.js + Django
 ====================
 
-by Leah Culver
+* by Leah Culver
 
 * Works at convore.com, a YC Combinator funded project
 * LeafyChat - Django Dash 2009
@@ -36,3 +36,22 @@ Each submit for chat:
 3. display mesage in list
 4. POST method in AJAX
 
+Backbone!
+----------
+
+* MVC style of programming for AJAX/JavaScript
+* More like DJango: MTV
+
+.. sourcecode:: javascript
+
+    // models are easy!
+    window.Message = Backbone.model.extend({
+        model: Message,
+        
+        });
+        
+    // views are easy
+
+.. sourcecode:: python
+
+    def python_here
