@@ -96,3 +96,11 @@ Implementation Details
     * Considering alternatives
 * 100 users
 * 100 Terabytes of data
+
+Some Numbers
+=============
+
+* At peak 2300 crashes per minute
+* 2.5 million per day
+* Median crash size 150K, max size 20MB (reject bigger)
+* ~110TB stored in HDFS (3x replication, ~40TB of HBase data)
