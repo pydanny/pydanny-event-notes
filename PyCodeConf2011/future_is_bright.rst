@@ -34,3 +34,17 @@ Where is Python used?
     * Too many cool places to list
     * Python is everywhere
     * Everyone uses Python
+    
+Python is amazing
+====================
+
+ * Easy to learn
+ * Easy to use
+ * Very fast
+ * Large scale, small scale
+ 
+Status of the Language
+========================
+
+ * Approx 123 accepted PEPS
+ * about 80 Built-in function
