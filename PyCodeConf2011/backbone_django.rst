@@ -9,21 +9,21 @@ by Leah Culver
 * web-based IRC client
 
 Convore issue?
-===============
+--------------
 
 * Who is supposed to use it?
 * Internal company stuff
 * What kind of discussions
 
 Grove!
-======
+--------------
 
 * IRC for your company
 * Internal for companies
 * https://grove.io 
 
 Leafy Chat
-=============================
+--------------
 
 * Pure JavaScript
 * very barebones - just JQuery
@@ -35,3 +35,4 @@ Each submit for chat:
 2. create new message
 3. display mesage in list
 4. POST method in AJAX
+
