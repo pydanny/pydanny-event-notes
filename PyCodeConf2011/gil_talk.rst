@@ -99,3 +99,9 @@ Commentary
     
 .. warning:: Distracted by some work stuff. Missed some awesome stuff here.
 
+Performance Explained - thread priorities
+============================================
+
+* To fix this, you need priorities
+* The original "Fix GIL" patch had priorities
+* That should be revisited
