@@ -18,3 +18,10 @@ premise
 * That's because threads are useful
 * Threads make great stuff work
 * Even if you don't see them directly
+
+The Gil in a Nutshell
+=====================
+
+ * Every Python file gets compiled into VM instructions
+ * In cpython, it is unsafe to execute instruction concurrently
+ * Hence: Locking
