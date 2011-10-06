@@ -22,7 +22,11 @@ Two things go faster than C
 Story of PyPy
 ================
 
-thingstocome
+* psyco was JIT python
+
+    * Managing it was hard
+    * hardcoded for 32 bit CPUs and we are on 64 bit
+    * Any changes to core Python killed pysco
 
 Why you should use PyPy
 =======================
