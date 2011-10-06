@@ -189,6 +189,10 @@ Proposal: Generators that accept inputs
 * Makes it possible to implement **Twisted**'s *inline deferreds*
 * Add one line of **Twisted** to your code and it infects your whole app
 
+    * Twisted forces you to write in callbacks
+    * Callback coding is hard to follow and debug
+    * Wouldn't it be great if we could have the benefits of Twisted in procedural code?
+
 Winning language Decorators
 ------------------------------
 
