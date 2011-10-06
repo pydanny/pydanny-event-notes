@@ -32,6 +32,13 @@ Story of PyPy
 
     * 2000x slower than cpython
     * ran on restricted Python (**r-python**)
+    * Wrote a great compiler: now 10x slower than cpython
+    * Added better garbage collection: now 4x slower than cpython
+    
+* New JIT for Python
+
+    * Writing a JIT for Python sucks
+    * Writing a generator for making JITs for any language is easier
 
 Why you should use PyPy
 =======================
