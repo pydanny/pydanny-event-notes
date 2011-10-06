@@ -8,3 +8,16 @@ by Leah Culver
 * LeafyChat - Django Dash 2009
 * web-based IRC client
 
+Convore issue?
+===============
+
+* Who is supposed to use it?
+* Internal company stuff
+* What kind of discussions
+
+Grove!
+======
+
+* IRC for your company
+* Internal for companies
+* https://grove.io 
