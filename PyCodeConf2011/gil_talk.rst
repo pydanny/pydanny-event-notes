@@ -3,7 +3,7 @@ Embracing the GIL
 =================
 
 * by David Beazley
-* slides: TODO
+* slides: http://dabeaz.com/talks/EmbraceGIL/
 
 Embracing the GIL could be better
 ====================================
