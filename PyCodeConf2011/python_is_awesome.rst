@@ -5,8 +5,7 @@ Future is Bright
 .. note:: Watched this at PyCon AU. Copied over my notes from there so I can fill in the holes here.
 
 * By LA Python's own Raymond Hettinger
- 
-    
+
 Context for Success
 ---------------------
 
@@ -80,7 +79,13 @@ Economy of expression
     hashmap = {}
     for path, dirs, files in os.walk('.'):
         for filename in files:
-            # fill this out from the slides
+            fullname = os.path.join(path, filename)
+            with open(fullname) as f:
+                d = f.read()
+            h = hashlib.md5(d).hexdigest()
+            filelist = hashmap.setdefault(h, [])
+            filelist.append(fullname)
+    pprint.print(hasmap)
             
 Beauty Counts
 -------------
@@ -142,6 +147,14 @@ Winner Language Feature: Iterator Protocol
  * Um... I know this. I've had to construct these on my own in other languages. But not Python... Wow - I just realized this just now.
  * List comprehensions give us joy
  * List generators are amazing. No one else has them
+ 
+.. sourcecode:: python
+
+    # When Raymond wrote **sorted** he wasn't thinking about sets
+    # But they still just works
+    sorted(set('abracadabra'))
+    sorted(set(open(filename))
+    sorted(set(open(filename))
 
 Winner Language Feature: Generators
 --------------------------------------------
