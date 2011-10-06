@@ -140,3 +140,18 @@ Development Process
 * QA runs acceptance on stage
 * TODO missing
 * TODO missing
+
+Absolutely Critical!
+====================
+
+**Build all the machinery for continuous deployment even if you don't want to deploy continuously**
+
+* You don't want to install HBase
+
+Upcoming
+=========
+
+* ElasticSearch implemented for better search
+* More analytics; automatic detection of explosive crashes, malware, etc
+* Better queueing
+* Grand Unified Configuration System
