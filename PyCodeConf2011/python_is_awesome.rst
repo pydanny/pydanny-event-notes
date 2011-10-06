@@ -216,6 +216,7 @@ Winning language Decorators
  * Raymond shows sample code from Daniel Lindsley's Itty!
  
     * https://github.com/toastdriven/itty
+    
 
 Winning Language Features: exec, eval, type
 --------------------------------------------
@@ -230,11 +231,36 @@ Winning Language Feature: With Statement
     * Important tool for factoring code
     * Factors-out common setUp and tearDown code.
     * The reverse of functions
+    
+.. sourcecode:: python
+
+    with locking:
+        access_resource()    
 
 Winning Language Feature: Abstract Base Classes
 --------------------------------------------------
 
- * TODO - go over this one
+ * Uniform definition of what it means to be a sequence, mapping, etc
+ * Ability to override **isinstance()** and **issubclass()**
+ 
+    * New duck typing method: **Just say you are duck!** 
+    
+ * Mix-in capability
+ * Sample:
+ 
+.. sourcecode:: python
+
+    clas ListBasedSet(collections.Set):
+        
+        def __init__(self, iterable):
+        
+            self.elements = lst = []
+            # TODO add more
+            
+        def __iter__(self):
+            return iter(self.elements)
+            
+        # TODO add more methods
  
 Winning Language Feature: Indentation 
 --------------------------------------------------
