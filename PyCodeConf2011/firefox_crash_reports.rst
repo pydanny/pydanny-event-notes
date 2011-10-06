@@ -29,7 +29,7 @@ The Basics
     * Other things
 
 How crashy is the browser?
---------------------------
+====================================
 
 * Mozilla Crash report - please use it!
 * Will email you if you have malware they detect
@@ -37,7 +37,7 @@ How crashy is the browser?
 * Mozilla needs your data to make Firefox better.
 
 Basic Architecure
-------------------
+========================
 
  * Database is PostGres
  * HBase for map-reduce, she wants to replace it with something else
@@ -45,7 +45,7 @@ Basic Architecure
  * Front-end is PHP but will be converted to Django in 2012
  
 Lifetime to a crash
---------------------
+====================================
 
 * Browser crashes
 * Sends data to Mozilla in a big binary dump with a JSON header
@@ -56,7 +56,7 @@ Lifetime to a crash
     * Uses a regex to glean out other things from the binary crash dump
 
 Back end processing
---------------------
+====================================
 
 Large number of cron jobs, e.g.:
 
@@ -68,7 +68,7 @@ Large number of cron jobs, e.g.:
     * Generates extracts (CSV) for engineers to analyze
     
 Middleware
------------
+====================================
 
 * Moving all data access to be through REST API (by end of year)
 * (Still some queries in webapp)
@@ -76,8 +76,23 @@ Middleware
 * Upcoming (2011 or 2012) each component will have it's own API
 
 Webapp
-------
+====================================
 
 * Hard parts: How to vizualize some of this data
 * Ex: Nightly builds, moving to reporting in build time, not clock time
 * Code crufty (old KohanaPHP)
+
+Implementation Details
+====================================
+
+* Python 2.6 mostly (PHP is the exception)
+* Post Gres 9.1
+* memcache for the webapp
+* Thrift for HBase access
+
+    * HBase is meant to work with Java
+    * Could do it in Clojure/Scala but finding resources would be hard
+    * Thought about Jython then backed off
+    * Considering alternatives
+* 100 users
+* 100 Terabytes of data
