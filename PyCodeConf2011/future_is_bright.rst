@@ -83,3 +83,14 @@ PyPy!
  
     * Will be used more and more
     * Will continue to be based off the cpython implementation
+    
+Python interpeters
+=========================
+
+ * Need to work together, tests, compatibility, etc
+ * BFFs:
+ 
+    * PyPy
+    * CPython
+    * Jython
+    * IronPython
