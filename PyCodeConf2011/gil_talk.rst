@@ -2,7 +2,8 @@
 Embracing the GIL
 =================
 
-by David Beazley
+* by David Beazley
+* slides: TODO
 
 Embracing the GIL could be better
 ====================================
@@ -65,9 +66,9 @@ Five different implementations
  * Done on EC2 with nothing else running
  * implementations
  
-    * C + 0mq 
+    * C + 0mq
     * Python + 0mq
-    * Python + multi
+    * Python + multiprocessing
     * Python + blocking sockets
     * Python +  nonblocking sockets
     
@@ -80,4 +81,17 @@ What happens when you introduce a thread?
 
  * What does it do to the performance?
 
+    * C + 0mq *(samish seed)*
+    * Python + 0mq *(7x slower)*
+    * Python + multiprocessing *(8.9x slower)*
+    * Python + blocking sockets *(approx 10.x slower)*
+    * Python +  nonblocking sockets *(approx 10.x slower)*
 
+Commentary
+-----------
+
+ * Simple test
+ * Not a hard-core realistic talk
+ * How about PyPI?
+ 
+    * What? Older version was 567 slower!
