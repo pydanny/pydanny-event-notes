@@ -14,6 +14,7 @@ PyCodeConf 2011
    backbone_django
    pypy_talk
    firefox_crash_reports
+   future_of_collaboration
    
 Discussions
 =============
