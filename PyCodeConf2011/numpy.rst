@@ -88,16 +88,24 @@ Travis Found Python and Numeric in 1997
 * A set of libraries and stuff
 * Lots of early contributors
 
+NumPy started in 2006
+-----------------------
+
+* Wasn't happy with some of the directions of Numeric
+* Got it working after 18 months and the work of 6+ dedicated people
+
 SciPy Today
 ------------
 
 * Conferences
-* Collection of Tools
-* 
+* Collection of Tools (NumPy, et al)
+* Community
+* being looked at by the Financial community
 
+Array Oriented Tools
+=====================
 
-
-
+* We aren't talking about simple lists but gigantic multidimensional arrays
 
 
 Aside: Call to Action
