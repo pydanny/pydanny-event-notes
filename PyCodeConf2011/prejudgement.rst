@@ -25,3 +25,39 @@ Alternative Title: 10 years of failures and bad mistakes
 * Learned Lisp
 * Started his own crazy language
 * But Python did the same thing, so went with that instead
+* Python <3
+
+2006
+=====
+
+* Exhausted by his company, Python
+* BitBacker
+
+
+2009
+====
+
+* Started doing Ruby/Python 50/50
+* Every day of the year switched languages halfway through
+
+Quotes of the time:
+
+* "I can integrate Python lib in 10 minutes, Ruby lib in an hour..."
+* "Ruby syntax tricks can be hard, but other languages might want to take note"
+* "Wrote a Python specer that would have been trivial to do in Python"
+
+Not sure Ruby is serious cause the docs have some crazy stuff
+
+Q2 2010
+=======================
+
+Writing tests in ruby:
+
+.. sourcecode:: ruby
+
+    require 'counter'
+    describe Counter do
+        if "increments" do
+        c = Counter.new
+        expect { c.increment }.to chnge { c.count }.by(1)
+    end
