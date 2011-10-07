@@ -2,7 +2,7 @@
 The Future of Collaboration - Daniel Greenfeld
 ==============================================
 
-.. note:: Audreyr took these notes
+.. note:: Audreyr took these notes. :)
 
 Intro
 =====

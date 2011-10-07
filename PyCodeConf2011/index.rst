@@ -15,7 +15,9 @@ PyCodeConf 2011
    pypy_talk
    firefox_crash_reports
    future_of_collaboration
-   status_of_packagins
+   status_of_packaging
+   api_design
+   python_slow_if_wrong
    
 Discussions
 =============
