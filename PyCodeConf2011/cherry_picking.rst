@@ -73,3 +73,35 @@ Difflib + Genshi
 * Change Difflib to be `<ins>/<del>` so Genshi can render it
 * Instant pages!
 
+Serializers
+-------------
+
+* pickle, phpserialize, itsdangerous, json
+* Within the compatible types it 
+
+Loosely couple all the ways!!!
+====================================
+
+Many small bits with specific merge points that are loosely coupled
+
+* WSGI
+* HTTP
+* ZeroMQ
+* Message queues
+* Datastore
+* JavaScript
+
+WSGI
+-----
+
+* Dictionary passed around
+* Framework independent, but only for Python
+* Tornado and Twisted don't do it, but everything else does
+* Middlewares are unused and hard to make
+
+    * TODO: Get his middleware example for use as possible sub-domain hack
+    
+* WSGI middleware has issues:
+
+    * Can't consume dform data
+    * Processing response from application is complex
