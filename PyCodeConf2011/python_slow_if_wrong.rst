@@ -163,10 +163,11 @@ JIT vs ???
 .. note:: TODO - find out the missing half of this title
 
 * HelloMark benchmark language
+* Simple process benchmark for command-line tools
 
 1. C
 2. Go
-3. Per
+3. Perl
 4. Ruby 1.8
 5. Ruby 1.9
 6. Python
@@ -177,3 +178,13 @@ JIT vs ???
 11. pypy
 12. C + valgrind
 13. jython
+
+* Written in C but Git runs really, really slow
+
+.pyc rocks
+==========
+
+* are awesome
+* compiles Python files so you get fast
+* Ruby tools like `Rails` take forever to reload after a file change
+* Django, Pyramid, Tornado, et al does it really fast
