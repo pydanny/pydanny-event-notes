@@ -96,3 +96,23 @@ Launch with bad code
 
     * Most people won't sign em, so they won't be able to help you with advice
     * Competition isn't necessarily a bad thing
+
+* Ask when you get stuck
+
+    * Don't waste time banging your head against an impossible problem
+    * Go ask for help
+    
+        * Stack Overflow
+        * twitter
+        * local meetups
+    
+* Surround yourself with good influences
+
+5. Take Shortcuts
+===================
+
+* Skip the hard things if you can, eventually you'll undertand them
+* Django is plug & play
+
+    * http://djangopackages.com
+    
