@@ -95,3 +95,54 @@ Contention
  
 Subprocess
 ===========
+
+* Powerful
+* Effective
+* Second worst stdlib module ever
+
+Solution
+-----------
+
+* **envoy**
+* Replaces/wraps Subprocess
+
+File and System Operations
+============================
+
+* sys | shutils | os | os.path | io
+* Really difficult to run external commands
+* The blocks dev+ops guys from wanting to use Python
+
+Installing Python
+===================
+
+* Installing Python
+* Decisions, Decisions (Binary, Homebrew, 32 bit, Macports, Source, what?!?)
+* What happened to just one way to do it?
+* Pain on Mac, Windows
+
+XML 
+====
+
+ * `etree` is terrible
+ * `lxml` is awesome, but difficult to install
+
+Packages and Dependencies
+============================
+
+* pip and easy_install?
+* setuptools not inclued with python?
+* Distribute?
+* No easyt_uninstall
+
+Date[time]s
+============
+
+* datetime, time, calendar? Which one?
+* What third-party libraries are around
+
+Unicode
+=========
+
+* Kenneth says it's a simple problem
+* Maybe the core docs should have an easy-to-find good description? Am I missing something?
