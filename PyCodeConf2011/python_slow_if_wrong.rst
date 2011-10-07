@@ -43,7 +43,7 @@ Speeding things up
     * No such thing as 100% pure python
     * forget about swig
     
-        * writing C modules is easy and integrating them easy too .. note:: I want to learn how to do this
+        * writing C modules is easy and integrating them easy too ..note:: I want to learn how to do this
         * swig is a code generator for C++
         
     * python + C is so far the winning combination
