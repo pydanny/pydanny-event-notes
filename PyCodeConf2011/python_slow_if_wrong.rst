@@ -78,7 +78,6 @@ Refcounting
 * Every time I don't use something its reference count goes down by one
 * When it hits ZERO then it goes away
 
-
 Refcount... and threads: BAD COMBO
 ---------------------------------------
 
@@ -86,3 +85,10 @@ Refcount... and threads: BAD COMBO
 * One reason why removing the GIL is almost impossible
 * There are tricks...
 
+Python is not a garbage collected language
+------------------------------------------------------
+
+.. sourcecode: python
+
+    for i in xrange(1000000):
+        a = '\0'*10000
