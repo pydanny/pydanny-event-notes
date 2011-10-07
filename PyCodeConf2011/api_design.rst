@@ -8,6 +8,8 @@ API Design and Pragmatic Python
 * loves open source
 * Author of requests and tablib libraries
 
+.. note:: Kenneth's mic kept going out. Hope all his words are captured!
+
 Alternative Titles?
 ======================
 
@@ -46,13 +48,17 @@ Bits:
 * If the implementation is hard to explain, its a bad idea (unless you are PyPy)
 * There should be one and only one way to do things
 
-Playing with the Github API
-============================
+HTTP as an example of API issues
+=================================
+
+Github API client in Ruby
+-------------------------
+
 
 TODO: Get Ruby example from his slides. Ruby makes this easy
 
-How do we do this in Python?
-------------------------------
+Github API client in Python: Ugh
+----------------------------------
 
  * Pick the right std lib http/url/lib/2
  
@@ -86,3 +92,6 @@ Contention
 
  * If you have to revisit docs every time to use an API the API is bad
  * 
+ 
+Subprocess
+===========
