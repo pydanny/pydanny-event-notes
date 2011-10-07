@@ -51,7 +51,7 @@ Cross boundaries
 * Try to make it independent
 * Then implement a separate Django app that calls your tool
 
-.. note:: This also happens with the Zope community. They did it first. ;)
+.. note:: This also happens with the Zope community. They did "Zope Only Projects" first. ;)
 
 Protocol Examples
 ==================
@@ -92,7 +92,7 @@ Many small bits with specific merge points that are loosely coupled
 * JavaScript
 
 WSGI
------
+====
 
 * Dictionary passed around
 * Framework independent, but only for Python
@@ -105,3 +105,34 @@ WSGI
 
     * Can't consume dform data
     * Processing response from application is complex
+    * Can't inject HTML 
+    * TODO - last bullet?
+    
+* Libraries
+
+    * Werkzeug
+    * WebOb
+    * Paste
+    
+Django & WSGI
+------------------
+
+* Django used to do WSGI badly
+* Getting documented 
+
+HTTP
+====
+
+* Pure HTTP is more work than WSGI
+* Easily debugged
+* Language independant
+* Need syntax highlighting with Pygments but your project is Ruby?
+    
+    * Write small Flask app that exposes Pygments as a service
+    
+Libraries
+------------
+
+* Python-Requests
+* TODO
+* TODO
