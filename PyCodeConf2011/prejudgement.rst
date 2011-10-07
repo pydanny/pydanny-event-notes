@@ -83,3 +83,16 @@ Writing tests in ruby:
 * Python is based off of SUnit: 1994
 
 Awesome tweet he made: "**Python programmer rejects without considering its value, Ruby accept without considering it's value**"
+
+Instance Variables in Ruby
+=============================
+
+.. sourcecode:: ruby
+
+    class Horse
+    
+        def what
+            @mustard
+        end
+    end
+    puts Horse.new.what # => 5
