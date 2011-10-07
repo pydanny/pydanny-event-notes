@@ -55,7 +55,13 @@ Writing tests in python:
 
 .. sourcecode:: python
 
-    class TestCount(UnitTest)
+    class TestCount(UnitTest):
+    
+        def test_counter(self):
+            
+            c = Counter()
+            c.count(1)
+            self.assertEquals(1, c)
 
 Writing tests in ruby:
 
@@ -65,7 +71,7 @@ Writing tests in ruby:
     describe Counter do
         if "increments" do
         c = Counter.new
-        expect { c.increment }.to chnge { c.count }.by(1)
+        expect { c.increment }.to change { c.count }.by(1)
     end
     
     
@@ -75,3 +81,5 @@ Writing tests in ruby:
     * Feigned ignorance
     
 * Python is based off of SUnit: 1994
+
+Awesome tweet he made: "**Python programmer rejects without considering its value, Ruby accept without considering it's value**"
