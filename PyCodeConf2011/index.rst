@@ -20,6 +20,7 @@ PyCodeConf 2011
    python_slow_if_wrong
    amazing_things
    prejudgement
+   cherry_picking
    
 Discussions
 =============
