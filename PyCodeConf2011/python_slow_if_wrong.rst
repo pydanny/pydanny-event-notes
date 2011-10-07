@@ -67,3 +67,7 @@ Other way to do things wrong
 * Threads are okay for I/O
 * fork() works great for both
 * C modules that use threads are fine
+
+Garbage Collection
+===================
+
