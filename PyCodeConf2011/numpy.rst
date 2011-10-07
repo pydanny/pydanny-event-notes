@@ -81,6 +81,24 @@ Travis Found Python and Numeric in 1997
 * Much more flexible than MATLAB
 * Loved that he could read source code a year later
 
+1999: Early SciPy emerges
+------------------------------
+
+* Wanted something more complete than numeric
+* A set of libraries and stuff
+* Lots of early contributors
+
+SciPy Today
+------------
+
+* Conferences
+* Collection of Tools
+* 
+
+
+
+
+
 
 Aside: Call to Action
 ===========================
