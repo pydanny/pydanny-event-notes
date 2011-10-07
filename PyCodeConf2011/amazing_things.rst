@@ -152,5 +152,53 @@ What about too many options?
 
 * Sometimes packages are close duplicates
 
-    * Please document how you are different
+    * Please document how you are different from other tools
     * deprecate when your stuff gets old, don't leave people hanging!
+
+Too much fragmentation?
+=========================
+
+* Lots of Python groups and tools! Maybe too much?
+* NO SUCH THING. MOAR IDEAS PLEAZE!
+* We need diversity of ideas and approaches
+
+What makes a package useful?
+====================================
+
+* Unix philosophy: Do one thing and do it well
+* Usability: install docs, pip, PyPI
+* Reliability: tests, maintained, community
+
+Anti-patterns
+===============
+
+* Don't underestimate the impact of your notes on-line
+
+    * Your snippet on your blog can get hit 25K+ times
+    * Package up your stuff and deploy to PyPI
+    
+* Don't over-engineer things to make them pluggable, abstract
+
+    * urllib2 is a good example
+    * counter: sometimes a single file is good
+    
+* Too much functionality
+
+     * Kitchen-sink base platforms
+     * utility, do-everything packages
+     
+        * django-extensions: ugh
+    
+    * duct-tape packages that try to fix everything once
+    
+        * HTML world: CSS resets that also do typography, layouts, and more
+        
+Glory Pattern: Be Pythonic 
+============================
+
+* Why do we love Python?
+
+    * Elegance
+    * Ease of Use
+        
+     
