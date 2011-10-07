@@ -162,3 +162,18 @@ JIT vs ???
 
 .. note:: TODO - find out the missing half of this title
 
+* HelloMark benchmark language
+
+1. C
+2. Go
+3. Per
+4. Ruby 1.8
+5. Ruby 1.9
+6. Python
+7. mono
+8. Java
+9. java-client
+10. java -XX:+UseConcMarkSweepGC
+11. pypy
+12. C + valgrind
+13. jython
