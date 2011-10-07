@@ -36,21 +36,24 @@ tight inner loops
         ...
         # slow
         
+* Don't do this
+* Apparently for dynamically typed languages, this is a very, very slow operation
+        
 Speeding things up
 ------------------
 
-    * Use regexes and c modules
-    * No such thing as 100% pure python
-    * forget about swig
+* Use regexes and c modules
+* No such thing as 100% pure python
+* forget about swig
+
+    * writing C modules is easy and integrating them easy too 
+    * swig is a code generator for C++
     
-        * writing C modules is easy and integrating them easy too 
-        * swig is a code generator for C++
-        
-    * python + C is so far the winning combination
-    * C is simple; Python is simple; PyPy is hard
-    
-        * The concept behind PyPy is really hard
-        * Python and C are relatively straightforward compared to the concepts of PyPy
+* python + C is so far the winning combination
+* C is simple; Python is simple; PyPy is hard
+
+    * The concept behind PyPy is really hard
+    * Python and C are relatively straightforward compared to the concepts of PyPy
         
 .. note:: I want to learn how to write C and then add it to my Python work.
 
