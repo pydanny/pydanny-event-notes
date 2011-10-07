@@ -44,10 +44,10 @@ Speeding things up
 
 * Use regexes and c modules
 * No such thing as 100% pure python
-* forget about swig
+* forget about SWIG
 
     * writing C modules is easy and integrating them easy too 
-    * swig is a code generator for C++
+    * SWIG is a code generator for C++
     
 * python + C is so far the winning combination
 * C is simple; Python is simple; PyPy is hard
