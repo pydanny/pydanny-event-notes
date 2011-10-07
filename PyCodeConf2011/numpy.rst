@@ -9,6 +9,8 @@ Future of Python and NumPy for array-oriented computing
 * Array-Oriented Computed
 * Enthought is hiring!
 
+.. note:: I took Travis' tutorial on it in 2006. I want to use this for serious number crunching. Why bridge out to another language/server if NumPy can do it for me fast and right in Python?
+
 Python fits your brain
 ========================
 
@@ -102,18 +104,45 @@ SciPy Today
 * Community
 * being looked at by the Financial community
 
-Array Oriented Tools
+What SciPy Does
 =====================
 
+SciPy
+-----
+
+* Lots of cool data shaping tools
+
+NumPy
+------
+
 * We aren't talking about simple lists but gigantic multidimensional arrays
+* Super-duper fast
+* Terse but understandable notation
+* See `Zen of NumPy`:
+
+    * strided is better than scattered
+    * contiguous is better than strided
+    * descriptive is better than imperative
+    * TODO: finish writing this out!
 
 
-Aside: Call to Action
-===========================
+Call to Action: Collaboration between Python Core and the Scientific Communication
+==================================================================================
 
 **Contention:** Collaboration between Python core and scientific developers needs to be tighter
 
-* Infex array operator (matrix multiplcation is not cdomain specific)
+* Index array operator (matrix multiplication is not domain specific)
 * Use of slice notation inside function calls
 * Array overloading of **and** and **or**
 * DSL blocks?
+
+Call to Action: NumPy and PyPy
+================================
+
+* Stop chasing C, start chasing Fortran. Against an example:
+
+    * **Python**: 202 seconds
+    * **PyPy**: 4.71 seconds
+    * **NumPy**: 5.56 seconds
+    * **Cython**: 2.21 seconds
+    * **Fortran 90**: 0.8 seconds
