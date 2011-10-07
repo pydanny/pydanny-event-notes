@@ -5,7 +5,7 @@ The Many Hats of Building and Launching a Web Startup
 * by Tracy Osborn
 
     * @limedaring
-    * Founder of weddinglovely.com
+    * Founder of http://weddinginvitelove.com
 
 * Designer not a programmer
 * piloshophy: "An entrpeneur tends to bire off a lottle than he can chew hoping he'll quick;y learn how to chew it"
@@ -75,3 +75,4 @@ Launch with bad code
 
 * Don't worry about optimization (speed, caching, code smell, etc)
 * get it done!
+
