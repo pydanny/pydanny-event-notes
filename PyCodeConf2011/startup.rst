@@ -76,3 +76,23 @@ Launch with bad code
 * Don't worry about optimization (speed, caching, code smell, etc)
 * get it done!
 
+3. Have a plan for monetization
+===================================
+
+* Have at least a vague plan to making money
+* Raising money is a pain in the butt
+
+4. Don't be forever alone
+===================================
+
+* Network and meet people!
+
+    * Surround yourself with experts (in her case - programming)
+    * Marketers
+    * Designers
+    * find the people who can help you do the work you want to do
+    
+* NDAs suck
+
+    * Most people won't sign em, so they won't be able to help you with advice
+    * Competition isn't necessarily a bad thing
