@@ -38,7 +38,8 @@ Python fits your brain
 Conway's Game of Life
 ----------------------
 
-* TODO Look up rules again on Wikipeda
+* http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 
 APL: first array oriented language
 --------------------------------------------
@@ -53,3 +54,6 @@ APL: first array oriented language
 Derivative Calculations
 ------------------------
 
+* Complex data can be memory intensive
+* Big sets break even list generators
+* NumPy can do this for you
