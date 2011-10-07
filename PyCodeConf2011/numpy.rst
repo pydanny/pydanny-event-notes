@@ -13,3 +13,5 @@ Python fits your brain
 ========================
 
 **Thesis**: Software engineering today is more about neuroscience than computer science
+
+* Event fits the brains of Scientists
