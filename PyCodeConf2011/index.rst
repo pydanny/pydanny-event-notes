@@ -18,6 +18,7 @@ PyCodeConf 2011
    status_of_packaging
    api_design
    python_slow_if_wrong
+   amazing_things
    
 Discussions
 =============
