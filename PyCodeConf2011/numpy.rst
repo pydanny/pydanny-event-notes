@@ -70,8 +70,20 @@ History of SciPy and NumPy
 
 * Fortran still exists because of complex numbers. Most languages got it wrong for a long time, including C and Java.
 
+
+Travis Found Python and Numeric in 1997
+------------------------------------------
+
+* Was good at MATLAB but it wasn't efficient
+* Loved the expressive syntax of Python
+* Loved that slicing didn't make copies
+* Love the multiple data types
+* Much more flexible than MATLAB
+* Loved that he could read source code a year later
+
+
 Aside: Call to Action
-------------------------
+===========================
 
 **Contention:** Collaboration between Python core and scientific developers needs to be tighter
 
