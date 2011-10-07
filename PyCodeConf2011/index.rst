@@ -19,6 +19,7 @@ PyCodeConf 2011
    api_design
    python_slow_if_wrong
    amazing_things
+   prejudgement
    
 Discussions
 =============
