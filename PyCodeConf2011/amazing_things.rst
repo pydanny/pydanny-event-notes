@@ -228,3 +228,10 @@ Diversity of Ideas
  
     * SoCol Python is often more about deployment/scaling
     * LA PyLadies is often about asynchronous
+
+Summary
+========
+
+* Build what you want
+* Encourage the 3rd party community to support your effort
+* Be helpful
