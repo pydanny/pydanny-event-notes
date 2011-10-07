@@ -71,3 +71,18 @@ Other way to do things wrong
 Garbage Collection
 ===================
 
+Refcounting
+-----------
+
+* Every time I use a variable I increase its reference count by one
+* Every time I don't use something its reference count goes down by one
+* When it hits ZERO then it goes away
+
+
+Refcount... and threads: BAD COMBO
+---------------------------------------
+
+* Variable shared between threads forces a lock on the refcount
+* One reason why removing the GIL is almost impossible
+* There are tricks...
+
