@@ -48,3 +48,12 @@ Bits:
 
 Playing with the Github API
 ============================
+
+TODO: Get Ruby example from his slides. Ruby makes this easy
+
+How do we do this in Python?
+------------------------------
+
+ * Pick the right std lib http/url/lib/2
+ 
+TODO: Show the the example Python code from Confessions that I stole from Kenneth. :)
