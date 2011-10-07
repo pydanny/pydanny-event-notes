@@ -7,3 +7,4 @@ The Many Hats of Building and Launching a Web Startup
     * @limedaring
     * Founder of weddinglovely.com
 
+* Designer not a programmer
