@@ -179,7 +179,9 @@ JIT vs ???
 12. C + valgrind
 13. jython
 
-* Written in C but Git runs really, really slow
+* Many it commands run in about 2x the time of C hello world. 
+* This is not good for Git
+* Slow speed hurts user experience
 
 .pyc rocks
 ==========
