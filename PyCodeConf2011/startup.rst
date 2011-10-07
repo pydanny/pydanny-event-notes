@@ -112,7 +112,8 @@ Launch with bad code
 ===================
 
 * Skip the hard things if you can, eventually you'll undertand them
-* Django is plug & play
+* Django is plug & play!
 
     * http://djangopackages.com
-    
+    * South for migrations
+    * hosted on https://www.dotcloud.com (special pricing for startups)
