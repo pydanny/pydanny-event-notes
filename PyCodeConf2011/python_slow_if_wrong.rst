@@ -35,3 +35,13 @@ tight inner loops
     for char in chars:
         ...
         # slow
+        
+Speeding things
+-----------------
+
+    * Use regexes and c modules
+    * No such thing as 100% pure python
+    * forget about swig: writing C modules is easy and integrating them easy too. .. note:: I want to learn how to do this
+    * python + C is so far the winning combination
+    * C is simple; Python is simple; PyPy is hard .. note:: Thisis his statement not mine. 
+    
