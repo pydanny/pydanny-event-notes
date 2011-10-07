@@ -85,8 +85,8 @@ Refcount... and threads: BAD COMBO
 * One reason why removing the GIL is almost impossible
 * There are tricks...
 
-Python is not a garbage collected language+
--------------------------------------------
+Python is not a garbage collected language++
+--------------------------------------------
 
 
 .. sourcecode:: python
@@ -110,7 +110,7 @@ Java is a garbage collected language
 * Amusingly, the new threaded java system is slower and takes more memory
 * "Ever notice complex Java programs seem to run slow and take up tons of memory?"
 
-+Exception sometimes python is a garbage collected language
+++Exception sometimes python is a garbage collected language
 ------------------------------------------------------------
 
 * Refcount sometimes fails
@@ -118,3 +118,14 @@ Java is a garbage collected language
 
     * This is why you **can** have memory leaks with it.
     * Avoiding this requires a deep understanding of Perl
+    
+Get the most out of Python's GC
+----------------------------------------------------------
+
+* JUST AVOID IT AT ALL COSTS
+* Break circular references by hand when you are done
+
+    * trees are a good example
+    * TODO: find out what he meant somehow
+
+* Better still: use the weakref module
