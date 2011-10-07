@@ -88,7 +88,24 @@ Refcount... and threads: BAD COMBO
 Python is not a garbage collected language
 ------------------------------------------------------
 
+
 .. sourcecode:: python
 
     for i in xrange(1000000):
         a = '\0'*10000
+
+* Sample code in Python
+* Metric test done in **Python**, **PyPy**, **Java**, **C**, and **Go**
+
+    * **Java**: Running this loop takes more memory and more time than CPython!
+    * **PyPy** takes about the same time as Python
+    * **C** is much faster
+    * **Go** is much slower
+    
+Java is a garbage collected language
+------------------------------------------
+
+* Three different collection strategies
+* See his upcoming research paper: **Seriously Java, WTF?**
+* Amusingly, the new threaded java system is slower and takes more memory
+* "Ever notice complex Java programs seem to run slow and take up tons of memory?"
