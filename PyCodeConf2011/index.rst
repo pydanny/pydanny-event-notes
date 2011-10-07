@@ -23,6 +23,7 @@ PyCodeConf 2011
    cherry_picking
    breakdancer
    startup
+   numpy
    
 Discussions
 =============
