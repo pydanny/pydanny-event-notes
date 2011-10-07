@@ -57,3 +57,5 @@ How do we do this in Python?
  * Pick the right std lib http/url/lib/2
  
 TODO: Show the the example Python code from Confessions that I stole from Kenneth. :)
+
+TODO: Show his example from trying to hit a private repo
