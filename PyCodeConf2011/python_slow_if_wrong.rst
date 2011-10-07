@@ -120,7 +120,7 @@ Java is a garbage collected language
     * Avoiding this requires a deep understanding of Perl
     
 Get the most out of Python's GC
-----------------------------------------------------------
+---------------------------------
 
 * JUST AVOID IT AT ALL COSTS
 * Break circular references by hand when you are done
@@ -129,3 +129,21 @@ Get the most out of Python's GC
     * TODO: find out what he meant somehow
 
 * Better still: use the weakref module
+
+Deterministic Destructors
+
+Quiz: Does this program work on win32?
+--------------------------------------------
+
+.. sourcecode:: python
+
+    open('file', 'w').write('hello')
+    open('file', 'w').write('hello')   
+    # YES!!! Cause Python doesn't do Garbage Collection. refcounting FTW!
+    
+With real GC you habe to manually manage reosurces:
+
+    * files
+    * database handlers
+    * sockets
+    * locks
