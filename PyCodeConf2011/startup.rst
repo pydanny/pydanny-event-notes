@@ -24,3 +24,12 @@ Redefine success
 
 * Don't try to beat google
 * Make your goals modest
+* Small goals to begin with
+
+I know HTML! I can program!
+----------------------------
+
+* Started in Computer Science but graduated Graphic Design
+* Joined a startup as the Designer that grew into a medium sized company
+* Got bored
+
