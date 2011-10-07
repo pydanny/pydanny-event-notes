@@ -17,7 +17,7 @@ Python fits your brain
 * Even fits the brains of Scientists
 * Engineers say things differently than scientists
 
-.. sourcecode::
+.. sourcecode:: python
 
     # engineering solution
     from scipy.signal import lfilter, lifiltic
@@ -64,3 +64,18 @@ History of SciPy and NumPy
 * Travis started in 1997 on Python 1.4
 * Early contributors added `numeric` as a Python extension
 
+    * Jim Hugenin (`numeric`)
+    * Jim Fulton
+    * Paul Dubiois
+
+* Fortran still exists because of complex numbers. Most languages got it wrong for a long time, including C and Java.
+
+Aside: Call to Action
+------------------------
+
+**Contention:** Collaboration between Python core and scientific developers needs to be tighter
+
+* Infex array operator (matrix multiplcation is not cdomain specific)
+* Use of slice notation inside function calls
+* Array overloading of **and** and **or**
+* DSL blocks?
