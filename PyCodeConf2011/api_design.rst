@@ -41,7 +41,10 @@ We all love the Zen of Python::
 Bits:
 
 * Beautiful is better than ugly
-* Explicit is 
+* Explicit is better then implicit
 * Simple is better than complex
 * If the implementation is hard to explain, its a bad idea (unless you are PyPy)
-* There should eb oen and only one way to do things
+* There should be one and only one way to do things
+
+Playing with the Github API
+============================
