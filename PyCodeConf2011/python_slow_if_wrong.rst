@@ -88,7 +88,7 @@ Refcount... and threads: BAD COMBO
 Python is not a garbage collected language
 ------------------------------------------------------
 
-.. sourcecode: python
+.. sourcecode:: python
 
     for i in xrange(1000000):
         a = '\0'*10000
