@@ -59,3 +59,30 @@ How do we do this in Python?
 TODO: Show the the example Python code from Confessions that I stole from Kenneth. :)
 
 TODO: Show his example from trying to hit a private repo
+
+Admit it
+-----------
+
+* If this were you coming into Python, you would leave and not come back
+* THis is a serious problem
+
+urllib2 is toxic
+-----------------
+
+* Over-engineering
+* Makes the simple/trivial hard
+* Hard to debug
+* Hard to test
+
+Solution
+---------
+
+* Python needs more pragmatic packages
+* Pragmatic means implementation without focusing too much on thoery
+* Figure out the actual reqs 
+
+Contention
+----------
+
+ * If you have to revisit docs every time to use an API the API is bad
+ * 
