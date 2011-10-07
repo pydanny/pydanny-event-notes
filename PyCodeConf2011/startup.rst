@@ -55,3 +55,15 @@ Did it herself
 * Don't try to build giant from the start
 * Easy to get discourage
 * Everything is going to change once you launch - you can't predict the direction of things
+* Take out as many features as possible - add them later if you need them
+
+Work on the hard stuff first
+------------------------------
+
+* Programming before HTML layout/design
+* Then make it pretty
+
+Active Learning
+----------------
+
+* 
