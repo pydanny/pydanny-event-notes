@@ -66,4 +66,12 @@ Work on the hard stuff first
 Active Learning
 ----------------
 
-* 
+* Don't go through a whole book chapter by chapter. Learn the things that work
+* http://gigantuan.net
+* http://gettingstartedwithdjango.com got mentioned!
+
+Launch with bad code
+---------------------
+
+* Don't worry about optimization (speed, caching, code smell, etc)
+* get it done!
