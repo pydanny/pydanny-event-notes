@@ -32,4 +32,5 @@ I know HTML! I can program!
 * Started in Computer Science but graduated Graphic Design
 * Joined a startup as the Designer that grew into a medium sized company
 * Got bored
+* Wanted to do something that could impact the world
 
