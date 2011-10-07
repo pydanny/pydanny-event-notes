@@ -34,3 +34,13 @@ MVC test framework? Pydanny Thoughts...
 
 * Can this be implemented on top of UnitTest?
 * If so, it can be back ported to other systems
+* Not actually MVC, just a defined pattern
+
+
+Conclusions
+=============
+
+* Unit Testing isn't enough
+* Find ways to detect and fire off edge case tests
+* itertools will save you
+* python makes otherewuse tedious tasks boring
