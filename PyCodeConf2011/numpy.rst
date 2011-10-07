@@ -33,9 +33,23 @@ Python fits your brain
 
     * C speed
     * CPU speed
+    * FASTER!!!
         
 Conway's Game of Life
 ----------------------
 
 * TODO Look up rules again on Wikipeda
-    
+
+APL: first array oriented language
+--------------------------------------------
+
+* 1964
+* Descendants still alive: J, K, matlab
+* NumPy is a descendant of J
+* Crazy non-standard unicode characters
+* Very compact
+* Can do Conway in a single line of very dense code
+
+Derivative Calculations
+------------------------
+
