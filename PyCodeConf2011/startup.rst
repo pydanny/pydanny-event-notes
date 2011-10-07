@@ -34,3 +34,24 @@ I know HTML! I can program!
 * Got bored
 * Wanted to do something that could impact the world
 
+Tried to find a co-founder
+------------------------------
+
+* Why weddings?
+* Work on something you love to work on
+* Cofounders are awesome, but no cofounder is better than the wrong cofounder
+* Things didn't go well with the cofounder didn't go well
+
+Did it herself
+---------------
+
+* Learn Python The Hard Way (Zed Shaw) **Great programming starter book**
+* Got recommended to use Django because of so many apps available 
+* Launched weddinglovely.com in 6 weeks!
+
+2. Launch as fast as possible
+================================
+
+* Don't try to build giant from the start
+* Easy to get discourage
+* Everything is going to change once you launch - you can't predict the direction of things
