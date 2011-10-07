@@ -145,4 +145,21 @@ Unicode
 =========
 
 * Kenneth says it's a simple problem
-* Maybe the core docs should have an easy-to-find good description? Am I missing something?
+* Danny: Maybe the core docs should have an easy-to-find good description? Am I missing something? Is it an SEO issue?
+
+Installing Dependencies
+==============================
+
+Hard to do:
+
+* PIL
+* TODO: get more
+
+Hitchhikers Guide to Python
+==============================
+
+* http://python-guide.org
+* A guide to newcomes
+* References for seasoned veterans
+* Install resistance to doctest
+* Stays with just one way to do things
