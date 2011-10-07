@@ -136,3 +136,21 @@ Checklist: What 3rd Party Package Devs need
 * Well defined, easy-to-understand spec
 * Sample code (as much as possible)
 * Active Community
+
+.. warning:: Telling people to "read the source code" is **not** the answer.
+
+* Mailing list, IRC
+* Docs, tutorial, sample projects
+
+What about too many options?
+==============================
+
+* Zen of Python: "There should be one-- and preferable only one --obvious way to do it"
+
+    * This is about Python language constructs
+    * Not about 3rd party packages
+
+* Sometimes packages are close duplicates
+
+    * Please document how you are different
+    * deprecate when your stuff gets old, don't leave people hanging!
