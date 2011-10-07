@@ -76,4 +76,49 @@ Django Core vs Apps
 * Many, many batteries included
 * Gives you one obvious way to do things
 * Third party apps: "Django apps"
-* Good and bad
+* Good
+
+    * One pretty clear way to do things
+
+* Bad
+
+    * Stuck with one way to do things.
+    * Example: URL routing differences
+
+Clear pattern for Django apps
+------------------------------
+
+* Simple
+* Easy to understand, implement, install
+* Documented
+* Repeatable
+
+Django's Ecosystem over time
+--------------------------------
+
+* More and more new innovations implemented as 3rd-party packages
+* Problem with adding all to core is then you are stuck
+
+    * Deprecation becomes challenging
+    * Additional complexity
+    
+Observation on Packages
+============================
+
+* Umpteen JQuery plugins
+* Perl: 100K modules
+* Python: 17K packages
+
+So very useful!
+
+Pyramid Core vs. Add-ons approach
+====================================
+
+* smaller core, more add-ons
+* Anyone can write add-ons
+* Some are "officially endorsed"
+* Easier to do extensions of the core
+* Young, but potential for rapid growth
+
+    * Hopefully http://pyramid.opencomparison.org will help that growth
+
