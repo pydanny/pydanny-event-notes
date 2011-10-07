@@ -4,10 +4,12 @@ Breakdancer
 
 * by Dustin Sallings
 
-    * @dlsspy
     * memcached contributor
+    * http://dustin.github.com/    
 
-* Does a lot of programming languahes
+* Does a lot of programming languages
+* https://github.com/dustin/BreakDancer
+
 
 Testing is a boring subject
 ============================
