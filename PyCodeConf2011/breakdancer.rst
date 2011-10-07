@@ -9,10 +9,11 @@ Breakdancer
 
 * Does a lot of programming languages
 * https://github.com/dustin/BreakDancer
+* http://dustin.github.com/2010/10/27/breakdancer.html
 
 
-Testing is a boring subject
-============================
+Testing is a boring/hard subject
+================================
 
 * How do you find those edge cases?
 * How do you detect crazy pairs of edge cases?
@@ -31,4 +32,5 @@ Wrote a framework to help set tests
 MVC test framework? Pydanny Thoughts...
 ========================================
 
-* Can this be implemented on top of UnitTest? In which case, it can be backported to other systems
+* Can this be implemented on top of UnitTest?
+* If so, it can be back ported to other systems
