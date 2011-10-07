@@ -122,3 +122,17 @@ Pyramid Core vs. Add-ons approach
 
     * Hopefully http://pyramid.opencomparison.org will help that growth
 
+Pyramid's Ecosystem over time
+====================================
+
+* Past: Pylons, Repoze.BFG, TurboGears
+* Present: small core, docs for doing add-ons - but not many yet
+* FutureL Lots of add-ons!
+
+Checklist: What 3rd Party Package Devs need
+=============================================
+
+* "Best practices" doc on how to write 3rd party packages
+* Well defined, easy-to-understand spec
+* Sample code (as much as possible)
+* Active Community
