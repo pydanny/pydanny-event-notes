@@ -57,3 +57,8 @@ Derivative Calculations
 * Complex data can be memory intensive
 * Big sets break even list generators
 * NumPy can do this for you
+
+History of SciPy and NumPy
+===========================
+
+* Travis started in 1997 on Python 1.4
