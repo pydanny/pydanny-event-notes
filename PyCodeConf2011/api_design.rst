@@ -2,4 +2,5 @@
 API Design and Pragmatic Python
 ===================================
 
-by Kenneith Reitz
+by Kenneth Reitz
+
