@@ -135,10 +135,10 @@ Checklist: What 3rd Party Package Devs need
 * "Best practices" doc on how to write 3rd party packages
 * Well defined, easy-to-understand spec
 * Sample code (as much as possible)
-* Active Community
 
 .. warning:: Telling people to "read the source code" is **not** the answer.
 
+* Active Community
 * Mailing list, IRC
 * Docs, tutorial, sample projects
 
@@ -209,8 +209,22 @@ Community Building
 * Mentorship
 
     * Today's new users are tomorrow's contributors & leaders
-    * Mentorship groups
+    * Mentorship groups: Positive encouragement
     
         * PyLadies
         * Python Core Mentorship
         * (need more like this)
+
+Diversity of Ideas
+====================
+
+ * Look at schedules & slides from PyCons around the world
+ 
+    * KiwiPycon: Home of Twisted!
+    * PyCon AU: Focus on core Python, PyPI
+ 
+ * Ideas differ country-to-country
+ * Same goes for other types of diversity besides geographic
+ 
+    * SoCol Python is often more about deployment/scaling
+    * LA PyLadies is often about asynchronous
