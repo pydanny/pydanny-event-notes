@@ -113,4 +113,27 @@ Instance Variables in Ruby
     
 * This is how you do memoization in Ruby.
 * Really trivial to do something really important
+* Some bits being added to Python already exist in Ruby
+
+    * Generators
+    * Decorators
+
+Take away
+==========
+
+* It is really clear in Python why certain decisions were made
+* No other language makes the design decisions so clearly
+* Ruby's design is not that hard for a good developer
+* Ruby is different
+
+    * More testing
+    * Crazy bleeding edge that often doesn't work
+    * Community changes things in weird ways sometimes
+    
+    
+Why does this all matter?
+==========================
+
+* You can't evaluate something until you really play with it
+* Blocks roc
 
