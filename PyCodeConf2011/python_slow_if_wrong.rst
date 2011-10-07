@@ -142,7 +142,7 @@ Quiz: Does this program work on win32?
     open('file', 'w').write('hello')   
     # YES!!! Cause Python doesn't do Garbage Collection. refcounting FTW!
     
-With real GC you habe to manually manage reosurces:
+With "real" GC you habe to manually manage reosurces:
 
     * files
     * database handlers
@@ -150,3 +150,15 @@ With real GC you habe to manually manage reosurces:
     * locks
     
 When you are done with a variable, it should go away. It shouldn't stick around. Predictable behavior!
+
+Don't take away our Deterministic Destructors
+------------------------------------------------
+
+* Maybe the GIL is a good thing
+* refcounting is good
+
+JIT vs ???
+==========
+
+.. note:: TODO - find out the missing half of this title
+
