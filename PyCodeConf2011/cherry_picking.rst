@@ -3,9 +3,13 @@ Cherry-picking for Huge Success
 ================================
 
 * by Armin Ronacher
-* @mitsuhiko
+
+    * @mitsuhiko
+    * http://lucumr.pocoo.org/talks/
+    
 * Part of the Pocoo team
 * Guy behind flask, jinja2, much more
+* slides: http://www.scribd.com/doc/67925053/Cherry-Picking
 
 Preface
 ========
