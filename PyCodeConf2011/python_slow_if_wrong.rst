@@ -21,3 +21,17 @@ Stuff he's done
 * sshuttle: VPN software tht handles 802..11 g/n speeds in python
 
     * http://github.com/apenwarr/sshuttle
+
+Easiest way to do Python wrong
+================================
+
+tight inner loops
+-------------------
+
+.. sourcecode:: python
+
+
+    chars = open.file('file').read()
+    for char in chars:
+        ...
+        # slow
