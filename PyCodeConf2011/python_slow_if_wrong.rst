@@ -131,6 +131,7 @@ Get the most out of Python's GC
 * Better still: use the weakref module
 
 Deterministic Destructors
+============================
 
 Quiz: Does this program work on win32?
 --------------------------------------------
@@ -147,3 +148,5 @@ With real GC you habe to manually manage reosurces:
     * database handlers
     * sockets
     * locks
+    
+When you are done with a variable, it should go away. It shouldn't stick around. Predictable behavior!
