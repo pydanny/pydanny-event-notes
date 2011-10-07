@@ -15,4 +15,12 @@ The Many Hats of Building and Launching a Web Startup
 ==============================
 
 * Have a good amount of money in hand to lesson stress
+* Be in good health
+* Relationships in good shape
+* Quit your job cause you can't do this as a side project
 
+Redefine success
+----------------
+
+* Don't try to beat google
+* Make your goals modest
