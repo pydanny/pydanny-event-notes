@@ -43,11 +43,33 @@ Cross boundaries
     * B: Use different syntax highlight
     * C: Use pygments as a service called by Ruby
     
-It only does Django
+"It only does Django"
 ------------------------
 
 * You wrote a library that does something useful (thumb-nailing for example)
 * Don't make it depend on Django if you can help it
 * Try to make it independent
 * Then implement a separate Django app that calls your tool
+
+.. note:: This also happens with the Zope community. They did it first. ;)
+
+Protocol Examples
+==================
+
+Flask Views
+-------------
+
+* Wiews can return response objects
+* Respons eobjects are WSGI apps
+* no typecheck
+* Return any WSGI app
+* WSGI server doesn't care if it
+
+Difflib + Genshi
+----------------
+
+* Genshi is valid XML
+* Difflib returns a string
+* Change Difflib to be `<ins>/<del>` so Genshi can render it
+* Instant pages!
 
