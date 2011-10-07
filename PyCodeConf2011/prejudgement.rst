@@ -118,7 +118,7 @@ Instance Variables in Ruby
     * Generators
     * Decorators
 
-Take away
+Summary
 ==========
 
 * It is really clear in Python why certain decisions were made
@@ -128,12 +128,10 @@ Take away
 
     * More testing
     * Crazy bleeding edge that often doesn't work
-    * Community changes things in weird ways sometimes
-    
+    * Community changes things in weird ways sometimes    
     
 Why does this all matter?
 ==========================
 
 * You can't evaluate something until you really play with it
-* Blocks roc
-
+* Blocks rock
