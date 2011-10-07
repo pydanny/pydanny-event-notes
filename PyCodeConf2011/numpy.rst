@@ -62,3 +62,5 @@ History of SciPy and NumPy
 ===========================
 
 * Travis started in 1997 on Python 1.4
+* Early contributors added `numeric` as a Python extension
+
