@@ -14,4 +14,5 @@ The Many Hats of Building and Launching a Web Startup
 1. Start off on the Right Foot
 ==============================
 
-* Have a good amount of money
+* Have a good amount of money in hand to lesson stress
+
