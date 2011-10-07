@@ -200,5 +200,17 @@ Glory Pattern: Be Pythonic
 
     * Elegance
     * Ease of Use
-        
-     
+    * Explicitness, clarity
+    * Simplicity
+    
+Community Building
+===================
+
+* Mentorship
+
+    * Today's new users are tomorrow's contributors & leaders
+    * Mentorship groups
+    
+        * PyLadies
+        * Python Core Mentorship
+        * (need more like this)
