@@ -118,3 +118,13 @@ Launch with bad code
     * http://djangopackages.com
     * South for migrations
     * hosted on https://www.dotcloud.com (special pricing for startups)
+    * launchrock.com
+    
+Summary
+========
+
+1. Start off on the Right Foot
+2. Launch as fast as possible
+3. Have a plan for monetization
+4. Don't be forever alone
+5. Take Shortcuts
