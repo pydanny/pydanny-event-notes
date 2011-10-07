@@ -87,6 +87,8 @@ Awesome tweet he made: "**Python programmer rejects without considering its valu
 Instance Variables in Ruby
 =============================
 
+* Ugly things in Ruby
+
 .. sourcecode:: ruby
 
     class Horse
@@ -96,3 +98,19 @@ Instance Variables in Ruby
         end
     end
     puts Horse.new.what # => 5
+
+* Really? Let's take another look...
+
+.. sourcecode:: ruby
+
+    class Horse
+    
+        def what
+            @mustard ||= compute_it
+        end
+    end
+    puts Horse.new.expensive
+    
+* This is how you do memoization in Ruby.
+* Really trivial to do something really important
+
