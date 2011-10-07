@@ -95,6 +95,7 @@ Launch with bad code
 * NDAs suck
 
     * Most people won't sign em, so they won't be able to help you with advice
+    * Most people aren't going to try and implement your idea
     * Competition isn't necessarily a bad thing
 
 * Ask when you get stuck
