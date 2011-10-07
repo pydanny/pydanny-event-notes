@@ -51,6 +51,12 @@ Not sure Ruby is serious cause the docs have some crazy stuff
 Q2 2010
 =======================
 
+Writing tests in python:
+
+.. sourcecode:: python
+
+    class TestCount(UnitTest)
+
 Writing tests in ruby:
 
 .. sourcecode:: ruby
@@ -61,3 +67,11 @@ Writing tests in ruby:
         c = Counter.new
         expect { c.increment }.to chnge { c.count }.by(1)
     end
+    
+    
+* claim: "RSpec is confusing" 
+
+    * But not really true
+    * Feigned ignorance
+    
+* Python is based off of SUnit: 1994
