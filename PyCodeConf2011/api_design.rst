@@ -146,6 +146,7 @@ Unicode
 
 * Kenneth says it's a simple problem
 * Danny: Maybe the core docs should have an easy-to-find good description? Am I missing something? Is it an SEO issue?
+* Example: http://farmdev.com/talks/unicode is great, but how do you find it?
 
 Installing Dependencies
 ==============================
@@ -163,3 +164,15 @@ Hitchhikers Guide to Python
 * References for seasoned veterans
 * Install resistance to doctest
 * Stays with just one way to do things
+
+Solves
+-------
+
+* makes Python more accessible
+* Great references
+
+Manifesto
+----------
+
+* Simplify terrible APIs
+* Document best practices
