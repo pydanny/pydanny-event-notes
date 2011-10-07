@@ -146,3 +146,5 @@ Call to Action: NumPy and PyPy
     * **NumPy**: 5.56 seconds
     * **Cython**: 2.21 seconds
     * **Fortran 90**: 0.8 seconds
+
+* Mock Fortran if you will, but it is blazing fast for some important stuff.
