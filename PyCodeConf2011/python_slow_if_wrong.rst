@@ -190,3 +190,10 @@ JIT vs ???
 * compiles Python files so you get fast
 * Ruby tools like `Rails` take forever to reload after a file change
 * Django, Pyramid, Tornado, et al does it really fast
+
+Summary
+=========
+
+* Love refcounting, hate gc
+* Don't write tight inner loops
+* If you are using the JIT, you are doing it wrong
