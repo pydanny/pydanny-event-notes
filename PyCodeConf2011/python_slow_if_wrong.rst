@@ -26,7 +26,7 @@ Easiest way to do Python wrong
 ================================
 
 tight inner loops
--------------------
+---------------------------------
 
 .. sourcecode:: python
 
@@ -36,8 +36,8 @@ tight inner loops
         ...
         # slow
         
-Speeding things
------------------
+Speeding things up
+------------------
 
     * Use regexes and c modules
     * No such thing as 100% pure python
@@ -47,5 +47,18 @@ Speeding things
         * swig is a code generator for C++
         
     * python + C is so far the winning combination
-    * C is simple; Python is simple; PyPy is hard .. note:: Thisis his statement not mine. 
+    * C is simple; Python is simple; PyPy is hard
     
+        * The concept behind PyPy is really hard
+        * Python and C are relatively straightforward compared to the concepts of PyPy
+
+Other way to do things wrong
+================================
+
+* Computation threads
+
+    * Worthless becauxe of GIL
+    
+* Threads are okay for I/O
+* fork() works great for both
+* C modules that use threads are fine
