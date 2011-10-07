@@ -12,4 +12,4 @@ Future of Python and NumPy for array-oriented computing
 Python fits your brain
 ========================
 
-
+**Thesis**: Software engineering today is more about neuroscience than computer science
