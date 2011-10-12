@@ -10,7 +10,7 @@ What he does
  * wotnows.com.au - blogs
  * wearehunter.com- music
  
-How is ponny formed?
+How is pony formed?
 ~~~~~~~~~~~~~~~~~~~~
 
  * Russell said pony about a silly requirement request

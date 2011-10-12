@@ -2,6 +2,8 @@
 Scaling Django web apps
 ===============================
 
+.. note:: Best Django scaling talk I ever attended!
+
 By Mike Malone
 ~~~~~~~~~~~~~~~
 

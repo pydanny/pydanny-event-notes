@@ -2,6 +2,8 @@
 High-Performance JavaScript
 ===========================
 
+.. note:: This was an awful talk. It could have been better, but the phrase, "Hey I travelled 1000 miles to get you guys to contribute to my unknown framework"" rankled badly with people like me who traveled 3000+ miles to attend.
+
  * Plan for 200 millisecond latency
 
 by Erich Ocean

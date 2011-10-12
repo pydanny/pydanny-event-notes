@@ -8,7 +8,15 @@ DjangoCon US 2009
    ian_bicking_keynote
    keynote_day_3
    confessions_of_a_perl_bigot
-   
+   continuous_integration
+   DeployingDjangoDC2009_notes
+   geo_django
+   html5_clients
+   lighting_talks
+   no_bad_pony
+   pluggable_applications
+   scaling_django_dc09_notes
+   ur_doing_it_wrong
    
 
 DjangoCon Report

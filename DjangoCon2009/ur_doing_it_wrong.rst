@@ -35,9 +35,11 @@ The biggest problem with the perception of Django
 
 People think that Django is too glued together. But that isn't true:
 
-#. import SqlAlchemy
+#. Just do `import SqlAlchemy`
 #. You don't need to use Django's default components
-#. We've used RSA and a SOAP service for auth in Django
+
+
+.. note: We used RSA and a SOAP service for auth in Django at NASA. Which in both cases was sucky. Hates RSA and SOAP I do!
 
 Testing new Django apps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +48,7 @@ What James does to check out your app:
 
 #. Need to have your stuff working with standard Django install tools.
 #. top level stuff needs to be there in your package.
-#. Stay away from setuptools. Go to distribute by Tarek Ziade
+#. Stay away from setuptools. Go to `distribute` by Tarek Ziade
 #. Wants to see a concise one-sentence explanation from the README describing what the app does
 #. You better have a good explanation as to why you are duplicating other person's work
 #. Wants to see documentation or will file a bug. Will jump away from your work if you don't have it unless you are lucky.
