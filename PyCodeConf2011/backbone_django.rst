@@ -68,7 +68,7 @@ Backbone!
 
 
 Handlebars templates
-==============
+============================
 
 * handlebars.js templates
 * looks like Django/Jinja2 templates
