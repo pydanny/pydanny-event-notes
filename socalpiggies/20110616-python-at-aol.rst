@@ -1,8 +1,8 @@
 ======================================
-AOL at Python given on June 6, 2011
+June 6, 2011 - Python at AOL
 ======================================
 
-.. note:: Late because of traffic so missed part of the first talk. Some of the audience commentary was not as polite as it should be, and I'm guilty of a little of it. :P
+.. note:: Late because of traffic so missed part of the first talk. Some of the audience commentary was not as polite as it should be, and I'm guilty of a little of it. However, in conversing with other attendees and especially potential speakers, it was determined that as a group we need to be better at handling speakers.
 
 By Jathan (Security Engineer)
 
