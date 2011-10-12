@@ -2,6 +2,8 @@
 Confessions of a Perl bigot
 ===========================
 
+.. note:: In early 2010 Frank and Jacob Kaplan-Moss hired me to consult at RevSys.
+
 by Frank Wiles
 ~~~~~~~~~~~~~~~
 
@@ -21,7 +23,7 @@ Outside observations
 
  * urlconf uses regex
  * Quality of his code supply is better
- * Good documetation
+ * Good documentation
  * Lots of modules that don't install right
  * Hands don't hurt as much because pinkies aren't used to grab the shift and obscure things
  * Seeing lots of startups using Rails and Django
@@ -36,10 +38,12 @@ What is Django missing?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
  * Centralized repo a'la CPAN. `We do have pypi.` 
- * Perl has more HOWTO type docs and blog posts on various topics. `Pymotw is a good example of what we need.`
+ * Perl has more HOWTO type docs and blog posts on various topics. `PyMOTW is a good example of what we need.`
  * Dedicated Q&A website. Such as Perlmonks.org
  * Centralized user groups structure
  * Shared community hosting/infrastructure. `Don't we have webfaction?`
+ 
+.. note:: Back in the day I said `webfaction` but compared to djangozoom.com, ep.io, dotCloud.com, gondor.io and now Heroku, it is nothing!
  
 Advice on having a Django addiction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

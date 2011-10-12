@@ -27,14 +27,17 @@ Conferences
    DjangoCon2011/index
    KiwiPycon2011/index 
    PyconAU2011/index
-   Django1.3Webinar/index
+   django13webinar/index
    Pycon2011/index
+   django_master_class/index   
    DjangoCon2010/index
    Pycon2010/index
-   django_master_class/index
+   DjangoCon2009/index
    Pycon2009/index
    Pycon2008/index
    PloneConf2007/index
+   
+ 
  
 
 Indices and tables

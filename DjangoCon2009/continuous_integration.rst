@@ -24,15 +24,3 @@ Tests
     * Integration
     * Functional
     * Code inspection
-**
-================
-DjangoCon Report
-================
-
- * Outreach to ARC
- * Django Education Foundation
- * Scaling Django
- * Pinax Tutorial
- * Pinax 0.7 release
- * Discovering Django resources 
-**
