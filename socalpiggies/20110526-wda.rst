@@ -1,6 +1,6 @@
-================================================
-Python at Walt Disney Animation Studios
-================================================
+======================================================
+May 26, 2011 - Python at Walt Disney Animation Studios
+======================================================
 
 WDA = Walt Disney Animation Studios
 

@@ -1,10 +1,10 @@
 ==============================
-Knowing Things on June 6, 2011
+June 6, 2011 Knowing Things
 ==============================
 
 By Jeff Schenk
 
-.. note:: Way too many comments from one person who kept taking him off topic so I asked Jeff to not take so many questions. Not sure how well that went over...
+.. note:: Way too much heckling and too many comments from one person who kept taking him off topic so I asked Jeff to not take so many questions. That did not go over well with the hecklers, but actually asking on the mailing list uncovered a serious problem in the user group. Now things are better.
 
 Ad.ly's story
 ==============

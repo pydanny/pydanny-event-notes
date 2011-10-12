@@ -1,8 +1,8 @@
-==============
-Python tricks
-==============
+==============================
+April 20, 2011 - Python tricks 
+==============================
 
- * April 28, 2011
+ * April 20, 2011
  * http://code.google.com/p/lingospot
 
 

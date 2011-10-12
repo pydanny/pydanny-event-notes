@@ -8,6 +8,15 @@ Welcome to pydanny-event-notes!
 
 I've been collecting my notes taken over the years into this one location. My intention is to capture all that I've learned or forgotten, share it with others, and compare that with where I am now.
 
+Meetups
+============
+
+.. toctree::
+   :maxdepth: 1
+   
+   socalpiggies/index
+
+
 Conferences
 ============
 
