@@ -15,3 +15,4 @@ Plone Conference 2007
    subtping-pattern
    untested-code-is-broken-code
    Zope3-class
+   plonerelations

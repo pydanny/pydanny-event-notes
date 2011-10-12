@@ -13,3 +13,4 @@ Pycon 2011
    opening_the_flask
    outreach
    pluggable_django_patterns
+   intro_to_c/README
