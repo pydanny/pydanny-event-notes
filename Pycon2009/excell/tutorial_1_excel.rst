@@ -296,7 +296,7 @@ Other utilities in xlutils
 Filters let you change an existing file. Is rather sophisticated
 ::
     Original -> filter -> filter - results
-    
+
     start()
     workbook(rdbook,wtbook_name)
     sheet(rdsheet,wtsheet_name)
@@ -310,3 +310,4 @@ Filters let you change an existing file. Is rather sophisticated
        * row
         - cell
       - finish
+
