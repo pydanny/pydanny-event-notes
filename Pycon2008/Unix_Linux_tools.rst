@@ -12,7 +12,7 @@ Ideas for command line tools
  * Wrapping over existing tools
  
 The basics: Subprocess + Optparse
-----------------------------
+---------------------------------
  * Use subprocess.call
  * If stout is needed, use subprocess.Popen
  
