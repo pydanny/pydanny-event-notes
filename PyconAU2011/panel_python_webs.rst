@@ -17,7 +17,6 @@ Micro vs Macro frameworks
 Django thoughts
 ===============
 
-Malcolm said: *Django is a framework for perfectionists with deadlines, not beginners with deadlines.
-*
+Malcolm said: *Django is a framework for perfectionists with deadlines, not beginners with deadlines.*
 
 * Django gives you one obvious way to do things rather than a bunch of choices. 

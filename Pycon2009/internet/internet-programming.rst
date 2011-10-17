@@ -257,7 +257,6 @@ Other Protocol clients
     
 ----
 
-==================
 CGI Programming
 ==================
 

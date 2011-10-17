@@ -34,7 +34,7 @@ Predictions for 1.5
 ====================
 
 Possible removals
--------------
+-----------------
 
  * Python 2.5 support (2.6 is just plain faster)
  * mod_python support (no more support, no way to download, just say no!!!)
