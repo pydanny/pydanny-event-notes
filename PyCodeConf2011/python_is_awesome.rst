@@ -207,14 +207,14 @@ Proposal: Generators that accept inputs
 Winning language Decorators
 ------------------------------
 
-.. note:: I have problem writing them. Serious problems. :'(
+.. note:: I have problem writing these things. Serious problems. :'(
 
- * Expressive
- * Easy on the eyes
- * Works for functions, methods, and classes
- * Adds powerful layer of composable tools
- * Raymond shows sample code from Daniel Lindsley's Itty!
- 
+* Expressive
+* Easy on the eyes
+* Works for functions, methods, and classes
+* Adds powerful layer of composable tools
+* Raymond shows sample code from Daniel Lindsley's Itty!
+
     * https://github.com/toastdriven/itty
     
 
