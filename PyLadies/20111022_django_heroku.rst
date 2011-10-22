@@ -1,5 +1,5 @@
 =============================================
-Running Django Projects on Heroku
+2011/10/22 Running Django Projects on Heroku
 =============================================
 
 * by Randall Degges (@rdegges)
@@ -32,3 +32,6 @@ Bunch more commands
 ====================
 
 .. note:: get Randall's text from him
+
+Get moar features from him
+========================================

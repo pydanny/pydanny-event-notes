@@ -1,0 +1,10 @@
+================================
+2011/10/22 trash-or-treasure
+================================
+
+* by Emma Shroder
+* http://djangolookslikefun.wordpress.com
+* https://github.com/ecschroder/remake
+* http://trash-or-treasure.djangozoom.net/trashure/
+
+This is the world of a beginner who has been growing her skills over time. Nice to see the progression!
