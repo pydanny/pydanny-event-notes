@@ -2,7 +2,8 @@
 Unit Testing
 ===============
 
-by Professor Ray Toal Loyala Marymount
+* by Professor Ray Toal Loyala Marymount
+* October 22, 2011
 
 
 How to unit test
