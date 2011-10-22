@@ -3,10 +3,10 @@ PyLadies
 ============
 
 .. toctree::
-   :maxdepth: 2
-   
-    20111022_unittesting
-    20111022_django_heroku
-    20111022_remake
-    20111022_protorpc
-    20111022_know_your_time
+   :maxdepth: 1
+
+   unittesting_20111022
+   django_heroku_20111022
+   remake_20111022
+   protorpc_20111022
+   know_your_time_20111022

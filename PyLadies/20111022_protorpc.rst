@@ -1,5 +1,0 @@
-====================
-2011/10/22 ProtoRPC
-====================
-
-By Leo Chen, google staffer
