@@ -28,3 +28,7 @@ A bunch of commands
 
 .. note:: get Randall's text from him
 
+Bunch more commands
+====================
+
+.. note:: get Randall's text from him
