@@ -237,8 +237,6 @@ Real-time feeds
 * Uses Tornado with long polling 
 * Uses Django signals instead of triggers :o 
 
-.. note:: I don't think he realizes that Django Signals are not asynchronous. He should be using Celery instead.
-
 Slow ORM queries
 ------------------
 
@@ -248,3 +246,16 @@ Slow ORM queries
     * 5% of the time he hits a bottleneck
     
 * Sometimes you have to break it out into SQL with the `.extra()` method.
+
+Lessons Learned
+-----------------
+
+* The biggest technical challenge is determining which technical tasks take priority.
+* Stay focused and excited
+* Took 6 months to develop:
+
+    * Learned to program for this project!!! Wow!!!
+    * Choose Python because... 
+    
+        * Wanted an enthusiastic community that isn't crazy
+        * Community answers questions nicely
