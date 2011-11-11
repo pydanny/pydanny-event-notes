@@ -7,8 +7,11 @@ June 6, 2011 - Socal Python meetup at Dreamhost
 Asynchronous programming techniques
 ====================================
 
-.. note:: My answer is to use Celery + Redis/RabbitMQ to handle this stuff.
+.. note:: My normal answer is to use Celery + Redis/RabbitMQ to handle this stuff.
 
+by TODO: ask the name of speaker
+
+* *Walked in the on the part about Twisted...*
 * Threads vs processes are a debatable issue.
 * Cost of using Python to create new processes is considered slow
 * Blocking and memory access issues
@@ -38,5 +41,12 @@ Gevent
 ------
 
 * Wonderful monkey patch that does the bulk of the work needed for multi-tasking.
-* Does not use threads
-* 
+* Does not use threads, replaces certain libraries on the fly.
+* I've played with it, and it is fun.
+* See:
+
+.. sourcecode:: python
+
+    monkey.patch_all()
+    
+.. note:: See my notes on Gevent at http://pydanny-event-notes.readthedocs.org/en/latest/KiwiPycon2011/python_dist_gevent_redis.html
