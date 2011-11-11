@@ -52,3 +52,19 @@ Gevent
     monkey.patch_all()
     
 .. note:: See my notes on Gevent at http://pydanny-event-notes.readthedocs.org/en/latest/KiwiPycon2011/python_dist_gevent_redis.html
+
+Metaclasses: Look behind the curtain
+============================================
+
+by Dreamhoster John LaCourt
+
+.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so.
+
+What does a class do?
+-----------------------
+
+* Class constructs are called instances
+* What does it really mean to construct an instance?
+
+    * A class provides an instance with it's namespace
+    * Attributes of a class define the namespace f the instance
