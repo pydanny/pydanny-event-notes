@@ -227,12 +227,14 @@ Search
 -------
 
 * Thought about Haystack, Solr, Sphinx, Google
+* He's tried the all and they all suit his needs
 
 Real-time feeds
 ----------------
 
 * Tornado + MySQL triggers?!?
 * Needs to get something working, doesn't have to be too fancy
+* Uses Tornado with long polling 
 * Uses Django signals instead of triggers :o 
 
 .. note:: I don't think he realizes that Django Signals are not asynchronous. He should be using Celery instead.
@@ -240,4 +242,9 @@ Real-time feeds
 Slow ORM queries
 ------------------
 
-* Django ORM sometimes slows things down so you have to optimize
+* Django ORM sometimes slows things down so you have to optimize.
+
+    * 95% of the time it's not an issue
+    * 5% of the time he hits a bottleneck
+    
+* Sometimes you have to break it out into SQL with the `.extra()` method.
