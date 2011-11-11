@@ -42,6 +42,7 @@ Gevent
 
 * Wonderful monkey patch that does the bulk of the work needed for multi-tasking.
 * Does not use threads, replaces certain libraries on the fly.
+* Uses co-routines, built on lib-eb
 * I've played with it, and it is fun.
 * See:
 
