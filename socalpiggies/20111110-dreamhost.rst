@@ -16,6 +16,7 @@ by TODO: ask the name of speaker
 * Cost of using Python to create new processes is considered slow
 * Blocking and memory access issues
 * Async is a problem in Python because not all libraries support it
+* Someone mentioned a library called *pystates*
 * GIL
 
     * Multiple threads in Python are OS processes and you can get blocking on memory objects
