@@ -227,4 +227,4 @@ Real-time feeds
 Slow ORM queries
 ------------------
 
-* 
+* Django ORM sometimes slows things down so you have to optimize
