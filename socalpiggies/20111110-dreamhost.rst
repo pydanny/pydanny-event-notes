@@ -58,7 +58,9 @@ Metaclasses: Look behind the curtain
 
 by Dreamhoster John LaCourt
 
-.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so. So I listen to this talk with concern because debugging bad Metaclass code is a pain.
+.. note:: Great talk, with presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so. So I listen to this talk with concern because debugging bad Metaclass code is a pain.
+
+.. warning:: If you use Metaclasses badly and I have to debug your code I reserve the right to complain loudly in all public venues.
 
 What does a class do?
 -----------------------
