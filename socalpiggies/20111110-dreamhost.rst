@@ -58,7 +58,7 @@ Metaclasses: Look behind the curtain
 
 by Dreamhoster John LaCourt
 
-.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so. So I listen to this talk with concern because debugging bad metaclass code is a pain.
+.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so. So I listen to this talk with concern because debugging bad Metaclass code is a pain.
 
 What does a class do?
 -----------------------
@@ -93,6 +93,40 @@ What is a metaclass?
 The `type` metaclass
 ----------------------
 
+* If the instance of a metaclass is a class, can we insubstantiate the class just using `type`
+
 .. sourcecode:: python
 
-    class
+    def greet(self, who):
+        print self.greeting, who
+        
+    Person = type(
+        'Person',
+        (object,),
+        {'greet': greet, 'greeting': 'Hello'}
+    
+    )
+    
+    j = Person
+    print j.greet('SoCal')
+    'hello SoCal'    
+    
+First metaclass:
+
+.. sourcecode:: python
+    
+    class MyFirstMeta(type):
+        def __init__(cls, name, bases, ns):
+            cls.uses_my_metaclass = True
+        
+    # the grungy way of building that class    
+    MyClass = MyFirstMeta(
+        'MyFirstMeta',
+        (object,),
+        {'greet': greet, 'greeting': 'Hello'}
+    )
+    
+    # the easier way of building that class
+    class MyClass(object):
+    
+        __metaclass__ = MyFirstMeta
