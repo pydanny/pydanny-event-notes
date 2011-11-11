@@ -33,3 +33,10 @@ Communicating Sequential Processes
 
 * Title of an academic paper
 * A system of sharing tasks and data
+
+Gevent
+------
+
+* Wonderful monkey patch that does the bulk of the work needed for multi-tasking.
+* Does not use threads
+* 
