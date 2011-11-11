@@ -4,10 +4,10 @@ June 6, 2011 - Socal Python meetup at Dreamhost
 
 .. note:: Arrived 30 minutes late so my notes are woefully incomplete
 
-Asynchronous programming techniques
-====================================
+Asynchronous programming techniques in Python
+===============================================
 
-.. note:: My normal answer is to use Celery + Redis/RabbitMQ to handle this stuff.
+.. note:: My normal answer is to use Celery + Redis/RabbitMQ to handle this stuff. Is that cheating? ;)
 
 by TODO: ask the name of speaker
 
