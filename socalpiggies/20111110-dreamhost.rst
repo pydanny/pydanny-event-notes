@@ -154,7 +154,8 @@ Practical example
         def __init__(self, ftype):
             self.ftype = ftype
             
-        def TODO get this method
+        def TODO: #get this method
+            pass
     
 
     class EnforcerMeta(type):
@@ -180,4 +181,3 @@ Great! Now be @#$%ing careful!!!!
 
 * Because they are constructing classes on the fly, bugs in your metaclasses will often happen during import statements
 * Please, please use them judiciously
-
