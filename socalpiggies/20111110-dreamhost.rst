@@ -207,12 +207,21 @@ Cinely
 
     * 10K lines of Python
     * 1K of unittest
+
+* Needs to justify the cost of everything that they do. Startups have small budgets!
     
 Video transcoding
 -------------------
 
+* Priority feature
 * Need to be able to handle high load
 * No tolerance from users about failure
+* Needs to be fast:
+
+    * 1 minute of video needs to be done in 1 minute. 
+    * 10 minutes video in 10 minutes
+    
+* Chose zencoder rather than ffmpeg probably because they've got dedicated resources and experiences
 
 Search
 -------
@@ -223,6 +232,7 @@ Real-time feeds
 ----------------
 
 * Tornado + MySQL triggers?!?
+* Needs to get something working, doesn't have to be too fancy
 
 Slow ORM queries
 ------------------
