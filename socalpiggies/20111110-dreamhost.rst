@@ -233,6 +233,7 @@ Real-time feeds
 
 * Tornado + MySQL triggers?!?
 * Needs to get something working, doesn't have to be too fancy
+* Uses Django signals instead of triggers - but I don't think he realizes that Signals are not asynchronous
 
 Slow ORM queries
 ------------------
