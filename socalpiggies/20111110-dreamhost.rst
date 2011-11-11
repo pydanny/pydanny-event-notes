@@ -187,3 +187,44 @@ Great! Now be @#$%ing careful!!!!
 
 * Because they are constructing classes on the fly, bugs in your metaclasses will often happen during import statements
 * Please, please use them judiciously
+
+Approaching Technical challenges as a Startup
+=================================================
+
+by TODO
+ 
+* Django site for film
+* http://www.cinely.com/
+
+Cinely
+----------
+
+* Website to connect and organize the entire production community
+* Allows people to connect with each other, share work, and find jobs
+* Transcoding uses zencoder
+* Uses amazon ec2
+* Details:
+
+    * 10K lines of Python
+    * 1K of unittest
+    
+Video transcoding
+-------------------
+
+* Need to be able to handle high load
+* No tolerance from users about failure
+
+Search
+-------
+
+* Thought about Haystack, Solr, Sphinx, Google
+
+Real-time feeds
+----------------
+
+* Tornado + MySQL triggers?!?
+
+Slow ORM queries
+------------------
+
+* 
