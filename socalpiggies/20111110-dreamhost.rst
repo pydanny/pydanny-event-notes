@@ -86,3 +86,4 @@ What does a class do?
 * What is a metaclass?
 
     * A metaclass is a class of a class
+    * A metaclass is a class whose instances are classes
