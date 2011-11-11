@@ -7,7 +7,7 @@ June 6, 2011 - Socal Python meetup at Dreamhost
 Asynchronous programming techniques
 ====================================
 
-.. note:: My answer is to use Celery + Redis/RabbitMQ to handle most of this stuff
+.. note:: My answer is to use Celery + Redis/RabbitMQ to handle this stuff.
 
 * Threads vs processes are a debatable issue.
 * Cost of using Python to create new processes is considered slow
@@ -27,3 +27,9 @@ Multiprocessing
 * Uses pickles to share data via messages, which means anything that is deserialized executes the code
 
     * Which means you should watch out for code injection!
+
+Communicating Sequential Processes
+------------------------------------
+
+* Title of an academic paper
+* A system of sharing tasks and data
