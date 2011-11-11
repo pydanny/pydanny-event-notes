@@ -167,5 +167,5 @@ Practical example
             if key in self._fields:
                 if not self._fields[key].is_valid(value):
                     raise TypeError('{0} is not valid'.format(key))
-        
+            super(Enforcer, self).__setattr__(key, value)
         
