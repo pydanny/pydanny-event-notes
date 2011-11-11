@@ -147,7 +147,7 @@ First metaclass:
 Practical example
 --------------------
 
-* Enforce all the things, like in Java
+Enforce all the things, like in Java
 
 .. sourcecode:: python
 
@@ -156,7 +156,7 @@ Practical example
         def __init__(self, ftype):
             self.ftype = ftype
             
-        def TODO: #get this method
+        def TODO(self): #get this method
             pass
     
 
