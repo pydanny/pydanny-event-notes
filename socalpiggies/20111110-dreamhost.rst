@@ -118,6 +118,11 @@ First metaclass:
     class MyFirstMeta(type):
         def __init__(cls, name, bases, ns):
             cls.uses_my_metaclass = True
+            
+        def mystery_method(cls):
+            # All methods in metaclasses are metaclasses, which is why 
+            #       the variable is 'cls' and not 'self'
+            return 'I am a myster method'
         
     # the grungy way of building that class    
     MyClass = MyFirstMeta(
