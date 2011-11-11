@@ -58,7 +58,7 @@ Metaclasses: Look behind the curtain
 
 by Dreamhoster John LaCourt
 
-.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so.
+.. note:: Presenter is saying it's not magic, I agree. However, IMO, 95% people use Metaclasses, they have no reason to do so. So I listen to this talk with concern because debugging bad metaclass code is a pain.
 
 What does a class do?
 -----------------------
@@ -83,7 +83,16 @@ What does a class do?
     'hello SoCal'
     
     
-* What is a metaclass?
+What is a metaclass?
+----------------------
 
     * A metaclass is a class of a class
     * A metaclass is a class whose instances are classes
+    * This is called metaprogramming
+    
+The `type` metaclass
+----------------------
+
+.. sourcecode:: python
+
+    class
