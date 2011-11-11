@@ -233,7 +233,9 @@ Real-time feeds
 
 * Tornado + MySQL triggers?!?
 * Needs to get something working, doesn't have to be too fancy
-* Uses Django signals instead of triggers - but I don't think he realizes that Signals are not asynchronous
+* Uses Django signals instead of triggers :o 
+
+.. note:: I don't think he realizes that Django Signals are not asynchronous. He should be using Celery instead.
 
 Slow ORM queries
 ------------------
