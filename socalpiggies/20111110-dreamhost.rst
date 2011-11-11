@@ -135,3 +135,37 @@ First metaclass:
     class MyClass(object):
     
         __metaclass__ = MyFirstMeta
+        
+Practical example
+--------------------
+
+* Enforce all the things, like in Java
+
+.. sourcecode:: python
+
+    class Field(object):
+    
+        def __init__(self, ftype):
+            self.ftype = ftype
+            
+        def TODO get this method
+    
+
+    class EnforcerMeta(type):
+        def __init__(cls, name, bases, ns):    
+    
+            cls._fields = {}
+        
+            for key, value in ns, items
+                if isnstance(value, Field):
+                    cls._fields[key] = value
+        
+    class Enforcer(EnforcerMeta):
+        __metaclass__ = EnforcerMeta
+        
+        def __setattr__(self, key, value):
+            if key in self._fields:
+                if not self._fields[key].is_valid(value):
+                    raise TypeError('{0} is not valid'.format(key))
+        
+        
