@@ -17,3 +17,13 @@ Asynchronous programming techniques
 
     * Multiple threads in Python are OS processes and you can get blocking on memory objects
     * On large processes on things like `dict` hash-tables you can get blocks/locks on the wrong thing
+    
+Multiprocessing
+----------------
+
+* Called 'giant hack'
+* Looks likes the threads API
+* Uses a messages system to use OS processes to share data between processes/threads
+* Uses pickles to share data via messages, which means anything that is deserialized executes the code
+
+    * Which means you should watch out for code injection!
