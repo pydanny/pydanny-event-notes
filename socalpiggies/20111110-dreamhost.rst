@@ -82,6 +82,12 @@ What does a class do?
     print j.greet('SoCal')
     'hello SoCal'
     
+Example libraries
+-------------------
+
+* SQLAlchemy
+* FormEncode
+* Django ORM    
     
 What is a metaclass?
 ----------------------
@@ -168,4 +174,10 @@ Practical example
                 if not self._fields[key].is_valid(value):
                     raise TypeError('{0} is not valid'.format(key))
             super(Enforcer, self).__setattr__(key, value)
-        
+
+Great! Now be @#$%ing careful!!!!
+------------------------------------
+
+* Because they are constructing classes on the fly, bugs in your metaclasses will often happen during import statements
+* Please, please use them judiciously
+
