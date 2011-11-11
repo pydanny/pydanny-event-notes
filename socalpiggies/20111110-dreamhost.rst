@@ -67,4 +67,22 @@ What does a class do?
 * What does it really mean to construct an instance?
 
     * A class provides an instance with it's namespace
-    * Attributes of a class define the namespace f the instance
+    * Attributes of a class define the namespace of the instance
+    * Example of a class:
+    
+.. sourcecode:: python
+
+    class Person(object):
+        greeting = 'hello'
+        
+        def greet(self, who):
+            print self.greeting, who
+            
+    j = Person
+    print j.greet('SoCal')
+    'hello SoCal'
+    
+    
+* What is a metaclass?
+
+    * A metaclass is a class of a class
