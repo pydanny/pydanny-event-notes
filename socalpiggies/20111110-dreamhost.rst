@@ -191,7 +191,7 @@ Great! Now be @#$%ing careful!!!!
 Approaching Technical challenges as a Startup
 =================================================
 
-by TODO
+by David Litwin
  
 * Django site for film
 * http://www.cinely.com/
