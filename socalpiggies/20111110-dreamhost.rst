@@ -9,7 +9,11 @@ Asynchronous programming techniques in Python
 
 .. note:: My normal answer is to use Celery + Redis/RabbitMQ to handle this stuff. Is that cheating? ;)
 
-by TODO: ask the name of speaker
+* by Dreamhoster Tommi Virtanen
+* slides: http://eagain.net/talks/concurrency-oh-my/index.html
+
+Talk
+----
 
 * *Walked in the on the part about Twisted...*
 * Threads vs processes are a debatable issue.
