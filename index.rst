@@ -16,6 +16,7 @@ Meetups
    
    socalpiggies/index
    PyLadies/index
+   LADjango/index
    
 
 Conferences
