@@ -17,7 +17,6 @@ Meetups
    socalpiggies/index
    PyLadies/index
    LADjango/index
-   mongodb.rst
    
 
 Conferences
@@ -32,6 +31,7 @@ Conferences
    PyconAU2011/index
    django13webinar/index
    Pycon2011/index
+   mongodb/la_mongo
    django_master_class/index   
    DjangoCon2010/index
    Pycon2010/index
@@ -39,7 +39,8 @@ Conferences
    Pycon2009/index
    Pycon2008/index
    PloneConf2007/index
-   
+
+ 
  
  
 
