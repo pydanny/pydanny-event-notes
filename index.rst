@@ -17,6 +17,7 @@ Meetups
    socalpiggies/index
    PyLadies/index
    LADjango/index
+   mongodb.rst
    
 
 Conferences

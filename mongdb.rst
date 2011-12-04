@@ -1,3 +1,9 @@
+==================
+LA MongoDB meetup 
+==================
+
+* In February of 2011
+
 What OS for production?
 -----------------------
 
