@@ -138,9 +138,38 @@ Key files!
  * Don't define the same key format string in more than one place
  * Put all the app key names into one file
 
+.. note:: What I tend to do is as follows
+
 .. sourcecode:: python
 
-    # TODO - get sample code!
+    # in core/cachekeys.py I store all my cache keys in functions
+    def profiles_profile(user):
+        return "profiles:profile:{pk}".format(pk=user.pk)
+        
+    # Then I refer to the key thus in a models file
+    from django.contrib.auth.models import User
+    
+    from core import cachekeys
+    
+    class MyModel(models.Model):    
+    
+        user = models.ForeignKey(user)
+    
+        def get_profile(self):
+            key = cachekeys.profiles_profile(self.user)
+            profile = cache.get(key)
+            if profile is not None:
+                return profile
+            profile = self.user.get_profile()
+            cache.set(key, profile)
+            return profile
+            
+        def save(self, *args, **args):
+            profile = self.user.get_profile()
+            cache.set(key, profile)        
+            # TODO add superclass call here
+            
+    
     
 Cache related code stuff
 --------------------------
