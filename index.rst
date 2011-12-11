@@ -40,8 +40,13 @@ Conferences
    Pycon2008/index
    PloneConf2007/index
 
+Credits
+========
  
-I love Audrey Roy. She makes this and so much more possible. She is my life.
+* Audrey Roy. She makes this and so much more possible. She is my life.
+* Eric Holscher and the rtfd.org community.
+* Github for DVCS hosting.
+* The Django, Python, and the Open Source communities.
  
 
 Indices and tables
