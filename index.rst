@@ -39,6 +39,11 @@ Conferences
    Pycon2009/index
    Pycon2008/index
    PloneConf2007/index
+   
+Articles
+========
+
+* http://pydanny.blogspot.com/2011/12/story-of-live-noting.html
 
 Credits
 ========
@@ -47,6 +52,7 @@ Credits
 * Eric Holscher and the rtfd.org community.
 * Github for DVCS hosting.
 * The Django, Python, and the Open Source communities.
+
  
 
 Indices and tables
