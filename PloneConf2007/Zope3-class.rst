@@ -15,23 +15,27 @@ _Zope 3 Training for Plone Developers: https://dev.serverzen.com/svn/public/docu
 
 Exercise: Creating a functional test
 ============================================
+
   - Create a new Zope 2 product called Thoughtfulblog
   - Reed discovered that PloneTestCase only works in the Instance/Products directory, but you can semlink to it .
 
 
 Gotcha
 ============================================
+
 Can't mix and match Zope2.zpt and Zope3.zpt objects in Plone 2.5, but can do it in Plone 3.0.  So METAL is bad there.  This is why we should move to Plone 3.0.
 
 
 Interfaces
 ============================================
+
   - Interfaces define what methods are there but doesn't define the logic inside.  It is an agreement of how to build a class and nothing else.  So any logic can be tacked on later.
   - zope.interface is a good solid way to do Python interfaces.  It can be used outside of Zope as seen in Twisted and other non-Zope projects.
   - Marker interfaces are interface classes that lack any attributes (methods, properties, etc).  A regular interface includes attributes.
 
 Basic UI: View Components
 ============================================
+
   - A view component consists of a page template, python class, and some ZCML glue
   - Conventions places view components in a browser subpackage.
   - Views can be traversed to
@@ -40,9 +44,9 @@ Basic UI: View Components
     - Zope2.view is mapped to the standard Zope2 view system.
     - zcml: allowed_attributes is a list of properties that can be vieed with same permissions
 
-
 Writing your own permissions
 ============================================
+
   - Use Products/Five/permissions.zcml as example
   - id is name of Zope2 permission
   - title must match string in CMF Permissions
@@ -51,24 +55,32 @@ Writing your own permissions
 
 Integrating Archetypes
 ============================================
+
 Archetypes based classes are very good
 
 
 Setting up the view
 ============================================
+
   - Views can be treated like regular CMF skin items
   - Views can be registed as content actions
 
 
 Python scripts inside of templates
 ============================================
+
   - Just say no
   - Only return items that the pages really need.
-  - Example inside a browser.py file: return [{'title': x.Title(), 'link': x.absolute_url()} for x in self.context.posts()]
+
+
+Example inside a browser.py file:: 
+
+    return [{'title': x.Title(), 'link': x.absolute_url()} for x in self.context.posts()]
 
 
 Testing
 =============================================
+
   - Look at ThoughtfulBlog/tests.py
   - And the relevant browser.txt and content.txt file
   - Awesome stuff
@@ -76,6 +88,7 @@ Testing
 
 Sub-Type Pattern Syllabus
 =============================================
+
   - Setting up the interfaces
   - Modifying the view
   - Introducing adapters
@@ -84,17 +97,20 @@ Sub-Type Pattern Syllabus
   - Summary and Q & A
   - Used in Plone4Artists Calendar, Media, and other bits
   - Three new interfaces
+  
     - IBlog
     - IBlogCapable
     - IBlogEnhanced
 
   - Mapped browser:page:blog.html to work for IBlogEnhanced by using the for=".interfaces.IBlogEnhanced"
   - Difference between implements and provides, which is critical semantics
+  
     - A class implements
     - An object provides
 
 Adapters
 =======================
+
   - A bridge from one type of object to another type
   - Say "no" to monkey patches
   - Say "yes" to adapters
@@ -115,6 +131,7 @@ Adapters
 
 Revisiting Adapters
 =======================
+
   - zope.app.annotation
   
     - Akin to property sheets
@@ -139,6 +156,7 @@ Revisiting Adapters
 
 Utilities
 ========================
+
   - Global Utilities
   
     - Most common
@@ -185,14 +203,17 @@ Utilities
     - Permissions are actually utilities providing IPermission
     - Permission objects have id, title, and description attributes
     - No longer 'just strings' in Zope 2
-    - Example: Getting all the permissions via zopectl debug
-    - >>> p =  zope.security.interfaces.IPermission
-    - >>> p
-    - <InterfaceClass zope.security.interfaces.IPermission>
-    - >>> from zope import component
-    - >>> component.getUtilitiesFor(p)  
-    - <generator object at 0x25ab9e0>
-    - >>> [x for x in  component.getUtilitiesFor(p)]
+    - Example: Getting all the permissions via zopectl debug:
+    
+.. sourcecode:: python    
+    
+    >>> p =  zope.security.interfaces.IPermission
+    >>> p
+    <InterfaceClass zope.security.interfaces.IPermission>
+    >>> from zope import component
+    >>> component.getUtilitiesFor(p)  
+    <generator object at 0x25ab9e0>
+    >>> [x for x in  component.getUtilitiesFor(p)]
 
   - Custom Events
   
@@ -205,26 +226,32 @@ Utilities
     - Does it's work because an event was fired
 
   - Object events
+  
     - Set of events provided and fire by core Zope
     - Examples are IObjectCreated and IObjectMoved
     - Used throughout Zope 3 and should be manually fired when necessary
     - manage_afterAdd is not good and is replaced via events
     - Since Zope 2.9, ObjectManager fires events properly
     - Object-Manager container manage_XXX methods deprecated in favor of listening for object events
-    - Handy events::
+
+Handy events:
+
+.. sourcecode:: python
     
       + IOBjectWillBeAddedEvent	
       + IOBjectAddedEvent
       + IOBjectWillBeRemovedEvent
       + IOBjectRemovedEvent
       
-  - Current Archetypes base_edit fires object modified events
-  - Plone 3 provides richer set of object events being fired
+ - Current Archetypes base_edit fires object modified events
+ - Plone 3 provides richer set of object events being fired
 
 
 Advanced UI
 ========================
+
   - Zope 3 schemas
+  
     - Simply an interface with more detailed attribute information
     - uses fields as described by zope.schema
     - Provides no UI specific information
@@ -236,7 +263,9 @@ Advanced UI
 
 Forms & Widgets  
 ========================
+
   - Widgets are essentially views on schema field instances
+  
     - Widgets provide IDisplayWidget or IInputWidget
     - Widgets must be callable
     - Widgets typically return HTML
@@ -248,6 +277,7 @@ Forms & Widgets
 
 plone.app.form (part of Plone 3)
 ================================================
+
   - makes formlib generated forms more Plone-llike
   - provides extra widgets
   - useful with Plone 2.5 and moreso in Plone 3
@@ -255,6 +285,7 @@ plone.app.form (part of Plone 3)
 
 Useful components
 ========================
+
   - Python properties rock
   - p4a.subtyper might be worth looking into
   - CMFonFive
@@ -308,6 +339,7 @@ Things to look at
 
 Formlib issues
 ========================
+
   - No calendar widget
   - No reference widget
   - No wysiwig rich text widget
@@ -315,4 +347,5 @@ Formlib issues
 
 Tangent: Plone 3
 ========================
+
   - Look up Plone 3 configlets
