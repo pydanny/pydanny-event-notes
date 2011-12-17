@@ -53,8 +53,6 @@ Credits
 * Github for DVCS hosting.
 * The Django, Python, and the Open Source communities.
 
- 
-
 Indices and tables
 ==================
 

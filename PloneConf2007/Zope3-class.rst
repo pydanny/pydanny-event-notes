@@ -101,10 +101,12 @@ Adapters
   - Subclassing and aadapting are not exclusive
   - Done via ZCML (<adapter />) or ZCML plus python
   - Example:
+  
     - ICare extends IVehicle
     - ITransport could be an adapter for getting mileage info for IVehicle
 
   - Excercise:
+  
     - Create new atct module - This is atct.py
     - Create new class called ATCTFolderBlog
     - Implement new posts method which calls context.contentValues() and returns BlogPost instances
@@ -114,6 +116,7 @@ Adapters
 Revisiting Adapters
 =======================
   - zope.app.annotation
+  
     - Akin to property sheets
     - A way to mark unrelated metadata onto an existing object
     - Reusable method of reusing dictionary objects
@@ -121,12 +124,14 @@ Revisiting Adapters
   - Multi adapting takes more than one object to adapt
   - Sometimes it takes two object to make a bridge
   - example:
+  
     - from zope import component
     - adapted = component.getAdapter(myfolder,provides=IBlog) # -or- 
     - adapted = IBLog(myfolder)# -or maybe?- 
     - adapted  cmoponent.getMultiAdapter((somelang, myfolder), provides=IBlog)
 
   - Views are multi-adapters
+  
     - Adapts the context and request
     - Most often used as callables
     - getMultiAdapter((context,request),Interface,name=u'blog.html')
@@ -135,20 +140,24 @@ Revisiting Adapters
 Utilities
 ========================
   - Global Utilities
+  
     - Most common
     - Akin to typical python module lookup
     - can be overriden
     
   - How to lookup a utility
+  
     - getUtility(ISomeInterface) #-or-
     
   - Exercise: Creating a global utility
   - Local Components
+  
     - Defined at the site level
     - Zope 3 'site' is mostly noted by the presence of the ISite interface.
     - Most folderish objects can become Zope 3 ISites
     - A site is just a place to store the "component registry" 
     - Example: A blog share might have a site for 'news blogs' with news components and another site for 'food blogs' for food specific components.
+    
   - Sites can be nested
   - All components can be overriden with the closest component registry
   - utilities are commonly overrideen.
@@ -165,12 +174,14 @@ Utilities
   - Vocabularies (similiar type of source), similiar to Archetypes DisplayList
   - Vocabularies are frown upon when seperation of concerns is important
   - Standard 'source' ensures the 'view' of an item is calculated at request time (good time to figure out i18n)
+  
     - ISource requires only that the 'in' operator works
     - Iterable sources (very common) require __iter__ and __len__
     - Source binders are another utility used to generate a source based on context
     - Excercise:
     
   -Permissions
+  
     - Permissions are actually utilities providing IPermission
     - Permission objects have id, title, and description attributes
     - No longer 'just strings' in Zope 2
@@ -184,6 +195,7 @@ Utilities
     - >>> [x for x in  component.getUtilitiesFor(p)]
 
   - Custom Events
+  
     - Common way to get notification when 'something; happens	
     - one component fires an even
     - zope.event.notify(evt)
