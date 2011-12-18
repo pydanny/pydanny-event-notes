@@ -67,13 +67,13 @@ General Test concepts
     - Each test should be totally independent of other tests
     - Only load the bits you need, don't load all components!  So...
 
-      - Use zope.component.provideAdapter(UpperCaser)
-      - zope.testing.doctest.DocFileSuite(..,...,..,teardown=True)
+      - Use `zope.component.provideAdapter(UpperCaser)`
+      - `zope.testing.doctest.DocFileSuite(..,...,..,teardown=True)`
       - $instance test
   
     - Don't use: from Testing import ZopeTestCase unless you are doing integration
 
-    - from Products.Five.testbrowser import Browser
+    - `from Products.Five.testbrowser import Browser`
 
       - Simulates browser actions
       - learned in the class
