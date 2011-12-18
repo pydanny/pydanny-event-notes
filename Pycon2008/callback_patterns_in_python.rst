@@ -3,11 +3,12 @@ What is a callback?
 ===================
 
  * Its all about framework code that 'call back' into your code
- * Traditional code uses Hollywood principal, where "don't cal us, we'll call you"
+ * Traditional code uses Hollywood principal, where "don't call us, we'll call you"
  * Callbacks are used for event-driven architectures (actual events, structuring of control flow)
  
 Callback implementation
 ========================
+
  * Give someone a callable
  * Someone may store it somewhere
 

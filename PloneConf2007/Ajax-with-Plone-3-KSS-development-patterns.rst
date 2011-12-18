@@ -17,7 +17,9 @@ Overview
 
 Goals
 ========================================================
+
   - Business logic should be computed on the server
+  
     - Javascript implementations are not standardized
     - Transaction differences because you are creating a fat client
     

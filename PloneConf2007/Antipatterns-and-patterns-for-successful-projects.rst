@@ -5,7 +5,7 @@ Anti-patterns and patterns for successful projects
 Speaker: Kamon AYEVA
 =====================
 
-.. note:: I had hoped to get new things out of this but as an experience US government software contractor, none of this was new. (Danny 07/05/2011)
+.. note:: I had hoped to get new things out of this but as an experienced US government software contractor, none of this was new. (Danny 07/05/2011)
 
 Introduction (Why should we care)?
 ====================================
