@@ -173,7 +173,9 @@ Sometimes the rules need to be broken:
     >>> print(Two(1))
     2
 
-A better example is circular imports. TODO - Add example
+A better example is circular imports.
+
+* http://stackoverflow.com/questions/3955790/python-circular-imports-once-again-aka-whats-wrong-with-this-design#3956038
 
 Errors should never pass silently
 ===================================

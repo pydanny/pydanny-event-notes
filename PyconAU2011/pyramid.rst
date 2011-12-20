@@ -103,7 +103,7 @@ Traversal
 View Predicates
 ===============
 
-.. note:: TODO - Look this up later cause I missed it. :P
+All described here: http://docs.pylonsproject.org/projects/pyramid_zcml/en/latest/zcml/view.html
 
 Security
 =========
