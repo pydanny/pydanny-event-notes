@@ -2,6 +2,8 @@
 The State of Django
 =======================
 
+.. note:: Interesting to see how this differs almost 3 years later. 2011/12/19
+
  * Django is 5 years old
 
 What has happened since?
@@ -20,14 +22,17 @@ Django 1.0
     * QSRF (queryset refactor branch)
     * Pluggable file storage
     * newforms is now forms
+    
         - Modelforms
         - Formsets
+        
     * Session backends
     * File uploads work reliably
     * autoescape
     * Databrowse
     * geodjango
     * Runs on:
+    
         - Jython
         - PyPy
         - IronPython*
@@ -39,9 +44,12 @@ Django 1.1 beta
     * Annotations
     * Query Expressions
     * Unmanaged models
+    
         - Lets you subclass User and other things.
+        
     * Condition view processing
     * Admin
+    
         - Expose particular fields as editable
         - Define bulk actions
 
@@ -55,5 +63,6 @@ What next?
     * USDjangoCon in the fall
     * Django 1.2 in november
     * Py3k thoughts
+    
         - Support for python 2.3 will fade
         - 
