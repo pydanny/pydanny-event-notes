@@ -2,6 +2,8 @@
 Python for the sys admin
 ========================
 
+.. note:: I wonder how much of this has been subsumed by Fabric and the advent of Chef/Puppet. 12/22/2011
+
  * http://dev.tummy.com/~jafo/pycon2008/
  * Monitoring
  * Helpers
