@@ -46,6 +46,8 @@ What powers mongostat
 3. Profiler
 ------------
 
+This saves the data into a collection within the MongoDB. Which is nice cause you can reference it later.
+
 .. sourcecode:: javascript
 
     > db.setProfilingLevel(2):
