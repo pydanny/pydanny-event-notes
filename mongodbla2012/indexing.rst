@@ -16,7 +16,7 @@ Creating indexes in MongoDB
 ===================================
 
  * You can index anything
- * All docs have an _id field that is auto-indexed
+ * All docs have an `_id` field that is auto-indexed
  * new indexes:
  
 .. sourcecode:: javascript 
@@ -33,3 +33,9 @@ Things to know about indexes
 
 .. note:: TODO - check that we don't have dupe titles
 
+Covered Index
+===============
+
+* Query resolved in index only
+* Eliminated need to pull documents from DB
+* NEed to exclude `_id` from items projected.
