@@ -215,3 +215,13 @@ Disk Considerations
 * Make sure you have enough connections. 
 * On Linux, change the number of connections that can be opened.
 * MongoDB can handle up to 20,000 open connections
+
+9. Network Speed
+-----------------
+
+.. sourcecode:: javascript
+
+    > db.serverStatus()..network
+    // data here
+    
+Check this as one of the things that might be bottlenecking
