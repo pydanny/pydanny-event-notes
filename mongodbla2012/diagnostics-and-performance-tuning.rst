@@ -73,8 +73,6 @@ See it in operation!
 4. Monitoring Service
 -------------------------
 
-Free service provided by 10gen
-
-* MMS: 10gen.com/try-mms
-* Nagios
-* Munis
+* MMS: 10gen.com/try-mms (Free service provided by 10gen)
+* Also check out Nagios
+* Also check out Munis
