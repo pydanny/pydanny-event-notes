@@ -32,7 +32,8 @@ Conferences
    PyconAU2011/index
    django13webinar/index
    Pycon2011/index
-   mongodbla2011/la_mongo
+   SCALE9x/index
+   mongodbla2011/index
    django_master_class/index   
    DjangoCon2010/index
    Pycon2010/index
