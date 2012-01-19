@@ -157,4 +157,43 @@ Equation::
     
     }
     
-What to look for: 
+What to look for: ???
+
+6. Reader and Writer Queues
+----------------------------
+
+.. sourcecode:: javascript
+
+    > db.serverStatus().globallock
+    {
+        "blah": "blak=h"
+    
+    }
+
+.. sourcecode::
+
+    > db.currentOp()
+    
+What to look for: Things that are eating up tons of process. To stop it, run:
+
+.. sourcecode::
+
+    > db.killOp()
+
+7. Background Flushing
+------------------------
+
+.. sourcecode:: javascript
+
+    > db.serverStatus().backgroundFlushing
+    
+    {
+        "flushes": 5634,
+        "total_ms": 83556,
+        "average_ms": 14.832342342,
+        "last_ms": 4,
+        "last_finished": ISODate
+        // lots more
+    }
+    
+In some case you should flush more frequently then MongoDB does by default
