@@ -127,11 +127,12 @@ Always use 64-bit!
     // other things    
     }
 
-Equation:
+Equation::
 
     indexSize + dataSize <= RAM
     
 4. Page Faults
+--------------------
 
 .. sourcecode:: javascript
 
@@ -141,3 +142,19 @@ Equation:
         "heap_usage_buytes": 2313132,
         "page_faults": 2381
     }
+    
+5. Write Lock Percentage
+----------------------------------------
+
+.. sourcecode:: javascript
+
+    > db.serverStatus().global_lock
+    
+    {
+        "totalTime": 23234234,
+        "lockTime": 134646546,
+        "ration": 0.002342342
+    
+    }
+    
+What to look for: 
