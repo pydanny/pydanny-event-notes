@@ -55,3 +55,9 @@ Operating System
     * Raid 10 on MongoD
     * Raid1 on ConfigbDB
     
+* Turn off atime
+
+    * File descriptor limits
+        
+        * etc/security/limits.conf << EOF
+        * ????file 65536
