@@ -3,7 +3,7 @@ Running MongoDB in the Cloud
 ==========================================
 
 * by Dan Crosta, Software Engineer, 10gen
-* I know speaker from twitter and him answering questions about MongoDB to help me with http://eandatabase.org
+* I know speaker from twitter and him answering questions about MongoDB to help me with http://consumernotebook.com
 
 .. note:: Late cause we were intercepted by Redhat/OpenShift marketing who wanted our advice on logos.
 
