@@ -193,7 +193,6 @@ What to look for: Things that are eating up tons of process. To stop it, run:
         "average_ms": 14.832342342,
         "last_ms": 4,
         "last_finished": ISODate
-        // lots more
     }
     
 In some case you should flush more frequently then MongoDB does by default
