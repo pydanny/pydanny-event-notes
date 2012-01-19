@@ -1,5 +1,6 @@
 ==========================================
-Exporting, Reporting, and visualization.
+Schema Design
 ==========================================
 
-by James Dixon, Pentaho
+by Kevin Hanson, Solutions Architect, 10gen
+

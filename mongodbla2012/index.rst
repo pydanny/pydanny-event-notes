@@ -6,14 +6,7 @@ Mongo LA 2012
    :maxdepth: 2
    
    keynote
-   exporting-and-visualization
-
-   
-
-
-
-
-
+   schema-design
 
 Sponsors
 ==========
