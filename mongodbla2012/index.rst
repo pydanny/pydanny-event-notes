@@ -9,6 +9,7 @@ Mongo LA 2012
    schema-design
    running-mongodb-in-cloud
    turning-json-to-info
+   diagnostics-and-performance-tuning
 
 Sponsors
 ==========
