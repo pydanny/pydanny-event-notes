@@ -46,9 +46,20 @@ What powers mongostat
 3. Profiler
 ------------
 
+.. sourcecode:: javascript
+
+    > db.setProfilingLevel(2)
+        {"was": 0, "slowms": 100, "ok": 1}
+        
 This saves the data into a collection within the MongoDB. Which is nice cause you can reference it later.
+
+See it in operation!
 
 .. sourcecode:: javascript
 
-    > db.setProfilingLevel(2):
-        {"was": 0, "slowms": 100, "ok": 1}
+    > db.system.profile.find()
+        {
+        "ts": ISODate,
+        "op": "query",
+        // tons more!
+        }
