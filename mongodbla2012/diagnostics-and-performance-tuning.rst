@@ -83,7 +83,9 @@ Common problems
 1. Slow Operations
 ------------------
 
-Check the logs! From the shell?::
+.. note: Didn't get how this query is called. TODO Need to get info from Dan Costa.
+
+Check the logs! From the shell::
 
     query docs.spreadsheets ntoreturn:100
     reslen:510436
