@@ -43,3 +43,9 @@ Services:
     
 * But basically you have to know how to program
 
+Punchlines
+============
+
+* Fluid requirements are what you get to handle when you use MongoDB
+* Know how to program Python (or anything else)
+* If you are a business analyst, you're screwed (Not an acceptable answer)
