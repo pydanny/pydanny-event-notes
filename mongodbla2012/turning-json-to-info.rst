@@ -25,7 +25,21 @@ A note on queries
 * The augmented scheme is coded in queries
 * Reuse is very hard, happens at a query language
 
-Dimensions
-============
+A word on rendering graphs and reports
+================================================
 
+* Some libraries
+
+    * Gruff
+    * Scruffy
+    * HighCharts (Paid for)
+    * JRafael
+    * JQuery Vizualize
+    * MooCharts
+    
+Services:
+
+    http://getgauag.es
+    
+* But basically you have to know how to program
 

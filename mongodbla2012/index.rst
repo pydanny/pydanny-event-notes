@@ -8,6 +8,7 @@ Mongo LA 2012
    keynote
    schema-design
    running-mongodb-in-cloud
+   turning-json-to-info
 
 Sponsors
 ==========
