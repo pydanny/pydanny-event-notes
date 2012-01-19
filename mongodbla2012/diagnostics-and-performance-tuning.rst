@@ -245,7 +245,4 @@ Check this as one of the things that might be bottlenecking
     // Be careful!!!
     db.speadsheets.runCommand("compact");
 
-
- 
-
-    
+Compacting fixes the problem, but it stops operations on that server. So run it against a secondary instead of the primary.
