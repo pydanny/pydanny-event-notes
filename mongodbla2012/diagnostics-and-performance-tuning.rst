@@ -13,7 +13,8 @@ Speed
 Tools
 =========
 
-#. mongostat
+1. mongostat
+-------------
 
     * give it a host and port number. So we can connect to production. Woot!
     * tons of useful columns 
@@ -25,3 +26,4 @@ Tools
     
         * In a given window of time, measures two things (TODO find out)
         * Rough percentage measure - not perfectly accurate
+        
