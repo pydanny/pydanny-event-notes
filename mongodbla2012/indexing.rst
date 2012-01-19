@@ -78,3 +78,9 @@ Geospation indexes
 
 * Geo hash stored in B-Tree
 * First two values indexed
+
+Query Performance Analysis 
+===========================
+
+.. note:: Speaker had to go super fast here because he kept answering questions. This is why you ask people to wait for the Q&A at the end.
+
