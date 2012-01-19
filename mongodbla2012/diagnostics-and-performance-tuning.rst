@@ -20,4 +20,7 @@ Tools
     * vsize
     * res
     * faults - how many disk faults
-    * locked
+    * locked %
+    
+        * In a given window of time, measures two things (TODO find out)
+        * Rough percentage measure - not perfectly accurate
