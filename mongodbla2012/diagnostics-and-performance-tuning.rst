@@ -14,3 +14,10 @@ Tools
 =========
 
 #. mongostat
+
+    * tons of useful columns 
+    * mapped
+    * vsize
+    * res
+    * faults - how many disk faults
+    * locked
