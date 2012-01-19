@@ -99,3 +99,5 @@ This means you need to index the username field
 
 Every time you do a read/write, it hits a capped collection called the oplog. Replication
 lag refers to the time between when a read/write is called and when it is performed.
+
+Example: If you have a very high write rate on the Primary, your secondaries can have trouble keeping up.
