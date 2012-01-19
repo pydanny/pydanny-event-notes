@@ -213,5 +213,5 @@ Disk Considerations
     {"current": 7, "available": 19993}
     
 * Make sure you have enough connections. 
-* On Linux, change the number of files that can be opened.
+* On Linux, change the number of connections that can be opened.
 * MongoDB can handle up to 20,000 open connections
