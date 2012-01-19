@@ -25,14 +25,14 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
-   mongola2012/index
+   mongodbla2012/index
    PyCodeConf2011/index
    DjangoCon2011/index
    KiwiPycon2011/index 
    PyconAU2011/index
    django13webinar/index
    Pycon2011/index
-   mongodb/la_mongo
+   mongodbla2011/la_mongo
    django_master_class/index   
    DjangoCon2010/index
    Pycon2010/index
