@@ -45,3 +45,13 @@ Design Goal: Minimal knobs
 * Make it easy to deploy and manage
 * Find natural default configuration options
 * Do the right thing out of the box
+
+Release History
+================
+
+* 1.0 August 2009: supported bson and BTree range query optimization
+* 1.2 December 2009: map-reduce
+* 1.4 March 2010: Background indexing, geo indexes
+* 1.6 August 2010: sharding, replica sets
+* 1.8 March 2011: journaling, sparse, and covered indexes
+* 1.10 = 2.0: September 2011: cumulative changes
