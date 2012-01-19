@@ -197,3 +197,10 @@ What to look for: Things that are eating up tons of process. To stop it, run:
     }
     
 In some case you should flush more frequently then MongoDB does by default
+
+Disk Considerations
+=====================
+
+* Raid: Use it
+* SSD: If you can get your server on a SSD, then things will go much, much faster.
+* SAN?: 
