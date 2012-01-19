@@ -101,3 +101,32 @@ Every time you do a read/write, it hits a capped collection called the oplog. Re
 lag refers to the time between when a read/write is called and when it is performed.
 
 Example: If you have a very high write rate on the Primary, your secondaries can have trouble keeping up.
+
+3. Resident Memory
+--------------------
+
+Always use 64-bit!
+
+.. sourcecode:: javascript
+
+    > db.serverStatus().mem
+    {
+        "bits"64, // need 64, not 32
+        "" resident: 7151
+        "virtual": ???
+        "???": ??
+    }
+
+.. sourcecode:: javascript
+
+    > db.stats()
+    {
+    // other things
+    "avgObjSize": 5107.02342342, // capped at 16MB
+    "dataSixe": 234424323423, // make sure this doesn't exceed your server space!
+    // other things    
+    }
+
+Equation:
+
+    indexSize + dataSize <= RAM
