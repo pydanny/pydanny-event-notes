@@ -32,7 +32,7 @@ Tools
 
 What powers mongostat
 
-.. code:: javascript
+.. sourcecode:: javascript
 
     > db.serverStatus();
         {
@@ -46,7 +46,7 @@ What powers mongostat
 3. Profiler
 ------------
 
-.. code:: javascript
+.. sourcecode:: javascript
 
     > db.setProfilingLevel(2):
         {"was": 0, "slowms": 100, "ok": 1}
