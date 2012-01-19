@@ -23,3 +23,13 @@ Creating indexes in MongoDB
 
     db.blog.save({author: "James", ts: new Date()}) 
     db.blogs.ensureIndex({Author: 1, ts:-1})
+
+Things to know about indexes
+================================
+
+* Slows down writes
+* But speeds up reads!
+* Forces uniqueness on a title
+
+.. note:: TODO - check that we don't have dupe titles
+
