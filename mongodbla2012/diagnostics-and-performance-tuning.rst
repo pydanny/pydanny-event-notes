@@ -130,3 +130,14 @@ Always use 64-bit!
 Equation:
 
     indexSize + dataSize <= RAM
+    
+4. Page Faults
+
+.. sourcecode:: javascript
+
+    > db.serverStatus().extra_info
+    
+    {
+        "heap_usage_buytes": 2313132,
+        "page_faults": 2381
+    }
