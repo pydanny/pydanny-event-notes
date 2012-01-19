@@ -15,6 +15,7 @@ Tools
 
 #. mongostat
 
+    * give it a host and port number. So we can connect to production. Woot!
     * tons of useful columns 
     * mapped
     * vsize
