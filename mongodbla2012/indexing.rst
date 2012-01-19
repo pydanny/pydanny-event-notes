@@ -39,3 +39,42 @@ Covered Index
 * Query resolved in index only
 * Eliminated need to pull documents from DB
 * NEed to exclude `_id` from items projected.
+
+.. sourcecode:: javascript 
+
+    db.blogs.save({
+        author:"Kevin",
+        editor:"Katie"
+    
+    })
+    db.blogs.ensureIndex({author: 1, editor: 1});
+    db.blogs.find({author}) // TODO finish this
+    
+Spare Index
+=============
+
+* Key value included if and only if the value is present
+* Reduces the size of index
+* Limited to a single field
+
+.. sourcecode:: javascript 
+
+    // TODO fill this out
+    
+Unique Sparse Index
+===================
+
+* Key value included if and only if the value is present
+* Reduces the size of index
+* Limited to a single field
+* Null and not-present are different
+
+.. sourcecode:: javascript 
+
+    // TODO fill this out
+    
+Geospation indexes
+===================
+
+* Geo hash stored in B-Tree
+* First two values indexed
