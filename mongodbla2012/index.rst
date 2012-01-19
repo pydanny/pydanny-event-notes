@@ -10,6 +10,7 @@ Mongo LA 2012
    running-mongodb-in-cloud
    turning-json-to-info
    diagnostics-and-performance-tuning
+   indexing
 
 Sponsors
 ==========
