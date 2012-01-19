@@ -25,7 +25,7 @@ Redhat's cloud hosting system with git powered deployments.
 Joyent Cloud
 -------------
 
-Better, cheaper, faster system in the cloud. Not sure what they actually sell.
+Better, cheaper, faster system in the cloud. They sell the systems that PaaS are built on.
 
 VMware Cloud Foundry
 ----------------------
