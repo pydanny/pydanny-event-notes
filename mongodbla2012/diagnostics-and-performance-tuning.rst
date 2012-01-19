@@ -76,3 +76,13 @@ See it in operation!
 * MMS: 10gen.com/try-mms (Free service provided by 10gen)
 * Also check out Nagios
 * Also check out Munis
+
+Slow Operations - how to diagnoze
+================================================
+
+From the shell?::
+
+    query docs.spreadsheets ntoreturn:100
+    reslen:510436
+    nscanned:19976 { username: "dcrosta"}
+    nreturned:100 147ms
