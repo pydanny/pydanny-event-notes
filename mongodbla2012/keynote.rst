@@ -114,4 +114,15 @@ THings to follow up on:
 * Replica set force reconfigure
 * Durability
 
+New features
+----------------
 
+* Multiple location geo search
+* Map-reduce sharded output
+* Query syntax: $and
+* Custom shell prompts
+
+Links
+------
+
+* http//v.gd/mongodb20
