@@ -77,12 +77,23 @@ See it in operation!
 * Also check out Nagios
 * Also check out Munis
 
-Slow Operations - how to diagnoze
-================================================
+Common problems
+================
 
-From the shell?::
+1. Slow Operations
+------------------
+
+Check the logs! From the shell?::
 
     query docs.spreadsheets ntoreturn:100
     reslen:510436
     nscanned:19976 { username: "dcrosta"}
     nreturned:100 147ms
+    
+This means you need to index the username field
+    
+2. Replication Lag
+------------------
+
+Every time you do a read/write, it hits a capped collection called the oplog. Replication
+lag refers to the time between when a read/write is called and when it is performed.
