@@ -61,5 +61,20 @@ See it in operation!
         {
         "ts": ISODate,
         "op": "query",
+        "ns": "docs.spreadsheet",
+        "query": {"username":"dcrosta"},
+        "scanned": 200001,
+        "millis": 1407
         // tons more!
         }
+
+.. note:: This is a capped collection of 1MB. So it stores only the most recent. You can change this with some hacks. TODO - find it out
+
+4. Monitoring Service
+-------------------------
+
+Free service provided by 10gen
+
+* MMS: 10gen.com/try-mms
+* Nagios
+* Munis
