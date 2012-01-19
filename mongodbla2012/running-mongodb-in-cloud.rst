@@ -3,7 +3,7 @@ Running MongoDB in the Cloud
 ==========================================
 
 * by Dan Crosta, Software Engineer, 10gen
-* I know Dan Crosta from twitter and him answering questions about MongoDB to help me with http://eandatabase.org
+* I know speaker from twitter and him answering questions about MongoDB to help me with http://eandatabase.org
 
 .. note:: Late cause we were intercepted by Redhat/OpenShift marketing who wanted our advice on logos.
 
@@ -24,7 +24,7 @@ Different methods of setup:
     * Secondary
     * Secondary
 
-# Another way
+#. Another way
 
     * Primary
     * Secondary
@@ -37,3 +37,21 @@ Different methods of setup:
     * Secondary    
     * Secondary
     * Secondary    
+    
+Amazon EC2 Instance Types
+============================
+
+.. warning:: Never deploy with 32-bit. Don't do it!!!
+
+* Go for a Large or Extra-Large on-demand instance. More expensive but worth it.
+* ConfigD / Arbiter can be done via micro on demand instances
+
+Operating System
+==================
+
+* Use ext4, xfs
+* Use RAID:
+    
+    * Raid 10 on MongoD
+    * Raid1 on ConfigbDB
+    
