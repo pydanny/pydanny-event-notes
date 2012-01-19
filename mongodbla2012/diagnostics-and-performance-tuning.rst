@@ -48,7 +48,7 @@ What powers mongostat
 
 .. sourcecode:: javascript
 
-    > db.setProfilingLevel(2)
+    db.setProfilingLevel(2)
         {"was": 0, "slowms": 100, "ok": 1}
         
 This saves the data into a collection within the MongoDB. Which is nice cause you can reference it later.
