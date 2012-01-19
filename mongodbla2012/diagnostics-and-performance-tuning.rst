@@ -225,3 +225,27 @@ Disk Considerations
     // data here
     
 Check this as one of the things that might be bottlenecking
+
+10. Fragmentation
+----------------------
+
+.. sourcecode:: javascript
+
+    > db.spreadsheets.stats()
+    {// data here
+    }
+    
+* When you move data around frequently, fragmentation occurs.
+* THis will cost you more memory, slowing things down
+* "2 is the magic number". You disk should be at least twice as big as the MongoDB memory
+
+.. sourcecode:: javascript
+
+    // blocking command. 
+    // Be careful!!!
+    db.speadsheets.runCommand("compact");
+
+
+ 
+
+    
