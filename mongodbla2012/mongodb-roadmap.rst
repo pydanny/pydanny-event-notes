@@ -2,5 +2,6 @@
 Closing session and MongoDB roadmap
 ==========================================
 
-by Kevin Hanson, Solutions Architect, 10gen
+* by Paul Pederson, Deputy CTO, 10gen
+* paul@10gen.com
 
