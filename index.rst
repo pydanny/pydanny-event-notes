@@ -8,23 +8,13 @@ Welcome to pydanny-event-notes!
 
 I've been collecting my notes taken over the years into this one location. My intention is to capture all that I've learned or forgotten, share it with others, and compare that with where I am now.
 
-Meetups
-============
-
-.. toctree::
-   :maxdepth: 1
-   
-   socalpiggies/index
-   PyLadies/index
-   LADjango/index
-   
-
 Conferences
 ============
 
 .. toctree::
-   :maxdepth: 1
+  :maxdepth: 1
 
+   SCALE10x/index	
    mongodbla2012/index
    PyCodeConf2011/index
    DjangoCon2011/index
@@ -41,6 +31,17 @@ Conferences
    Pycon2009/index
    Pycon2008/index
    PloneConf2007/index
+
+Meetups
+============
+
+.. toctree::
+   :maxdepth: 1
+
+   socalpiggies/index
+   PyLadies/index
+   LADjango/index
+
    
 Articles
 ========
@@ -61,4 +62,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
 

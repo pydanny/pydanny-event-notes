@@ -1,9 +1,8 @@
 ========================
-Scale 9x
+Scale 10x
 ========================
 
 .. toctree::
    :maxdepth: 2
    
-   big-asterisk-talk
-   asterisk
+   juju-charm-school
