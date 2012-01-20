@@ -12,7 +12,7 @@ Conferences
 ============
 
 .. toctree::
-  :maxdepth: 1
+   :maxdepth: 1
 
    SCALE10x/index	
    mongodbla2012/index
