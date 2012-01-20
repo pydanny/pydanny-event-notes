@@ -63,6 +63,8 @@ Short List (not in 2.2 but coming up)
 * Full text Search (so you don't need SOLR)
 
     * Done but needs to be vetted and tested better
+    * Text searches can generate bajillions of extra records and other issues
+    * Sounds like they are trying to do it right.
 
 * More concurrency
 * Online compaction
