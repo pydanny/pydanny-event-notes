@@ -42,3 +42,9 @@ Aggregation Framework
 * Pipeline model: $match, $project, $group
 * Easy to add new operations
 * C++ native (non-JavaScript) implementation
+
+TTL Collections
+==================
+
+* Currently: Evict old data to make room for new records by crating a timestamp index, an d create a cron job to delete stale items with update
+* Coming: per object or per collection: automates deleting documents older than some limit.
