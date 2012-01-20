@@ -48,3 +48,24 @@ TTL Collections
 
 * Currently: Evict old data to make room for new records by crating a timestamp index, an d create a cron job to delete stale items with update
 * Coming: per object or per collection: automates deleting documents older than some limit.
+
+Harsh Shard Key
+====================
+
+* **If** you are not expecting range queries on the shard key
+* **Then** it makes sense to shard by hask key, you naturally get a flat distribution
+* In a sense this is the easiest possible case
+* Mongodb started by solving the hard case.
+
+Short List (not in 2.2 but coming up)
+======================================
+
+* Full text Search (so you don't need SOLR)
+
+    * Done but needs to be vetted and tested better
+
+* More concurrency
+* Online compaction
+* Internal compression
+* Read tagging
+
