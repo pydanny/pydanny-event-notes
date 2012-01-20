@@ -75,3 +75,14 @@ Short List (not in 2.2 but coming up)
 
 * Internal compression
 * Read tagging
+
+10gen Hiring
+=============
+
+* NYC/Silicon Valley - may see us
+* EU
+
+    * London
+    * Dublin
+
+* Anywhere - Language Evangelist
