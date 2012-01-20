@@ -10,6 +10,6 @@ v2.2 projectedt 2012 Q1
 
 * Concurrency: yielding and db or collection-level locking
 * Improved free list implementation
-* New aggrtegation framework
+* New aggregation framework
 * TTL collections
 * Hash shard key
