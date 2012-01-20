@@ -11,6 +11,7 @@ Mongo LA 2012
    turning-json-to-info
    diagnostics-and-performance-tuning
    indexing
+   mongodb-roadmap
 
 Sponsors
 ==========
