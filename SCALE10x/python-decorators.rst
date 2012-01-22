@@ -279,7 +279,7 @@ Paramterized decorators
 
     def limit(length):
         def decorator(function)
-            ddef wrapper(*args, **kwargs):
+            def wrapper(*args, **kwargs):
                 result = function(*args, **kwargs)
                 result = result[:length]
             return wrapper
@@ -292,3 +292,33 @@ Paramterized decorators
     # usage
     echo('123456') 
     '12345'
+    
+    #syntactical sugar for
+    echo = limit(5)echo
+    
+Warning: Function attributes get mangled in decorators
+========================================================
+
+* I've run into this - when you wrap a function a decorator the attributes get lost
+* Docstring kills me
+* Do this:
+
+    def limit(length):
+        def decorator(function)
+            def wrapper(*args, **kwargs):
+                result = function(*args, **kwargs)
+                result = result[:length]
+            return wrapper
+            wrapper.__docstring__ = function.__docstring__
+        return decorator
+
+
+    def limit(length):
+        def decorator(function)
+            @functools.wraps(function)
+            def wrapper(*args, **kwargs):
+                result = function(*args, **kwargs)
+                result = result[:length]
+            return wrapper
+            wrapper.__docstring__ = function.__docstring__
+        return decorator
