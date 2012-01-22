@@ -174,3 +174,13 @@ Nested functions only have write access to global and local scope.
     5
     
 Python 3.x has a non-local keyword that replaces the global in Python 2.x
+
+Decorators
+===========
+
+* PEPS 318, 3129, implemented in Python 2.4
+* allow you to
+
+    * modify arguments
+    * modify function
+    * modify results
