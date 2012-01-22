@@ -198,12 +198,43 @@ Decorators
     
     def hello():
         print 'invoked hello'
-    hello = count(hello)
-    hello()
-    print call_count
-    1
-    hello()
-    print call_count
-    2
+        
+.. sourcecode:: python        
+
+    >>> hello = count(hello) # invoking count with the argument being the hello object
+    >>> hello()
+    >>> print call_count
+    >>> 1
+    >>> hello()
+    >>> print call_count
+    >>> 2
     
+.. sourcecode:: python            
     
+    # Decorator Shortcut
+    @count
+    def hello():
+        return 'hello'
+        
+Better decorator:
+
+.. sourcecode:: python 
+
+    def count2(func):
+        # TODO - show this one out
+        
+Decorator Template
+==================
+
+.. sourcecode:: python 
+
+    def decorator(function_to_decorate):
+        def wrapper(*args, **kwargs):
+            # do something before invoation
+            result = func_to_decorate(*args, **kwargs)
+            
+            # do something after
+            return result
+        # update wrapper.__doc__ and .func_name
+        # or functools.wraps
+        return wrapper
