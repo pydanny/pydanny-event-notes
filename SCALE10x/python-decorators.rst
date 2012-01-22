@@ -126,3 +126,6 @@ The '*' before args flattens the tuple of parameters values.
     def kwargs_func(a, **kwargs):
         print [x for x in [kwargs]]
         # TODO  check I got this right
+
+    def param_func(a, b='b', *args, **kwargs):
+        print [x for x in [a, b, args, kwargs]]
