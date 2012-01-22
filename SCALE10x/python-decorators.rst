@@ -62,7 +62,7 @@ A function can have attributes assigned:
     >>> foo3()
     Data
 
-Function definition
+Function Definition
 ======================
 
 .. sourcecode:: python    
@@ -71,7 +71,7 @@ Function definition
         """ docstring """
         # implementation
     
-Function gotcha
+Function Gotcha
 ===============
 
 When a function is created, the named/default parameters are defined when the function is created
@@ -90,4 +90,39 @@ When a function is created, the named/default parameters are defined when the fu
     ([1, ])
     
 Lists and dicts are mutable. When you modify them you don't create a new list (or dict). Strings and ints are immutable
-    
+
+Parameters are evaluated when the def they belong to is imported
+
+Don't default to mutable types.
+
+.. sourcecode:: python    
+
+    def named_param(a, foo=None):
+        foo = foo or []
+        if not foo:
+            foo.append(a)
+            
+*args and **kwargs
+====================
+
+Looksee:
+
+* *args is a tuple of parameter values.
+* **kwargs is a dictionary of key/values
+
+.. sourcecode:: python
+
+    def param_func(a, b=2, c=5):
+        print [x for x in [a, b, c]]
+
+The '*' before args flattens the tuple of parameters values.
+
+.. sourcecode:: python
+
+    def param_func(a, *args):
+        print [x for x in [args]]
+        # TODO  check I got this right
+
+    def kwargs_func(a, **kwargs):
+        print [x for x in [kwargs]]
+        # TODO  check I got this right
