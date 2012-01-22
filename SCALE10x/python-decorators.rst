@@ -71,3 +71,23 @@ Function definition
         """ docstring """
         # implementation
     
+Function gotcha
+===============
+
+When a function is created, the named/default parameters are defined when the function is created
+
+.. sourcecode:: python    
+
+    def named_param(a, foo=[]):
+        if not poo:
+            foo.append(a)
+            
+    print named_param.func_defaults
+    ([])
+    
+    named_param(1)
+    print named_param.func_defaults
+    ([1, ])
+    
+Lists and dicts are mutable. When you modify them you don't create a new list (or dict). Strings and ints are immutable
+    
