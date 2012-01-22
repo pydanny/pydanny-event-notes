@@ -303,6 +303,8 @@ Warning: Function attributes get mangled in decorators
 * Docstring kills me
 * Do this:
 
+.. sourcecode:: python 
+
     def limit(length):
         def decorator(function)
             def wrapper(*args, **kwargs):
@@ -312,7 +314,11 @@ Warning: Function attributes get mangled in decorators
             wrapper.__docstring__ = function.__docstring__
         return decorator
 
+You can also use functools to deal with this issue, but it's not as clear a read
 
+.. sourcecode:: python 
+
+    import functools
     def limit(length):
         def decorator(function)
             @functools.wraps(function)
