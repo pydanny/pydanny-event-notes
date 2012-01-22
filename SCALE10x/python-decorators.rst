@@ -328,3 +328,13 @@ You can also use functools to deal with this issue, but it's not as clear a read
             return wrapper
             wrapper.__docstring__ = function.__docstring__
         return decorator
+
+Uses for decorators
+====================
+
+* caching
+* monkey patching stfio
+* jsonify
+* logging time in function call
+* change cwd
+* timeout a function call
