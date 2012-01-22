@@ -2,7 +2,6 @@
 It's all good- Decorating Python like Martha Stewart
 =====================================================================
 
-.. note:: Had to speak up because people were beginning to ask off-topic questions. After that the questions were dead on. Note to talk attendees: If the speaker lets you ask questions during the talk, please stay on topic.
 
 * by Matt Harrison
 * http://twitter.com/_mharrison_
@@ -352,7 +351,7 @@ What if I made a mistake in a param and want to change values?
 * Use context manager
 * or...
 
-    * Since a decorator is just a clse you can invote it at runtime. Like this:
+    * Since a decorator is just a class you can invoke it at runtime. Like this:
     
 .. sourcecode:: python 
 
