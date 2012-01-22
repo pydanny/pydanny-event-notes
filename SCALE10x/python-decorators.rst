@@ -61,3 +61,13 @@ A function can have attributes assigned:
     >>> foo3.stuff = "Data"
     >>> foo3()
     Data
+
+Function definition
+======================
+
+.. sourcecode:: python    
+
+    def func_name(arg1, arg2=value, *args, **kwargs):
+        """ docstring """
+        # implementation
+    
