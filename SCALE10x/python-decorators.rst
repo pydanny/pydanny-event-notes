@@ -129,3 +129,24 @@ The '*' before args flattens the tuple of parameters values.
 
     def param_func(a, b='b', *args, **kwargs):
         print [x for x in [a, b, args, kwargs]]
+        
+Closures
+==============
+
+* PEP 227 and came out in Python 2.1
+* Don't be afraid of them
+* In Python a function can return a new function. The inner function a closuse and any variable it accesses that are defined outside of that function are free variables.
+
+.. sourcecode:: python
+
+    def add_x(x):
+        def adder(num):
+            # we have read acces to x
+            return x + num # x is a free variable here
+        return adder
+        
+    sadd_5 = add_x(5)
+    add_5 # doctest: + ELLIPSESS
+    <function add at 0x12324ewe>
+    print add_5(10)
+    15
