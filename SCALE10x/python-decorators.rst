@@ -238,3 +238,57 @@ Decorator Template
         # update wrapper.__doc__ and .func_name
         # or functools.wraps
         return wrapper
+        
+.. sourcecode:: python 
+
+    # class as a decorator
+    class decorator_class(object):
+        def __init__(self, function):
+            self.function = function
+        def __call__(self, *arg, **kwargs):
+            result  = self.function(*arg, **kwargs):
+            # do stuff to result
+            return result
+            
+    @decorator_class
+    def hello():
+        return 'hello'
+        
+.. note:: Anything that is callable can be used to create a decorator
+
+.. sourcecode:: python 
+
+    # using a class instance as a decorator
+    # instead of using __call__ use __init__ and then instantiate the class before using it.
+    deco = Decorator()
+    
+    @deco
+    def hello():
+        return 'hello'    
+        
+    # You can modify deco later! This is UBER powerful!
+    
+.. note:: Not the same as "Class Decorators". See PEP 3129
+
+Paramterized decorators
+========================
+
+* need 2 closures
+
+.. sourcecode:: python 
+
+    def limit(length):
+        def decorator(function)
+            ddef wrapper(*args, **kwargs):
+                result = function(*args, **kwargs)
+                result = result[:length]
+            return wrapper
+        return decorator
+        
+    @limit(5) #notice parens
+    def echo(foo): 
+        return foo
+    
+    # usage
+    echo('123456') 
+    '12345'
