@@ -2,6 +2,8 @@
 It's all good- Decorating Python like Martha Stewart
 =====================================================================
 
+.. note:: Had to speak up because people were beginning to ask off-topic questions. 
+
 * by Matt Harrison
 * http://twitter.com/_mharrison_
 * Works for http://fusion.io
@@ -150,3 +152,25 @@ Closures
     <function add at 0x12324ewe>
     print add_5(10)
     15
+    
+Nested functions only have write access to global and local scope.
+
+.. sourcecode:: python
+
+    x = 3
+    def outer():
+        x = 4 # now local
+        y = 2
+        def inner():
+            global x
+            x = 5 # 
+        print x
+        inner() # only changes the local inside the function
+        print x
+    print outer()
+    4
+    4
+    print x # since global the global value
+    5
+    
+Python 3.x has a non-local keyword that replaces the global in Python 2.x
