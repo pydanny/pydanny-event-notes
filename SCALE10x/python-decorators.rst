@@ -333,8 +333,28 @@ Uses for decorators
 ====================
 
 * caching
+
+    * I wrote a cache decorator that uses Raymond Hettinger's LRU cache code.
+
 * monkey patching stfio
 * jsonify
 * logging time in function call
 * change cwd
 * timeout a function call
+
+What if I want to tweak decorator paramers at runtime?
+============================================================
+
+What if I made a mistake in a param and want to change values?
+
+* Use class instance decorator
+* Tweak wrapper attributes
+* Use context manager
+* or...
+
+    * Since a decorator is just a clse you can invote it at runtime. Like this:
+    
+.. sourcecode:: python 
+
+    # TODO get example
+    result = limit(4)(echo)
