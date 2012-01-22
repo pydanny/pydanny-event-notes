@@ -2,7 +2,7 @@
 It's all good- Decorating Python like Martha Stewart
 =====================================================================
 
-.. note:: Had to speak up because people were beginning to ask off-topic questions. If the speaker lets you ask questions during the talk, please stay on topic.
+.. note:: Had to speak up because people were beginning to ask off-topic questions. After that the questions were dead on. Note to talk attendees: If the speaker lets you ask questions during the talk, please stay on topic.
 
 * by Matt Harrison
 * http://twitter.com/_mharrison_
