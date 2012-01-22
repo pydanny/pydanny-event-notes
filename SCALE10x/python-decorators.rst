@@ -7,7 +7,7 @@ It's all good- Decorating Python like Martha Stewart
 * Works for http://fusion.io
 * http://hairysun.com/books/decorators/
 
-    * Which is creative commons
+    * His talk is under creative commons
     
 Impetus
 =========
@@ -20,4 +20,6 @@ You can get by in Python with basic constructs but...
 
 Function Review
 ================
+
+
 
