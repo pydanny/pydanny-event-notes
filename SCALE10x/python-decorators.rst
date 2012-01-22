@@ -184,3 +184,26 @@ Decorators
     * modify arguments
     * modify function
     * modify results
+
+.. sourcecode:: python
+
+    # count how many times a function is called
+    call_count = 0
+    def count(func):
+        def wrapper(*args, **kwargs):
+            global call_count
+            call_count += 1
+            return func(*args, **kwargs)
+        return wrapper
+    
+    def hello():
+        print 'invoked hello'
+    hello = count(hello)
+    hello()
+    print call_count
+    1
+    hello()
+    print call_count
+    2
+    
+    
