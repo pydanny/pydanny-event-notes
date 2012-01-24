@@ -57,7 +57,9 @@ Operating System
     
 * Turn off atime
 
-    * File descriptor limits
-        
-        * etc/security/limits.conf << EOF
-        * ????file 65536
+    * File descriptor limits::
+      
+      cat >> /etc/security/limits.conf << EOF
+      * hard nofile 65536
+      * soft nofile 65536
+      EOF
