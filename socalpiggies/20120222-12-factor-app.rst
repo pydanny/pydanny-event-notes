@@ -2,7 +2,8 @@
 February 22, 2012 - 12 Factor App 
 ==========================================
 
-by Craig Kersteirns of Heroku
+* by Craig Kersteirns of Heroku
+* http://www.12factor.net
 
 Where we've been
 ================
@@ -48,4 +49,6 @@ What is 12 Factor
 A set of practices used by Heroku that serves as a mantra as to what they are doing.
 
 * Declarative Setup - Minimize setup time
-
+* Clean contracts - Portability to run anywhere
+* Deploy practices - Cloud and horizontal scaling
+* Minimize Divergence - Conntinious Deployment
