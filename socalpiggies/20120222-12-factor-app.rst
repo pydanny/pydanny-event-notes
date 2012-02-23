@@ -15,8 +15,8 @@ Where we've been
 
 * Dependency Management
 
-    * python setup.py install
-    * easy_install somepackage
+    * `python setup.py install`
+    * `easy_install somepackage`
 
 Where we're going
 ===================
@@ -27,5 +27,6 @@ Where we're going
     
 * Dependency Management
 
-    * pip install somepackage
+    * `pip install somepackage`
+    * `pip freeze > requirements.txt`
     
