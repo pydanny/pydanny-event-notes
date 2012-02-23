@@ -60,3 +60,27 @@ Dev/Prod Parity
 * sqlite != postgres = postgres
 
 .. warning:: Don't use sqlite in dev or you get screwed! This happened to me!
+
+Config
+======
+
+Don't do this::
+
+    $ ls
+    settings.py
+    prod-settings.py
+    dev-settings.py
+    local-settings.py        
+    
+This is fail:
+
+.. sourcecode:: python
+
+    from local_settings import *
+
+Do this instead:
+
+.. sourcecode:: python
+
+    # settings.py
+    MY_SETTING = os.environ.get("MY_SETTING")
