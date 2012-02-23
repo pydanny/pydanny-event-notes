@@ -86,8 +86,6 @@ Or this:
     # settings/prod.py
     from base import *
 
-
-
 Do this instead:
 
 .. sourcecode:: python
@@ -115,8 +113,14 @@ How we percieve logs::
     access_log
     error_log
     
-But when it comes down to it, logs are really an event stream:
+But when it comes down to it, logs are really an event stream!
 
 * Imagine if logs were aggregated into one stream
 * Then you can filter out the parts you want
 * Order things the way you want
+
+Future Thoughts
+================
+
+* pip should be able to specify the version of Python
+* environment settings should be set as environment variables rather than specified in Python code. Makes local setup and deployment much easier. From experience this is very true.
