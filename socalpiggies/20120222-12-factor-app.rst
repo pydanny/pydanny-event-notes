@@ -52,3 +52,9 @@ A set of practices used by Heroku that serves as a mantra as to what they are do
 * Clean contracts - Portability to run anywhere
 * Deploy practices - Cloud and horizontal scaling
 * Minimize Divergence - Continuous Deployment
+
+Dev/Prod Parity
+================
+
+* Dev = Staging = Prod
+* Sqlite != postgres = postgres
