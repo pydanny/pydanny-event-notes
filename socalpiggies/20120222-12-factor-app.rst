@@ -91,3 +91,16 @@ Concurrency
 * Don't worry about languages/frameworks being able to scale.
 * Better to let the server side handle it. 
 * Use worker processes
+
+Logs
+====
+
+We use logs thus::
+
+    $ tail -f access_log
+
+How we percieve logs::
+
+    $ ls
+    access_log
+    error_log
