@@ -17,6 +17,11 @@ Where we've been
 
     * `python setup.py install`
     * `easy_install somepackage`
+    
+* Deployment
+
+    * rsync myproject runserver
+    * scp
 
 Where we're going
 ===================
@@ -29,4 +34,10 @@ Where we're going
 
     * `pip install somepackage`
     * `pip freeze > requirements.txt`
-    
+
+* Deployment
+
+    * Capistrano
+    * Tarball
+    * slug
+    * Bundle everything together so rollbacks are trivial
