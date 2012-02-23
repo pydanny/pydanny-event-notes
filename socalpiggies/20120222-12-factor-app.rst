@@ -43,12 +43,12 @@ Where we're going
     * slug
     * Bundle everything together so rollbacks are trivial
     
-What is 12 Factor
-============================
+What is 12 Factor?
+==================
 
 A set of practices used by Heroku that serves as a mantra as to what they are doing.
 
 * Declarative Setup - Minimize setup time
 * Clean contracts - Portability to run anywhere
 * Deploy practices - Cloud and horizontal scaling
-* Minimize Divergence - Conntinious Deployment
+* Minimize Divergence - Continuous Deployment
