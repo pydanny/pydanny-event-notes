@@ -41,3 +41,11 @@ Where we're going
     * Tarball
     * slug
     * Bundle everything together so rollbacks are trivial
+    
+What is 12 Factor
+============================
+
+A set of practices used by Heroku that serves as a mantra as to what they are doing.
+
+* Declarative Setup - Minimize setup time
+
