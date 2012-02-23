@@ -84,3 +84,10 @@ Do this instead:
 
     # settings.py
     MY_SETTING = os.environ.get("MY_SETTING")
+
+Concurrency
+===========
+
+* Don't worry about languages/frameworks being able to scale.
+* Better to let the server side handle it. 
+* Use worker processes
