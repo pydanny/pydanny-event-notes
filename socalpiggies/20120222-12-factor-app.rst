@@ -13,11 +13,19 @@ Where we've been
     * cvs/svn
     * git/mercurial
 
+* Dependency Management
+
+    * python setup.py install
+    * easy_install somepackage
 
 Where we're going
 ===================
 
 * Modern Version Control makes it possible to:
 
-    * 1 code base with many deploys
-    * 
+    * 1 code base with many deploys 
+    
+* Dependency Management
+
+    * pip install somepackage
+    
