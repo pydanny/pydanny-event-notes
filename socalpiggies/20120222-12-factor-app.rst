@@ -114,3 +114,9 @@ How we percieve logs::
     $ ls
     access_log
     error_log
+    
+But when it comes down to it, logs are really an event stream:
+
+* Imagine if logs were aggregated into one stream
+* Then you can filter out the parts you want
+* Order things the way you want
