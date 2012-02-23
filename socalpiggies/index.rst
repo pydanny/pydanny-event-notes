@@ -10,6 +10,7 @@ Talks
 .. toctree::
    :maxdepth: 2
 
+   20120222-heroku
    20111110-dreamhost
    20110616-python-at-aol   
    20110616-adly   
