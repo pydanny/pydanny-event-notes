@@ -1,9 +1,8 @@
 ==========================================
-February 22, 2012 - 12 factor app 
+February 22, 2012 - 12 Factor App 
 ==========================================
 
-by Craig Kersteirns
-
+by Craig Kersteirns of Heroku
 
 Where we've been
 ================
@@ -18,4 +17,7 @@ Where we've been
 Where we're going
 ===================
 
-1 code base with many deploys
+* Modern Version Control makes it possible to:
+
+    * 1 code base with many deploys
+    * 
