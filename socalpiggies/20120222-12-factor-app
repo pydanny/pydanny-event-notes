@@ -1,8 +1,21 @@
-==============
-12 factor app 
-==============
+==========================================
+February 22, 2012 - 12 factor app 
+==========================================
 
 by Craig Kersteirns
 
 
+Where we've been
+================
 
+* Version control
+
+    * folders
+    * cvs/svn
+    * git/mercurial
+
+
+Where we're going
+===================
+
+1 code base with many deploys
