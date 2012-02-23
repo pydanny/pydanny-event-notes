@@ -76,7 +76,17 @@ This is fail:
 
 .. sourcecode:: python
 
+    # settings.py
     from local_settings import *
+    
+Or this:
+
+.. sourcecode:: python
+
+    # prod.py
+    from base import *
+
+
 
 Do this instead:
 
