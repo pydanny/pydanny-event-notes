@@ -83,7 +83,7 @@ Or this:
 
 .. sourcecode:: python
 
-    # prod.py
+    # settings/prod.py
     from base import *
 
 
