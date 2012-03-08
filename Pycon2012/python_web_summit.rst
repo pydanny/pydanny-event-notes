@@ -192,6 +192,12 @@ Each of these speakers, a leader in their field, gets time to talk about his sub
         * Make it simpler
         * standardized high level request/response objects
         * Async support (not possible because so different)
+        * Resource management
+        * Unknown request content length
+        
+            * no compressed request content
+            * No chunked requests
+            * no full duplex HTTP
             
     
 
