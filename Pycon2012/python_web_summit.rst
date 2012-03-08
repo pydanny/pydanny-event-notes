@@ -41,7 +41,10 @@ Creating a Better Deployment Story
 
 Panelists:
 
-* Tarek Ziadé (MDistribute/Packaging)
+* Tarek Ziadé (Distribute/Packaging)
+
+    * has to play namespacing games to make sure that we get to use DistUtils backporting across versions of Python
+    
 * Nate Aune (DjangoZoom, Appsembler)
 
     * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startups (DjangoZoom and Appsembler).
