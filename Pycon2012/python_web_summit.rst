@@ -42,9 +42,6 @@ Moderated by Jacob Kaplan-Moss (Django DBFL)
 Panelists:
 
 * Tarek Ziadé (MDistribute/Packaging)
-
-    * Missed his stuff.
-
 * Nate Aune (DjangoZoom, Appsembler)
 
     * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startup (DjangoZoom)
