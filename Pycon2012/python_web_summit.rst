@@ -101,7 +101,7 @@ Takeaways
 * Formal application specification?
 * Specify Python versions in virtualenv/buildout
 * The challenge of dealing with vendor named projects
-
+* Jacob is going to publish a specification that will hopefully get the community moving. And he invites others to participate on his work.
 
 
 
