@@ -109,13 +109,10 @@ Takeaways
 Porting to Python 3
 ====================
 
-Moderated by Barry Warsaw (Canonical, Python FLUFL)
+**Moderated by Barry Warsaw (Canonical, Python FLUFL)**
 
 * Chris McDonough (Pyramid/WebOb)
 * Armin Ronacher (Flask, Jinja2)
-
-    * Python 3 has some powerful features for sockets and other components that Python 2.x lacks.
-
 * Guido van Rossum (Python)
 
     * I don't know much about how you guys do Python web development and want to know so I can make it easier for Python 3 conversions.
@@ -135,7 +132,11 @@ Questions
     * No one answered
     
 
+Compelling arguments for Python 3
+----------------------------------
 
+* Armin: Python 3 has some powerful features for sockets and other components that Python 2.x lacks.
+* Barry Warsaw: Newer and more powerful libraries being written in Python 3.
 
 
 Factoring Code for Reuse
