@@ -89,7 +89,6 @@ Namespacing Distributions
     * Armin Ronacher commented: "*The fact that having the same package name for distutils2/packaging would be a problem shows the root of the issue: no proper version deps.*"
 
 
-
 Porting to Python 3
 ====================
 
@@ -146,3 +145,9 @@ Moderated by Paul Everitt (Pyramid)
 
 * Glyph Lefkowitz (Twisted)
 * Jannis Leidel (Django Project)
+
+
+Quotes
+=========
+
+"Django isn't a functional unit. You include it and it just sits there."
