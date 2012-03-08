@@ -268,6 +268,15 @@ State of the Pylons Project:
     * Ploneconf Pyramid track
     * 62 reports, 31 devs with commit
     * lots of ``pyramid_*`` packages
+    
+Challenges
+
+    * Porting to Python 3 (is doing very well)
+    * organizing and simplifying sometimes overly pedantic documentation
+    * TurboGears
+    * Standardizing deployment
+    * Foundation efforts
+    * Pylons conf (189 members of the SF Bay Pylons meetup)
 
 
 Robert Brewer (CherryPy)
