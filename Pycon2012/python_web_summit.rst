@@ -43,10 +43,17 @@ Panelists:
 
 * Tarek Ziadé (MDistribute/Packaging)
 
-    * 
+    * Missed his stuff.
 
-* Nate Aune (DjangoZoom)
+* Nate Aune (DjangoZoom, Appsembler)
+
+    * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startup (DjangoZoom)
+
 * Kenneth Reitz (Heroku)
+
+    * pip needs to be able to set versions of Python
+    * PyPI needs more attention
+
 * Ian Bicking (Paste/WebOb/Silver Lining)
 
     * Problem to overcome is the difference between developers and sys admin
