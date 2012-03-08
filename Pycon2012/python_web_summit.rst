@@ -261,9 +261,14 @@ The state of gunicorn:
 Ben Bangert (Pylons Project)
 ------------------------------
 
+State of the Pylons Project:
 
+    * Lots of community plugins developing
+    * Larger frameworks on top taking off along with bootstraps
+    * Ploneconf Pyramid track
+    * 62 reports, 31 devs with commit
+    * lots of pyramid* packages
 
-UPCOMING
 
 Robert Brewer (CherryPy)
 ------------------------------
