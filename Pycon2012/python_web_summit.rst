@@ -41,10 +41,16 @@ Moderated by Jacob Kaplan-Moss (Django DBFL)
 
 Panelists:
 
-* Tarek Ziadé (Distribute/Packaging)
+* Tarek Ziadé (MDistribute/Packaging)
+
+    * 
+
 * Nate Aune (DjangoZoom)
 * Kenneth Reitz (Heroku)
 * Ian Bicking (Paste/WebOb/Silver Lining)
+
+    * Problem to overcome is the difference between developers and sys admin
+
 * Jim Fulton (Buildout/Zope)
 
     * Company does development and maintains 500 applications
