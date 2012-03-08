@@ -235,6 +235,10 @@ The state of gunicorn:
 
     * Reload - graceful (HUP) or reexec (USR2)
     * The Django case: python-manage.py
+    * Performance issues due to WSGI
+    * CGI compatibility: headers
+    * CONTENT_TYPE,CONTENT_LENGTH,SCRIPT_NAME
+    * The spec needs to be completed
  
 Ben Bangert (Pylons Project)
 ------------------------------
