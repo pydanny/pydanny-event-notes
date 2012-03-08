@@ -87,6 +87,13 @@ Ian Bicking's thought on how to do it. Would have these things::
     
 Jacob's comment: Is this going down the route of Chef/Puppet?
 
+Takeaways
+---------
+
+* Force deployed applications be a package.
+* Formal application specification?
+* Specify Python versions in virtualenv/buildout
+* The challenge of dealing with vendor named projects
 
 Namespacing Distributions
 ---------------------------
