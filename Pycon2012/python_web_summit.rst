@@ -103,6 +103,7 @@ Takeaways
 * The challenge of dealing with vendor named projects
 * Jacob is going to publish a specification that will hopefully get the community moving. And he invites others to participate on his work.
 
+    * The others pledged to help out or work on best practices.
 
 
 Porting to Python 3
