@@ -14,6 +14,21 @@ Introduction
 
 by Michael Ryabushkin
 
+How did this start?
+--------------------
+
+* Alcohol
+
+    * Doug Hellmann
+    * Chris McDonough
+    * Daniel Greenfeld
+    * Audrey Roy
+
+During the summit
+-----------------
+
+* Panels are important, but take people aside if need be
+
 
 
 Creating a Better Deployment Story
