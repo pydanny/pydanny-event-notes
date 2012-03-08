@@ -131,7 +131,14 @@ Questions
 ---------
 
 * Chris McDonough: Who runs web apps on Python 3?: crickets
+* Barry: What are the big blockers
+* Me: What about auxiliary libraries like PIL, lxml, DB-API?
 
+    * See: http://stackoverflow.com/questions/3896286/image-library-for-python-3
+    * https://github.com/gpolo/pil-py3k
+    * https://github.com/sloonz/pil-py3k
+    * http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
+    * http://www.imagemagick.org/download/python/
 
 Compelling arguments for Python 3
 ----------------------------------
