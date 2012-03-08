@@ -47,6 +47,8 @@ Panelists:
 * Ian Bicking (Paste/WebOb/Silver Lining)
 * Jim Fulton (Buildout/Zope)
 
+    * Company does development and maintains 500 applications
+
 Questions
 ---------
 
