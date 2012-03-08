@@ -42,6 +42,9 @@ Creating a Better Deployment Story
 Panelists:
 
 * Tarek Ziadé (Distribute/Packaging)
+
+    * New distutils lets you specify versions of third-party packages. But... redhat and other OS tools have their own package names. Ugh.
+
 * Nate Aune (DjangoZoom, Appsembler)
 
     * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startups (DjangoZoom and Appsembler).
