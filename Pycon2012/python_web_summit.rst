@@ -17,12 +17,15 @@ by Michael Ryabushkin
 How did this start?
 --------------------
 
-* Alcohol
+* People::
 
-    * Doug Hellmann
-    * Chris McDonough
-    * Daniel Greenfeld
-    * Audrey Roy
+    Chris McDonough
+    Mike Orr
+    Phil Jenvey
+    Mike Bayer
+    Danny Greenfeld
+    Audrey Roy
+
 
 During the summit
 -----------------
