@@ -313,8 +313,15 @@ Moderated by Paul Everitt (Pyramid)
 "State-Of" Multi-Talk - Round 2
 =================================
 
-* Glyph Lefkowitz (Twisted)
-* Jannis Leidel (Django Project)
+Glyph Lefkowitz (Twisted)
+---------------------------
+
+* It works for the web!
+* Lots of cool features
+* Works more as a container rather than a platform.
+
+Jannis Leidel (Django Project)
+--------------------------------
 
 
 Quotes
