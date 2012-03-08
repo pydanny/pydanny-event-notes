@@ -79,14 +79,17 @@ Ian Bicking's thought on how to do it. Would have these things::
     Formal dependency listings
     Project description
     Python version labeling
-    Include non-Python components (database, libraries, etc)
+    Include non-Python components (database, libraries, fortran, etc)
+    
+Jacob's comment:Is this going down the route of Chef/Puppet?
+
 
 Namespacing Distributions
 ---------------------------
 
 * Tarek as to play namespacing games to make sure that we get to use DistUtils backporting across versions of Python.     
 
-    * Armin Ronacher commented: "*The fact that having the same package name for distutils2/packaging would be a problem shows the root of the issue: no proper version deps.*"
+* Armin Ronacher commented: "*The fact that having the same package name for distutils2/packaging would be a problem shows the root of the issue: no proper version deps.*"
 
 
 Porting to Python 3
