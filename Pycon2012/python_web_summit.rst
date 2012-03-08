@@ -9,6 +9,8 @@ Python Web Summit March 8, 2012
 
 * url: https://us.pycon.org/2012/community/WebDevSummit/
 
+.. note:: Taking notes on a panel is really challenging. Apologies on whatever or to whoever I miss.
+
 Introduction
 =============
 
