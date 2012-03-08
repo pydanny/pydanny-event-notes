@@ -152,6 +152,18 @@ Compelling arguments for/on Python 3
 * Barry Warsaw: 2-to-3 tool is useful for getting started, but once in the weeds I find that I dive into the code.
 
 
+Final Thoughts
+---------------
+
+.. note:: my summary of their statements.
+
+* Chris McDonough: We need to make people more enthusiastic about Python 3.
+* Armin Ronacher: Improve the guides on porting.
+* Guido Van Rossum: This will be resolved. It's going to be a while, but we can make it. We'll remember how hard it was to move forward to Python 3.
+* Mike Bayer: 
+* Robert Brewer: 
+
+
 Factoring Code for Reuse
 ========================
 
