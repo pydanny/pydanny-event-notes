@@ -118,6 +118,7 @@ Porting to Python 3
 * Guido van Rossum (Python)
 
     * I don't know much about how you guys do Python web development and want to know so I can make it easier for Python 3 conversions.
+    * There was artificial ambiguity introduced in Python 2 in regards to strings.
 
 * Mike Bayer (SQLAlchemy/Mako)
 
