@@ -48,6 +48,7 @@ Panelists:
 * Jim Fulton (Buildout/Zope)
 
     * Company does development and maintains 500 applications
+    * "Packaging needs to be better so we can deploy more easily."
 
 Questions
 ---------
