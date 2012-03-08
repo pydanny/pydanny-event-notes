@@ -139,7 +139,7 @@ Questions
     * Answer: https://github.com/sloonz/pil-py3k
     * Answer: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
     * Answer: http://www.imagemagick.org/download/python/
-    * ..note:: Pillow does not solve the Python 3 issue
+    * .. note:: Pillow does not solve the Python 3 issue
     
 * Dylan Jay: Why are library writers having to maintain two copies of their library code?
 
