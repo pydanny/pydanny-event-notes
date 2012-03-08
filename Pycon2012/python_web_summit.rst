@@ -44,7 +44,8 @@ Panelists:
 * Tarek Ziadé (MDistribute/Packaging)
 * Nate Aune (DjangoZoom, Appsembler)
 
-    * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startup (DjangoZoom)
+    * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startups (DjangoZoom and Appsembler).
+    * We need to come up with a standard and insist on using it.
 
 * Kenneth Reitz (Heroku)
 
