@@ -42,9 +42,6 @@ Creating a Better Deployment Story
 Panelists:
 
 * Tarek Ziadé (Distribute/Packaging)
-
-    * has to play namespacing games to make sure that we get to use DistUtils backporting across versions of Python
-    
 * Nate Aune (DjangoZoom, Appsembler)
 
     * All tools (Plone, Django) makes it hard to do deployments. Hence his deployment startups (DjangoZoom and Appsembler).
@@ -83,6 +80,13 @@ Ian Bicking's thought on how to do it. Would have these things::
     Project description
     Python version labeling
     Include non-Python components (database, libraries, etc)
+
+Namespacing Distributions
+---------------------------
+
+* Tarek as to play namespacing games to make sure that we get to use DistUtils backporting across versions of Python.     
+
+    * Armin Ronacher commented: "*The fact that having the same package name for distutils2/packaging would be a problem shows the root of the issue: no proper version deps.*"
 
 
 
