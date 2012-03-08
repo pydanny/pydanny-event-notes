@@ -12,7 +12,7 @@ Python Web Summit March 8, 2012
 Introduction
 =============
 
-by Michael Ryabushkin
+**by Michael Ryabushkin**
 
 How did this start?
 --------------------
@@ -37,7 +37,7 @@ During the summit
 Creating a Better Deployment Story
 =====================================
 
-Moderated by Jacob Kaplan-Moss (Django DBFL)
+**Moderated by Jacob Kaplan-Moss (Django DBFL)**
 
 Panelists:
 
@@ -68,6 +68,17 @@ Questions
 #. How come Java .war files do it better than Python?
 #. What is the status quo?
 #. What are people working on to make this better?
+
+Formal Application Package Specification?
+------------------------------------------
+
+Ian Bicking's thought on how to do it. Would have these things::
+    
+    Formal path specification
+    Formal dependency listings
+    Project description
+    Python version labeling
+    Include non-Python components (database, libraries, etc)
 
 
 
