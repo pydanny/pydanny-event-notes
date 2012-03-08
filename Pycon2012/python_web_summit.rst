@@ -70,6 +70,7 @@ Questions
 ---------
 
 #. How come Java .war files do it better than Python?
+#. How do we make it so that Python is as easy to deploy to the web as PHP.
 #. What is the status quo?
 #. What are people working on to make this better?
 
