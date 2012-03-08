@@ -215,7 +215,7 @@ Graham Dumpleton (WSGI 2 ideas)
     * TODO add what I missed
 
 Benoît Chesneau (gunicorn)
------------------------------
+----------------------------
 
 The state of gunicorn:
 
@@ -227,11 +227,16 @@ The state of gunicorn:
 * Natively support WSGI, Django, Paster
 * HTTP streams: decode on the fly http chunks
 * Supporting sendfile & FileWrapper
-
----- 
  
-* Ben Bangert (Pylons Project)
-* Robert Brewer (CherryPy)
+Ben Bangert (Pylons Project)
+------------------------------
+
+UPCOMING
+
+Robert Brewer (CherryPy)
+------------------------------
+
+UPCOMING
 
 Promoting Python for Web Use
 =============================
