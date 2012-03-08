@@ -130,10 +130,8 @@ Porting to Python 3
 Questions
 ---------
 
-* Chris McDonough: Who runs web apps on Python 3?
+* Chris McDonough: Who runs web apps on Python 3?: crickets
 
-    * No one answered
-    
 
 Compelling arguments for Python 3
 ----------------------------------
