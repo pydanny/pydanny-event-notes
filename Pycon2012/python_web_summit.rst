@@ -53,6 +53,7 @@ Panelists:
 
 * Ian Bicking (Paste/WebOb/Silver Lining)
 
+    * Let's create a formal Application Package specification.
     * Problem to overcome is the difference between developers and sys admin
 
 * Jim Fulton (Buildout/Zope)
@@ -60,11 +61,15 @@ Panelists:
     * Company does development and maintains 500 applications
     * "Packaging needs to be better so we can deploy more easily."
 
+
 Questions
 ---------
 
+#. How come Java .war files do it better than Python?
 #. What is the status quo?
 #. What are people working on to make this better?
+
+
 
 Porting to Python 3
 ====================
