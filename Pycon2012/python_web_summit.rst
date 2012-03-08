@@ -111,11 +111,18 @@ Porting to Python 3
 
 Moderated by Barry Warsaw (Canonical, Python FLUFL)
 
+* Chris McDonough (Pyramid/WebOb)
+* Armin Ronacher (Flask, Jinja2)
 * Guido van Rossum (Python)
+
+    * I don't know much about how you guys do Python web development and want to know so I can make it easier for Python 3 conversions.
+
 * Mike Bayer (SQLAlchemy/Mako)
 * Robert Brewer (CherryPy)
-* Armin Ronacher (Flask)
-* Chris McDonough (Pyramid/WebOb)
+
+
+
+
 
 
 Factoring Code for Reuse
