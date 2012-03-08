@@ -219,6 +219,8 @@ Benoît Chesneau (gunicorn)
 
 The state of gunicorn:
 
+* First commit was November 30, 2009
+
 ---- 
  
 * Ben Bangert (Pylons Project)
