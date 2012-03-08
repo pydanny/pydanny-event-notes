@@ -267,7 +267,7 @@ State of the Pylons Project:
     * Larger frameworks on top taking off along with bootstraps
     * Ploneconf Pyramid track
     * 62 reports, 31 devs with commit
-    * lots of pyramid* packages
+    * lots of ``pyramid_*`` packages
 
 
 Robert Brewer (CherryPy)
