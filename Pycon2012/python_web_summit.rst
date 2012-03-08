@@ -160,7 +160,7 @@ Final Thoughts
 * Chris McDonough: We need to make people more enthusiastic about Python 3.
 * Armin Ronacher: Improve the guides on porting.
 * Guido Van Rossum: This will be resolved. It's going to be a while, but we can make it. We'll remember how hard it was to move forward to Python 3.
-* Mike Bayer: 
+* Mike Bayer: This will be resolved when we think in Python 3 by default. And make Python 2.x a boring backport.
 * Robert Brewer: 
 
 
