@@ -219,8 +219,11 @@ Benoît Chesneau (gunicorn)
 
 The state of gunicorn:
 
-* First commit was November 30, 2009
-* Three users at first
+* First commit was November 30, 2009, Three users at first
+* preform model
+* Thread-safe
+* Automatic worker process management
+* Manage using signals
 
 ---- 
  
