@@ -289,7 +289,11 @@ Challenges
 Robert Brewer (CherryPy)
 ------------------------------
 
-UPCOMING
+State of CherryPy
+
+    * It works in Python 2.7x
+    * It works in Python 3.x
+    * Being broken up into modular components so the WSGI HTTP server can be used in things like Pyramid
 
 Promoting Python for Web Use
 =============================
