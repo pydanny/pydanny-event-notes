@@ -274,9 +274,16 @@ Challenges
     * Porting to Python 3 (is doing very well)
     * organizing and simplifying sometimes overly pedantic documentation
     * TurboGears
+    
+        * Still exists
+        * Some progress on community migration
+    
     * Standardizing deployment
     * Foundation efforts
     * Pylons conf (189 members of the SF Bay Pylons meetup)
+    * Increasing presence at conferences (not just Python ones)
+    * More awareness of professional support
+    * Moar books?
 
 
 Robert Brewer (CherryPy)
