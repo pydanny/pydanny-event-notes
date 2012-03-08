@@ -119,7 +119,7 @@ Moderated by Barry Warsaw (Canonical, Python FLUFL)
 
 * Mike Bayer (SQLAlchemy/Mako)
 
-    * The Python database API needs some live.
+    * The Python database API needs some love.
     * PEP 249 doesn't mention unicode. http://www.python.org/dev/peps/pep-0249/
 
 * Robert Brewer (CherryPy)
