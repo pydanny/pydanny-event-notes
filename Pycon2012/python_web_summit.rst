@@ -118,6 +118,10 @@ Moderated by Barry Warsaw (Canonical, Python FLUFL)
     * I don't know much about how you guys do Python web development and want to know so I can make it easier for Python 3 conversions.
 
 * Mike Bayer (SQLAlchemy/Mako)
+
+    * The Python database API needs some live.
+    * PEP 249 doesn't mention unicode. http://www.python.org/dev/peps/pep-0249/
+
 * Robert Brewer (CherryPy)
 
 
