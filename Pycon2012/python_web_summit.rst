@@ -224,6 +224,9 @@ The state of gunicorn:
 * Thread-safe
 * Automatic worker process management
 * Manage using signals
+* Natively support WSGI, Django, Paster
+* HTTP streams: decode on the fly http chunks
+* Supporting sendfile & FileWrapper
 
 ---- 
  
