@@ -198,8 +198,21 @@ Each of these speakers, a leader in their field, gets time to talk about his sub
             * no compressed request content
             * No chunked requests
             * no full duplex HTTP
-            
     
+    * Has the boat sailed?
+    
+        * Too much legacy code relying on WSGI 1.0
+        * Missed opportunity with Python 3
+        
+    * Graham's ideas:
+    
+        * use context managers to improve resource management
+        
+            * need to override close() of the iterable
+        
+        * Implement wsgi.input as an iterable
+        * TODO add what I missed
+
 
 * Benoît Chesneau (gunicorn)
 * Ben Bangert (Pylons Project)
