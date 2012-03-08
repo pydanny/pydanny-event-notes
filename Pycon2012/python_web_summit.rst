@@ -9,7 +9,7 @@ Python Web Summit March 8, 2012
 
 * url: https://us.pycon.org/2012/community/WebDevSummit/
 
-.. note:: Taking notes on a panel is really challenging. Apologies on whatever or to whoever I miss.
+.. note:: Taking notes on a panel is really challenging. Apologies on whatever or to whoever I miss. Any misquotes are my fault and not the fault of the speaker.
 
 Introduction
 =============
@@ -149,6 +149,7 @@ Compelling arguments for/on Python 3
 * Armin: Python 3 has some powerful features for sockets and other components that Python 2.x lacks.
 * Barry Warsaw: Newer and more powerful libraries being written in Python 3.
 * Wayne Witzel: Give a ton options for porting to python3, they won't choose any of them. Most people just want to be told what is right.
+* Barry Warsaw: 2-to-3 tool is useful for getting started, but once in the weeds I find that I dive into the code.
 
 
 Factoring Code for Reuse
