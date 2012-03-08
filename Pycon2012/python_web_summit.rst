@@ -227,9 +227,15 @@ The state of gunicorn:
 * Natively support WSGI, Django, Paster
 * HTTP streams: decode on the fly http chunks
 * Supporting sendfile & FileWrapper
+* Simple Python configuration
+* Multiple workers (sync and async)
+* Various server hooks
+* use your own logger
  
 Ben Bangert (Pylons Project)
 ------------------------------
+
+
 
 UPCOMING
 
