@@ -319,6 +319,7 @@ Glyph Lefkowitz (Twisted)
 * It works for the web!
 * Lots of cool features
 * Works more as a container rather than a platform.
+* Has excellent support for Windows. Has an MSI, Executable, etc
 
 Jannis Leidel (Django Project)
 --------------------------------
