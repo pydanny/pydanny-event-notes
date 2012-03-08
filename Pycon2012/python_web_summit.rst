@@ -231,14 +231,32 @@ The state of gunicorn:
 * Multiple workers (sync and async)
 * Various server hooks
 * use your own logger
-* challenges:
+* Some issues:
 
-    * Reload - graceful (HUP) or reexec (USR2)
-    * The Django case: python-manage.py
-    * Performance issues due to WSGI
-    * CGI compatibility: headers
-    * CONTENT_TYPE,CONTENT_LENGTH,SCRIPT_NAME
-    * The spec needs to be completed
+        * Reload - graceful (HUP) or reexec (USR2)
+        * The Django case: python-manage.py
+        * Performance issues due to WSGI
+        * CGI compatibility: headers
+        * CONTENT_TYPE,CONTENT_LENGTH,SCRIPT_NAME
+        * The WSGI spec needs to be completed
+
+    * Async workers & blocking issues
+
+        * IO access like the filesystem are not greened
+        * C drivers
+    
+    * Web app configurations & deployment: we need a standard
+
+* Challenges:
+
+    * Python 3
+    
+        * the case of sync workers
+        * Handle extensions/plugins
+        
+    * New needs on the web: websockets, SPDY
+    * modular HTTP & WSGI server in Python
+
  
 Ben Bangert (Pylons Project)
 ------------------------------
