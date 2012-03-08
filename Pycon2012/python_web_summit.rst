@@ -1,5 +1,5 @@
 ===============================
-Python Web Summit
+Python Web Summit March 8, 2012
 ===============================
 
 * Hosted by
