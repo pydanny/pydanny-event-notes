@@ -140,6 +140,8 @@ Questions
     * Answer: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
     * Answer: http://www.imagemagick.org/download/python/
     * ..note:: Pillow does not solve the Python 3 issue
+    
+* Dylan Jay: Why are people having to maintain two libraries?
 
 Compelling arguments for Python 3
 ----------------------------------
