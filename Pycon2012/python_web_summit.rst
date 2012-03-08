@@ -45,7 +45,13 @@ Panelists:
 * Nate Aune (DjangoZoom)
 * Kenneth Reitz (Heroku)
 * Ian Bicking (Paste/WebOb/Silver Lining)
-* Jim Fulton (Buildout)
+* Jim Fulton (Buildout/Zope)
+
+Questions
+---------
+
+#. What is the status quo?
+#. What are people working on to make this better?
 
 Porting to Python 3
 ====================
