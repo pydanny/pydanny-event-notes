@@ -119,7 +119,7 @@ Porting to Python 3
 
 * Mike Bayer (SQLAlchemy/Mako)
 
-    * The Python database API needs some love.
+    * The Python database API needs some love. I agree in that a huge, unmentioned hurdle for Python three are other libraries besides web frameworks and unicode. DBAPI, PIL, etc.
     * PEP 249 doesn't mention unicode. http://www.python.org/dev/peps/pep-0249/
 
 * Robert Brewer (CherryPy)
