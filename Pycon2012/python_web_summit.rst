@@ -132,13 +132,14 @@ Questions
 
 * Chris McDonough: Who runs web apps on Python 3?: crickets
 * Barry: What are the big blockers
-* Me: What about auxiliary libraries like PIL, lxml, DB-API?
+* Me: What about auxiliary library blockers like PIL, lxml, DB-API?
 
-    * See: http://stackoverflow.com/questions/3896286/image-library-for-python-3
-    * https://github.com/gpolo/pil-py3k
-    * https://github.com/sloonz/pil-py3k
-    * http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
-    * http://www.imagemagick.org/download/python/
+    * Answer: http://stackoverflow.com/questions/3896286/image-library-for-python-3
+    * Answer: https://github.com/gpolo/pil-py3k
+    * Answer: https://github.com/sloonz/pil-py3k
+    * Answer: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
+    * Answer: http://www.imagemagick.org/download/python/
+    * ..note:: Pillow does not solve the Python 3 issue
 
 Compelling arguments for Python 3
 ----------------------------------
