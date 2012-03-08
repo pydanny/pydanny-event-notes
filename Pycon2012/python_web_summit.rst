@@ -143,11 +143,12 @@ Questions
     
 * Dylan Jay: Why are library writers having to maintain two copies of their library code?
 
-Compelling arguments for Python 3
-----------------------------------
+Compelling arguments for/on Python 3
+-------------------------------------
 
 * Armin: Python 3 has some powerful features for sockets and other components that Python 2.x lacks.
 * Barry Warsaw: Newer and more powerful libraries being written in Python 3.
+* Wayne Witzel: Give a ton options for porting to python3, they won't choose any of them. Most people just want to be told what is right.
 
 
 Factoring Code for Reuse
