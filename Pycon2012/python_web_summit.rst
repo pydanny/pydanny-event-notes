@@ -183,38 +183,44 @@ Moderated by Danny Greenfeld (`consumernotebook.com`_)
 
 Each of these speakers, a leader in their field, gets time to talk about his subject.
 
-* Graham Dumpleton (WSGI 2 ideas)
+Graham Dumpleton (WSGI 2 ideas)
+----------------------------------
 
-    * PEP 333 was created back in 2003
-    * PEP 3333 was created back in 2010
-    * Wanted something better:
-    
-        * Make it simpler
-        * standardized high level request/response objects
-        * Async support (not possible because so different)
-        * Resource management
-        * Unknown request content length
-        
-            * no compressed request content
-            * No chunked requests
-            * no full duplex HTTP
-    
-    * Has the boat sailed?
-    
-        * Too much legacy code relying on WSGI 1.0
-        * Missed opportunity with Python 3
-        
-    * Graham's ideas:
-    
-        * use context managers to improve resource management
-        
-            * need to override close() of the iterable
-        
-        * Implement wsgi.input as an iterable
-        * TODO add what I missed
+* PEP 333 was created back in 2003
+* PEP 3333 was created back in 2010
+* Wanted something better:
 
+    * Make it simpler
+    * standardized high level request/response objects
+    * Async support (not possible because so different)
+    * Resource management
+    * Unknown request content length
+    
+        * no compressed request content
+        * No chunked requests
+        * no full duplex HTTP
 
-* Benoît Chesneau (gunicorn)
+* Has the boat sailed?
+
+    * Too much legacy code relying on WSGI 1.0
+    * Missed opportunity with Python 3
+    
+* Graham's ideas:
+
+    * use context managers to improve resource management
+    
+        * need to override close() of the iterable
+    
+    * Implement wsgi.input as an iterable
+    * TODO add what I missed
+
+Benoît Chesneau (gunicorn)
+-----------------------------
+
+The state of gunicorn:
+
+---- 
+ 
 * Ben Bangert (Pylons Project)
 * Robert Brewer (CherryPy)
 
