@@ -113,6 +113,9 @@ Moderated by Barry Warsaw (Canonical, Python FLUFL)
 
 * Chris McDonough (Pyramid/WebOb)
 * Armin Ronacher (Flask, Jinja2)
+
+    * Python 3 has some powerful features for sockets and other components that Python 2.x lacks.
+
 * Guido van Rossum (Python)
 
     * I don't know much about how you guys do Python web development and want to know so I can make it easier for Python 3 conversions.
@@ -124,7 +127,13 @@ Moderated by Barry Warsaw (Canonical, Python FLUFL)
 
 * Robert Brewer (CherryPy)
 
+Questions
+---------
 
+* Chris McDonough: Who runs web apps on Python 3?
+
+    * No one answered
+    
 
 
 
