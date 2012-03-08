@@ -81,7 +81,7 @@ Ian Bicking's thought on how to do it. Would have these things::
     Python version labeling
     Include non-Python components (database, libraries, fortran, etc)
     
-Jacob's comment:Is this going down the route of Chef/Puppet?
+Jacob's comment: Is this going down the route of Chef/Puppet?
 
 
 Namespacing Distributions
