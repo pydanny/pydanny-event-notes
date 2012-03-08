@@ -231,6 +231,10 @@ The state of gunicorn:
 * Multiple workers (sync and async)
 * Various server hooks
 * use your own logger
+* challenges:
+
+    * Reload - graceful (HUP) or reexec (USR2)
+    * The Django case: python-manage.py
  
 Ben Bangert (Pylons Project)
 ------------------------------
