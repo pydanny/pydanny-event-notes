@@ -184,6 +184,17 @@ Moderated by Danny Greenfeld (`consumernotebook.com`_)
 Each of these speakers, a leader in their field, gets time to talk about his subject.
 
 * Graham Dumpleton (WSGI 2 ideas)
+
+    * PEP 333 was created back in 2003
+    * PEP 3333 was created back in 2010
+    * Wanted something better:
+    
+        * Make it simpler
+        * standardized high level request/response objects
+        * Async support (not possible because so different)
+            
+    
+
 * Benoît Chesneau (gunicorn)
 * Ben Bangert (Pylons Project)
 * Robert Brewer (CherryPy)
