@@ -141,7 +141,7 @@ Questions
     * Answer: http://www.imagemagick.org/download/python/
     * ..note:: Pillow does not solve the Python 3 issue
     
-* Dylan Jay: Why are people having to maintain two libraries?
+* Dylan Jay: Why are library writers having to maintain two copies of their library code?
 
 Compelling arguments for Python 3
 ----------------------------------
