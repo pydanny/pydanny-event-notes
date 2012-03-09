@@ -337,6 +337,7 @@ Jannis Leidel (Django Project)
     * Custom project templates
     * Standard ``WSGI`` entrypoint
     * Full timezone support
+    * In browser testing
 
 Quotes
 =========
