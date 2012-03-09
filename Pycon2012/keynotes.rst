@@ -15,3 +15,4 @@ Paul Graham
 * The biggest startup ideas are frightening:
 
     * The threaten your identity
+    * Think the John Malkovich room
