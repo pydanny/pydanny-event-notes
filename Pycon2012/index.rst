@@ -6,6 +6,7 @@ Pycon 2012
    :maxdepth: 2
    
    python_web_summit
+   keynotes
    other_pycon_notes
 
 Other events I'll be attending
