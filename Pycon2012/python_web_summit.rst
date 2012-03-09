@@ -339,6 +339,7 @@ Jannis Leidel (Django Project)
     * Full timezone support
     * In browser testing
     * Cookie session backend
+    * Clickjacking protection
     
 
 Quotes
