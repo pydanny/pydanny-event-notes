@@ -334,6 +334,7 @@ Jannis Leidel (Django Project)
 * Django 1.4 almost out
 
     * New project layout
+    * Custom project templates
 
 
 Quotes
