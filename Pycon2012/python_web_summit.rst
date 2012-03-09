@@ -330,6 +330,7 @@ Jannis Leidel (Django Project)
 * 7,000 developer list
 * 33 committers
 * 2,5000 downloads/day
+* 2,100 projects on PyPI
 Quotes
 =========
 
