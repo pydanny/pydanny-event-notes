@@ -331,6 +331,11 @@ Jannis Leidel (Django Project)
 * 33 committers
 * 2,5000 downloads/day
 * 2,100 projects on PyPI
+* Django 1.4 almost out
+
+    * New project layout
+
+
 Quotes
 =========
 
