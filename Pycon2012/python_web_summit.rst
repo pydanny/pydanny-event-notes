@@ -338,6 +338,8 @@ Jannis Leidel (Django Project)
     * Standard ``WSGI`` entrypoint
     * Full timezone support
     * In browser testing
+    * Cookie session backend
+    
 
 Quotes
 =========
