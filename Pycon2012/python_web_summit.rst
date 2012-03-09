@@ -331,7 +331,7 @@ Jannis Leidel (Django Project)
 * 33 committers
 * 2,5000 downloads/day
 * 2,100 projects on PyPI
-* Django 1.4 almost out
+* Django 1.4 almost out:
 
     * New project layout
     * Custom project templates
@@ -343,6 +343,7 @@ Jannis Leidel (Django Project)
     * New form wizard
     * i18n URLs
     * No exception wrapping templates anymore
+    * ``*args``, ``**kwargs``
     
 New orm functions:
 
@@ -360,6 +361,10 @@ New template stuff:
     {% elif %}
     {% static %}
     {% truncatechars %}
+    
+Django 1.5 news:
+
+    * Cool stuff is coming
 
 Quotes
 =========
