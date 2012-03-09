@@ -366,6 +366,7 @@ Django 1.5 news:
 
     * Cool stuff is coming
 
+
 Quotes
 =========
 
