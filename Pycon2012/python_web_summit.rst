@@ -340,7 +340,7 @@ Jannis Leidel (Django Project)
     * In browser testing
     * Cookie session backend
     * Clickjacking protection
-    
+    * New form wizard
 
 Quotes
 =========
