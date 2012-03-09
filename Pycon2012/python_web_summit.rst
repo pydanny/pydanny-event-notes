@@ -325,7 +325,11 @@ Glyph Lefkowitz (Twisted)
 Jannis Leidel (Django Project)
 --------------------------------
 
-
+* Used in a lot of places around the world in small and gigantic projects
+* 21,700 user list
+* 7,000 developer list
+* 33 committers
+* 2,5000 downloads/day
 Quotes
 =========
 
