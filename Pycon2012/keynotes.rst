@@ -16,3 +16,7 @@ Paul Graham
 
     * The threaten your identity
     * Think the John Malkovich room
+    
+* Let's say you want to start the next google
+
+    
