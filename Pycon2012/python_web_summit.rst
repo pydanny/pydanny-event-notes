@@ -320,6 +320,7 @@ Glyph Lefkowitz (Twisted)
 * Lots of cool features
 * Works more as a container rather than a platform.
 * Has excellent support for Windows. Has an MSI, Executable, etc
+* Needs to fight the impression of being a giant library. It is actually small.
 
 Jannis Leidel (Django Project)
 --------------------------------
