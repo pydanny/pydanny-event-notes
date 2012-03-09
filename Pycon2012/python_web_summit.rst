@@ -341,6 +341,15 @@ Jannis Leidel (Django Project)
     * Cookie session backend
     * Clickjacking protection
     * New form wizard
+    * i18n URLs
+    
+New orm functions:
+
+.. sourcecode:: python
+
+    select_for_update()
+    bulk_create()
+    distinct('filename')
 
 Quotes
 =========
