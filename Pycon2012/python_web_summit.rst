@@ -335,7 +335,8 @@ Jannis Leidel (Django Project)
 
     * New project layout
     * Custom project templates
-
+    * Standard ``WSGI`` entrypoint
+    * Full timezone support
 
 Quotes
 =========
