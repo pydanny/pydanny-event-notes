@@ -342,6 +342,7 @@ Jannis Leidel (Django Project)
     * Clickjacking protection
     * New form wizard
     * i18n URLs
+    * No exception wrapping templates anymore
     
 New orm functions:
 
@@ -350,6 +351,15 @@ New orm functions:
     select_for_update()
     bulk_create()
     distinct('filename')
+    
+New template stuff:
+    
+.. sourcecode:: jinja2
+
+    @assignment_tag
+    {% elif %}
+    {% static %}
+    {% truncatechars %}
 
 Quotes
 =========
