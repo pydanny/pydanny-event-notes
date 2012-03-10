@@ -2,12 +2,15 @@
 Pycon 2012
 ============
 
+.. note:: Github was gracious enough to donate their booth to our startup, `Consumer Notebook`_. So instead of going to many awesome talks and taking notes, I've been at our booth. Come and say hi!
+
 .. toctree::
    :maxdepth: 2
    
    python_web_summit
    keynotes
    other_pycon_notes
+
 
 Other events I'll be attending
 ===============================
