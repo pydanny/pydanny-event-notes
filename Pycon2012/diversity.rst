@@ -93,3 +93,13 @@ Reflection & Sharing
 
 * Volunteers are awesome
 * Why'd you sign up? "Women, judgement-free, free"
+* Staff wrap-up. Lesson's learned:
+
+    * More coding practice
+    * simplified projects
+
+How they share the work
+==========================
+
+* Curriculem on wiki
+* 
