@@ -106,4 +106,9 @@ How they share the work
 
     * codingbat.com
 
-    
+Scaling out: impact beyond Boston
+====================================
+
+* Montreal Python: Women & friends workshop
+* Pystar: Workshops and material
+* Pyladies: women-friendly python user group(s)
