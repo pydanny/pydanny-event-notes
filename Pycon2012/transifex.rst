@@ -106,3 +106,10 @@ Workflow automation
     $ tx set --auto-local -r myrproj.myres --source-lang en etc...
     
 Creates a local .tx file that set sup the configuration file. This can be uploaded to git.
+
+.. parsed-literal::
+
+    # commands to interact with Transifex 
+    tx pull --source
+    tx push --translations
+    
