@@ -6,8 +6,20 @@ Diversity in Practice
 
 * **by Jessica McKellar , Asheesh Laroia**
 
+* Boston Python user group organizers
+* PSF members
+* PSF outtrach and education committed memebers
+* Open hatch
+* FOSS
+
 Basics
 =======
 
 * Diversity membership makes user groups **better**.
 * Diversity outreach helps user groups group
+
+Motivation
+============================
+
+* No women at user group events
+* No pipeline for newcomers / beginners.
