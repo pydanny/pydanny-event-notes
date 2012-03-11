@@ -22,3 +22,21 @@ Workflow
     * SSH, email, tickets
 
 * For every frigging release
+
+Python & Gettext
+====================
+
+.. sourcecode:: python
+
+    from gettext import gettext as _
+    
+    thing = _("I'm going to be translated")
+    
+.. sourcecode:: jinja
+
+    {% load i18n %}
+    
+    {% trans "person" %}
+    
+    {% blocktrans count ppl|length as num %}
+    TODO show moar
