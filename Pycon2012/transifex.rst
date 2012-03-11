@@ -40,3 +40,10 @@ Python & Gettext
     
     {% blocktrans count ppl|length as num %}
     TODO show moar
+    
+* Generates PO files
+
+How to render PO files
+=========================
+
+TODO: show the command-line actions for pure Python and Django
