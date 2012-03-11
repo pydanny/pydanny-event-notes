@@ -7,9 +7,10 @@ Pycon 2012
 .. toctree::
    :maxdepth: 2
    
+   
+   diversity   
+   transifex   
    python_web_summit
-   transifex
-   diversity
    keynotes
    other_pycon_notes
 
