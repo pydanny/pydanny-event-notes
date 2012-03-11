@@ -8,7 +8,7 @@ Diversity in Practice
 
 * Boston Python user group organizers
 * PSF members
-* PSF outtrach and education committed memebers
+* PSF outreach and education committed members
 * Open hatch
 * FOSS
 
@@ -23,3 +23,4 @@ Motivation
 
 * No women at user group events
 * No pipeline for newcomers / beginners.
+
