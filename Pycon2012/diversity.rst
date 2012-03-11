@@ -87,3 +87,9 @@ After
 * hack nights
 * classes
 * more
+
+Reflection & Sharing
+======================
+
+* Volunteers are awesome
+* Why'd you sign up? "Women, judgement-free, free"
