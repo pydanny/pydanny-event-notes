@@ -86,13 +86,13 @@ Simpler model of translations
 Transifex size of project
 =========================
 
-* 17,000 uswers
+* 17,000 users
 * 3,000 products
 
 Tech
 =======
 
-* Django, Python, PostgrewSQL, MongoDB, Redis
+* Django, Python, PostgreSQL, MongoDB, Redis
 * Celery AMQP
 * Django Add-ons
 * Mercurial, Git
