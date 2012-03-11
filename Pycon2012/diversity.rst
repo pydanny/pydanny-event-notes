@@ -23,4 +23,4 @@ Motivation
 
 * No women at user group events
 * No pipeline for newcomers / beginners.
-
+* To fix it, they decided to change things from within
