@@ -82,3 +82,17 @@ Simpler model of translations
 * Content owner/developer
 * Content Management System
 * Transifex
+
+Transifex size of project
+=========================
+
+* 17,000 uswers
+* 3,000 products
+
+Tech
+=======
+
+* Django, Python, PostgrewSQL, MongoDB, Redis
+* Celery AMQP
+* Django Add-ons
+* Mercurial, Git
