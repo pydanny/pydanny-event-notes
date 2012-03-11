@@ -47,3 +47,31 @@ How to render PO files
 =========================
 
 TODO: show the command-line actions for pure Python and Django
+
+Traditional model of translations
+================================
+
+* Content owner/developer
+* Localization manager
+* Content manager/translator
+* Developers
+
+Existing solutions before Transifex
+==================================================
+
+* Emails to translation agencies
+
+    * loss of control
+    * Expensive
+
+* Build own L10N system
+
+    * Lots of work
+    * Expensive
+
+Transifex
+===========
+
+* SaaS product
+* Open source platform
+* Built for developers to maintain
