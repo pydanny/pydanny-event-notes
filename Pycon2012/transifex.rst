@@ -28,6 +28,7 @@ Python & Gettext
 
 .. sourcecode:: python
 
+    # TODO show Django import
     from gettext import gettext as _
     
     thing = _("I'm going to be translated")
@@ -121,3 +122,8 @@ Workflow automation
 * API to translate content
 * Services on Github and Bitbucket
 * Heroku Addon
+
+Nifty features
+===========================
+
+* Social interactivity, comes with a onboarded community
