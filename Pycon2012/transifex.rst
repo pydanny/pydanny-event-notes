@@ -96,3 +96,13 @@ Tech
 * Celery AMQP
 * Django Add-ons
 * Mercurial, Git
+
+Workflow automation
+=====================
+
+.. parsed-literal::
+
+    $ pip install transifex-client
+    $ tx set --auto-local -r myrproj.myres --source-lang en etc...
+    
+Creates a local .tx file that set sup the configuration file. This can be uploaded to git.
