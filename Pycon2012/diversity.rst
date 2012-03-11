@@ -109,6 +109,8 @@ How they share the work
 Scaling out: impact beyond Boston
 ====================================
 
+How they influenced the world
+
 * Montreal Python: Women & friends workshop
 * Pystar: Workshops and material
 
@@ -116,6 +118,11 @@ Scaling out: impact beyond Boston
 
 * Pyladies: women-friendly python user group(s)
 * Ladies learning code: women-oriented tech programming in Toronto
+* 7 of the 50 poster sessions came out of women who got involved because of these groups
+
+Other
+======
+
 * Lessons from Railsbridge:
 
 .. sourcecode:: python
