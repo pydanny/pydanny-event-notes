@@ -24,3 +24,10 @@ Motivation
 * No women at user group events
 * No pipeline for newcomers / beginners.
 * To fix it, they decided to change things from within
+
+Goals
+======
+
+#. Bring more women into the community. Get to 15%
+2. Show examples of great women programmers
+3. Encourage other user groups to think about diversity
