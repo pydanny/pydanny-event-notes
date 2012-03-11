@@ -84,3 +84,6 @@ After
 * 3 organizers
 * 1800 members
 * Monthly lecture-style events
+* hack nights
+* classes
+* more
