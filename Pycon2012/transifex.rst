@@ -53,7 +53,7 @@ Traditional model of translations
 
 * Content owner/developer
 * Localization manager
-* Content manager/translator
+* Content management system
 * Developers
 
 Existing solutions before Transifex
@@ -75,3 +75,10 @@ Transifex
 * SaaS product
 * Open source platform
 * Built for developers to maintain
+
+Simpler model of translations
+==============================
+
+* Content owner/developer
+* Content Management System
+* Transifex
