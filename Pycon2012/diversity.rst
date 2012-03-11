@@ -112,3 +112,4 @@ Scaling out: impact beyond Boston
 * Montreal Python: Women & friends workshop
 * Pystar: Workshops and material
 * Pyladies: women-friendly python user group(s)
+* ladies learning code: women-oriented tech programming in Toronto
