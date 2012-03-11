@@ -39,3 +39,15 @@ Workshop goals
 * Over 200 women alums
 * Large volunteer base
 * Beginner's stay inside!
+
+Schedule
+==========
+
+How they do it:
+
+Friday: Spaces
+---------------
+
+* Windows and Python sucks.
+* Fixing tabs versus spaces
+* Practice with the interpreter
