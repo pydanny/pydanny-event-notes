@@ -9,6 +9,7 @@ Pycon 2012
    
    python_web_summit
    transifex
+   diversity
    keynotes
    other_pycon_notes
 
