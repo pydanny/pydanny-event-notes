@@ -116,9 +116,16 @@ How they influenced the world
 
     * PyStar Philly
 
-* Pyladies: women-friendly python user group(s)
+* PyLadies: women-friendly python user group(s)
 * Ladies learning code: women-oriented tech programming in Toronto
 * 7 of the 50 poster sessions came out of women who got involved because of these groups
+
+Next steps
+============
+
+* Continuing innovation of organization
+* Get people in via workshops, user groups, PSF memberships, 
+
 
 Other
 ======
