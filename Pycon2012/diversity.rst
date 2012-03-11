@@ -51,3 +51,9 @@ Friday: Spaces
 * Windows and Python sucks.
 * Fixing tabs versus spaces
 * Practice with the interpreter
+* All their materials are available on the web
+
+Saturday: Lecture and practice
+------------------------------
+
+* Basics of python objects and structures
