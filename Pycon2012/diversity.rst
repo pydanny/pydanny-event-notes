@@ -6,3 +6,8 @@ Diversity in Practice
 
 * **by Jessica McKellar , Asheesh Laroia**
 
+Basics
+=======
+
+* Diversity membership makes user groups **better**.
+* Diversity outreach helps user groups group
