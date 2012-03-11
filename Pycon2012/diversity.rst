@@ -127,6 +127,11 @@ Next steps
 * Get people in via workshops, user groups, PSF memberships, 
 * project nights
 
+Resources
+=============
+
+* http://bostonpython.org
+
 Other
 ======
 
