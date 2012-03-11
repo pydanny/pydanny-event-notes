@@ -125,7 +125,7 @@ Next steps
 
 * Continuing innovation of organization
 * Get people in via workshops, user groups, PSF memberships, 
-
+* project nights
 
 Other
 ======
