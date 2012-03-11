@@ -62,3 +62,25 @@ Saturday: Lecture and practice
 
     * A couple games
     * Play with the twitter API
+    
+Post event
+-----------
+
+* Hack nights
+* Discussion groups
+
+The results
+============
+
+Before
+-------
+
+* 1 organizer (Ned Batchelder)
+* 700 members
+
+After
+-------
+
+* 3 organizers
+* 1800 members
+* Monthly lecture-style events
