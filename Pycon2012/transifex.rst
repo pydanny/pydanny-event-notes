@@ -110,6 +110,14 @@ Creates a local .tx file that set sup the configuration file. This can be upload
 .. parsed-literal::
 
     # commands to interact with Transifex 
-    tx pull --source
-    tx push --translations
+    $ tx pull --source
+    $ tx push --translations
     
+Workflow automation
+======================
+
+* Continious integration
+* VCS commit hooks
+* API to translate content
+* Services on Github and Bitbucket
+* Heroku Addon
