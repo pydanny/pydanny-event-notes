@@ -28,6 +28,14 @@ Motivation
 Goals
 ======
 
-#. Bring more women into the community. Get to 15%
+1. Bring more women into the community. Get to 15%
 2. Show examples of great women programmers
 3. Encourage other user groups to think about diversity
+
+Workshop goals
+===============
+
+* workshops + follow up events
+* Over 200 women alums
+* Large volunteer base
+* Beginner's stay inside!
