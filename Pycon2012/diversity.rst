@@ -56,4 +56,9 @@ Friday: Spaces
 Saturday: Lecture and practice
 ------------------------------
 
-* Basics of python objects and structures
+* Basics of python objects and structures (2 hours)
+* Lunch
+* Build your own project (2 hours)
+
+    * A couple games
+    * Play with the twitter API
