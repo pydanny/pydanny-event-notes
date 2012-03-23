@@ -2,7 +2,7 @@
 Pycon 2012
 ============
 
-.. note:: Github was gracious enough to donate their booth to our startup, `Consumer Notebook`_. So instead of going to many awesome talks and taking notes, I've been at our booth. Come and say hi!
+.. note:: Github was gracious enough to donate their booth to our startup, `Consumer Notebook`_. So instead of going to many awesome talks and taking notes, I spent most of the time at our booth. Tons of people came by and checked us out. On Sunday I learned just how painful standing for two days on concrete combined with feet pounding Capoeira action can be. ;)
 
 .. toctree::
    :maxdepth: 2
