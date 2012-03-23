@@ -85,7 +85,7 @@ Economy of expression
             h = hashlib.md5(d).hexdigest()
             filelist = hashmap.setdefault(h, [])
             filelist.append(fullname)
-    pprint.print(hasmap)
+    pprint.print(hashmap)
             
 Beauty Counts
 -------------
