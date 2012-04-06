@@ -88,10 +88,19 @@ Economy of expression
     
 .. sourcecode:: python
 
+    import hashlib
+    import os
+    import pprint
     hashmap = {}
     for path, dirs, files in os.walk('.'):
         for filename in files:
-            # fill this out from the slides
+            fullname = os.path.join(path, filename)
+            with open(fullname) as f:
+                d = f.read()
+            h = hashlib.md5(d).hexdigest()
+            filelist = hashmap.setdefault(h, [])
+            filelist.append(fullname)
+    pprint.pprint(hashmap)
             
 Beauty Counts
 -------------

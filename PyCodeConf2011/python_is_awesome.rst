@@ -76,6 +76,9 @@ Economy of expression
     
 .. sourcecode:: python
 
+    import hashlib
+    import os
+    import pprint
     hashmap = {}
     for path, dirs, files in os.walk('.'):
         for filename in files:
@@ -85,7 +88,7 @@ Economy of expression
             h = hashlib.md5(d).hexdigest()
             filelist = hashmap.setdefault(h, [])
             filelist.append(fullname)
-    pprint.print(hashmap)
+    pprint.pprint(hashmap)
             
 Beauty Counts
 -------------

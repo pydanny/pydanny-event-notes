@@ -50,7 +50,7 @@ How to render PO files
 TODO: show the command-line actions for pure Python and Django
 
 Traditional model of translations
-================================
+=================================
 
 * Content owner/developer
 * Localization manager
@@ -58,7 +58,7 @@ Traditional model of translations
 * Developers
 
 Existing solutions before Transifex
-==================================================
+===================================
 
 * Emails to translation agencies
 
