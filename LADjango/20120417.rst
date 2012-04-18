@@ -36,19 +36,26 @@ class - simple super class name
 
 * Top of inheritence chain
 * Stick to one word
-
-**Do this**: Street
-**Not this**: HouseList
+* **Do this**: Street
+* **Not this**: HouseList
 
 class - qualified sub class name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-coming
+* How are they alike?
+* How are they different?
+* **Do this**: Hose -> GardenHose
+* **Not this**: Hose -> WaterSource
+
 
 variable - role suggesting name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-coming
+* What is it's type?
+* What is it's scope/lifetime?
+* What is it's role?
+* **Do this**: adams
+* **Not this**: adamsHouse
 
 function - intention-revealing name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
