@@ -31,6 +31,8 @@ Naming things is **very** hard
 Implementation patterns
 ------------------------
 
+Using house and street as our naming pattern target:
+
 class - simple super class name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
