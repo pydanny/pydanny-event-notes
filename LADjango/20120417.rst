@@ -82,14 +82,14 @@ by Brian Riley, Edgecast
 
 * Target of the talk was some of the code from the Django tutorial :-)
 * Django is for serving out the web, not not necessarily other things.
-* Sometimes it can be good to extract the business logic from views and put into other control systems.
+* Sometimes it can be good to extract the business logic from the obvious place and put into other control systems.
 
     * Celery comes to mind.
 
 .. sourcecode:: python
 
     # old way
-    vote += 1
+    selected_choice.vote += 1
 
     # domain way
     class Voter(object):
