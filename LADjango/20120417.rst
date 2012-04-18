@@ -1,0 +1,10 @@
+===================================
+LA Django 2012-04-17 various talks
+===================================
+
+All lightning talks. I was going to give one but was too busy to finishing assembling my talk.
+
+Talk #1 - Deploying Django with wsgi and nginx
+================================================
+
+by Sandy Mahalo
