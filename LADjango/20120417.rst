@@ -65,3 +65,9 @@ function - intention-revealing name
 * Stick to verb phrases
 * **Do this**: street.add_house(a)
 * **Not this**: street.houses(a)
+
+RH Word Menu
+-------------
+
+* Dictionary organized by topics
+* Useful reference you can purchase: http://consumernotebook.com/random-house-websters-word-menu/4f8e352f2beba8000e000000/
