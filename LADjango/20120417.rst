@@ -107,3 +107,4 @@ by Dan Loewenhertz of
 
 * Has built a number of Facebook apps
 * Interesting decorator approach to getting this done.
+* https://github.com/elmcitylabs/ECL-Facebook
