@@ -106,3 +106,4 @@ Talk #4 - Integrating Facebook into Django
 by Dan Loewenhertz of 
 
 * Has built a number of Facebook apps
+* Interesting decorator approach to getting this done.
