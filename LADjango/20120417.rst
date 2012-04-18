@@ -66,14 +66,13 @@ function - intention-revealing name
 * **Do this**: street.add_house(a)
 * **Not this**: street.houses(a)
 
-Useful books
--------------
+Useful books for naming things
+---------------------------------------
 
- * Random House Word Menu
 
-    * Dictionary organized by topics
-    * http://consumer.io/random-house-websters-word-menu/4f8e352f2beba8000e000000/
-    
- * Ultimate Visual Dictionary
+
+ * `Random House Word Menu`_
+ * `Ultimate Visual Dictionary`_
  
-    * http://www.consumer.io/ultimate-visual-dictionary/4f8e356b2beba8000d000003/
+.. _`Random House Word Menu`: http://consumer.io/random-house-websters-word-menu/4f8e352f2beba8000e000000/
+.. _`Ultimate Visual Dictionary`: http://www.consumer.io/ultimate-visual-dictionary/4f8e356b2beba8000d000003/
