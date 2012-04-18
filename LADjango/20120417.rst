@@ -80,7 +80,27 @@ Talk #3 - Extracting Domain Objects
 
 by Brian Riley, Edgecast
 
+* Target of the talk was some of the code from the Django tutorial :-)
 * Django is for serving out the web, not not necessarily other things.
-* Sometimes it can be good to extract the business logic and put into other control systems.
+* Sometimes it can be good to extract the business logic from views and put into other control systems.
 
     * Celery comes to mind.
+
+.. sourcecode:: python
+
+    # old way
+    vote += 1
+
+    # domain way
+    class Voter(object):
+        DEFAULT_NUMBER_OF_VOTES = 1
+         
+        def number_of_votes(self, user):
+            if user.is_authenticated():
+                return user.votes
+            return Voter.DEFAULT_NUMBER_OF_VOTES
+
+        
+        
+        
+
