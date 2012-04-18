@@ -8,3 +8,5 @@ Talk #1 - Deploying Django with wsgi and nginx
 ================================================
 
 by Sandy Mahalo
+
+* 
