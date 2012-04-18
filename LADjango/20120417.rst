@@ -12,3 +12,14 @@ by Sandy Mahalo
 * Demonstrated against Django 1.4
 * Very technical and spoke fast so didn't get a chance to write things done. :P
 * Material attribution: http://bit.ly/hf6974
+
+Talk #2 - Naming things
+========================
+
+by Michael Avila
+
+Two things hard in computer science
+------------------------------------
+
+* Caching invalidation, naming things, and off-by-one errors. -- Phil Karlton
+
