@@ -103,6 +103,6 @@ by Brian Riley, Edgecast
 Talk #4 - Integrating Facebook into Django
 ===========================================
 
-by ???
+by Dan Loewenhe
 
 * Has built a number of Facebook apps
