@@ -16,10 +16,41 @@ by Sandy Mahalo
 Talk #2 - Naming things
 ========================
 
-by Michael Avila
+by Michael Avila, works at EdgeCast
 
 Two things hard in computer science
 ------------------------------------
 
 * Caching invalidation, naming things, and off-by-one errors. -- Phil Karlton
 
+Naming things is **very** hard
+------------------------------
+
+* Programs are just theories for how computers can interact with the world.
+
+Implementation patterns
+------------------------
+
+class - simple super class name
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Top of inheritence chain
+* Stick to one word
+
+**Do this**: Street
+**Not this**: HouseList
+
+class - qualified sub class name
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+coming
+
+variable - role suggesting name
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+coming
+
+function - intention-revealing name
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+coming
