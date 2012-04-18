@@ -62,4 +62,6 @@ variable - role suggesting name
 function - intention-revealing name
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-coming
+* Stick to verb phrases
+* **Do this**: street.add_house(a)
+* **Not this**: street.houses(a)
