@@ -9,4 +9,5 @@ Talk #1 - Deploying Django with wsgi and nginx
 
 by Sandy Mahalo
 
-* 
+* Demonstrated against Django 1.4
+* Material attribution: http://bit.ly/hf6974
