@@ -75,8 +75,9 @@ Useful books for naming things
 .. _`Random House Word Menu`: http://consumer.io/random-house-websters-word-menu/4f8e352f2beba8000e000000/
 .. _`Ultimate Visual Dictionary`: http://www.consumer.io/ultimate-visual-dictionary/4f8e356b2beba8000d000003/
 
-Extracting Domain Objects
-===========================
+Talk #3 - Extracting Domain Objects
+===================================
 
 by Brian Riley, Edgecast
 
+Django is for serving out the web, not not necessarily other things.
