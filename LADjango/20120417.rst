@@ -100,7 +100,9 @@ by Brian Riley, Edgecast
                 return user.votes
             return Voter.DEFAULT_NUMBER_OF_VOTES
 
-        
-        
-        
+Talk #4 - Integrating Facebook into Django
+===========================================
 
+by ???
+
+* Has built a number of Facebook apps
