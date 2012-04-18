@@ -80,4 +80,7 @@ Talk #3 - Extracting Domain Objects
 
 by Brian Riley, Edgecast
 
-Django is for serving out the web, not not necessarily other things.
+* Django is for serving out the web, not not necessarily other things.
+* Sometimes it can be good to extract the business logic and put into other control systems.
+
+    * Celery comes to mind.
