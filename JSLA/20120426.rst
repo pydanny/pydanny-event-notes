@@ -204,11 +204,11 @@ Sample
     ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
     ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
     
-With vcolors
+With colors
     
 .. sourcecode:: javascript::
 
-ears.updateAudio(0.5);
+    ears.updateAudio(0.5);
 
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
