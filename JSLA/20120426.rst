@@ -87,3 +87,10 @@ Routing
 * May contain Sinatra-style named params
 * Calls in entry in specs or an "anonymous" mojit
 * Can build URLs from routes using the url addon
+
+App configuration
+------------------
+
+* Stored in application.json
+* Can vary based on context
+* Configures YUI in yui
