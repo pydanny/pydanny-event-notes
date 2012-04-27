@@ -78,3 +78,12 @@ built on express.js
         // do something
         next();
     };
+    
+Routing
+---------
+
+* stored in `routes.json` and can vary based on context
+* Specify an HTTP method and a mojit action
+* May contain Sinatra-style named params
+* Calls in entry in specs or an "anonymous" mojit
+* Can build URLs from routes using the url addon
