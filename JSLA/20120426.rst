@@ -125,3 +125,10 @@ Binders
 * Sole access point to controllers and the rest of Mojito in the client
 * Have access to autoloads, and other things. **TOO MUCH STUFF IN EACH SLIDE**
 
+Addons and autoloads
+---------------------
+
+* Addons are how you share code
+* Have access to addons, autoloads, models, views, and configuration
+* Autoloads are normal YUI modules and will be deployed automatically if required
+* Mojito ships with many addons
