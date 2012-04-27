@@ -180,10 +180,25 @@ Visualizing Sound
 * "I love that for every CD ever created, there is a monster that lives inside."
 * Good speaker
 
+.. note:: Very good description of calculus and functional programming. :-)
+
 Fundamentals
-=============
+------------
 
 * Accept a bunch of values
 * Convert it to output
 
-.. note:: Very good description of calculus and functional programming. :-)
+Sample
+------
+
+.. sourcecode:: javascript::
+
+    ears.updateAudio(0.5);
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = "rgb(80,80,80)";
+
+    var w = Math.floor(canvas.width / 3);    
+    ctx.fillRect(0 * w, canvas.height, w, -canvas.height * ears.lows());
+    ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
+    ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
