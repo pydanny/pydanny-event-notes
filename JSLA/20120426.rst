@@ -204,7 +204,7 @@ Sample
     ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
     ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
     
-With colors
+With colors:
     
 .. sourcecode:: javascript
 
