@@ -128,7 +128,15 @@ Binders
 Addons and autoloads
 ---------------------
 
-* Addons are how you share code
-* Have access to addons, autoloads, models, views, and configuration
-* Autoloads are normal YUI modules and will be deployed automatically if required in a binder, controller, etc
+* `Addons` are how you share code
+* Have access to `addons`, `autoloads`, `models`, `views`, and `configuration`
+* `Autoloads` are normal YUI modules and will be deployed automatically if required in a binder, controller, etc
 * Mojito ships with many addons
+
+Assets
+-----------------
+
+* Assets are css and non-YUI libs and images. They have no affinity
+* Does not deploy automatically
+* May be included in `application`,`json` or `controller`.
+* JSON Dialogue to call the asset is really uncomfortably nested control structures. Hmmmm...
