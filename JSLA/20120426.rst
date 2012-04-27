@@ -130,5 +130,5 @@ Addons and autoloads
 
 * Addons are how you share code
 * Have access to addons, autoloads, models, views, and configuration
-* Autoloads are normal YUI modules and will be deployed automatically if required
+* Autoloads are normal YUI modules and will be deployed automatically if required in a binder, controller, etc
 * Mojito ships with many addons
