@@ -15,6 +15,7 @@ Mojito
 * by Gameil ?
 
     * at Yahoo for 6.5 years
+    * github: gzip
 
 What is Mojito?
 ----------------
@@ -33,3 +34,35 @@ Mojito Features
 * Broadcasts easily between server and client
 * routing, lazy loading, localization
 * Mojito is open source
+
+Installation
+------------
+
+.. source:: bash
+
+    $ npm i mojito -g
+    $ npm i supervisor -g    
+    
+Mojito Terms
+------------------
+
+* **action context** is the central access point to rest of mojito in a controller
+* **affinity** determines where a resource will be executed. `client`, `server`, or `common`
+* **binder** only execute in the client and provide access to the controller.
+* **context** key/value pairs for resolving configuration
+
+Mojito request flow
+---------------------
+
+1. Middleware
+2. Routing
+3. App configuration
+4. Mojits
+
+    * COntrollers
+    * Addons and Autoloads
+    * Mojit configuration
+    * Models
+    * Views
+    * Binders
+    * Assets (css, images, non-YUI libs)
