@@ -104,3 +104,11 @@ Controllers
 * May run on the server or client
 * Responds to actions
 * Have access to action context, addons, autoloads, models, views, and configuration
+
+Models
+----------
+
+* Have access only to confiuration, autoloads, and other models. 
+* Any additional data must be passed through the controller.
+
+.. note:: I'm guess that's for the sake of security
