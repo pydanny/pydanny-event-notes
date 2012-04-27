@@ -23,7 +23,7 @@ Mojito
 What is Mojito?
 ----------------
 
-.. note:: way too many bullets on the slides. Links are just underlined blue titles. eSigh.
+.. note:: way too many bullets on the slides. Links are just underlined blue titles. Sigh.
 
 * Open Source MVC client/server framework for node.js
 * Core component is the mojit (not quite a module, not quite a widget)
