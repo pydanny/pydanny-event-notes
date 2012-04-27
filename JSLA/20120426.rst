@@ -112,3 +112,9 @@ Models
 * Any additional data must be passed through the controller.
 
 .. note:: I'm guess that's for the sake of security
+
+Views
+------
+
+* Out of the box views are Mustache
+* They are switching to Handlebars soon, which is possible because the template languages are pluggable
