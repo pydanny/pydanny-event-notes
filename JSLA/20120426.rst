@@ -13,6 +13,72 @@ farmhouse.LA
     * http://farmhouse.la/2012
 
 ----
+    
+Visualizing Sound
+=================
+
+* By David Guttman
+* Visualizing music in realtime
+* Visualize anything
+* http://davidguttman.github.com/easy-ears/
+* https://twitter.com/davidguttman
+* "I love that for every CD ever created, there is a monster that lives inside."
+* Good speaker
+
+.. note:: Very good description of calculus and functional programming. :-)
+
+Fundamentals
+------------
+
+* Accept a bunch of values
+* Convert it to output
+
+Sample
+------
+
+.. sourcecode:: javascript
+
+    ears.updateAudio(0.5);
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);      
+
+    ctx.fillStyle = "rgb(80,80,80)";
+
+    var w = Math.floor(canvas.width / 3);    
+    ctx.fillRect(0 * w, canvas.height, w, -canvas.height * ears.lows());
+    ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
+    ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
+
+With colors:
+
+.. sourcecode:: javascript
+
+    ears.updateAudio(0.5);
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    /* adding colors */
+    var red = Math.round(ears.lows()*255),
+        green = Math.round(ears.mids()*255),
+        blue = Math.round(ears.mids()*255);
+
+    ctx.fillStyle = "rgb("+red+","+green+","+blue+")";
+
+    var w = Math.floor(canvas.width / 3);    
+    ctx.fillRect(0 * w, canvas.height, w, -canvas.height * ears.lows());
+    ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
+    ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
+
+
+Native performance on Mobile with JavaScript
+================================================
+
+* Michael Anthonya
+* https://twitter.com/flashtml5
+* Using a framework called Aurora, not yet open sourced
+* http://flashtml5.com/
+
+----
 
 Mojito
 ======
@@ -167,68 +233,9 @@ Assets
 * May be included in `application`,`json` or `controller`.
 * JSON Dialogue to call the asset is really uncomfortably nested control structures. Hmmmm...
 
-----
+My Impressions
+----------------
 
-Visualizing Sound
-=================
-
-* By David Guttman
-* Visualizing music in realtime
-* Visualize anything
-* http://davidguttman.github.com/easy-ears/
-* https://twitter.com/davidguttman
-* "I love that for every CD ever created, there is a monster that lives inside."
-* Good speaker
-
-.. note:: Very good description of calculus and functional programming. :-)
-
-Fundamentals
-------------
-
-* Accept a bunch of values
-* Convert it to output
-
-Sample
-------
-
-.. sourcecode:: javascript
-
-    ears.updateAudio(0.5);
-
-    ctx.clearRect(0, 0, canvas.width, canvas.height);      
-    
-    ctx.fillStyle = "rgb(80,80,80)";
-
-    var w = Math.floor(canvas.width / 3);    
-    ctx.fillRect(0 * w, canvas.height, w, -canvas.height * ears.lows());
-    ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
-    ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
-    
-With colors:
-    
-.. sourcecode:: javascript
-
-    ears.updateAudio(0.5);
-
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-    /* adding colors */
-    var red = Math.round(ears.lows()*255),
-        green = Math.round(ears.mids()*255),
-        blue = Math.round(ears.mids()*255);
-
-    ctx.fillStyle = "rgb("+red+","+green+","+blue+")";
-
-    var w = Math.floor(canvas.width / 3);    
-    ctx.fillRect(0 * w, canvas.height, w, -canvas.height * ears.lows());
-    ctx.fillRect(1 * w, canvas.height, w, -canvas.height * ears.mids());
-    ctx.fillRect(2 * w, canvas.height, w, -canvas.height * ears.highs());
-    
-
-Native performance on Mobile with JavaScript
-================================================
-
-* Michael Anthonya
-* https://twitter.com/flashtml5
-* Using a framework called Aurora, not yet open sourced
-* http://flashtml5.com/
+* Lots of boilerplate
+* looks 'enterprisy'
+* Probably good for Yahoo's use cases of dozens of types of content, a hundred languages, and thousands of regions. Not so useful for the rest of us.
