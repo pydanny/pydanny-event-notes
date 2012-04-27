@@ -15,4 +15,21 @@ Mojito
 * by Gameil ?
 
     * at Yahoo for 6.5 years
-    * Common library at 
+
+What is Mojito?
+----------------
+
+.. note:: way too many bullets on the slides. Links are just underlined blue titles. eSigh.
+
+* Open Source MVC client/server framework for node.js
+* Core component is the mojit (not quite a module, not quite a widget)
+
+Mojito Features
+----------------
+
+* Built on YUI 3
+* Server, client, or both
+* View engine is mustache
+* Broadcasts easily between server and client
+* routing, lazy loading, localization
+* Mojito is open source
