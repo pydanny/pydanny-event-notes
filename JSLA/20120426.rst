@@ -19,6 +19,7 @@ Mojito
 
     * at Yahoo for 6.5 years
     * github: gzip
+    * Demo and slides are here: https://github.com/gzip/mojito-app
 
 What is Mojito?
 ----------------
