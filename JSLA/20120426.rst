@@ -135,7 +135,7 @@ Models
 * Have access only to confiuration, autoloads, and other models. 
 * Any additional data must be passed through the controller.
 
-.. note:: I'm guess that's for the sake of security
+.. note:: I'm guessing that's for the sake of security
 
 Views
 ------
