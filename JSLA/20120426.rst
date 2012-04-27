@@ -97,3 +97,10 @@ App configuration
 * Stored in application.json
 * Can vary based on context
 * Configures YUI in yui
+
+Controllers
+------------
+
+* May run on the server or client
+* Responds to actions
+* Have access to action context, addons, autoloads, models, views, and configuration
