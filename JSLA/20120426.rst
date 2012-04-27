@@ -177,4 +177,4 @@ Optimizing your code for the V8 compiler
 * Visualize anything
 * http://davidguttman.github.com/easy-ears/
 * https://twitter.com/davidguttman
-
+* "I love that for every CD ever created, there is a monster that lives inside."
