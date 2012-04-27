@@ -14,5 +14,5 @@ Mojito
 
 * by Gameil ?
 
-    * Yahoo for 6.5 years
-
+    * at Yahoo for 6.5 years
+    * Common library at 
