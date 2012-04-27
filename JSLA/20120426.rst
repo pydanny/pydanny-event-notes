@@ -230,5 +230,5 @@ Native performance on Mobile with JavaScript
 
 * Michael Anthonya
 * https://twitter.com/flashtml5
-* Using a framework called Aurora
+* Using a framework called Aurora, not yet open sourced
 * http://flashtml5.com/
