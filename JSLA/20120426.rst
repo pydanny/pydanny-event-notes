@@ -118,3 +118,9 @@ Views
 
 * Out of the box views are Mustache
 * They are switching to Handlebars soon, which is possible because the template languages are pluggable
+
+Binders
+-------
+
+* Sole access point to controllers and the rest of Mojito in the client
+* Have access to autoloads, and other things. **TOO MUCH STUFF IN EACH SLIDE**
