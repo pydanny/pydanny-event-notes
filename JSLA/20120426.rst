@@ -38,7 +38,7 @@ Mojito Features
 Installation
 ------------
 
-.. source:: bash
+.. sourcecode:: bash
 
     $ npm i mojito -g
     $ npm i supervisor -g    
@@ -66,3 +66,15 @@ Mojito request flow
     * Views
     * Binders
     * Assets (css, images, non-YUI libs)
+    
+Middleware
+-----------
+
+built on express.js
+
+.. sourcecode:: javascript
+
+    module.exports = function (req, res, next){
+        // do something
+        next();
+    };
