@@ -17,7 +17,7 @@ farmhouse.LA
 Mojito
 ======
 
-* by Gameil ?
+* by Gamaiel Zavala
 
     * at Yahoo for 6.5 years
     * github: gzip
@@ -172,6 +172,9 @@ Assets
 Optimizing your code for the V8 compiler
 ================================================
 
-* By ?!?
+* By David Guttman
 * Visualizing music in realtime
+* Visualize anything
+* http://davidguttman.github.com/easy-ears/
+* https://twitter.com/davidguttman
 
