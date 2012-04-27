@@ -169,8 +169,8 @@ Assets
 
 ----
 
-Optimizing your code for the V8 compiler
-================================================
+Visualizing Sound
+=================
 
 * By David Guttman
 * Visualizing music in realtime
