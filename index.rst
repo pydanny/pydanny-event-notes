@@ -14,6 +14,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   JSLA/index
    Pycon2012/index
    SCALE10x/index
    mongodbla2012/index
