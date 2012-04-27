@@ -191,7 +191,7 @@ Fundamentals
 Sample
 ------
 
-.. sourcecode:: javascript::
+.. sourcecode:: javascript
 
     ears.updateAudio(0.5);
 
@@ -206,7 +206,7 @@ Sample
     
 With colors
     
-.. sourcecode:: javascript::
+.. sourcecode:: javascript
 
     ears.updateAudio(0.5);
 
