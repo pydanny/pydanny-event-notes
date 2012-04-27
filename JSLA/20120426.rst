@@ -92,6 +92,28 @@ Routing
 * Calls in entry in specs or an "anonymous" mojit
 * Can build URLs from routes using the url addon
 
+.. sourcecode:: javascript
+
+    [{
+        "settings": [ "master" ],
+        "conf": {
+          "verbs": ["get"],
+          "path": "/conf",
+          "call": "conf.index"
+        },
+        "preso": {
+          "verbs": ["get"],
+          "path": "/slides/:slide",
+          "regex": {"slide": "[0-9]*"},
+          "call": "preso.index"
+        },
+        "home": {
+          "verbs": ["get"],
+          "path": "/",
+          "call": "weather.index"
+        }
+    }]
+
 App configuration
 ------------------
 
