@@ -16,3 +16,4 @@ Pycon 2010
    neo4j
    underwater-robots
    using-django-in-non-standard-ways
+   django-internationalization
