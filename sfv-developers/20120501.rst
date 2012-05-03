@@ -9,6 +9,7 @@ spire.io stack
 
 * By Jason Campbell, http://twitter.com/jxson
 * One of the guys at http://spire.io
+* Details at http://www.spire.io/posts/our-architecture.html
 
 Stack:
 
