@@ -104,11 +104,11 @@ Example
     def hello_world(request):
         return Response('Hello, World!')
         
-    if __name__=='__main__':
+    if __name__ == '__main__':
         config = Configurator()
         config.add_view(hello_world)
         app = config.make_wsgi_app()
-        serve(app, host=127.0.0.1)
+        serve(app, host='127.0.0.1')
 
 .. note:: Finish rest of sample app
 
