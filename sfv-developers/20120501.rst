@@ -24,3 +24,21 @@ Django and MongoDB: The State of Things
 
 * By myself
 * Slides forthcoming
+
+Bringing down the system using Python to save lives
+======================================================
+
+* By Randall Degges
+
+The issue
+----------
+
+* Syrian Uprising
+* Military killing civilians
+
+What can I do to help?
+------------------------------
+
+* Shut down military communications!
+
+BUT HOW?!?
