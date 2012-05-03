@@ -66,6 +66,7 @@ Why Pyramid?
 * By Michael R
 * CTO of http://cars.com
 * Known on IRC as 'goodwill'
+* Organized the PyCon Web Summit
 
 Very flexible
 --------------
