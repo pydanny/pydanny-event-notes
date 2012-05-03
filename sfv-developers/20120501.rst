@@ -65,6 +65,7 @@ Why Pyramid?
 
 * By Michael R
 * CTO of http://cars.com
+* Known on IRC as 'goodwill'
 
 Very flexible
 --------------
