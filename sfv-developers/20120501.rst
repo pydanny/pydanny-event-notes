@@ -25,6 +25,8 @@ Django and MongoDB: The State of Things
 * By myself
 * Slides forthcoming
 
+----
+
 Bringing down the system using Python to save lives
 ======================================================
 
@@ -56,3 +58,55 @@ Using Voip to save lives
 * Use Asterisk and pycall to make millions calls
 * just a few bytes to make the call
 
+----
+
+Why Pyramid?
+===============
+
+By Michael R
+
+Very flexible
+--------------
+
+* Any template engine
+* Any ORM or ODM
+
+Support
+---------
+
+* Fast, 100% test coverage, well-documented
+* Open source with strong community support
+* Pay for what you get
+
+What Pyramid doesn't do
+-------------------------
+
+* Make choices for you
+* No assumptions about the structure of your application
+
+Features
+--------
+
+* Creates a WSGI-compliant application
+* Handles HTTP requests and responses
+* views, requests, and more
+* Awesome t-shirt
+
+Example
+--------
+
+.. sourcecode:: python
+
+    from paste.httpserver import serve
+    from pyramid.config import Configurator
+    from pyramid.response import Response
+    
+    def heello_world(request):
+        return Response(...)
+        
+.. note:: Finish rest of sample app
+
+Questions
+-----------
+
+* How stack pieces should you choose
