@@ -42,3 +42,17 @@ What can I do to help?
 * Shut down military communications!
 
 BUT HOW?!?
+
+F@#$ the government!
+----------------------
+
+* Syrian military monitoring civilian communications then dropping bombs
+* How to protect people fighting a terrible regime?
+* Shut down the system!
+
+Using Voip to save lives
+---------------------------------
+
+* Use Asterisk and pycall to make millions calls
+* just a few bytes to make the call
+
