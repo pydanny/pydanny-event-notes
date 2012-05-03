@@ -124,6 +124,8 @@ Boilerplate available
 * Scaffolding (see http://pyramid.opencomparison.org/categories/application-scaffolding/)
 * FormAlchemy can do roughly what Django admin
 
+----
+
 Heartshark
 ===========
 
