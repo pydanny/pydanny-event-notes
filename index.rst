@@ -14,7 +14,6 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
-   JSLA/index
    Pycon2012/index
    SCALE10x/index
    mongodbla2012/index
@@ -40,6 +39,8 @@ Meetups
 .. toctree::
    :maxdepth: 1
 
+   sfv-developers/index
+   JSLA/index
    socalpiggies/index
    PyLadies/index
    LADjango/index

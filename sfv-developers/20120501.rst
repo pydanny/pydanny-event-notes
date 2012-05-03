@@ -1,0 +1,26 @@
+==============
+May 1, 2012
+==============
+
+.. note:: I co-organized the event and gave a talk!
+
+spire.io stack
+==============
+
+* By Jason Campbell, http://twitter.com/jxson
+* One of the guys at http://spire.io
+
+Stack:
+
+* node.js
+* coffeescript.js
+* reddis
+* rails
+
+----
+    
+Django and MongoDB: The State of Things
+========================================
+
+* By myself
+* Slides forthcoming
