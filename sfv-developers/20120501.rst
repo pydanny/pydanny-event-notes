@@ -95,6 +95,7 @@ Features
 * Handles HTTP requests and responses
 * views, requests, and more
 * Awesome t-shirt
+* Works with gevent for asynchronous behavior
 
 Example
 --------
@@ -123,7 +124,16 @@ Boilerplate available
 * Scaffolding (see http://pyramid.opencomparison.org/categories/application-scaffolding/)
 * FormAlchemy can do roughly what Django admin
 
-Questions
------------
+Heartshark
+===========
 
-* Asynchronous?
+by Daniel Stewart
+
+* https://github/heartshark
+
+Plan
+-----
+
+* A tool to help you make up for lost meetups. 
+* People list people they saw on craigslist.
+* Parses the craiglist data to figure out where, when, and other details.
