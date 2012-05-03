@@ -120,7 +120,7 @@ Boilerplate available
 -----------------------------
 
 * Libraries
-* Scaffolding
+* Scaffolding (see http://pyramid.opencomparison.org/categories/application-scaffolding/)
 
 Questions
 -----------
