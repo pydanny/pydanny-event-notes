@@ -63,7 +63,8 @@ Using Voip to save lives
 Why Pyramid?
 ===============
 
-By Michael R
+* By Michael R
+* CTO of http://cars.com
 
 Very flexible
 --------------
