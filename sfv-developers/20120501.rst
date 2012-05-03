@@ -121,8 +121,9 @@ Boilerplate available
 
 * Libraries
 * Scaffolding (see http://pyramid.opencomparison.org/categories/application-scaffolding/)
+* FormAlchemy can do roughly what Django admin
 
 Questions
 -----------
 
-* Asynchronous
+* Asynchronous?
