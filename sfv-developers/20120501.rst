@@ -15,7 +15,7 @@ Stack:
 * node.js
 * coffeescript.js
 * reddis
-* Ruby
+* Ruby (actually jruby)
 
 ----
     
