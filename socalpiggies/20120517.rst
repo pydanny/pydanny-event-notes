@@ -59,3 +59,17 @@ The ``fabric`` command for deployments now can:
     * Run common global deployment code once
     * Run common deployment code across all servers in parallel
     * Update the load balancer
+
+Building Role Lists
+--------------------
+
+* Create lists of each server type using instance_type metadata and instance state
+* Add ssh username and port
+* Cache results to speed repeated calls
+
+Scaling Web Servers
+---------------------
+
+* Can't use EC2 Elastic Cloud Service because of metrics
+* Will often know in advance when load spikes will occur
+* Want to make adding and removing capacity very easy
