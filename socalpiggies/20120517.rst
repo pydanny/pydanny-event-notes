@@ -41,4 +41,11 @@ This will:
 Instance Types
 -----------------
 
-EC2 Instance Types and AMIs are configured using the 
+EC2 Instance Types and AMIs are configured using the... (lost the slide content here)
+
+Control Server
+----------------
+
+* "Master" server for running other servers and tracking state.
+* Issue: Another system to maintain
+* Very good at getting out of sync with running systems.
