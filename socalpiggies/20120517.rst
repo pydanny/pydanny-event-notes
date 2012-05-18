@@ -73,3 +73,11 @@ Scaling Web Servers
 * Can't use EC2 Elastic Cloud Service because of metrics
 * Will often know in advance when load spikes will occur
 * Want to make adding and removing capacity very easy
+
+Load balancing
+----------------
+
+* Site stack deployed to all active web servers
+* New active servers added to load balancer, DNS updated
+* Inactive servers removed from load balancer
+* When servers inactivated, also removed
