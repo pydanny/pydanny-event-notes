@@ -25,7 +25,7 @@ Basics
 Starting instances
 --------------------
 
-.. parsed-literal::
+Let's start a backup database server::
 
     $start_instance web web99
     
