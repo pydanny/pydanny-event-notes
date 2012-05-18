@@ -12,6 +12,8 @@ Amazonian Fabric
 * Just migrated a shop off of custom virtualization to EC2.
 * See http://www.memrise.com/dev/
 
+.. note:: Good talk about patterns and techniques but I'm having trouble keeping up with switching to slides and code non-stop.
+
 Basics
 --------
 
