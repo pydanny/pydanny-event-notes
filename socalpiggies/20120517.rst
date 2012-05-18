@@ -36,3 +36,7 @@ This will:
     * Install MySQL 5.5 from source
     * Install our custom .cnf
     
+Instance Types
+-----------------
+
+EC2 Instance Types and AMIs are configured using the 
