@@ -10,7 +10,7 @@ Amazonian Fabric
 * https://twitter.com/tunixman
 * Hangs out in Glendale while waiting to go back to the UK.
 * Just migrated a shop off of custom virtualization to EC2.
-
+* See http://www.memrise.com/dev/
 
 Basics
 --------
@@ -35,3 +35,4 @@ This will:
     * Give it the host name db10.memrise.com
     * Install MySQL 5.5 from source
     * Install our custom .cnf
+    
