@@ -9,6 +9,7 @@ Amazonian Fabric
 * Evan Cofsky
 * https://twitter.com/tunixman
 * Hangs out in Glendale while waiting to go back to the UK.
+* Just migrated a shop off of custom virtualization to EC2.
 
 
 Basics
@@ -19,3 +20,18 @@ Basics
     * Wanted to be up and running quickly.
     * Wasn't familiar with Chef, Puppet, or even cfengine.
     * Was very familiar with sysadmin, Python, boto, and EC2
+
+
+Starting instances
+--------------------
+
+.. parsed-literal::
+
+    $start_instance web web99
+    
+This will:
+
+    * Create new instance of the "database" type
+    * Give it the host name db10.memrise.com
+    * Install MySQL 5.5 from source
+    * Install our custom .cnf
