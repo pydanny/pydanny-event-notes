@@ -49,3 +49,13 @@ Control Server
 * "Master" server for running other servers and tracking state.
 * Issue: Another system to maintain
 * Very good at getting out of sync with running systems.
+
+Deployment in Parallel
+-----------------------
+
+The ``fabric`` command for deployments now can:
+
+    * Fund the host types that should be deployed to
+    * Run common global deployment code once
+    * Run common deployment code across all servers in parallel
+    * Update the load balancer
