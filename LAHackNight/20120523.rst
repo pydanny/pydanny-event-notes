@@ -28,7 +28,8 @@ Load testing
 =============
 
 * Can handle HN and Tech Crunch swamping.
-* 10K requests per second
+* 10K requests per second, which will dwarf anything HN or Tech Crunch can do.
+* Currently they manually spin up servers. They are working on automation.
 
 Current APIs
 ==============
