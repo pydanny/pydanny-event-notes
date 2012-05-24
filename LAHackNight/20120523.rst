@@ -61,4 +61,5 @@ Spire.io is Scalable
 Simple app demo
 ================
 
-* https://github.com/spire-io/hacknight-note-app
+* Code: https://github.com/spire-io/hacknight-note-app
+* Demo: http://iriecycle.net/hacknight/
