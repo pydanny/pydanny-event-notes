@@ -29,3 +29,16 @@ Load testing
 * Can handle HN and Tech Crunch swamping.
 * 10K requests per second
 
+Current APIs
+==============
+
+* Identity
+
+    * Create and authenticate users
+    
+* Messaging 
+
+    * Send messages to thousands of clients in real-time
+
+* Data (coming soon)
+
