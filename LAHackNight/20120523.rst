@@ -66,3 +66,9 @@ Simple app demo
 
 * Code: https://github.com/spire-io/hacknight-note-app
 * Demo: http://iriecycle.net/hacknight/
+
+Spire.io uses CORS
+====================
+
+* Like JSONP but better
+* See http://en.wikipedia.org/wiki/Cross-origin_resource_sharing
