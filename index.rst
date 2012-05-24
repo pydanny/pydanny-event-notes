@@ -44,7 +44,7 @@ Meetups
    socalpiggies/index
    PyLadies/index
    LADjango/index
-
+   LAHackNight/index
    
 Articles
 ========
