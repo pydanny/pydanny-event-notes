@@ -6,7 +6,7 @@ May 23, 2012 LA Hack Night
 * Meetup: http://www.meetup.com/Los-Angeles-Hack-Night/events/60609452/
 * Slides: https://github.com/spire-io/hacknight-note-app
 
-.. note:: I like the spire.io guys but I'm going to do my best to pierce the marketing hype tonight and see what they are really doing.
+.. warning:: I like the spire.io guys but I'm going to do my best to pierce the marketing hype tonight and see what they are really doing.
 
 What is Serverless?
 ====================
@@ -18,3 +18,4 @@ What is Serverless?
     * They handle messaging.
     * They handle load balancing and scaling.
     * You don't have to worry about choosing databases.
+
