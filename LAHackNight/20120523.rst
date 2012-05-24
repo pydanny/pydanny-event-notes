@@ -7,7 +7,7 @@ May 23, 2012 LA Hack Night
 
 .. warning:: I like the spire.io guys but I'm going to do my best to pierce the marketing hype tonight and see what they are really doing.
 
-.. note:: Presentation should have been done off of a projector, not a monitor.
+.. note:: Presentation was given on a monitor. Should have been done off of a projector.
 
 What is Serverless?
 ====================
