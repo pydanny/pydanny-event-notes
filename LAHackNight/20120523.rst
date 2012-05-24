@@ -7,3 +7,14 @@ May 23, 2012 LA Hack Night
 * Slides: https://github.com/spire-io/hacknight-note-app
 
 .. note:: I like the spire.io guys but I'm going to do my best to pierce the marketing hype tonight and see what they are really doing.
+
+What is Serverless
+====================
+
+* You can just write HTML and CSS and they do the rest.
+
+    * They handle users.
+    * They handle authentication and authorization.
+    * They handle messaging.
+    * They handle load balancing and scaling.
+    * You don't have to worry about choosing databases.
