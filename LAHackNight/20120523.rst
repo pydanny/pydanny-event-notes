@@ -42,7 +42,9 @@ Current APIs
 
 * Data (coming soon)
 
-Identity
-=========
+Spire.io is Secure
+===================
 
-bah abah
+* Capability security (priniciple of least priviledge)
+* All traffic in HTTPS
+* No need to put password or secret in your client side code
