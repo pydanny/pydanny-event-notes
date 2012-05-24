@@ -4,7 +4,6 @@ May 23, 2012 LA Hack Night
 
 * Location: http://spire.io HQ
 * Meetup: http://www.meetup.com/Los-Angeles-Hack-Night/events/60609452/
-* Slides: https://github.com/spire-io/hacknight-note-app
 
 .. warning:: I like the spire.io guys but I'm going to do my best to pierce the marketing hype tonight and see what they are really doing.
 
@@ -48,3 +47,18 @@ Spire.io is Secure
 * Capability security (priniciple of least priviledge)
 * All traffic in HTTPS
 * No need to put password or secret in your client side code
+
+Spire.io is Scalable
+=====================
+
+* Distributed architecture
+* Built with Node.js, Redis, and JRuby
+
+    * Node.js for dispatch handling
+    * Redis for speed
+    * JRuby for spinning off of tasks
+
+Simple app demo
+================
+
+* https://github.com/spire-io/hacknight-note-app
