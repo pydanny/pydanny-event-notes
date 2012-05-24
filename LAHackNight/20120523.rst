@@ -19,3 +19,13 @@ What is Serverless?
     * They handle load balancing and scaling.
     * You don't have to worry about choosing databases.
 
+* Fast prototyping
+* Scalable
+* Secure (security is not an afterthought)
+
+Load testing
+=============
+
+* Can handle HN and Tech Crunch swamping.
+* 10K requests per second
+
