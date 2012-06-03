@@ -6,6 +6,8 @@ DjangoCon EU 2012
    :maxdepth: 2
    
    keynotes
+   10-steps-to-better-postgresql-performance
+   class-based-generic-views-patterns-and-anti-patterns
    
 General Notes
 --------------
