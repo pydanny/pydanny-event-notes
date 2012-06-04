@@ -8,6 +8,8 @@
 * Django for 4 years
 * Not going to explain why things work great, just will provide good options. Ask him later for details
 
+.. note:: Christophe talks super fast and I can't keep up
+
 PostgreSQL features
 ====================
 
