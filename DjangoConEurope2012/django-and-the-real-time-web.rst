@@ -32,3 +32,17 @@ MVC
 * Parc 1978-1979
 * Originally part of Smalltalk-80
 * Now the dominant UI design pattern
+
+How it works on the web:
+
+* Listen for reqursts
+
+    * Load session state for this user
+    * Persist session state, clean up objects
+
+REST
+----
+
+* **RE**presentational **S**tate **T**ransfer
+* Roy T Fielding (2000)
+* Descriptive, not prescriptive
