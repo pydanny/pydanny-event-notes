@@ -119,3 +119,10 @@ Spatial databases
 * Knowledge of projections useful
 * Spatial indexes really speed up some problems
 * Generally add-on to existing DB
+
+Filesystems
+============
+
+* Hierarchal key-value store
+* Allows multiple writers for appends
+* Supports very large files
