@@ -53,6 +53,10 @@ Sphinx is awesome::
 
     .. code-block:: html+django
         
-Useful Sphinx stuff:
+Useful Sphinx stuff for authentication-protected static files:
 
     * **static**: http://lukearno.com/projects/static
+    * **barrel**: http://lukearno.com/projects/barrel    
+    
+
+    
