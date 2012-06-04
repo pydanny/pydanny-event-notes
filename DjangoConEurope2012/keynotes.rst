@@ -106,7 +106,7 @@ Criticism
         
 Can we do this in Django?
     
-.. code-block:: python
+.. code-block:: python+django
 
     url('people/1/', person_detail)
     
