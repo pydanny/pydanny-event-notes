@@ -109,8 +109,6 @@ Trusting the Browser
 * The browser is under the user's control
 * Which means you cannot trust anything that the user is doing
 
-QUESTION: How do we reconcile the dangers of the Zach's container MVC views of Backbone.js and Meteor and more with what Erik is talking about?
-
 Be careful with ModelForms
 ==============================
 
