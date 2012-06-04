@@ -24,3 +24,7 @@ Three Areas
 How cookies and sessions work
 ==============================
 
+.. parsed-literal::
+
+    Set-cookie: name: value
+    Cookie: name=value
