@@ -65,3 +65,8 @@ State of Django Talk
 
 * Django is doing very well
 * Each release has more and more incredible stuff added.
+* "Always feels like we are not moving as fast as we should, but when you look at what's been accomplished it's amazing. Especially since forward compatibility has been pretty well maintained."
+* Django 1.5 should give us
+
+    * Python 3 support
+    * Composite keys
