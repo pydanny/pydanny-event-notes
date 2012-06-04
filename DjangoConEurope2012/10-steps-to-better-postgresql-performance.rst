@@ -6,6 +6,7 @@
 * PostgreSQL guy
 * Done PostgreSQL for over 10 years
 * Django for 4 years
+* Not going to explain why things work great, just will provide good options. Ask him later for details
 
 PostgreSQL features
 ====================
@@ -20,3 +21,12 @@ PostgreSQL negatives
  * Configuration is hard
  * Installation is hard on anything but Linux
  * Not NoSQL
+ 
+Logging
+========
+
+* Be generous with logging; it's very low-impact on the system
+* Locations for logs
+
+    * syslog
+    * standard format to files
