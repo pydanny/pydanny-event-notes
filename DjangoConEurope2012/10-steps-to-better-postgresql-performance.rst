@@ -2,6 +2,11 @@
 10 Steps to better postgresql performance
 =========================================
 
+* Christophe Pettus
+* PostgreSQL guy
+* Done PostgreSQL for over 10 years
+* Django for 4 years
+
 PostgreSQL features
 ====================
 
