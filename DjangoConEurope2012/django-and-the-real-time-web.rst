@@ -122,3 +122,4 @@ Barriers
     * This is a good use case for Django CBVs
 
 * JavaScript
+* proxies and middleware
