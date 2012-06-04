@@ -154,3 +154,18 @@ Backups
 * Run backups
 * If you don't have backups, who owns your stuff?
 * Test your restores!
+
+Introducing PLY
+================
+
+* PLY is an implementation of lex and yacc for Python
+* Made by David Beazley
+* http://www.dabeaz.com/ply/
+* Naming conventions and introspection => very "economic" code
+
+Let's us compile things like::
+
+    groups name="XXX" AND NOT groups__name="YYY"
+    (modified > 1/4/2011 OR NOT state__name="OK") AND groups__name=="XXX"
+    
+into ``django.db.models.Q`` objects
