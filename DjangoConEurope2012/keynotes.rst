@@ -104,7 +104,7 @@ Criticism
         });
     });
         
-    * Can we do this in Django?
+Can we do this in Django?
     
 .. code-block:: python+django
 
