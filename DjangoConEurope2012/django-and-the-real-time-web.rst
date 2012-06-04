@@ -110,3 +110,8 @@ Pub/Sub
 * AMQP
 * 0MQ
 * Django Signals
+
+Barriers
+----------
+
+* Django ORM - be opinionated!

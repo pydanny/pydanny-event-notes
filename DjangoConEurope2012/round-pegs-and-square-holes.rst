@@ -6,6 +6,7 @@ Round pegs for square holes - using mongoDB with Django
 * Audrey Roy and Daniel Greefeld
 * Cartweel people
 * Using mongoDB with Django
+* Taken by @chrisglass
 
 .. note:: Hard to keep up here
 
