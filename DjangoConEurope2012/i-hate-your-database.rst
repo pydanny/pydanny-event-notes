@@ -126,3 +126,21 @@ Filesystems
 * Hierarchal key-value store
 * Allows multiple writers for appends
 * Supports very large files
+
+Graph Databases
+=================
+
+* Allow efficient neighbor queries
+* Generally not much use for anything else
+
+Round-Robin Database
+======================
+
+* Deliberately loses old data
+* Useful for logging or statistics
+
+Summary
+========
+
+* It's unlikely your data all fits in one paradigm
+* Just buying bigger servers goes a long way to overcoming shortcomings of a particular database
