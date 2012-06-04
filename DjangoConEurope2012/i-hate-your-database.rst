@@ -92,3 +92,12 @@ PostgreSQL
 * Can be a little harder to learn
 * Almost too many features
 * Incredibly reliable
+
+MongoDB
+=======
+
+* No fixed schema
+* Very similar to Python types
+* Immature (but improving)
+* No transactons
+* No integrity checking
