@@ -23,7 +23,7 @@ Zachary's definition of Real-Time
 * Proactive, not reactive
 * Synchronized with the 'real world'.
 
-Three Stories
+Stories
 ==============
 
 MVC
@@ -62,3 +62,11 @@ WebSockets
 * Magic HTTP request to port 80
 * Reduces latency
 * Enables real-time push
+
+REST & WebSockets
+-------------------
+
+* Full-duplex communication
+* Long-running connections
+* Direct TCP connection
+* TODO missed
