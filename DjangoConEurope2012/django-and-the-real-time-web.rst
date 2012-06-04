@@ -4,6 +4,8 @@ Django and the Real-Time Web
 
 * by Zachary Voase
 
+.. note:: Very thoughtful talk. Zachary scored some very critical points.
+
 WWW: Changelog
 ===============
 
