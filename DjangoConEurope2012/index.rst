@@ -12,6 +12,7 @@ DjangoCon Europe 2012
    class-based-generic-views-patterns-and-anti-patterns
    django-and-the-real-time-web
    building-secure-django-websites
+   implementing-DSLs-in-django-apps
    
    
 General Notes
