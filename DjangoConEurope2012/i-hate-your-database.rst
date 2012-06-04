@@ -101,3 +101,12 @@ MongoDB
 * Immature (but improving)
 * No transactons
 * No integrity checking
+
+Key/value stores
+==================
+
+* Horizontal scaling (but with drawbacks)
+* Extremely fast
+* Can only fetch objects by key
+* Batch/map-reduce queries
+* Transactions not possible
