@@ -84,3 +84,11 @@ SQLite
 * No concurrent access
 * Low overhead
 * Very portable
+
+PostgreSQL
+===========
+
+* Slow default configuration
+* Can be a little harder to learn
+* Almost too many features
+* Incredibly reliable
