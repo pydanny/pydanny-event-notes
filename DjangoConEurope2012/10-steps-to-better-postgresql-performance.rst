@@ -127,4 +127,27 @@ Indexing
 Vacuuming
 ----------
 
-blah
+* autovacuum slowing the system down?
+
+    * increase autovacuum_vacuum_cost_limit in small increments
+    
+* Or if the load is periodic
+
+    * Do manual VACUUMing instead at low-low times
+    * You **must** VACUUM on a regular basis
+    
+* Analyze your vacuum
+
+    * Collect statistics on the data to help the planner choose a good plan
+    * Done automatically as part of autovacuum
+    
+On-going maintenance
+======================
+
+keeping it running
+
+monitoring
+-------------
+
+* Keep track of disk space and system load
+* memory and I/O utilization is very handy
