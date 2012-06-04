@@ -46,3 +46,19 @@ REST
 * **RE**presentational **S**tate **T**ransfer
 * Roy T Fielding (2000)
 * Descriptive, not prescriptive
+* Constraints
+
+    * Client-server
+    * Stateless
+    * Cacheable
+    * Layered
+    * Code-on-demand (optional)
+    * Uniform
+    
+WebSockets
+-----------
+
+* Real TCP connection
+* Magic HTTP request to port 80
+* Reduces latency
+* Enables real-time push
