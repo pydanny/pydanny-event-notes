@@ -58,3 +58,9 @@ Some quick theory
     * **C**onsistency
     * **I**solation
     * **D**urability
+    
+* CAP Theorem (you can only have 2 of the 3 of them)
+
+    * **C**onsistency
+    * **A**vailability
+    * **P**artition Tolerance
