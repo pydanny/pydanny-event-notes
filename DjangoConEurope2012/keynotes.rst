@@ -70,3 +70,9 @@ State of Django Talk
 
     * Python 3 support
     * Composite keys
+    
+Celebration
+-----------
+
+* This year has seen a ridiculous amount of adoption for Django.
+* There is no longer an industry where Django does not exist.
