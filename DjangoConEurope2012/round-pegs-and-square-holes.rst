@@ -1,6 +1,6 @@
-======================================================
-Round pegs for sqare holes - using mongoDB with Django
-======================================================
+=======================================================
+Round pegs for square holes - using mongoDB with Django
+=======================================================
 
 
 * Audrey Roy and Daniel Greefeld
