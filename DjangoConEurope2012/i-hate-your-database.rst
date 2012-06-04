@@ -6,5 +6,13 @@ by Andrew Godwin
 
     * Lead developer for South http://south.aeracode.org/
     * Cheese fan
+    * http://twitter.com/andrewgodwin
+    
+Hate? Databases?
+==================
 
-waiting...
+Countering
+
+* Misuse
+* Ignorance
+* Lies
