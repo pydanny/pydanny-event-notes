@@ -30,3 +30,10 @@ Logging
 
     * syslog
     * standard format to files
+    * Just paste the following:
+    
+.. parsed-literal::
+
+    log_destination = 'csvlog'
+    log_directory = 'pg_log'
+    TODO - get rest from Christophe
