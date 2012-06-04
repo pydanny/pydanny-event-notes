@@ -111,3 +111,25 @@ Trusting the Browser
 
 QUESTION: How do we reconcile the dangers of the Zach's container MVC views of Backbone.js and Meteor and more with what Erik is talking about?
 
+Be careful with ModelForms
+==============================
+
+Don't use the `exclude` Meta attribute in ModelForms!
+
+.. code-block:: python
+
+    class Profile(models.Model):
+        user = ForeignKey(User)
+        phone = models.CharField()
+        is_admin = BooleanField() # added later
+        
+    class ProfileForm(ModelForm):
+        model = Profile
+        exclude = ('user', )
+        
+.. code-block:: django
+
+    <form>
+        {{ form.non_field_errors }}
+        Phone: {{ form.phone }}
+    </form>
