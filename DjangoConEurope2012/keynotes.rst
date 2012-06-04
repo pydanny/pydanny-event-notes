@@ -39,7 +39,7 @@ Se he's going to do:
 --------------------
 
 * Technical
-* State of
+* State of...
 * Celebration
 * Criticism
 * Inspirational
@@ -58,5 +58,10 @@ Useful Sphinx stuff for authentication-protected static files:
     * **static**: http://lukearno.com/projects/static
     * **barrel**: http://lukearno.com/projects/barrel    
     
+These sorts of integrated components are an incredible indicator of some of the awesomeness of Python
 
-    
+State of Django Talk
+---------------------
+
+* Django is doing very well
+* Each release has more and more incredible stuff added.
