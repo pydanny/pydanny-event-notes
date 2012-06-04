@@ -79,3 +79,16 @@ Parser - The Grammar
     value : STRING
         | NUMBER
         | DATE
+        
+Parser in PLY
+==============
+
+* Grammar rules go into docstrings
+* Special argument p corresponds to rule parts
+
+.. code-block:: python
+
+    def p_expression_u_op(p):
+        '''expression : U_OP expression'''
+        if p[1] == 'NOT':
+            p[0] = p[1]
