@@ -91,5 +91,6 @@ Criticism
     
 * Real-time 
 
-    * State of the art: parallel MVC stacks
-    * Mentioned Meteor framework as state of the art
+    * State of the art: parallel MVC stacks.
+    * Mentioned Meteor framework as state of the art.
+    * You are fooling yourself if you don't realize that Meteor style systems are not the future of web development.
