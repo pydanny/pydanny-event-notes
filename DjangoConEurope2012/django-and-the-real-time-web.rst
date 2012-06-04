@@ -115,3 +115,10 @@ Barriers
 ----------
 
 * Django ORM - be opinionated!
+* Content Negotiation
+
+    * Don't have a separate API app
+    * Created separately from the standard architecture
+    * This is a good use case for Django CBVs
+
+* JavaScript
