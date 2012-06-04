@@ -42,3 +42,28 @@ How to make a DSL in Python/Django
 * The lexer and parser part are quite generic
 
     * use code generator
+    
+Sample
+=======
+
+.. code-block:: python
+
+    import ply.lex as lex
+    
+    tokens = (
+        'COMPA', # comparison operator
+        'STRING',
+        'NUMBER'
+    )
+    
+    t_COMPA = r'=|[<>]=?|~~?'
+    
+    literals = '()'  # shortcut for 1-character functions 
+    
+    def t_STRING(t):
+        r'"[^"]*"'
+        t.value = t.value[1:-1]
+    
+    def t_NUMBER(t):
+        r'\d+'
+        # TODO
