@@ -45,7 +45,7 @@ If you can access the session of another user, you can impersonate the other use
 Cross Site Request Forging
 ---------------------------
 
-* Fortunately for us, if you use POST, Django by default has CSRF protection enabled via:
+Fortunately for us, if you use POST, Django by default has CSRF protection enabled via:
 
 .. code-block:: django
 
@@ -53,3 +53,12 @@ Cross Site Request Forging
         {% csrf_token %}
         ....
     </form>    
+
+XSS Injection
+==============
+
+Injecting HTML or JavaScript into things like field data
+
+.. code-block:: html
+
+    <p>Injecting issues <script>alert("I'm a JavaScript injection!");</script></p>
