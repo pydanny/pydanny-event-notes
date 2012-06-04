@@ -154,10 +154,21 @@ monitoring
 * 1 minute bnts
 * check_posgres.pl at bucardo.org
 
+Backups
+---------
+
 pg_dump
---------
+~~~~~~~~
 
 * Easiest backup tool for PostgreSQL
 * Low impact on a running database
 * Makes a copy of the database
 * becomes impractical for large databases
+
+Streaming replication
+~~~~~~~~~~~~~~~~~~~~~
+
+* Best solution for large databases
+* Easy to set up
+* Maintains an exact logical copy of the database on a different host
+* Does not guard against application-level failures, however
