@@ -133,3 +133,11 @@ Don't use the `exclude` Meta attribute in ModelForms!
         {{ form.non_field_errors }}
         Phone: {{ form.phone }}
     </form>
+
+Passwords and SSL
+==================
+
+* Don't use plaintext passwords
+* Limit the number of attempts (django-axes, django-lockout)
+* If you use logins, use SSL
+* If you use SSL, look at django-secure
