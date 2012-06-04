@@ -32,3 +32,29 @@ Different Databases, different occasions
     * Spatial
     * Time-series / RRD
     * Search
+
+* Relational
+
+    * PostgreSQL
+    * MySQL
+    * SQLite
+
+* Document
+
+    * MongoDB
+    * CouchDB
+    
+* Key-value
+
+    * Redis
+    * Riak
+    
+Some quick theory
+==================
+
+* ACID
+
+    * Atomicity
+    * Consistency
+    * Isolation
+    * Durability
