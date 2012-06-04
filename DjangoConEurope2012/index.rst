@@ -1,5 +1,5 @@
 ========================
-DjangoCon EU 2012
+DjangoCon Europe 2012
 ========================
 
 .. toctree::
