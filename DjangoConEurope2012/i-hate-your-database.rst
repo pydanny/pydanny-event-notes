@@ -112,3 +112,10 @@ Redis, Riak, memcached
 * Can only fetch objects by key
 * Batch/map-reduce queries
 * Transactions not possible
+
+Spatial databases
+==================
+
+* Knowledge of projections useful
+* Spatial indexes really speed up some problems
+* Generally add-on to existing DB
