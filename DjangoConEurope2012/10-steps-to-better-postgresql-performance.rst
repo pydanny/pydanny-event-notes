@@ -95,3 +95,4 @@ Stupid Database Tricks, I
 * Don't put the task queues in the database
 * Don't use the database as a filesystem
 * Don't use frequently-locked singleton records
+* Very long-running transactions
