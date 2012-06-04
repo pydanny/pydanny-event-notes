@@ -151,3 +151,13 @@ monitoring
 
 * Keep track of disk space and system load
 * memory and I/O utilization is very handy
+* 1 minute bnts
+* check_posgres.pl at bucardo.org
+
+pg_dump
+--------
+
+* Easiest backup tool for PostgreSQL
+* Low impact on a running database
+* Makes a copy of the database
+* becomes impractical for large databases
