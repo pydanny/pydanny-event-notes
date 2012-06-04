@@ -173,3 +173,34 @@ Streaming replication
 * Maintains an exact logical copy of the database on a different host
 * Does not guard against application-level failures, however
 * Can be used for read-only queries
+* if you are getting query cancellations then bump up a config
+* Is all-or-nothing
+* If you need partial replication, you need to use Slony or Bucardo
+
+    * warning: partial replication is a full-time effort
+    
+WAL Archiving
+~~~~~~~~~~~~~~
+
+* Maintains a set of base backups and WAL segments on a remote server
+* Can be used for point-in-time recovery in case of an application (or DBA) failure
+* Slightly more complex to set up
+
+Encodings
+----------
+
+* Character encoding is fixed in a database when created
+* The defaults are not what you want
+* Use UTF-8 encoding
+
+
+Migrations
+-----------
+
+* All modifications to a table take an exclusive lock on that table while the modification is being done.
+* If you add a column with a default value, the table will be rewritten
+* Migrating a big table
+
+    * Create the column as NOT NULL
+    * Add constraint later once field is populated
+    * .. note:: I've done this a lot.
