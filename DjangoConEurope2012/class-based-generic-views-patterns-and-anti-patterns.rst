@@ -5,6 +5,8 @@ Class-based Generic Views: patterns and anti-patterns
 * BY BRUNO RENIÉ
 * CBVs added in Django 1.3
 
+.. note:: couldn't keep up with his code samples
+
 Controversy
 ============
 
@@ -94,3 +96,15 @@ Pagination
 -----------
 
 # TODO - get example
+
+Registration
+--------------
+
+.. code-block:: python
+
+    from le_social.registration import views
+    
+    class Register(views.Register):
+        form_class = blah
+        
+    # TODO get example
