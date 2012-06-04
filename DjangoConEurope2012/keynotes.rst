@@ -13,8 +13,21 @@ Jacob Kaplan-Moss
 * Keynotes are hard.
 * Researched to find different types of keynotes
 
-    * Announcements (Steve Jobs style)
-    * Technical Tour-de-force (David Beasley style - check out his PyCon 2012 keynote on YouTube)
-    * State of... (West Wing style - make it dramatic)
+    * Announcements
+    
+        * Steve Jobs
+    * Technical Tour-de-force
+    
+        * David Beasley style
+        
+    * State of...
+    
+        * West Wing style
+        * Make it dramatic
+        
     * Celebration
     * (Constructive) Criticism
+    * Inspiration
+    
+        * Neil Gaiman
+        * Adam Savage
