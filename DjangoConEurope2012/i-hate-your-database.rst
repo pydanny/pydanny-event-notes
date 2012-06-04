@@ -54,7 +54,7 @@ Some quick theory
 
 * ACID
 
-    * Atomicity
-    * Consistency
-    * Isolation
-    * Durability
+    * **A**tomicity
+    * **C**onsistency
+    * **I**solation
+    * **D**urability
