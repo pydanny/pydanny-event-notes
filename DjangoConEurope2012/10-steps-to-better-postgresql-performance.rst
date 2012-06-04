@@ -177,7 +177,7 @@ Streaming replication
 * Is all-or-nothing
 * If you need partial replication, you need to use Slony or Bucardo
 
-    * warning: partial replication is a full-time effort
+    * ..warning:: partial replication is a full-time effort
     
 WAL Archiving
 ~~~~~~~~~~~~~~
