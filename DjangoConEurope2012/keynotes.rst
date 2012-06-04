@@ -90,3 +90,6 @@ Criticism
     * Bruno's floppyforms handles the form elements for you: see http://django-floppyforms.rtfd.org/
     
 * Real-time 
+
+    * State of the art: parallel MVC stacks
+    * Mentioned Meteor framework as state of the art
