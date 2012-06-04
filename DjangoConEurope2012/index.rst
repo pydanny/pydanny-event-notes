@@ -13,6 +13,7 @@ DjangoCon Europe 2012
    django-and-the-real-time-web
    building-secure-django-websites
    implementing-DSLs-in-django-apps
+   i-hate-your-database
    
    
 General Notes
