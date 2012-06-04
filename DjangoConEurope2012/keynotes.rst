@@ -27,6 +27,9 @@ Jacob Kaplan-Moss
         
     * Celebration
     * (Constructive) Criticism
+    
+        * Cal Henderson's 2008 DjangoCon talk
+    
     * Inspiration
     
         * Neil Gaiman
@@ -44,4 +47,10 @@ Se he's going to do:
 Technical Talk
 -----------------
 
-blah blah
+.. note:: @jacobian pointed me out and embarrassed me so I didn't finish copying out his sphinx example.
+
+Sphinx is awesome::
+
+    .. code-block:: html+django
+        
+
