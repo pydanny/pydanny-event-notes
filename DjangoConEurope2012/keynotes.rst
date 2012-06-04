@@ -31,3 +31,17 @@ Jacob Kaplan-Moss
     
         * Neil Gaiman
         * Adam Savage
+        
+Se he's going to do:
+--------------------
+
+* Technical
+* State of
+* Celebration
+* Criticism
+* Inspirational
+
+Technical Talk
+-----------------
+
+blah blah
