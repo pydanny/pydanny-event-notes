@@ -123,3 +123,9 @@ Jacob's uncle, a lawyer asks: "But if you give it away, how will you make money?
 
 * By giving it away, people have made a ton of money with Django
 * Jacob is doing quite well
+
+Summary
+----------
+
+* Huge community
+* Can now get really crazy with Django
