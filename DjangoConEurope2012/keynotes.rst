@@ -53,4 +53,6 @@ Sphinx is awesome::
 
     .. code-block:: html+django
         
+Useful Sphinx stuff:
 
+    * **static**: http://lukearno.com/projects/static
