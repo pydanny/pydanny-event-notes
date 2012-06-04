@@ -110,8 +110,8 @@ Criticism
 
     url('people/1/', person_detail)
     
-    def person_detail(request):
-        ...
+    def person_detail(request, pk):
+        ctx['person'] = get_object_or_404(Person, pk=pk)
         return (request, template, ctx)
         
     {{ person.first_name }}
