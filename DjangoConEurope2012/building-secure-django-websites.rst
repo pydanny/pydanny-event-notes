@@ -74,3 +74,10 @@ Reflected vs. Stored XSS
 * Other possibility is stored XSS
 
     * Store some data which is later sent back to users, e.g. blog comments
+    
+Cookie security
+================
+
+* HTTPOnly flag will prevent reading cookie from JS
+* Alternate attack is Cross Site Tracing (XST): disable TRACE on your web server
+* Note: if cookie domain is set to e.g. djangocon, every website under djangocon.eu is at risk.
