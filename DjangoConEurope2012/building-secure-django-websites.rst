@@ -28,3 +28,16 @@ How cookies and sessions work
 
     Set-cookie: name: value
     Cookie: name=value
+    
+Sessions
+----------
+
+.. parsed-literal::
+
+    sessionid=8f70xxxxa3d9
+    session: {
+        key: 8f70xxxxa3d9,
+        user: Erik
+    }
+
+If you can access the session of another user, you can impersonate the other user.
