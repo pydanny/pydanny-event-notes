@@ -105,6 +105,8 @@ MongoDB
 Key/value stores
 ==================
 
+Redis, Riak, memcached
+
 * Horizontal scaling (but with drawbacks)
 * Extremely fast
 * Can only fetch objects by key
