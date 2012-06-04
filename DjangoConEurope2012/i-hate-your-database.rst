@@ -54,13 +54,13 @@ Some quick theory
 
 * ACID
 
-    * *A*tomicity
-    * *C*onsistency
-    * *I*solation
-    * *D*urability
+    * Atomicity
+    * Consistency
+    * Isolation
+    * Durability
     
 * CAP Theorem (you can only have 2 of the 3 of them)
 
-    * **C**onsistency
-    * **A**vailability
-    * **P**artition Tolerance
+    * Consistency
+    * Availability
+    * Partition Tolerance
