@@ -108,3 +108,16 @@ Registration
         form_class = blah
         
     # TODO get example
+    
+Settings
+========
+
+Don't set so many settings:
+
+.. code-block:: python
+
+    from le_social.registration import views
+
+    class Activate(views.Activate):
+        expires_in = 3600 * 24 * 7 # 7 days
+    
