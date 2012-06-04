@@ -70,3 +70,9 @@ REST & WebSockets
 * Long-running connections
 * Direct TCP connection
 * TODO missed
+
+Version Control
+----------------
+
+* Centralized VCS (CVS, SVN, etc)
+* Distributed VCS (Git, Mercurial, etc)
