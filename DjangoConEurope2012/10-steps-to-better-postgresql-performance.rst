@@ -66,4 +66,8 @@ effective_cache_size
 Checkpointing
 ================
 
-blahg
+* A complete fish of dirty buffers to disk
+* Potentially a lot of I/O
+* Done when the first of two thresholds are hit:
+
+    * A particular...
