@@ -37,3 +37,16 @@ Logging
     log_destination = 'csvlog'
     log_directory = 'pg_log'
     TODO - get rest from Christophe
+    
+Shared_buffers
+================
+
+TODO - get this
+
+work_mem
+========
+
+* Start low: 32-64MB
+* Look for 'temporary file' lines in logs
+* set to 2-3x the largest temp file you see
+* Can cause a **huge** speed-up if set properly
