@@ -106,7 +106,7 @@ Criticism
         
 Can we not do client/server apps purely in Django?
     
-.. code-block:: python+django
+.. code-block:: python
 
     url('people/1/', person_detail)
     
