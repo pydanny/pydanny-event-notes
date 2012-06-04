@@ -141,3 +141,17 @@ Passwords and SSL
 * Limit the number of attempts (django-axes, django-lockout)
 * If you use logins, use SSL
 * If you use SSL, look at django-secure
+
+Clickjacking and Django
+=========================
+
+* Protection in Django 1.4
+* django.middleware.clickjacking
+* etc
+
+Backups
+=========
+
+* Run backups
+* If you don't have backups, who owns your stuff?
+* Test your restores!
