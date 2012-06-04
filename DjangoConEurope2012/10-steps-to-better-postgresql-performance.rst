@@ -50,3 +50,20 @@ work_mem
 * Look for 'temporary file' lines in logs
 * set to 2-3x the largest temp file you see
 * Can cause a **huge** speed-up if set properly
+* Be careful: it can use that amount of memory per query
+
+maintenance_work_mem
+=====================
+
+* Set to 10% of system memory, up to 1GB
+
+effective_cache_size
+======================
+
+* Set to the amount of file system cache available
+* If you don't know it, set it to 50% of the available memory
+
+Checkpointing
+================
+
+blahg
