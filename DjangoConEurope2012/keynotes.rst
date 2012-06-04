@@ -76,3 +76,8 @@ Celebration
 
 * This year has seen a ridiculous amount of adoption for Django.
 * There is no longer an industry where Django does not exist.
+* Django is now considered boring compared to things like node.js. Exciting is good when you are trying something new, but "exciting" and "production" should never be combined in the same sentence.
+
+    * See this article http://blog.pinboard.in/2010/01/technical_underpinnings/
+    
+* Notable tech acquisition for Instagram.
