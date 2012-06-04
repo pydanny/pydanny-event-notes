@@ -24,8 +24,12 @@ PostgreSQL negatives
  * Installation is hard on anything but Linux
  * Not NoSQL
  
+
+Configuration
+===============
+ 
 Logging
-========
+-------
 
 * Be generous with logging; it's very low-impact on the system
 * Locations for logs
@@ -41,12 +45,12 @@ Logging
     TODO - get rest from Christophe
     
 Shared_buffers
-================
+--------------
 
 TODO - get this
 
 work_mem
-========
+--------------
 
 * Start low: 32-64MB
 * Look for 'temporary file' lines in logs
@@ -55,21 +59,30 @@ work_mem
 * Be careful: it can use that amount of memory per query
 
 maintenance_work_mem
-=====================
+---------------------
 
 * Set to 10% of system memory, up to 1GB
 
 effective_cache_size
-======================
+---------------------
 
 * Set to the amount of file system cache available
 * If you don't know it, set it to 50% of the available memory
 
 Checkpointing
-================
+--------------
 
 * A complete fish of dirty buffers to disk
 * Potentially a lot of I/O
 * Done when the first of two thresholds are hit:
 
     * A particular...
+
+.. note:: Didn't get any of this part of things.
+
+Easy performance boosts
+=========================
+
+* Don't run anything else on your PostgreSQL server
+* If PostgreSQL is in a VM, remember all of the other VMs on the same host
+* Disable the Linux OOM killer
