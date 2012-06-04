@@ -110,7 +110,7 @@ Registration
     # TODO get example
     
 Settings
-========
+--------------
 
 Don't set so many settings:
 
@@ -120,4 +120,18 @@ Don't set so many settings:
 
     class Activate(views.Activate):
         expires_in = 3600 * 24 * 7 # 7 days
-    
+
+Shooting yourself in the foot
+==============================
+
+The problems with using CBVs
+
+The 500 Error
+--------------
+
+.. code-block:: python
+
+    class Handler500(generic.TemplateView):
+        template_name = '500.html'
+        
+No matter what goes into this, it will throw out blank pages.
