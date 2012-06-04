@@ -144,3 +144,4 @@ Summary
 
 * It's unlikely your data all fits in one paradigm
 * Just buying bigger servers goes a long way to overcoming shortcomings of a particular database
+* Try multiple things before making a decision. Educate yourself!
