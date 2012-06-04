@@ -81,3 +81,10 @@ Celebration
     * See this article http://blog.pinboard.in/2010/01/technical_underpinnings/
     
 * Notable tech acquisition for Instagram.
+
+Criticism
+----------
+
+* Terrible support for HTML5
+
+    * Bruno's floppyforms handles the form elements for you: see http://django-floppyforms.rtfd.org/
