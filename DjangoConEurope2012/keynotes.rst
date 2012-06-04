@@ -9,4 +9,10 @@ Jacob Kaplan-Moss
 
     {{ keynote }}
 
-* jacob@**jacobian**.org
+* jacob**@jacobian**.org
+* Keynotes are hard.
+* Checked to find different types of keynotes
+
+    * Announcements (Steve Jobs style)
+    * Technical Tour-de-force
+    
