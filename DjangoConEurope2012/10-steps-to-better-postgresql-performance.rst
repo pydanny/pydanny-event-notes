@@ -87,12 +87,44 @@ Easy performance boosts
 * If PostgreSQL is in a VM, remember all of the other VMs on the same host
 * Disable the Linux OOM killer
 
-Stupid Database Tricks, I
---------------------------
+Stupid Database Tricks
+----------------------
 
 * Don't put your sessions in the database
 * Avoid aonstantly-updated accumulator records.
 * Don't put the task queues in the database
 * Don't use the database as a filesystem
 * Don't use frequently-locked singleton records
-* Very long-running transactions
+* Don't use very long-running transactions
+* Mixing transactional and data warehouse queries on the same database
+
+One schema trick
+-----------------
+
+* If one model ha sa constantly-updated section and a rarely-updated section
+
+    * last-seen on site field
+    * cut out that field into a new model
+
+SQL Pathologies
+-----------------
+
+* Gigantic IN clauses (a typical Django anti-pattern) are problematic
+* Unanchored text queries like '%this%' run slow
+
+Indexing
+---------
+
+* A good index
+
+    * Has high selectivity on commonly-used data
+    * Returns a small number of records
+    * Is determined by analysis, not guessing
+
+* Use pg_stat_user_tables - shows sequential scans
+* Use pg_stat_index_blah
+
+Vacuuming
+----------
+
+blah
