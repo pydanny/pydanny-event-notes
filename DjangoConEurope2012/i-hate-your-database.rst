@@ -75,3 +75,12 @@ Very interesting database system
 * MyISAM: full-table locking, no transactions
 * Oracle
 * Very fast for some operations
+
+SQLite
+========
+
+* Little integrity checking
+* Impossible to do some table alterations
+* No concurrent access
+* Low overhead
+* Very portable
