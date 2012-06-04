@@ -76,3 +76,10 @@ Version Control
 
 * Centralized VCS (CVS, SVN, etc)
 * Distributed VCS (Git, Mercurial, etc)
+
+Summary of the stores
+-----------------------
+
+* Imagine a system where the client is a full MVC stack, as is the server. 
+* Content is a matter of pushing/pulling like with DVCS
+* Backbone.js does this, as well as Cappucino
