@@ -85,3 +85,8 @@ Cookie security
 Server side injections
 =======================
 
+SQL injection
+--------------
+
+* No concern, Django ORM prevents injection
+* If you don't use it, stick to prepared statements
