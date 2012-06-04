@@ -40,4 +40,16 @@ Sessions
         user: Erik
     }
 
-If you can access the session of another user, you can impersonate the other user.
+If you can access the session of another user, you can impersonate the other user.    
+
+Cross Site Request Forging
+---------------------------
+
+* Django by default has CSRF protection enabled via:
+
+.. code-block:: django
+
+    <form>
+        {% csrf_token %}
+        ....
+    </form>    
