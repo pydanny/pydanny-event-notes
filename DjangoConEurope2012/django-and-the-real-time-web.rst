@@ -103,3 +103,10 @@ Implications
 * Authn & Authz are hard topics
 * Pub/sub
 * Resource-oriented client
+
+Pub/Sub
+--------
+
+* AMQP
+* 0MQ
+* Django Signals
