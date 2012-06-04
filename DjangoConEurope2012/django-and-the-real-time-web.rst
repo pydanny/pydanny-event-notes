@@ -91,4 +91,6 @@ Caching
 * Seriously.
 * Etags
 * Cache-Control
-* Conflict resolution
+* Conflict resolution::
+
+    (uri, etag, dirty?)
