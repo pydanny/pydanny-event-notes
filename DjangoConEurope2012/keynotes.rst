@@ -115,3 +115,8 @@ Can we do this in Django?
         return (request, template, ctx)
         
     {{ person.first_name }}
+
+Inspirational Talk
+-----------------------
+
+Jacob's uncle, a lawyer asks: "But if you give it away, how will you make money?"
