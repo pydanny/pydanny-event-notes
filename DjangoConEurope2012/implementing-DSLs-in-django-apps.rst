@@ -23,3 +23,9 @@ Other reasons
 
 * Quick and easy to implement (if you use the right tools)
 * Fun to code!
+
+Not for the end user
+=====================
+
+* Only to be used by power users
+* Your DSL could be used as a scripting language
