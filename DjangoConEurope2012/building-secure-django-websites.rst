@@ -62,3 +62,14 @@ Injecting HTML or JavaScript into things like field data
 .. code-block:: html
 
     <p>Injecting issues <script>alert("I'm a JavaScript injection!");</script></p>
+    
+Reflected vs. Stored XSS
+==========================
+
+* Previous examples are reflected XSS
+
+    * Have to try the user into visiting my link
+    
+* Other possibility is stored XSS
+
+    * Store some data which is later sent back to users, e.g. blog comments
