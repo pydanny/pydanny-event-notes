@@ -14,5 +14,5 @@ Jacob Kaplan-Moss
 * Checked to find different types of keynotes
 
     * Announcements (Steve Jobs style)
-    * Technical Tour-de-force
+    * Technical Tour-de-force (David Beasley style)
     
