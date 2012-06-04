@@ -83,3 +83,12 @@ Summary of the stores
 * Imagine a system where the client is a full MVC stack, as is the server. 
 * Content is a matter of pushing/pulling like with DVCS
 * Backbone.js does this, as well as Cappucino
+
+Caching
+=========
+
+* Read RFC 2616
+* Seriously.
+* Etags
+* Cache-Control
+* Conflict resolution

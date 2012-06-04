@@ -7,6 +7,7 @@
 * Done PostgreSQL for over 10 years
 * Django for 4 years
 * Not going to explain why things work great, just will provide good options. Ask him later for details
+* http://thebuild.com/presentations/not-your-job.pdf
 
 .. note:: Christophe talks super fast and I can't keep up
 

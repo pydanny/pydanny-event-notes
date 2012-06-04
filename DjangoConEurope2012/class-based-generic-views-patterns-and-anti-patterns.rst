@@ -4,6 +4,7 @@ Class-based Generic Views: patterns and anti-patterns
 
 * BY BRUNO RENIÉ
 * CBVs added in Django 1.3
+* https://speakerdeck.com/u/brutasse/p/class-based-views-patterns-and-anti-patterns
 
 .. note:: couldn't keep up with his code samples
 
