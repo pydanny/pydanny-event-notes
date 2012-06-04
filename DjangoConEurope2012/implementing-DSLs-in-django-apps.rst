@@ -29,3 +29,16 @@ Not for the end user
 
 * Only to be used by power users
 * Your DSL could be used as a scripting language
+
+How to make a DSL in Python/Django
+====================================
+
+* Basics
+
+    * Lexer (vocabulary)
+    * Parser (grammar)
+    * Some kind of backend
+
+* The lexer and parser part are quite generic
+
+    * use code generator
