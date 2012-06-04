@@ -5,4 +5,8 @@ Keynotes
 Jacob Kaplan-Moss
 =================
 
-Blah blah blah
+.. code-block:: django
+
+    {{ keynote }}
+
+* jacob@**jacobian**.org
