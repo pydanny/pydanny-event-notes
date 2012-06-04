@@ -86,3 +86,11 @@ Easy performance boosts
 * Don't run anything else on your PostgreSQL server
 * If PostgreSQL is in a VM, remember all of the other VMs on the same host
 * Disable the Linux OOM killer
+
+Stupid Database Tricks, I
+--------------------------
+
+* Don't put your sessions in the database
+* Avoid aonstantly-updated accumulator records.
+* Don't put the task queues in the database
+* Don't use the database as a filesystem
