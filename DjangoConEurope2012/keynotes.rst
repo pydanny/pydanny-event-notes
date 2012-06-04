@@ -85,6 +85,8 @@ Celebration
 Criticism
 ----------
 
-* Terrible support for HTML5
+* HTML5 issues
 
     * Bruno's floppyforms handles the form elements for you: see http://django-floppyforms.rtfd.org/
+    
+* Real-time 
