@@ -69,3 +69,13 @@ Sample
         # TODO - finish this function
         
 .. note:: Not sure how this works. Me need to read up on PLY
+
+Parser - The Grammar
+=====================
+
+    expression : expression B_OP expression
+    expression : U_OP expression
+    expression : '(' expression ')'
+    value : STRING
+        | NUMBER
+        | DATE
