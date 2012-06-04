@@ -204,3 +204,24 @@ Migrations
     * Create the column as NOT NULL
     * Add constraint later once field is populated
     * .. note:: I've done this a lot.
+
+Vacuum FREEZE
+----------------------
+
+* Once in a while PostgreSQL needs to scan every table
+* THis can be a very big surprise
+* Run VACUUM manually periodically
+
+Hardware
+----------
+
+* Get lots of ECC RAM
+* CPU is not as vital as RAM
+* Use a RAID
+
+AWS Survival Guide
+--------------------
+
+* Biggest instance you can afford
+* EBS for the data and transaction
+* **Set up streaming replication**
