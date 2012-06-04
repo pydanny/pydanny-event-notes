@@ -71,6 +71,26 @@ Decorating
     # Complete this
     
 MRO, extend, don't override
-===========================
+------------------------------
 
 Unless you're 100% sure of what you're doing
+
+Case Studies
+=============
+
+Useful recipes
+
+Form processing
+-----------------
+
+TODO - get the form processing example
+
+Nested Navigation
+-------------------
+
+# TODO - get example
+
+Pagination
+-----------
+
+# TODO - get example
