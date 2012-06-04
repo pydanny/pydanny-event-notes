@@ -129,4 +129,4 @@ Summary
 
 * Huge community brought in by our boring, stable system.
 * Now we can get really crazy with Django
-* make good art
+* Make good art
