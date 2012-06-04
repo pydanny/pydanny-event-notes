@@ -5,6 +5,7 @@ Building secure Django websites
 * by Erik Romijn
 
     * hello@solidlinks.nl
+    * http://twitter.com/erikpub
 
 Three Areas
 ============
