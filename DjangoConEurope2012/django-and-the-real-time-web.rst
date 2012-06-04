@@ -3,6 +3,7 @@ Django and the Real-Time Web
 ============================
 
 * by Zachary Voase
+* https://speakerdeck.com/u/zacharyvoase/p/django-and-the-real-time-web
 
 .. note:: Very thoughtful talk. Zachary scored some very critical points.
 
