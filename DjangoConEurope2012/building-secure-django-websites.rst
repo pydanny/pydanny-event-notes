@@ -6,6 +6,7 @@ Building secure Django websites
 
     * hello@solidlinks.nl
     * http://twitter.com/erikpub
+    * slides: https://speakerdeck.com/u/erik/p/building-secure-django-websites
 
 Three Areas
 ============
