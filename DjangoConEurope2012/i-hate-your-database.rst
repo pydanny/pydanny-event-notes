@@ -4,4 +4,5 @@ I hate your database
 
 by Andrew Godwin
 
-    * http://south.aeracode.org/
+    * Lead developer for South http://south.aeracode.org/
+    * Cheese fan
