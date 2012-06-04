@@ -35,8 +35,8 @@ Jacob Kaplan-Moss
         * Neil Gaiman
         * Adam Savage
         
-Se he's going to do:
---------------------
+Se he's going to do the following talks:
+-----------------------------------------
 
 * Technical
 * State of...
