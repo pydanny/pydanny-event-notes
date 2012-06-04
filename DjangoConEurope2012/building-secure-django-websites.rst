@@ -20,3 +20,7 @@ Three Areas
 * Available
 
     * ability to be used or obtained
+    
+How cookies and sessions work
+==============================
+
