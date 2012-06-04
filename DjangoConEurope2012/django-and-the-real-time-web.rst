@@ -94,3 +94,12 @@ Caching
 * Conflict resolution::
 
     (uri, etag, dirty?)
+    
+Implications
+==============
+
+* Assumption of orthogonality
+* Lossless representations
+* Authn & Authz are hard topics
+* Pub/sub
+* Resource-oriented client
