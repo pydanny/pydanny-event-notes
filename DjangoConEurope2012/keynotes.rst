@@ -127,5 +127,6 @@ Jacob's uncle, a lawyer asks: "But if you give it away, how will you make money?
 Summary
 ----------
 
-* Huge community
-* Can now get really crazy with Django
+* Huge community brought in by our boring, stable system.
+* Now we can get really crazy with Django
+* make good art
