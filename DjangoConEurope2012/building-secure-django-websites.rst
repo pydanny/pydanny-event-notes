@@ -90,3 +90,15 @@ SQL injection
 
 * No concern, Django ORM prevents injection
 * If you don't use it, stick to prepared statements
+
+LDAP Injections
+-----------------
+
+* You can play creative games if you know the LDAP specification
+
+.. note:: I saw this at NASA HQ before we rolled out my first professional Python application back in 2006.
+
+Shell Injection
+----------------
+
+* Always use ``subprocess``
