@@ -96,7 +96,7 @@ Criticism
     * You are fooling yourself if you don't realize that Meteor style systems are not the future of web development.
     * Are we doomed to callback hell?
 
-.. code-block::
+.. code-block:: javascript
 
                     });
                 });
@@ -104,3 +104,14 @@ Criticism
         });
     });
         
+    * Can we do this in Django?
+    
+.. code-block:: python+django
+
+    url('people/1/', person_detail)
+    
+    def person_detail(request):
+        ...
+        return (request, template, ctx)
+        
+    {{ person.first_name }}
