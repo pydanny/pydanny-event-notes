@@ -64,3 +64,14 @@ Some quick theory
     * Consistency
     * Availability
     * Partition Tolerance
+    
+MySQL
+=====
+
+Very interesting database system
+
+* No transactional DDL
+* Poor query optimizer
+* MyISAM: full-table locking, no transactions
+* Oracle
+* Very fast for some operations
