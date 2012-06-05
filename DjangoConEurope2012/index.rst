@@ -15,6 +15,7 @@ DjangoCon Europe 2012
    implementing-DSLs-in-django-apps
    i-hate-your-database
    lfs-lightning-fast-shop
+   using-css-preprocessors-effectively
    
    
 General Notes
