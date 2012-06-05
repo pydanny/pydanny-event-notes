@@ -68,3 +68,19 @@ Designed to profile your production environment without impacting performance
 * selectively profile individual requests
 * add "?__geordi__" to any URL
 * products PDF call graph
+* https://bitbucket.org/evzijst/django-geordi
+
+interruptingcow
+==================
+
+.. code-block:: python
+
+    import re
+    from interruptingcow import timeout
+    
+    try:
+        with timeout(20.0, RuntimeError):
+            #evil regix
+            re.match(r'^(a+)+$', 'aaaaaaaaaaaa')
+    except RuntimeError:
+        print 'Interrupted'
