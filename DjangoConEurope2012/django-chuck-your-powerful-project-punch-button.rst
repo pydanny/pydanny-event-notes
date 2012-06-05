@@ -2,7 +2,7 @@
 Django Chuck - Your powerful project punch button
 ============================================================
 
-by Bastian Ballmann AND Lukas Bünger
+by Bastian Ballmann and Lukas Bünger
 
 Why the name Chuck?
 ========================
@@ -25,3 +25,17 @@ Why not Pinax?
 * Monolithic Python script
 * Addresses project creation only
 * No flexible build process management
+
+Installation
+================
+
+.. parsed-literal::
+
+    pip install django-chuck
+    
+copy example_conf.py to:
+
+    ~/django_chuck_conf.py
+    
+See django-chuck.rtfd.org
+
