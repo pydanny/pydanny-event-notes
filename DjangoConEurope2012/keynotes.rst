@@ -173,3 +173,13 @@ Survey of Python web frameworks in 2006
 * Pylons
 * Turbogears
 * Django
+
+Snag: Weird database
+----------------------
+
+.. code-block:: python
+
+    class Entry(models.Model):
+        entry
+        # TODO find the rest of this content
+        
