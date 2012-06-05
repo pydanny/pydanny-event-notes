@@ -6,6 +6,7 @@ by Erik van Zijst
 
 * http://twitter.com/erikvanzijst
 * https://bitbucket.org/evzijst
+* Slides: http://t.co/V0rHYjIu
 
 Case study: Wasted cycles on Bitbucket
 =======================================
