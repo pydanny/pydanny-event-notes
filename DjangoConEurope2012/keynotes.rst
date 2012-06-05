@@ -150,6 +150,7 @@ Why?
 Her Django story
 ------------------
 
+* 2006 she found Django
 * Django open-sourced a year earlier
 * Django 0.96
 
@@ -165,3 +166,10 @@ Project: Web front-end for database
 
 * Primary goal: better ability to see data in crossword puzzle tool
 * Secondary goal: learn Python
+
+Survey of Python web frameworks in 2006
+---------------------------------------
+
+* Pylons
+* Turbogears
+* Django
