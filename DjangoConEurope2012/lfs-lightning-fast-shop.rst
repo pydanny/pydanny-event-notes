@@ -81,3 +81,6 @@ Development
 
 * On Github
 * PEP8 & pyflakes
+* Every new feature must have a real live use case
+* Every new feature must have tests
+* Every new feature must have documentation
