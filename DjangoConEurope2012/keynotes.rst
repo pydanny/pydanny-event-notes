@@ -233,3 +233,16 @@ What did she gain out of Django?
 * Become core committer in 2008
 * Asked to write a book in 2009 (got published in 2010)
 * Got a great job in 2010
+
+Get involved!
+--------------
+
+* Community events, big or small
+* Mailing lists
+* IRC
+* Stack overflow
+* Ticket triage
+* Bug fixes
+* Feature development
+* Patch review
+* Blogs
