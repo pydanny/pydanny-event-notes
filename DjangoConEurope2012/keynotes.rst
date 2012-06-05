@@ -135,6 +135,8 @@ Karen Tracey - Django and the Community
 ===================================================
 
 * Been programming since 1987
+* Django Core dev for a while.
+* Crossword puzzle constructor sincw 2001
 
 .. note:: I've been programming since 1980. I win on the age game. So there.
 
