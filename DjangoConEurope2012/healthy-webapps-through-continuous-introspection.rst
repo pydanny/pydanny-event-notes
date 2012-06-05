@@ -40,3 +40,5 @@ Slowness in Web Apps
     * between threads
     * database table/row locks
     * fine locks (git/hg)
+    
+* excessive IO (disk/network)
