@@ -219,3 +219,9 @@ Why did she become so active?
 * Help people
 * Puzzles!
 * Long range-goal: get a job
+
+What did the Django community gain?
+------------------------------------
+* Lots of triage/bugfixes prior to 1.0
+* Some features/bugfixes since 1.0
+* Helped many people learn Django
