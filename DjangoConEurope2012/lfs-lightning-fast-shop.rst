@@ -76,3 +76,8 @@ Variable Payment Methods
 * PayPal
 * Pluggable so we can add Stripe
 
+Development
+=============
+
+* On Github
+* PEP8 & pyflakes
