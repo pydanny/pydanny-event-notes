@@ -11,3 +11,6 @@ Wasted cycles on Bitbucket
 ============================
 
 => SSHD => conq (Python) => git/hg
+
+* conq is our custom SSH shell
+* conqu imports Django ORM and Bitbucket code
