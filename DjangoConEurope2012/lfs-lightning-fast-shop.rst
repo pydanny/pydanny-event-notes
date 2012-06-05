@@ -43,6 +43,9 @@ Features
 * default theme is attractive
 * Products can have variants
 * Downloadable products coming soon!
+* Topsellers
+* Vouchers
+
 
 Properties
 ============
