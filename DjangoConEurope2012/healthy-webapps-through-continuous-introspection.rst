@@ -59,3 +59,12 @@ Dogslow
 * emails tracebacks of slow requests
 * no performance penalty, safe on prod
 * https://bitbucket.org/evzijst/dogslow
+
+django-geordi
+==============
+
+Designed to profile your production environment without impacting performance
+
+* selectively profile individual requests
+* add "?__geordi__" to any URL
+* products PDF call graph
