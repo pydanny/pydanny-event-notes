@@ -6,10 +6,10 @@ by Daniele Procida
 
 * Works at Cardiff University School of Medicine
 
-.. note:: Too many bullets per slide. Just saying...
-
 What typically happens when working with a CMS
 ==========================================================
+
+.. note:: Too many bullets for this ONE slide. Just saying...
 
 * You have to repeat yourself
 * data gets wasted and lost
