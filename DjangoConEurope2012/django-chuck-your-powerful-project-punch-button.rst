@@ -39,3 +39,10 @@ copy example_conf.py to:
     
 See django-chuck.rtfd.org
 
+Example usage
+==============
+
+.. parsed-literal::
+
+    chuck create_project <prefix> <name> [modules] -a [pip modules]
+    chuck create_project ni djangocon django-cms,test,nginx
