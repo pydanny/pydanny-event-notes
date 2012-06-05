@@ -119,3 +119,11 @@ Warning
 * Might not work with IE
 * Makes debugging harder
 * Potential for bloat
+
+Conclusion
+============
+
+* Preprocessors solve common problems
+* Allow us to focus on writing clear and meaningful CSS
+* Try it on at least one project
+* Plain old CSS feels very silly
