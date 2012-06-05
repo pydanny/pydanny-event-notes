@@ -73,6 +73,8 @@ Designed to profile your production environment without impacting performance
 interruptingcow
 ==================
 
+Designed to let you catch and then bubble up a system locking issue
+
 .. code-block:: python
 
     import re
