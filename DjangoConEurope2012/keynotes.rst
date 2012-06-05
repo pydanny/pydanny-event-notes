@@ -185,7 +185,7 @@ She wanted to use her old tables instead of Django generated tables. Then she wa
         entry
         # TODO find the rest of this content
         
-She contacted django-users on IRC and talked to Malcolm and Adrian. Submitted a patch and got it accepted fast.
+She contacted django-users on mailing list and talked to Malcolm and Adrian. Submitted a patch and got it accepted fast.
 
 Sadness
 --------
@@ -193,3 +193,24 @@ Sadness
 * Probably never happens today that a person contributes so quickly.
 * Everything needs tests before submissions are accepted.
 * Balance stability with wow-factor
+
+Back to the mailing list post
+------------------------------
+
+* She was hesitant to sign her name
+* Open source has bad with regard to treatment of women
+* Confident of technical ability
+
+    * ... but conscious she didn't know much about web programming
+* Would she get more respect if she didn't reveal her gender
+
+Plea: encourage women
+-----------------------
+
+* Women actively discouraged from participating in open source communities
+* Please don't join in bad behavior
+* Speak out against it when you see it
+
+
+
+
