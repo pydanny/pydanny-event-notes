@@ -2,7 +2,7 @@
 Square pegs and round holes - Django and MongoDB
 ========================================================
 
-BY DANIEL GREENFIELD AND AUDREY ROY
+BY DANIEL GREENFELD AND AUDREY ROY
 -----------------------------------
 
 .. note:: Obviously not taken by Daniel as he's talking. This version by Marc
