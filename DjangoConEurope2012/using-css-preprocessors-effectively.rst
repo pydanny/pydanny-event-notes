@@ -20,4 +20,5 @@ Issues with CSS
 ===============
 
 * No Variables
-* 
+* No hierarchy
+* Prefixes
