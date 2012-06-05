@@ -5,6 +5,7 @@ It's about time
 by Aymeric Augustin
 
 * Django core dev
+* http://static.myks.org/data/20120605-DjangoCon-It's_about_time.pdf
 
 .. note:: Had to deal with a business thing so didn't get all of Aymeric's talk down. What I got was from some really awesome material.
 

@@ -5,7 +5,7 @@ Healthy Webapps Through Continuous Introspection
 by Erik van Zijst
 
 * http://twitter.com/erikvanzijst
-* http://butbucket.org/evzijst
+* https://bitbucket.org/evzijst
 
 Case study: Wasted cycles on Bitbucket
 =======================================
@@ -51,3 +51,11 @@ consequences
 * 500 if requests time out (Gunicorn SIGKILL)
 
 The latter is best avoided as it destroys forensic evidence and leaves stale state (e.g. lock files)
+
+Dogslow
+========
+
+* Django middleware
+* emails tracebacks of slow requests
+* no performance penalty, safe on prod
+* https://bitbucket.org/evzijst/dogslow
