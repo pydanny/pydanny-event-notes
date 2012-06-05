@@ -6,6 +6,8 @@ by Aymeric Augustin
 
 * Django core dev
 
+.. note:: OMG he talks with incredible speed.
+
 RFC 3339
 =========
 
@@ -14,9 +16,8 @@ RFC 3339
 * universal time
 * instant in time
 
-.. code-block::
+.. code-block:: python
 
-    from pytz import FixedOffset
     from datetime import datetime
     datetime(
         year=2012, month=6, day=5
@@ -24,3 +25,4 @@ RFC 3339
         microsecond=0,
         tzinfo=FixedOffset(120)
     )
+    
