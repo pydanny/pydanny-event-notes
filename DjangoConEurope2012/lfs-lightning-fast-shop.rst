@@ -49,6 +49,8 @@ Features
 * Sitemaps
 * Prepared for Google Analytics
 * Good URL patterns
+* Portlets
+* Filtered navigation
 
 Properties
 ============
@@ -73,3 +75,4 @@ Variable Payment Methods
 * Debit
 * PayPal
 * Pluggable so we can add Stripe
+
