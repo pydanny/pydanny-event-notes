@@ -18,6 +18,7 @@ DjangoCon Europe 2012
    using-css-preprocessors-effectively
    arkestra
    django-chuck-your-powerful-project-punch-button
+   its-about-time
    
    
 General Notes
