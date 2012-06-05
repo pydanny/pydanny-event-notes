@@ -6,7 +6,7 @@ by Aymeric Augustin
 
 * Django core dev
 
-.. note:: Had to deal with a business thing so didn't get all of Aymeric's talk down.
+.. note:: Had to deal with a business thing so didn't get all of Aymeric's talk down. What I got was from some really awesome material.
 
 RFC 3339
 =========
