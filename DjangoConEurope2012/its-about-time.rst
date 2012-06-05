@@ -85,3 +85,23 @@ auto-conversions
 
     * filter a DateTimeField with a date
     * save a datetime in a DateField
+    
+Utilities
+=========
+
+.. code-block:: python
+
+    >>> from django.conf import settings
+    >>> from django.utils import timezone
+    
+    >>> settings.USE_TZ = True
+    >>> timezone.now()
+    <snip>
+    
+limitations in Django 1.4
+==============================
+
+* The database works in UTC (ticket #17260)
+* QuerySet.dates()
+
+    * __year/month/day/week_day
