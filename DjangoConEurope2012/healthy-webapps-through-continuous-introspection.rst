@@ -42,3 +42,4 @@ Slowness in Web Apps
     * fine locks (git/hg)
     
 * excessive IO (disk/network)
+* evil regex: ``r'^(a+)+$'``
