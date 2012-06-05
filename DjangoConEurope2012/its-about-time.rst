@@ -48,4 +48,18 @@ DST transitions
     from datetime import datetime
     
     
-    
+dates and datetimes
+=====================
+
+* dates are always naive
+* they don't suffer from the same problems as naive datetimes
+* using an aware datetime as a date is an accident waiting to happen
+* Django supports mixing naive datetimes and dates
+
+Django >= 1.4
+==============
+
+* Uses aware datetimes in URC internally
+* stores naive datetime sin UTC in the database (except PostgreSQL)
+* converts to aware datetimes in local time in forms and templates
+* supports multiple time zones!
