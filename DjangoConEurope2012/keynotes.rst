@@ -177,9 +177,19 @@ Survey of Python web frameworks in 2006
 Snag: Weird database
 ----------------------
 
+She wanted to use her old tables instead of Django generated tables. Then she wasn't sure about the code patterns she was exploring.
+
 .. code-block:: python
 
     class Entry(models.Model):
         entry
         # TODO find the rest of this content
         
+She contacted django-users on IRC and talked to Malcolm and Adrian. Submitted a patch and got it accepted fast.
+
+Sadness
+--------
+
+* Probably never happens today that a person contributes so quickly.
+* Everything needs tests before submissions are accepted.
+* Balance stability with wow-factor
