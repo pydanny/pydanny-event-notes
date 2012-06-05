@@ -6,12 +6,10 @@ by Daniele Procida
 
 * Works at Cardiff University School of Medicine
 
-.. note:: Good talk but some slides had too many bullets. Just saying...
+.. note:: Good talk but some slides had too many bullets. 
 
 What typically happens when working with a CMS
 ==========================================================
-
-.. note:: Too many bullets for this slide. 
 
 * You have to repeat yourself
 * data gets wasted and lost
@@ -36,7 +34,5 @@ Informtation, not just data
 
 Organization
 ============
-
-.. note:: Bullets
 
 * Can you model 
