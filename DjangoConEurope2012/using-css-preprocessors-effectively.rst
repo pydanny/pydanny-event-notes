@@ -68,3 +68,39 @@ Common Features
 * avoiding CSS hacks
 * More elegant comment system
 * Mixins
+* Prefixes
+
+Doing it with Django
+=====================
+
+.. parsed-literal::
+
+    pip install webassets cssmin
+    
+.. code-block:: python
+
+    STATICFILES_FINDERS = (
+        ...
+        'django_assets.finders.AssetsFinder',
+    )
+
+    INSTALLED_APPS = (
+        ...,
+        'django_assets',
+    )
+
+in assets.py:
+
+.. code-block:: python
+
+    from django_assets import Bundle, register
+    js = Bundle('common/jquery.js', 'site/base.js', 'site/widgets.js',
+                filters='jsmin', output='gen/packed.js')
+    register('js_all', js)
+
+.. code-block:: django
+
+    {% load assets %}
+    {% assets "js_all" %}
+        <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+    {% endassets %}
