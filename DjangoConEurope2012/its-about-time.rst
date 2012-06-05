@@ -66,11 +66,11 @@ Django >= 1.4
 
 default and current time zones
 ==========================================
-* default = settings.TIME_ZONE
+* `default` = `settings.TIME_ZONE`
 
     * used in models for conversions between naive and aware objects
     
-* current = end user's time zone
+* `current` = `end user's time zone`
 
     * used in templates and forms
     * for multiple time zones support
