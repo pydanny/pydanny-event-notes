@@ -6,7 +6,7 @@ by Aymeric Augustin
 
 * Django core dev
 
-.. note:: OMG he talks with incredible speed.
+.. note:: Had to deal with a business thing so didn't get all of Aymeric's talk down.
 
 RFC 3339
 =========
@@ -45,4 +45,7 @@ DST transitions
 
 .. code-block:: python
 
-    01:xx CET -> 03:xx CEST
+    from datetime import datetime
+    
+    
+    
