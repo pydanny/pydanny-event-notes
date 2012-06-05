@@ -6,7 +6,7 @@ BY DANIEL GREENFELD AND AUDREY ROY
 -----------------------------------
 
 .. note:: Obviously not taken by Daniel as he's talking. This version by Marc
-    Tamlyn (`@mjtamlyn<http://twitter.com/mjtamlyn>`_).
+    Tamlyn (`@mjtamlyn <http://twitter.com/mjtamlyn>`_).
 
 * Danny might cartwheel...
 * Work at cartwheel web - a django consulting shop. Met at Pycon 2010. Engaged!
@@ -27,7 +27,7 @@ Analogies
 * Document ~ Row
 * A QS looks like a list of dictionaries.
 
-.. code-block::
+.. code-block:: python
 
     collection = []
     document = {
@@ -50,7 +50,7 @@ PyMongo
 * powers everything else
 * low level, but nice enough api.
 
-.. code-block::
+.. code-block:: python
 
     connection = pymongo.Connection()
     db = connection.db
@@ -76,7 +76,7 @@ By @harrymarr!
 
 Looks a lot like the Django ORM.
 
-.. code-block::
+.. code-block:: python
 
     class Review(mongoengine.Document):
          name = mongoengine.CharField()
@@ -101,7 +101,7 @@ MongoKit
 
 * Similar pattern to monogengine
 
-.. code-block::
+.. code-block:: python
 
     class Review(Document):
         structure = {
@@ -144,7 +144,7 @@ Summary
 * django-nonrel is a django fork
 
 Thoughts: Danny
---------
+----------------
 
 * Can we build a "simple" bridge?
 * What about a 3rd party app which combines standard django apps with mongo db?

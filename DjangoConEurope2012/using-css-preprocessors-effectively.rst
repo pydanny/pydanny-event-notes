@@ -64,5 +64,7 @@ Common Features
 
 * Variables
 * math and functions
-
-    
+* nesting
+* avoiding CSS hacks
+* More elegant comment system
+* Mixins
