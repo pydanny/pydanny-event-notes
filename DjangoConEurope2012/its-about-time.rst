@@ -66,6 +66,7 @@ Django >= 1.4
 
 default and current time zones
 ==========================================
+
 * `default` = `settings.TIME_ZONE`
 
     * used in models for conversions between naive and aware objects
@@ -74,3 +75,13 @@ default and current time zones
 
     * used in templates and forms
     * for multiple time zones support
+    
+auto-conversions
+==================
+
+* ensure backwards compatibility
+* avoid surprises for single time zone sites
+* but support sloppy contructs e.g.,
+
+    * filter a DateTimeField with a date
+    * save a datetime in a DateField
