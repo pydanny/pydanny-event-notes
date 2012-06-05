@@ -16,6 +16,7 @@ DjangoCon Europe 2012
    i-hate-your-database
    lfs-lightning-fast-shop
    using-css-preprocessors-effectively
+   arkestra
    
    
 General Notes
