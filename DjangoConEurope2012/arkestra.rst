@@ -5,6 +5,7 @@ Arkestra: semantic information publishing for organizations
 by Daniele Procida
 
 * Works at Cardiff University School of Medicine
+* http://medicine.cf.ac.uk
 
 .. note:: Good talk but some slides had too many bullets. 
 
@@ -38,5 +39,8 @@ Organization
 * Can you model a CMS based off an organization?
 * He created a concept of ``entity``
 * Many interconnections of content and data
+* He did it on http://medicine.cf.ac.uk
+* We did a very similar effort on http://science.nasa.gov/, but...
 
-.. note:: We did a very similar effort on http://science.nasa.gov/
+    * not so well organized.
+    * grown organically during the course of a number of badly run meetings
