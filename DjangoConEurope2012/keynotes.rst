@@ -138,11 +138,24 @@ Karen Tracey - Django and the Community
 * Been programming since 1987
 * Django Core dev for a while.
 * Crossword puzzle constructor since 2001
+* Cat rescuer since 2009
 
-.. note:: I've been programming since 1980. I win on the age game. So there.
+.. note:: I've been programming since 1980. See http://mytechne.com/user/pydanny/programming-languages/. I win on the age game. So there.
 
 Why?
 ----
 
 * Django's community is one of it's greatest strengths
 
+Her Django story
+------------------
+
+* Django open-sourced a year earlier
+* Django 0.96
+
+Puzzle Database
+----------------
+
+* Aid in constructing puzzles, accessible from construction tool
+* Amassed over ~5 years
+* ~5,000 puzzles, ~100,000 unique entries, ~500,000 clues
