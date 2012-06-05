@@ -14,6 +14,7 @@ DjangoCon Europe 2012
    building-secure-django-websites
    implementing-DSLs-in-django-apps
    i-hate-your-database
+   lfs-lightning-fast-shop
    
    
 General Notes

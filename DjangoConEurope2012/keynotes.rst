@@ -130,3 +130,8 @@ Summary
 * Huge community brought in by our boring, stable system.
 * Now we can get really crazy with Django
 * Make good art
+
+Karen Tracey
+=================
+
+upcoming...
