@@ -58,3 +58,11 @@ Which one?
     * More explicit syntax
     * Compass offers lots of goodies
     * Decent Python implementation
+    
+Common Features
+===============
+
+* Variables
+* math and functions
+
+    
