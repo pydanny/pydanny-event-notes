@@ -17,6 +17,7 @@ DjangoCon Europe 2012
    lfs-lightning-fast-shop
    using-css-preprocessors-effectively
    arkestra
+   django-chuck-your-powerful-project-punch-button
    
    
 General Notes
