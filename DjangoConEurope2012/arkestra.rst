@@ -18,3 +18,8 @@ What typically happens when working with a CMS
 * information ages, withers & dies
 * users play fast & loose
 * The larger the site the worse the problems get
+
+His idea
+=========
+
+* Create a model of the real world
