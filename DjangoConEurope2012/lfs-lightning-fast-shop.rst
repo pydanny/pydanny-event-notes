@@ -33,7 +33,8 @@ QUESTION: I've heard it's hard to use because of the focus on VAT. Is that true?
 Samples
 =========
 
-stuff
+* https://www.anwaltakademie.de/
+* 
 
 Features
 =========
@@ -41,3 +42,12 @@ Features
 * Custom management interface
 * default theme is attractive
 * Products can have variants
+* Downloadable products coming soon!
+
+Properties
+============
+
+* Extend products
+* Create variants & configurable products
+* Filtering
+* Select field, float field, and text field
