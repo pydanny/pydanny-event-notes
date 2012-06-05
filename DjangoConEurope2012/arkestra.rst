@@ -8,6 +8,7 @@ by Daniele Procida
 * http://medicine.cf.ac.uk is his main site
 * http://arkestra-project.org/
 * http://readthedocs.org/docs/arkestra/
+* slides: https://speakerdeck.com/u/evildmp/p/arkestra-at-djangocon-europe-2012
 
 .. note:: Good talk but some slides had too many bullets. 
 
