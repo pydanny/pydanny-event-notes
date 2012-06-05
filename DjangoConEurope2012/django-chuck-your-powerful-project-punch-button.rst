@@ -59,3 +59,10 @@ This got generated:
 * hosting
 * jenkins
 * templates
+
+Setup an existing project from source
+========================================
+
+.. parsed-literal::
+
+    chuck setup_project git@whatever.com:your-project.git
