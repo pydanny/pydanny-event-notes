@@ -113,3 +113,6 @@ Key learnings
 
 1. A datetime is a point in time. A date is a calendaring concept.
 2. Use aware datetimes in UTC and convert to local time for humans.
+3. learn how to use pytz properly especially `localize` and `normalize`
+
+Time isn't as simple as it seems. Learn and practice!
