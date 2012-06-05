@@ -104,3 +104,8 @@ in assets.py:
     {% assets "js_all" %}
         <script type="text/javascript" src="{{ ASSET_URL }}"></script>
     {% endassets %}
+
+Tools
+======
+
+* Good editor support for Preprocessors
