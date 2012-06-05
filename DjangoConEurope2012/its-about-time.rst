@@ -63,3 +63,9 @@ Django >= 1.4
 * stores naive datetime sin UTC in the database (except PostgreSQL)
 * converts to aware datetimes in local time in forms and templates
 * supports multiple time zones!
+
+default and current time zones
+==========================================
+* default = settings.TIME_ZONE
+
+    * used in models for conversions between naive and aware objects
