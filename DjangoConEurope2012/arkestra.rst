@@ -72,3 +72,7 @@ The problem:
 * produce well-structured semantic HTML
 * Need no HTML/CSS skills
 
+Solution:
+
+* The Semantic Presentation Editor
+* Special text editor that renders out things in a lovely, semantic fashion
