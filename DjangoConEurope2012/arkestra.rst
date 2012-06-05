@@ -6,10 +6,12 @@ by Daniele Procida
 
 * Works at Cardiff University School of Medicine
 
+.. note:: Good talk but some slides had too many bullets. Just saying...
+
 What typically happens when working with a CMS
 ==========================================================
 
-.. note:: Too many bullets for this ONE slide. Just saying...
+.. note:: Too many bullets for this slide. 
 
 * You have to repeat yourself
 * data gets wasted and lost
@@ -22,4 +24,19 @@ What typically happens when working with a CMS
 His idea
 =========
 
-* Create a model of the real world
+Create a model of the real world
+
+Informtation, not just data
+==============================
+
+* information not useless stupid data
+* templates don't hold information
+* Semantic modeling  real-world relationships
+* user semantics!
+
+Organization
+============
+
+.. note:: Bullets
+
+* Can you model 
