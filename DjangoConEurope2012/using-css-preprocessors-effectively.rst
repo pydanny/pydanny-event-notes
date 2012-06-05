@@ -109,3 +109,4 @@ Tools
 ======
 
 * Good editor support for Preprocessors
+* Graphical tools like LiveReload and Compass.app
