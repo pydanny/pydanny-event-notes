@@ -46,3 +46,16 @@ Example usage
 
     chuck create_project <prefix> <name> [modules] -a [pip modules]
     chuck create_project ni djangocon django-cms,test,nginx
+    
+What happened?
+===============
+
+This got generated:
+
+* settings
+* requirements
+* uwsgi
+* fabfile
+* hosting
+* jenkins
+* templates
