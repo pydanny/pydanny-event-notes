@@ -19,7 +19,7 @@ DjangoCon Europe 2012
    arkestra
    django-chuck-your-powerful-project-punch-button
    its-about-time
-   
+   healthy-webapps-through-continuous-introspection
    
 General Notes
 --------------
