@@ -7,8 +7,8 @@ by Erik van Zijst
 * http://twitter.com/erikvanzijst
 * http://butbucket.org/evzijst
 
-Wasted cycles on Bitbucket
-============================
+Case study: Wasted cycles on Bitbucket
+=======================================
 
 => SSHD => conq (Python) => git/hg
 
@@ -21,3 +21,9 @@ Solution after analysis: Stop the imports and just write native SQL
 
 * 16 times faster to start up (0.09s vs 1.41s)
 * 60% load decrease on all web servers!
+
+Lessons learned
+----------------
+
+* Test your stuff
+* Monitor your servers
