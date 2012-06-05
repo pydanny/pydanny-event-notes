@@ -39,3 +39,10 @@ aware vs naive datetimes
     >>> naive - aware
     
 From the Python docs: Whether a naive datetime object represents UTC, local time, or time in some other timezone is purely up to the program.
+
+DST transitions
+=================
+
+.. code-block:: python
+
+    01:xx CET -> 03:xx CEST
