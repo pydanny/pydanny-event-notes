@@ -7,6 +7,7 @@ by Andrew Godwin
     * Lead developer for South http://south.aeracode.org/
     * Cheese fan
     * http://twitter.com/andrewgodwin
+    * Slides: http://www.aeracode.org/static/slides/djangocon-eu-2012.pdf
     
 Hate? Databases?
 ==================
