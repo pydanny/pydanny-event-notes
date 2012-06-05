@@ -40,3 +40,4 @@ Features
 
 * Custom management interface
 * default theme is attractive
+* Products can have variants
