@@ -17,3 +17,11 @@ Use case for django-chuck
 * Same setup all the time
 * Manual project setups
 * Same conditions apply all the time
+
+Why not Pinax?
+==============
+
+* No modular template structure or code base
+* Monolithic Python script
+* Addresses project creation only
+* No flexible build process management
