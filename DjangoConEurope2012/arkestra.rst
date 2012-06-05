@@ -54,3 +54,11 @@ Don't waste people's time
 
 * Make everything re-usable and re-use it
 * Make it easier to re-use then re-enter
+
+Django-CMS and Arkestra
+=========================
+
+* Django CMS & Arkestra grew up together
+* have been developed alongside each other
+* portions of Django CMS conceived as part of Arkestra
+* integration with pages, placeholders/plugins, menus
