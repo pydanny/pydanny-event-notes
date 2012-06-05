@@ -131,7 +131,15 @@ Summary
 * Now we can get really crazy with Django
 * Make good art
 
-Karen Tracey
-=================
+Karen Tracey - Django and the Community
+===================================================
 
-upcoming...
+* Been programming since 1987
+
+.. note:: I've been programming since 1980. I win on the age game. So there.
+
+Why?
+----
+
+* Django's community is one of it's greatest strengths
+
