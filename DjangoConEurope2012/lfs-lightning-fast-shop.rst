@@ -34,3 +34,9 @@ Samples
 =========
 
 stuff
+
+Features
+=========
+
+* Custom management interface
+* default theme is attractive
