@@ -76,3 +76,6 @@ Solution:
 
 * The Semantic Presentation Editor
 * Special text editor that renders out things in a lovely, semantic fashion
+
+
+.. note:: This looks really awesome. I wonder how hard it is to get it working outside of the django-cms environment.
