@@ -40,6 +40,10 @@ Organization
 * He created a concept of ``entity``
 * Many interconnections of content and data
 * He did it on http://medicine.cf.ac.uk
+
+    * Entities are associated with pages
+    * Not entity needs to have a page
+
 * We did a very similar effort on http://science.nasa.gov/, but...
 
     * not so well organized.
