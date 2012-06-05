@@ -24,5 +24,8 @@ Numbers & Facts
 * BSD license
 * 100,000 downloads on PyPI
 * Google Group > 170 members
+* 9 committers
+* On github
+* ~40 known shops
 
 QUESTION: I've heard it's hard to use because of the focus on VAT. Is that true?
