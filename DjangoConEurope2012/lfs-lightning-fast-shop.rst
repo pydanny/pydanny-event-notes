@@ -34,7 +34,7 @@ Samples
 =========
 
 * https://www.anwaltakademie.de/
-* 
+* http://www.holzimgarten.de/ 
 
 Features
 =========
