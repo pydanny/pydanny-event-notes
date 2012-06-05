@@ -111,3 +111,11 @@ Tools
 * Good editor support for Preprocessors
 * Graphical tools like LiveReload and Compass.app
 * FireSASS
+
+Warning
+========
+
+* Increased complexity
+* Might not work with IE
+* Makes debugging harder
+* Potential for bloat
