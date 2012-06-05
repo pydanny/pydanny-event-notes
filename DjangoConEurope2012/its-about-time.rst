@@ -107,3 +107,9 @@ limitations in Django 1.4
     * __year/month/day/week_day
 
 * Author of pluggable apps may have to handle two cases
+
+Key learnings
+=================
+
+1. A datetime is a point in time. A date is a calendaring concept.
+2. Use aware datetimes in UTC and convert to local time for humans.
