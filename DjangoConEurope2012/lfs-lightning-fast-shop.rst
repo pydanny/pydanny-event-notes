@@ -33,6 +33,7 @@ QUESTION: I've heard it's hard to use because of the focus on VAT. Is that true?
 Samples
 =========
 
+* http://demmelhuber.net
 * https://www.anwaltakademie.de/
 * http://www.holzimgarten.de/ 
 
@@ -84,3 +85,5 @@ Development
 * Every new feature must have a real live use case
 * Every new feature must have tests
 * Every new feature must have documentation
+* Using Jenkins for CI
+* Deprecations over two releases
