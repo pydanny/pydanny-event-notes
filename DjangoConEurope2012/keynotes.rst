@@ -220,8 +220,16 @@ Why did she become so active?
 * Puzzles!
 * Long range-goal: get a job
 
-What did the Django community gain?
-------------------------------------
+What did the Django community gain from Karen's involvement?
+------------------------------------------------------------------------
+
 * Lots of triage/bugfixes prior to 1.0
 * Some features/bugfixes since 1.0
 * Helped many people learn Django
+
+What did she gain out of Django?
+------------------------------------
+
+* Become core committer in 2008
+* Asked to write a book in 2009 (got published in 2010)
+* Got a great job in 2010
