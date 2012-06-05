@@ -13,4 +13,5 @@ Wasted cycles on Bitbucket
 => SSHD => conq (Python) => git/hg
 
 * conq is our custom SSH shell
-* conqu imports Django ORM and Bitbucket code
+* conq imports Django ORM and Bitbucket code
+* takes ~1.41 seconds to start (spawns ~50/second)
