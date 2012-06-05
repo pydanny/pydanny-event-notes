@@ -1,5 +1,5 @@
 ================================================================
-Arkestra: semantic information publishing for organisations
+Arkestra: semantic information publishing for organizations
 ================================================================
 
 by Daniele Procida
