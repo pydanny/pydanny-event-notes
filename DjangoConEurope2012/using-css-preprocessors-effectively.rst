@@ -22,3 +22,19 @@ Issues with CSS
 * No Variables
 * No hierarchy
 * Prefixes
+* Sprites
+* Lack of abstraction
+
+Solution: CSS Preprocessors
+==============================
+
+Choosing a Preprocessor
+
+Sass
+----
+
+* Official implementation is in Ruby
+* Two dialects scss and sass
+* Sassy CSS
+* Syntactically Awesome Stylesheets
+
