@@ -47,3 +47,14 @@ LESS
 * Now implemented using JavaScript in Node.js
 * Can be compiled on the client and using Node.js
 * Twitter bootstrap uses LESS
+
+Which one?
+----------
+
+* Features virtually equivalent
+* Both are a superset of CSS
+* He recommends SCSS
+
+    * More explicit syntax
+    * Compass offers lots of goodies
+    * Decent Python implementation
