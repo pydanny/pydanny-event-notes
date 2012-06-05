@@ -43,3 +43,9 @@ Slowness in Web Apps
     
 * excessive IO (disk/network)
 * evil regex: ``r'^(a+)+$'``
+
+consequences
+--------------
+
+* 503 - worker pools full
+* 500 if requests time out (Gunicorn SIGKILL)
