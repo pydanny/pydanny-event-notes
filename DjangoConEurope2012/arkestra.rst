@@ -35,4 +35,10 @@ Informtation, not just data
 Organization
 ============
 
-* Can you model 
+* Can you model a CMS based off an organization?
+
+    * Yes: See what we did on http://science.nasa.gov/
+    
+* He created a concept of ``entity``
+
+    * forthcoming
