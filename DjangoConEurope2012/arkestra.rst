@@ -62,3 +62,13 @@ Django-CMS and Arkestra
 * have been developed alongside each other
 * portions of Django CMS conceived as part of Arkestra
 * integration with pages, placeholders/plugins, menus
+
+The Semantic Presentation Editor
+==================================
+
+The problem:
+
+* Create complex, flexible, multiple-column layouts
+* produce well-structured semantic HTML
+* Need no HTML/CSS skills
+
