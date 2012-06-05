@@ -159,3 +159,9 @@ Puzzle Database
 * Aid in constructing puzzles, accessible from construction tool
 * Amassed over ~5 years
 * ~5,000 puzzles, ~100,000 unique entries, ~500,000 clues
+
+Project: Web front-end for database
+------------------------------------
+
+* Primary goal: better ability to see data in crossword puzzle tool
+* Secondary goal: learn Python
