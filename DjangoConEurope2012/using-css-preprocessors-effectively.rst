@@ -30,11 +30,20 @@ Solution: CSS Preprocessors
 
 Choosing a Preprocessor
 
-Sass
+SASS
 ----
 
 * Official implementation is in Ruby
 * Two dialects scss and sass
 * Sassy CSS
 * Syntactically Awesome Stylesheets
+* PySCSS is an implementaton of SCSS in Python
+* Compass is 
 
+LESS
+----
+
+* Originally written in Ruby
+* Now implemented using JavaScript in Node.js
+* Can be compiled on the client and using Node.js
+* Twitter bootstrap uses LESS
