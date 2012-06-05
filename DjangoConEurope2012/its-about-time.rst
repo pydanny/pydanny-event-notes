@@ -105,3 +105,5 @@ limitations in Django 1.4
 * QuerySet.dates()
 
     * __year/month/day/week_day
+
+* Author of pluggable apps may have to handle two cases
