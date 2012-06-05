@@ -10,7 +10,7 @@ by Erik van Zijst
 Case study: Wasted cycles on Bitbucket
 =======================================
 
-=> SSHD => conq (Python) => git/hg
+``=> SSHD => conq (Python) => git/hg``
 
 * conq is our custom SSH shell
 * conq imports Django ORM and Bitbucket code
