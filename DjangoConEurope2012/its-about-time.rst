@@ -26,3 +26,16 @@ RFC 3339
         tzinfo=FixedOffset(120)
     )
     
+Time zones add complexity
+
+aware vs naive datetimes
+============================
+
+.. code-block:: python
+
+    >>> naive = datetime(2012, 6, 5, 16, 15)
+    >>> tz = timzeone("Europe/Paris")
+    >>> aware - tz.localize(naive)
+    >>> naive - aware
+    
+From the Python docs: Whether a naive datetime object represents UTC, local time, or time in some other timezone is purely up to the program.
