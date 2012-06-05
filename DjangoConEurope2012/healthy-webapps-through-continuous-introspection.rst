@@ -49,3 +49,5 @@ consequences
 
 * 503 - worker pools full
 * 500 if requests time out (Gunicorn SIGKILL)
+
+The latter is best avoided as it destroys forensic evidence and leaves stale state (e.g. lock files)
