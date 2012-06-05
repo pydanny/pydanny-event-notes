@@ -29,3 +29,8 @@ Numbers & Facts
 * ~40 known shops
 
 QUESTION: I've heard it's hard to use because of the focus on VAT. Is that true?
+
+Samples
+=========
+
+stuff
