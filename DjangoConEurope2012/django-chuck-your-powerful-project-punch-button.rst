@@ -4,6 +4,8 @@ Django Chuck - Your powerful project punch button
 
 by Bastian Ballmann and Lukas Bünger
 
+.. note:: Looks to be an amazing, modular tool for standing up projects easily. Missed most of the talk so my notes are incomplete.
+
 Why the name Chuck?
 ========================
 
@@ -66,3 +68,5 @@ Setup an existing project from source
 .. parsed-literal::
 
     chuck setup_project git@whatever.com:your-project.git
+    
+.. note:: Stepped away for things. 
