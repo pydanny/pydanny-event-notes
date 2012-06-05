@@ -36,9 +36,7 @@ Organization
 ============
 
 * Can you model a CMS based off an organization?
-
-    * Yes: See what we did on http://science.nasa.gov/
-    
 * He created a concept of ``entity``
+* Many interconnections of content and data
 
-    * forthcoming
+.. note:: We did a very similar effort on http://science.nasa.gov/
