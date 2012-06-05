@@ -211,6 +211,11 @@ Plea: encourage women
 * Please don't join in bad behavior
 * Speak out against it when you see it
 
+Why did she become so active?
+-----------------------------
 
-
-
+* Learn more about Django
+* Improve communication skills
+* Help people
+* Puzzles!
+* Long range-goal: get a job
