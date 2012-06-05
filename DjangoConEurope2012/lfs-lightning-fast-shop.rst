@@ -51,3 +51,19 @@ Properties
 * Create variants & configurable products
 * Filtering
 * Select field, float field, and text field
+
+Accessories
+============
+
+* Lets you tack accessory products to a product
+
+    * Roofs could list nails and tiles
+    * MBA could list Sublime Text 2
+    
+Variable Payment Methods
+===========================
+
+* Credit
+* Debit
+* PayPal
+* Pluggable so we can add Stripe
