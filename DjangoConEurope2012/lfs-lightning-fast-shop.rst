@@ -11,6 +11,7 @@ by Kai Diefenbach
 * Lead on LFS
 * http://diefenba.ch/
 * http://twitter.com/diefenbach
+* Slides: https://speakerdeck.com/u/diefenbach/p/lfs-an-online-shop-based-on-django
 
 LF = Lightning Fast WTF?
 ============================
