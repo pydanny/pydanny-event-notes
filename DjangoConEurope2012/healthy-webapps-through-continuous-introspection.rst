@@ -27,3 +27,13 @@ Lessons learned
 
 * Test your stuff
 * Monitor your servers
+
+Common problems
+===============
+
+Slowness in Web Apps
+---------------------
+
+* Slow SQL queries (or too many!)
+
+
