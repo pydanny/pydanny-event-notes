@@ -48,3 +48,9 @@ Organization
 
     * not so well organized.
     * grown organically during the course of a number of badly run meetings
+    
+Don't waste people's time
+=================================
+
+* Make everything re-usable and re-use it
+* Make it easier to re-use then re-enter
