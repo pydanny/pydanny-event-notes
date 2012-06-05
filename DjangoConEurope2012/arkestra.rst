@@ -5,7 +5,9 @@ Arkestra: semantic information publishing for organizations
 by Daniele Procida
 
 * Works at Cardiff University School of Medicine
-* http://medicine.cf.ac.uk
+* http://medicine.cf.ac.uk is his main site
+* http://arkestra-project.org/
+* http://readthedocs.org/docs/arkestra/
 
 .. note:: Good talk but some slides had too many bullets. 
 
