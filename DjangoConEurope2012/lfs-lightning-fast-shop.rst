@@ -2,11 +2,15 @@
 LFS - Lightning Fast Shop
 =========================
 
+http://www.getlfs.com/
+
 by Kai Diefenbach
 
 * Living in Germany
 * Does Python and Django
 * Lead on LFS
+* http://diefenba.ch/
+* http://twitter.com/diefenbach
 
 LF = Lightning Fast WTF?
 ============================
