@@ -35,5 +35,8 @@ Slowness in Web Apps
 ---------------------
 
 * Slow SQL queries (or too many!)
+* lock contention
 
-
+    * between threads
+    * database table/row locks
+    * fine locks (git/hg)
