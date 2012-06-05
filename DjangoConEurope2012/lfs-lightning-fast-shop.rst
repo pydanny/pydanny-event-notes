@@ -45,7 +45,10 @@ Features
 * Downloadable products coming soon!
 * Topsellers
 * Vouchers
-
+* SEO
+* Sitemaps
+* Prepared for Google Analytics
+* Good URL patterns
 
 Properties
 ============
