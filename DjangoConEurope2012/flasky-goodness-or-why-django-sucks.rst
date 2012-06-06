@@ -168,3 +168,8 @@ Flask Improvements
 * Configuration is a simple dictionary
 * It's hard to build monolithic applications
 * Response objects are WSGI applications
+* Werzueg debugger
+* No import-time side effects
+* Signals system outside of ORM
+* Tests are simpler with real app objects
+* ``return (content, status)``
