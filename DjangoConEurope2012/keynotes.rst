@@ -273,7 +273,7 @@ Accessibility
 * Cognitive
 
 Visual Accessibility
-----------------------
+~~~~~~~~~~~~~~~~~~~~
 
 * 7-10% of Caucasian men haver some form for color blindness
 * 2.6% of the global population is visually impaired
@@ -283,9 +283,42 @@ Visual Accessibility
 .. note:: From 2000 to 2010 I was heavily involved in Section 508 implementations for various US government funded projects including http://science.nasa.gov/
 
 Accessibility Guidelines
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Alt-text on images
 * Accessible intra- and inter-page navigation
 * Audio and video accessibilut: captions, transcriptions
+* Indicate important info by other things besides just color
 * TODO: Finish
+
+Django Accessibility
+~~~~~~~~~~~~~~~~~~~~
+
+* How can Django help people avoid, detect, and address accessibility issues?
+* Set a good example: audit ourselves!
+
+    * Websites
+    * Conferences
+
+* Accessibility tutorial?
+* Accessibility checklist?
+* Warnings on easily correctable issues?
+
+Security
+---------
+
+Django handles the following:
+
+* XSS
+* CSRF
+    
+    * But instruction on how to do it with POSTS could be better
+    
+* SQL Injection
+
+    * Warnings on RAW SQL could be better
+    
+* Clickjacking
+
+    * Super easy to enable, but not set by default
+    * Documentation on this is kind of buried
