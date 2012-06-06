@@ -97,7 +97,7 @@ CONSTRAINTS FOSTER CREATIVITY
 ===============================
 
 * Having rules gives you an environment in which to play.
-* Text Editors vs IDEs
+* Text Editors vs IDEs (Vim lets you do so much, Sublime Text limits what you can do)
 * Prime vs Zoom Lenses
 * Mac OS X vs Desktop Linux
 * Pen/paper vs electronic notes
