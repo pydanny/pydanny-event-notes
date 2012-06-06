@@ -44,3 +44,11 @@ Run and forget
 * Forget about them
 * Alert me when things break
 
+Sample standing up an app
+================================
+
+.. code-block:: bash
+
+    git clone git://github.com/opencomparison/opencomparison.git
+    heroku create -s cedar
+    git push heroku master
