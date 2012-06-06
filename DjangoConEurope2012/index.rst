@@ -21,6 +21,7 @@ DjangoCon Europe 2012
    its-about-time
    healthy-webapps-through-continuous-introspection
    adding-tests-to-an-uncovered-application
+   implementing-real-time-web-apps-with-django
    
 General Notes
 --------------
