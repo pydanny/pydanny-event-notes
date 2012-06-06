@@ -73,7 +73,11 @@ Dev and staging and production should be identical
     AWS_ACCESS_KEY_ID = os.environ.get('AWS_ACCESS_KEY_ID')
     
     
-Tools Heroku uses
-===================
+More philosophies Heroku uses
+======================================
+
+"Let engineers be engineers"
 
 You choose the tools to get the job done, you support the API for others, you own the features to make users happier, you ensure it works, you carry the pager
+
+Broad focus around quality, quality comes from solid engineering, give time to engineers, get stuff done.
