@@ -15,3 +15,4 @@ What is Heroku?
 * 4000 heroku apps
 * 500+ releases a day
 * 200+ deploys a day
+* 105 public github repos
