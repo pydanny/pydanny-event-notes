@@ -317,8 +317,13 @@ Django handles the following:
 * SQL Injection
 
     * Warnings on RAW SQL could be better
+    * ORM is EXTREMELY secure
     
 * Clickjacking
 
     * Super easy to enable, but not set by default
     * Documentation on this is kind of buried
+    
+* Cookies
+
+    * Important things are possibly set the wrong way
