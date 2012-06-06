@@ -113,7 +113,7 @@ Build for services
 
 **Results in composability**
 
-QUESTION: SOA often is a nightmare because of lack of Documentation and contracts. When that happens how do you deal with that?
+
 
 Django: For API Services
 =============================
@@ -181,3 +181,9 @@ Popular Flask Extensions
 * Flask-Celery: Delayed jobs
 * Flask-Script: Management commands
 * Flask-WTF: Form Validation
+
+Services are agnostic
+=======================
+
+* Just speak HTTP
+* Use both Django and Flask
