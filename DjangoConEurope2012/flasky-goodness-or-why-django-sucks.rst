@@ -97,3 +97,8 @@ CONSTRAINTS FOSTER CREATIVITY
 ===============================
 
 * Having rules gives you an environment in which to play.
+* Text Editors vs IDEs
+* Prime vs Zoom Lenses
+* Mac OS X vs Desktop Linux
+* Pen/paper vs electronic notes
+
