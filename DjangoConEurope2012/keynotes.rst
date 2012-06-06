@@ -246,3 +246,8 @@ Get involved!
 * Feature development
 * Patch review
 * Blogs
+
+Jessica McKellar
+=================
+
+forthcoming
