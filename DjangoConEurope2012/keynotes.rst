@@ -250,4 +250,24 @@ Get involved!
 Jessica McKellar
 =================
 
-forthcoming
+* http://twitter.com/jessicamckellar
+* http://jesstess.com
+* Kernal Engineer
+* PSF Board Director
+* Co-lead of Boston Python
+
+Theme talk
+------------------
+
+ * Make me make good choices
+ 
+    * How to make a proper internationalized site
+    * Education and best practices by default for novice web developers
+    
+Accessibility
+---------------
+
+* Visual
+* Motor
+* Auditory
+* Cognitive
