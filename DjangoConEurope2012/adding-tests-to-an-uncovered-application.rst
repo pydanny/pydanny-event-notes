@@ -15,3 +15,10 @@ When to automate testing?
 ==============================
 
 * Think about time: can you spend the time to write these tests?
+
+Types of Tests
+-----------------
+
+* Acceptance tests
+* Functional tests
+* Unit tests
