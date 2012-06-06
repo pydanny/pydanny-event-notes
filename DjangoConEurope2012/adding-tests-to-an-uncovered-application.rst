@@ -22,3 +22,11 @@ Types of Tests
 * Acceptance tests
 * Functional tests
 * Unit tests
+
+Libraries to find things without tests
+--------------------------------------------
+
+.. parsed-literal::
+
+    lettuce
+    sprinter
