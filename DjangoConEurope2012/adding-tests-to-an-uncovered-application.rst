@@ -4,6 +4,8 @@ Adding tests to an uncovered application
 
 by Zach Smith
 
+* Slides: https://speakerdeck.com/u/zmsmith/p/adding-tests-to-an-uncovered-app
+
 Instagram started as burbn
 ============================
 

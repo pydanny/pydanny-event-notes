@@ -14,3 +14,5 @@ New Developer
 * Started last fall
 * Ran into problems with signing up for classes because of her last name
 * Comes from a financial background
+* correlation vs causation
+
