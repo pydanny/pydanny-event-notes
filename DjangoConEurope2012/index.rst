@@ -23,6 +23,7 @@ DjangoCon Europe 2012
    adding-tests-to-an-uncovered-application
    implementing-real-time-web-apps-with-django
    how-heroku-uses-heroku-to-build-heroku
+   involving-women-in-the-community
    
 General Notes
 --------------
