@@ -16,3 +16,14 @@ Why real time?
 * Make the web feel like native apps
 * Showing live data
 * Collaboration is much easier
+
+Finding the right tool
+========================
+
+* Criterias
+
+    * Use websockets but has fallbacks
+    * Good browser support including old IE
+    * Should be usable from Python
+    * Does not require extensive changes in frontend
+    * As fast as it can be
