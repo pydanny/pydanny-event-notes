@@ -40,3 +40,11 @@ The tools you want
 
     * one interface for all transport methods (sockets, polling, etc)
     * Compatible with almost everything
+    
+Why not implement it in Python?
+===================================
+
+* Already active community
+* Can be used from python without too much trouble
+* Most people know very basic javascript
+* More importantly, frontend engineers know javascript and can therefore contribute to the different browser-specific implementations.
