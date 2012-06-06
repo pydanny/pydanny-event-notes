@@ -333,3 +333,25 @@ django-secure
 
 * Great little app.
 * But if there are that many stupid little things that need to be checked, maybe the defaults should be changed?
+
+How about a security tutorial?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Teach people from the start what they should be doing
+* Include a security checklist
+
+Internationalization
+---------------------
+
+Done:
+
+* Localization
+* Translation
+* Timezones
+* Django natively supports Unicode data everywhere
+
+django.contrib.auth.models.User
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* First name and last name is very specific to certain Western European nations.
+* Work is being done to make the User model properly extendable
