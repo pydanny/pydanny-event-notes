@@ -91,3 +91,16 @@ Hosting socket.io
 * Recommended to expose the node server directly
 
     * But hey, it's node.js, it scales!
+    
+Using this today?
+==================
+
+* Maybe not
+* Do some research
+
+Client Authentication
+=======================
+
+* Socket.io handles authentication from node -> client
+* Currently no authentication between django and node
+* Could possibly be solved by storing your sessions in redis and checking them between systems
