@@ -25,9 +25,9 @@ Opened the floor to questions and discussion
 
 .. note:: Cause if you ignore the problem, it goes away, right?
 
-"Sauna statements with mention of female body parts."
+Paraphrasing: "Sauna statements with mention of female body parts."
 
-.. note:: WHAT THE FUCK?
+.. note:: WHAT THE FUCK?!?
 
 * "Hire anyone because they are smart, not because of gender."
 
