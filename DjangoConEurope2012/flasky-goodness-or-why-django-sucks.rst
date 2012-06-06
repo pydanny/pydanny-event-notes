@@ -81,3 +81,12 @@ Single Codebases are great
 * Shared modules keep you dry
 * Make broad, sweeping changes
 * Only need to deploy once
+
+Single codebases are EVIL!
+==============================
+
+* Tight coupling of components
+* Broad tribal knowledge required
+* Iterative change of components difficult
+* Technical debt has a tendency to spread
+* Forced to deploy everything at once.
