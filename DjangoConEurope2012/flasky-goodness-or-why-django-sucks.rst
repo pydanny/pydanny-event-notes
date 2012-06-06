@@ -22,3 +22,10 @@ Hos Open Source work
     * HTTP for humans
 
 * httpbin.org
+
+* legit: Git workflow for Humans
+* Envoy: Subprocess for Humans
+* Tablib: Tabular Data for Humans
+* Clint: CLI App Toolkit
+* Autoenv: Magic Shell Environments
+* OSX-GCC Installer: Provokes Lawyers
