@@ -18,3 +18,13 @@ What is Heroku?
 * 105 public github repos
 * 85 people across 21 teams
 * a cloud unix
+
+Do 1 thing and do it well
+=========================
+
+* Small functional apps
+* KISSMetrics Data Loader
+
+    * Open DB connection
+    * Run query
+    * Post data
