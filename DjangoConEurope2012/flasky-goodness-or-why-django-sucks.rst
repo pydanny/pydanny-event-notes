@@ -20,3 +20,5 @@ Hos Open Source work
 * http://python-requests.org
 
     * HTTP for humans
+
+* httpbin.org
