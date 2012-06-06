@@ -351,6 +351,10 @@ Done:
 * Translation
 * Timezones
 * Django natively supports Unicode data everywhere
+* How about:
+
+    * Internationalization tutorial?
+    * Internationalization checklist?
 
 django.contrib.auth.models.User
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
