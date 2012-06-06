@@ -23,10 +23,9 @@ Types of Tests
 * Functional tests
 * Unit tests
 
-Libraries to find things without tests
+Libraries to help increase test coverage
 --------------------------------------------
 
-.. parsed-literal::
-
-    lettuce
-    sprinter
+* lettuce
+* sprinter
+    
