@@ -114,3 +114,19 @@ Build for services
 **Results in composability**
 
 Question: SOA often is a nightmare because of lack of Documentation and contracts. When that happens how do you deal with that?
+
+Django: For API Services
+=============================
+
+* Significant boilerplate code for simple views
+* No need to templates, tags, etc
+* API Libraries are buggy; could use some love
+* if ``request.method == 'POST'``
+
+Django: For API Consumer
+=============================
+
+* Keep in mind, database is handled by the API
+* Makes modular decisions for you
+* Deals with the database for you
+* Installable third-party Django apps
