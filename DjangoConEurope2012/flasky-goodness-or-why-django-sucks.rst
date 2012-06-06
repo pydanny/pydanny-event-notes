@@ -61,4 +61,23 @@ Django Application
     * Supporting Services
 
 * Web Process
+
+    * User Interface
+    * API
+    * Data Persistence
+    * CRUD Admin
+    * Authentication
+    
 * Worker Process
+
+    * Deferred Tasks
+    * Scheduled Tasks
+
+Single Codebases are great
+============================
+
+* All the benefits of the Django stack
+* Figure out architecture as you go
+* Shared modules keep you dry
+* Make broad, sweeping changes
+* Only need to deploy once
