@@ -149,3 +149,12 @@ Flask Familiarities
 * Heavily tested, 1500 lines of tests
 * Exhaustively document; 200 pages of docs
 * Layered API; built on Werkzeug, WSGI
+
+Flask Differences
+===================
+
+* Explicit & Passable app objects
+* Simple, elegant API. No boiler player
+* BYOB: Bring your own batteries
+* No built-in ORM or form validation
+* Context locals. Keeps things looking clean
