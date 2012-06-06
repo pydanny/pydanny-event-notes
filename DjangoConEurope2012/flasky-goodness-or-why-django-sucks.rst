@@ -90,3 +90,10 @@ Single codebases are EVIL!
 * Iterative change of components difficult
 * Technical debt has a tendency to spread
 * Forced to deploy everything at once.
+
+Anything is possible... but that ends up with a monolithic application.
+
+CONSTRAINTS FOSTER CREATIVITY
+===============================
+
+* Having rules gives you an environment in which to play.
