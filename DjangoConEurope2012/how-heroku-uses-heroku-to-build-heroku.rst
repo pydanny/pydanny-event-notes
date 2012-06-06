@@ -16,3 +16,4 @@ What is Heroku?
 * 500+ releases a day
 * 200+ deploys a day
 * 105 public github repos
+* 85 people across 21 teams
