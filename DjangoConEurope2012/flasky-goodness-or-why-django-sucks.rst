@@ -10,11 +10,13 @@ by Kenneth Reitz
 Hos Open Source work
 ==========================
 
-* python-guide.org
+* http://python-guide.org
 
     * Documented best practices
     * Guidebook for newcomers
     * Reference for seasoned veterans
     * Don't panic & always carry a towel
 
-* python-requests.org
+* http://python-requests.org
+
+    * HTTP for humans
