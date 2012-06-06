@@ -56,3 +56,38 @@ Using redis for cross-language communications
 * Can be used both as storage and as a queue
 * Implemented in many different languages
 * For the usage in this talk, any other queue could have been used as well
+
+Basic Concept
+==============
+
+* Something happens, the user must be notified in real time
+
+    * From Django we insert the new value into the queue
+    * Node.js listens on the queue
+    
+.. code-block:: javascript
+
+    var io = require('socket.io).listen(8001);
+    var redis = require('redis').createClient();
+    redis.psubscribe("socketio_*");
+    
+    // TODO add the rest
+    
+.. code-block:: html
+
+    <!-- Add this part -->
+    
+.. code-block:: python
+
+    import redis
+    import json
+    redis_subscribe = '???'  # TODO - finish this out
+    
+Hosting socket.io
+===================
+
+* Nginx does not support websockets!
+* Needs its own app, if hosted on an application cloud (e.g. Heroku)
+* Recommended to expose the node server directly
+
+    * But hey, it's node.js, it scales!
