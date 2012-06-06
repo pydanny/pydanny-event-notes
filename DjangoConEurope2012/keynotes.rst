@@ -291,6 +291,8 @@ Accessibility Guidelines
 * Indicate important info by other things besides just color
 * TODO: Finish
 
+See djangoproject.com being fixed! https://github.com/django/django/commit/29a80354ab5e5b85fa37863f70b1cf95646dc699
+
 Django Accessibility
 ~~~~~~~~~~~~~~~~~~~~
 
