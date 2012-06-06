@@ -21,7 +21,7 @@ Hos Open Source work
 
     * HTTP for humans
 
-* httpbin.org
+* http://httpbin.org
 
 * legit: Git workflow for Humans
 * Envoy: Subprocess for Humans
@@ -29,3 +29,12 @@ Hos Open Source work
 * Clint: CLI App Toolkit
 * Autoenv: Magic Shell Environments
 * OSX-GCC Installer: Provokes Lawyers
+
+Open Source All The Things!
+============================
+
+* Components become concise and decoupled
+* Concerns separate themselves
+* Best practices emerge
+* Documentation and tests become crucial
+* Code can be released at any time
