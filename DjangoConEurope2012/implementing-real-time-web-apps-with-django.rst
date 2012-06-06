@@ -9,6 +9,7 @@ by Kristian Ollegaard
 * Danish, but lived in Zurich for 1.5 years
 * http://kristian.io
 * http://twitter.com/oellegaard
+* slides: http://www.slideshare.net/oellegaard/implementing-real-time-web-applications-with-django
 
 Why real time?
 ================
