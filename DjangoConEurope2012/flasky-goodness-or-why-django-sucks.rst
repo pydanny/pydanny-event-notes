@@ -173,3 +173,11 @@ Flask Improvements
 * Signals system outside of ORM
 * Tests are simpler with real app objects
 * ``return (content, status)``
+
+Popular Flask Extensions
+===========================
+
+* Flask-SQLAlchemy: Database Mapper
+* Flask-Celery: Delayed jobs
+* Flask-Script: Management commands
+* Flask-WTF: Form Validation
