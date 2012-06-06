@@ -158,3 +158,13 @@ Flask Differences
 * BYOB: Bring your own batteries
 * No built-in ORM or form validation
 * Context locals. Keeps things looking clean
+
+Flask Improvements
+====================
+
+* Fewer batteries == greater flexibility
+* Jinja2 is an incredible template system
+* Everything harnesses actual references
+* Configuration is a simple dictionary
+* It's hard to build monolithic applications
+* Response objects are WSGI applications
