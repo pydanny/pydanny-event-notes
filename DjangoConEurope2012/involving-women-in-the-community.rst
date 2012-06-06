@@ -31,4 +31,8 @@ Paraphrasing: "Sauna statements with mention of female body parts."
 
 * "Hire anyone because they are smart, not because of gender."
 
-.. note:: Brilliant
+.. note:: YES! If you are having trouble finding developers, hire smart people regardless of their race, gender, creed, etc and train them up.
+
+* "I have a game: Any time someone says, 'Women tend to' or 'Men tend to', interrupt them and yell 'BULLSHIT!'"
+
+.. note:: Brilliant! I'm going to play this game.
