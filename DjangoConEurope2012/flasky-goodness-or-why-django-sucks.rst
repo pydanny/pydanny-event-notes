@@ -113,7 +113,7 @@ Build for services
 
 **Results in composability**
 
-Question: SOA often is a nightmare because of lack of Documentation and contracts. When that happens how do you deal with that?
+QUESTION: SOA often is a nightmare because of lack of Documentation and contracts. When that happens how do you deal with that?
 
 Django: For API Services
 =============================
@@ -130,3 +130,10 @@ Django: For API Consumer
 * Makes modular decisions for you
 * Deals with the database for you
 * Installable third-party Django apps
+
+Enter Flask
+=============
+
+* HTTP Web Framework based on Werkzeug
+* Excellent for building web services
+* Elegant and simple
