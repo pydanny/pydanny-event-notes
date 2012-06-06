@@ -20,6 +20,7 @@ DjangoCon Europe 2012
    django-chuck-your-powerful-project-punch-button
    its-about-time
    healthy-webapps-through-continuous-introspection
+   adding-tests-to-an-uncovered-application
    
 General Notes
 --------------
