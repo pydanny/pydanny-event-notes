@@ -14,4 +14,4 @@ Instagram started as burbn
 When to automate testing?
 ==============================
 
-* Think about time
+* Think about time: can you spend the time to write these tests?
