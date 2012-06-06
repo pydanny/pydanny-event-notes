@@ -11,4 +11,4 @@ What is Heroku?
 =================
 
 * Platform as a Service (PaaS)
-* focuses on developers
+* focuses on developer productivity
