@@ -94,3 +94,4 @@ Focus on Quality
 
 * Make good art
 * Hire for quality and culture
+* Quality doesn't work with deadlines
