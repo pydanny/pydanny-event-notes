@@ -356,6 +356,8 @@ Done:
     * Internationalization tutorial?
     * Internationalization checklist?
 
+Existing Security pages exists, but needs work: https://docs.djangoproject.com/en/1.4/topics/security/
+
 django.contrib.auth.models.User
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
