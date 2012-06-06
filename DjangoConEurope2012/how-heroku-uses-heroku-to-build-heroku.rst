@@ -12,3 +12,6 @@ What is Heroku?
 
 * Platform as a Service (PaaS)
 * focuses on developer productivity
+* 4000 heroku apps
+* 500+ releases a day
+* 200+ deploys a day
