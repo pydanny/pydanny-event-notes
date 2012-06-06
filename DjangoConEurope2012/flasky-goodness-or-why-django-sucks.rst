@@ -141,8 +141,8 @@ Enter Flask
 Flask Familiarities
 ====================
 
-* WSGI Applicaton Framework
-* jinja2
+* WSGI Application Framework
+* Jinja2
 * activity community
 * Started an April Fool's joke
 * Just 800 lines of code
