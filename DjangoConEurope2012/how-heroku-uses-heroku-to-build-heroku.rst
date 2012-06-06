@@ -19,8 +19,17 @@ What is Heroku?
 * 85 people across 21 teams
 * a cloud unix
 
+Philosophies
+===============
+
+* Do 1 thing and do it well
+* Run and forget
+* Defined Contract/API
+* Developer Environments
+* Environment Parity
+
 Do 1 thing and do it well
-=========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Small functional apps
 * KISSMetrics Data Loader
@@ -37,7 +46,7 @@ Do 1 thing and do it well
     * Core
     
 Run and forget
-================
+~~~~~~~~~~~~~~~~
 
 * Start an app
 * Let them run
@@ -45,7 +54,7 @@ Run and forget
 * Alert me when things break
 
 Sample standing up an app
-================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: bash
 
