@@ -61,3 +61,14 @@ Sample standing up an app
     git clone git://github.com/opencomparison/opencomparison.git
     heroku create -s cedar
     git push heroku master
+
+Environmental Parity
+=====================
+
+Dev and staging and production should be identical
+
+.. code-block:: python
+
+    DEFAULT_FROM_EMAIL = os.environ.get('DEFAULT_FROM_EMAIL', 'pydanny <pydanny@cartwheelweb.com>')    
+    AWS_ACCESS_KEY_ID = os.environ.get('AWS_ACCESS_KEY_ID')
+    
