@@ -24,6 +24,7 @@ DjangoCon Europe 2012
    implementing-real-time-web-apps-with-django
    how-heroku-uses-heroku-to-build-heroku
    involving-women-in-the-community
+   flasky-goodness-or-why-django-sucks
    
 General Notes
 --------------
