@@ -271,3 +271,11 @@ Accessibility
 * Motor
 * Auditory
 * Cognitive
+
+Visual Accessibility
+----------------------
+
+* 7-10% of Caucasian men haver some form for color blindness
+* 2.6% of the global population is visually impaired
+* http://www.w3.org/WAI/
+* http://www.section508.gov
