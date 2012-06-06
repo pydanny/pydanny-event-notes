@@ -23,7 +23,7 @@ Opened the floor to questions and discussion
 
 "I don't think we should care that much, because if we care too much then the problem gets bigger."
 
-.. note:: Cause if you ignore the problem, it goes away, right?
+.. note:: Cause if you ignore the problem, it goes away, right? This is a really bad path to take.
 
 Paraphrasing: "Sauna statements with mention of female body parts."
 
