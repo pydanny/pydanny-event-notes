@@ -72,3 +72,8 @@ Dev and staging and production should be identical
     DEFAULT_FROM_EMAIL = os.environ.get('DEFAULT_FROM_EMAIL', 'pydanny <pydanny@cartwheelweb.com>')    
     AWS_ACCESS_KEY_ID = os.environ.get('AWS_ACCESS_KEY_ID')
     
+    
+Tools Heroku uses
+===================
+
+You choose the tools to get the job done, you support the API for others, you own the features to make users happier, you ensure it works, you carry the pager
