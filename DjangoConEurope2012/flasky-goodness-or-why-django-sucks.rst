@@ -51,3 +51,14 @@ Why pick Django?
 * Installable third-party Django apps
 * Tremendous resources & Community
 * much more cause anything is possible!
+
+Django Application
+======================
+
+* Tools & Utilities
+
+    * Management Tools
+    * Supporting Services
+
+* Web Process
+* Worker Process
