@@ -279,3 +279,13 @@ Visual Accessibility
 * 2.6% of the global population is visually impaired
 * http://www.w3.org/WAI/
 * http://www.section508.gov
+
+.. note:: From 2000 to 2010 I was heavily involved in Section 508 implementations for various US government funded projects including http://science.nasa.gov/
+
+Accessibility Guidelines
+-------------------------
+
+* Alt-text on images
+* Accessible intra- and inter-page navigation
+* Audio and video accessibilut: captions, transcriptions
+* TODO: Finish
