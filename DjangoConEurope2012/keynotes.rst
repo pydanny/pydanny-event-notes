@@ -361,3 +361,19 @@ django.contrib.auth.models.User
 
 * First name and last name is very specific to certain Western European nations.
 * Work is being done to make the User model properly extendable
+
+Gender Issues
+---------------
+
+Code samples at djangoproject.com are gender specific:
+
+.. code-block:: python
+
+    class Foo(models.Model):
+        GENDER_CHOICES = (
+            ('M', 'Male'),
+            ('F', 'Female'),            
+        )
+        gender = models.CharField(max_length=1, choices=GENDER_CHOICES)
+        
+Our examples should not get locked into examples from which people could feel excluded by because of personal life choices.
