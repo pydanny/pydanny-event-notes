@@ -16,3 +16,4 @@ New Developer
 * Comes from a financial background
 * correlation vs causation
 
+    * http://xkcd.com/552/
