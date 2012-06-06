@@ -327,3 +327,9 @@ Django handles the following:
 * Cookies
 
     * Important things are possibly set the wrong way
+
+django-secure
+~~~~~~~~~~~~~~~
+
+* Great little app.
+* But if there are that many stupid little things that need to be checked, maybe the defaults should be changed?
