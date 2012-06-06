@@ -83,7 +83,9 @@ Basic Concept
 
     import redis
     import json
-    redis_subscribe = '???'  # TODO - finish this out
+    redis_subscribe = redis.StrictRedis()
+    redis_subscribe.publish('socketio_news',
+                            json.dumps("Hey, how are you?"))
     
 Hosting socket.io
 ===================
