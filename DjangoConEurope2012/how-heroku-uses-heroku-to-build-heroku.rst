@@ -5,4 +5,4 @@ How Heroku Uses Heroku To Build Heroku
 by Craig Kerstiens
 
 * Works at Heroku
-* http://twitter.com/
+* http://twitter.com/craigkerstiens
