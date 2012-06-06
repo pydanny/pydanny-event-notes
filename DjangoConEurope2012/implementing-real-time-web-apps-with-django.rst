@@ -27,3 +27,16 @@ Finding the right tool
     * Should be usable from Python
     * Does not require extensive changes in frontend
     * As fast as it can be
+    
+The tools you want
+===================
+
+* Node.js
+    
+    * Built on Chrome's JavaScript runtime
+    * Uses an event-driven non-blocking I/O model
+    
+* Socket.io
+
+    * one interface for all transport methods (sockets, polling, etc)
+    * Compatible with almost everything
