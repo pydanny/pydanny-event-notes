@@ -22,6 +22,7 @@ DjangoCon Europe 2012
    healthy-webapps-through-continuous-introspection
    adding-tests-to-an-uncovered-application
    implementing-real-time-web-apps-with-django
+   how-heroku-uses-heroku-to-build-heroku
    
 General Notes
 --------------
