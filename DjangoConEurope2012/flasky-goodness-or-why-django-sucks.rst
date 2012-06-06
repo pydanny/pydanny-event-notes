@@ -102,3 +102,14 @@ CONSTRAINTS FOSTER CREATIVITY
 * Mac OS X vs Desktop Linux
 * Pen/paper vs electronic notes
 
+Build for services
+====================
+
+* Components become concise & decoupled
+* Concerns separate themselves
+* Best practices emerge
+* Documentation and contracts become crucial
+
+**Results in composability**
+
+Question: SOA often is a nightmare because of lack of Documentation and contracts
