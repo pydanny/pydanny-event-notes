@@ -36,3 +36,11 @@ Paraphrasing: "Sauna statements with mention of female body parts."
 * "I have a game: Any time someone says, 'Women tend to' or 'Men tend to', interrupt them and yell 'BULLSHIT!'"
 
 .. note:: Brilliant! I'm going to play this game.
+
+* "Is this the right place or platform for this discussion? With so many people watching it's all too easy for me to screw this up and offend someone."
+
+.. note:: Good point. This is very, very hard. We've all made mistakes. I'm not sure what the answer is.
+
+* "For those of you wondering about if it's okay to sponsor women/minorities and give special treatment, it makes a huge difference in the lives of those who benefits. Including Audrey Roy"
+
+.. note:: I agree. :-)
