@@ -38,3 +38,16 @@ Open Source All The Things!
 * Best practices emerge
 * Documentation and tests become crucial
 * Code can be released at any time
+* Abstraction
+
+Let's build something
+========================
+
+Why pick Django?
+
+* Makes modular decisions for you
+* Makes security decisions for you
+* Excellent documentation
+* Installable third-party Django apps
+* Tremendous resources & Community
+* much more cause anything is possible!
