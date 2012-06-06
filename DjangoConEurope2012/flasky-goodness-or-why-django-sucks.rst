@@ -137,3 +137,15 @@ Enter Flask
 * HTTP Web Framework based on Werkzeug
 * Excellent for building web services
 * Elegant and simple
+
+Flask Familiarities
+====================
+
+* WSGI Applicaton Framework
+* jinja2
+* activity community
+* Started an April Fool's joke
+* Just 800 lines of code
+* Heavily tested, 1500 lines of tests
+* Exhaustively document; 200 pages of docs
+* Layered API; built on Werkzeug, WSGI
