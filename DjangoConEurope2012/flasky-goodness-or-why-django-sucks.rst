@@ -109,7 +109,8 @@ Build for services
 * Concerns separate themselves
 * Best practices emerge
 * Documentation and contracts become crucial
+* .. note:: missed some here
 
 **Results in composability**
 
-Question: SOA often is a nightmare because of lack of Documentation and contracts
+Question: SOA often is a nightmare because of lack of Documentation and contracts. When that happens how do you deal with that?
