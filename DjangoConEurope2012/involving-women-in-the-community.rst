@@ -44,3 +44,11 @@ Paraphrasing: "Sauna statements with mention of female body parts."
 "For those of you wondering about if it's okay to sponsor women/minorities and give special treatment, it makes a huge difference in the lives of those who benefits. Including Audrey Roy"
 
 .. note:: I agree. :-)
+
+"Now is the time. Don't let this fade. Our ancestors fought hard for our rights, lets' keep up the cause"
+
+.. note:: Simple summary of my statement
+
+"Don't make sexist jokes"
+
+.. note:: Awesome
