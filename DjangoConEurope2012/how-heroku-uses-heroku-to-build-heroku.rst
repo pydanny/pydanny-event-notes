@@ -87,3 +87,4 @@ Specifics
 * You choose the tools to get the job done, you support the API for others, you own the features to make users happier, you ensure it works, you carry the pager
 * Broad focus around quality, quality comes from solid engineering, give time to engineers, get stuff done.
 * Iterate fast and often, a failed attempt is a successful experiment, culture around seeing/doing over talking
+* Github issues alone doesn't fix communication
