@@ -88,3 +88,9 @@ Specifics
 * Broad focus around quality, quality comes from solid engineering, give time to engineers, get stuff done.
 * Iterate fast and often, a failed attempt is a successful experiment, culture around seeing/doing over talking
 * Github issues alone doesn't fix communication
+
+Focus on Quality
+==================
+
+* Make good art
+* Hire for quality and culture
