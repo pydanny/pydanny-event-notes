@@ -28,3 +28,18 @@ Do 1 thing and do it well
     * Open DB connection
     * Run query
     * Post data
+
+* Others
+
+    * OAuth
+    * Vault
+    * API
+    * Core
+    
+Run and forget
+================
+
+* Start an app
+* Let them run
+* Forget about them
+* Alert me when things break
