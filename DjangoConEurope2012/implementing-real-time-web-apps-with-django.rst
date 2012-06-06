@@ -48,3 +48,11 @@ Why not implement it in Python?
 * Can be used from python without too much trouble
 * Most people know very basic javascript
 * More importantly, frontend engineers know javascript and can therefore contribute to the different browser-specific implementations.
+
+Using redis for cross-language communications
+=================================================
+
+* Support for many datatypes
+* Can be used both as storage and as a queue
+* Implemented in many different languages
+* For the usage in this talk, any other queue could have been used as well
