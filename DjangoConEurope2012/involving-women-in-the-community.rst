@@ -17,3 +17,18 @@ New Developer
 * correlation vs causation
 
     * http://xkcd.com/552/
+
+Opened the floor to questions and discussion
+============================================================
+
+"I don't think we should care that much, because if we care too much then the problem gets bigger."
+
+.. note:: Cause if you ignore the problem, it goes away, right?
+
+"Sauna statements with mention of female body parts."
+
+.. note:: WHAT THE FUCK?
+
+* "Hire anyone because they are smart, not because of gender."
+
+.. note:: Brilliant
