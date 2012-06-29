@@ -14,6 +14,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   PyconPH2012/index
    DjangoConEurope2012/index
    Pycon2012/index
    SCALE10x/index
