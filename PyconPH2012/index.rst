@@ -5,6 +5,13 @@ Pycon Philippines 2012
 Dates: June 30 & July 1
 Venue: University of Philippines, Diliman
 
+Keynote
+-------
+
+I was honored with the opportunity to keynote the event. My slides are available at:
+
+
+
 Talks
 -----
 
