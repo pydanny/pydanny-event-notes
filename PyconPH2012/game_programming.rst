@@ -12,6 +12,7 @@ Quotes
 =======
 
 * "Are you afraid of math? Too bad! In this tutorial you will learn how to math! Scary, isn't it?"
+* If you're not familiar with cartoons I feel very sad for you.
 
 Ph Game Development Industry
 =======================================
