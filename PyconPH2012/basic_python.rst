@@ -5,7 +5,8 @@ Basic Python
 * by http://twitter.com/titopao
 * Python since 2007, but since early 2000s
 * Affiliated of Wikimedia Philippines, Inc
-* Excellent job under challenging conditions. Major equipment issues including the microphone.
+* Major equipment issues including the microphone.
+* Live code writing is never a good idea. :P
 
 About Python
 =============
