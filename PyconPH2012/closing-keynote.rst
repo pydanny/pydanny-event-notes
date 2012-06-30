@@ -19,3 +19,9 @@ Choice Quotes
 * Sphinx pretty much powers all of Python's documentation
 * Trade development knowledge for design knowledge
 * https://github.com/edu
+
+About Bryan
+=============
+
+
+* jdriscoll/django-imagekit
