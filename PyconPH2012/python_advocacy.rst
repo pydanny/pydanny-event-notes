@@ -47,3 +47,17 @@ Prototyping/Gluing
 * Python's simplicity allows easy rewrites of prototypes
 
     * competitive edge over C/C++/Java
+    
+Python is...SIMPLE
+====================
+
+* Faster learning curve
+
+    * Easier to pick up than 'traditional' Filipino CS 101 languages
+    * Focus on thinking, not synxtax
+    
+* More readable than other languages
+
+    * Probably influenced by GvR's math background
+    * Similar to pseudo code
+    * Hard to obfuscate 
