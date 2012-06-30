@@ -103,4 +103,3 @@ Add templates
       |-urls.py
       |-wsgi.py
     |-templates
-
