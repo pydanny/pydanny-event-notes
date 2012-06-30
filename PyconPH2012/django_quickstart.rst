@@ -3,7 +3,7 @@ Django Quickstart
 ==================
 
 * By Marconi (@marconimjr)
-* on Facebook he is Alexander Peirce
+* on Facebook he is 'Alexander Pierce'
 * Wore a github shirt and gave shout out to the pony
 * Built off of Audrey's talk. :-)
 
@@ -61,7 +61,7 @@ Create Django project
 Directory structure
 ====================
 
-.. code-block:: bash
+.. parsed-literal::
 
     quickstart
     |-manage.py
@@ -83,6 +83,24 @@ settings.py
             'NAME':'dev.db',            
         }
     }
+    
+    PROJECT_ROOT = os.xxxxx
 
-    PROJECT ROOT = os.path.split...
+Add templates
+==============
+
+.. code-block:: bash
+
+    mkdir templates
+        
+.. parsed-literal::
+
+    quickstart
+    |-manage.py
+    |-quickstart
+      |-__init__.py
+      |-settings.py
+      |-urls.py
+      |-wsgi.py
+    |-templates
 
