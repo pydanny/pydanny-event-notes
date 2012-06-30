@@ -72,7 +72,6 @@ Pull out the even numbers
 
 .. code-block:: python
 
-    # The old way
     def evens(seq):
         results = []
         for item in seq:
@@ -100,6 +99,8 @@ Pull out the even numbers
         
     evens = partial( filter, is_even)
     
+.. code-block:: python
+
     >>> evens([1, 2, 3, 4, 5])
     [2, 4]
 
@@ -117,3 +118,15 @@ Types of transforms
     * filter()
     * itertools.dropwhile()
     * itertools.takewhile()
+    
+* combining elements (folding)
+
+    * functools.reduce()
+    * manual loops
+    
+        * sometimes a good idea
+        
+* unfolding
+
+    * Manual loops
+    * Recursion (sometimes)

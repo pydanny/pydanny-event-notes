@@ -2,7 +2,8 @@
 Basic Python
 ============
 
-* by http://twitter.com/titopao
+* by Allan Palo Barazone
+* http://twitter.com/titopao
 * Python since 2007, but since early 2000s
 * Affiliated of Wikimedia Philippines, Inc
 * Major equipment issues including the microphone.
