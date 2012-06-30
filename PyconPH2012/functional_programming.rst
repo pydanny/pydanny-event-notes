@@ -45,3 +45,21 @@ Python Functions
 * Functions are first class objects
 * You can pass them around as arguments to other functions
 * You can construct them dynamically
+
+.. code-block:: python
+
+    def my_function():
+        print "hello"
+        
+    def show_string(func, arg):
+        print func() + arg
+        
+    >>> show_string(my_function, " Goodbye!")
+    hello Goodbye!
+    
+Useful language features
+===========================
+
+* **lambda** expressions
+* **functools** module
+* **itertools** module
