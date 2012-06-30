@@ -2,7 +2,7 @@
 Game Programming with Python
 ============================
 
-* by Mr Valdez
+* by Mr Sony Valdez
 * http://twitter.com/mrvaldez
 * Fantastic speaker
 * Need to introduce him to Richard Jones
