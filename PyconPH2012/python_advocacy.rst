@@ -61,3 +61,29 @@ Python is...SIMPLE
     * Probably influenced by GvR's math background
     * Similar to pseudo code
     * Hard to obfuscate 
+
+Works with JAVA and .Net!!!
+===========================
+
+* Reality: IT industry in PH is Java/.Net centric
+* problem:
+
+    * We've already invested in Java/.Net technologies - will we have to rewrite the stuff?
+    * NO!
+    
+Ten things you didn't know that use Python
+===========================================
+
+* Google!
+* YouTube
+
+    * http://highscalability.com/youtube-architecture
+
+* Blender
+* reddit
+* Disqus
+* Dropbox
+* Facebook
+* Instagram
+* Pinterest
+* Pywikipediabot
