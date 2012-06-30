@@ -1,8 +1,8 @@
-======================
+============
 Basic Python
-======================
+============
 
-* by @titopao
+* by http://twitter.com/titopao
 * Python since 2007, but since early 2000s
 * Affiliated of Wikimedia Philippines, Inc
 * Live code writing with a dark shell. :P
@@ -118,3 +118,14 @@ String Operators
     >>> s = 'Hello PyCon'
     >>> s[:5]
     'Hello'
+    
+Sequences
+=========
+
+.. code-block:: python
+
+    >>> l = [1, 2, 3, 4]
+    >>> t = (1, 2, 3, 4)
+    >>> l.append(5)
+    >>> l 
+    [1, 2, 3, 4, 5]
