@@ -102,3 +102,12 @@ Pull out the even numbers
     
     >>> evens([1, 2, 3, 4, 5])
     [2, 4]
+
+Types of transforms
+=====================
+
+* Apply a function to every element
+
+    * map()
+    * list comprehensions [x for x in ...]
+    * generators (x for x in ...)
