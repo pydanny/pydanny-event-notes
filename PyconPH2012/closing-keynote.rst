@@ -9,6 +9,8 @@ Closing Keynote: Design your open source project
 
 .. note:: Beautiful and inspirational!
 
+.. note:: Bryan got schooled on that cats have 3 whiskers per side and the Octocat only has 2 whiskers.
+
 Choice Quotes
 ==============
 
@@ -23,5 +25,5 @@ Choice Quotes
 About Bryan
 =============
 
-
-* jdriscoll/django-imagekit
+* Github employer
+* https://github.com/jdriscoll/django-imagekit

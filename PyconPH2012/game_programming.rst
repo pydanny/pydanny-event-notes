@@ -3,7 +3,7 @@ Game Programming with Python
 ============================
 
 * by Mr Valdez
-* @mrvaldez
+* http://twitter.com/mrvaldez
 * Fantastic speaker
 * Need to introduce him to Richard Jones
 * OMG he used notepad to present and pulled it off!
