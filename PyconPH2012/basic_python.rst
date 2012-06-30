@@ -5,7 +5,7 @@ Basic Python
 * by http://twitter.com/titopao
 * Python since 2007, but since early 2000s
 * Affiliated of Wikimedia Philippines, Inc
-* Live code writing with a dark shell. :P
+* Excellent job under challenging conditions. Major equipment issues including the microphone.
 
 About Python
 =============
@@ -129,3 +129,9 @@ Sequences
     >>> l.append(5)
     >>> l 
     [1, 2, 3, 4, 5]
+    
+Indentation
+============
+
+* Code blocks are defined by indentation
+* The standard is 4 spaces. 
