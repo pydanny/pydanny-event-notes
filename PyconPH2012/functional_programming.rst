@@ -62,4 +62,43 @@ Useful language features
 
 * **lambda** expressions
 * **functools** module
+
+    * TODO: check out partial() capability in **functools**
+
 * **itertools** module
+
+Pull out the even numbers
+==========================
+
+.. code-block:: python
+
+    # The old way
+    def evens(seq):
+        results = []
+        for item in seq:
+            if item % 2 == 0:
+                results.append(item)
+        return results
+        
+    # List comprehension way
+    def evens(seq):
+        results = [x for x in seq if x % 2 == 0]
+        return results
+        
+    # pull out the even numbers
+    def is_even(value):
+        return value % 2 == 0
+        
+    def evens(seq):
+        return filter(is_even, seq)
+    
+    # using partials
+    from functools import partial
+    
+    def is_even(value):
+        return value % 2 == 0
+        
+    evens = partial( filter, is_even)
+    
+    >>> evens([1, 2, 3, 4, 5])
+    [2, 4]
