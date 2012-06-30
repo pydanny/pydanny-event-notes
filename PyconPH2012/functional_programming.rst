@@ -111,3 +111,9 @@ Types of transforms
     * map()
     * list comprehensions [x for x in ...]
     * generators (x for x in ...)
+    
+* Select elements and filtering
+
+    * filter()
+    * itertools.dropwhile()
+    * itertools.takewhile()
