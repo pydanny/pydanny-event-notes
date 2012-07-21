@@ -53,3 +53,9 @@ What is Redis?
     * No master-master, don't even try. In other words, if you have two masters running on the same system, you'll have serious, major, painful issues.
     * Client-side sharding
     * Cluster is in-progress
+
+* Supports data structures + publish.subscribe
+
+    * Strings, Lists, Sets, Hashes, Sorted Sets (ZSETs)
+
+* Server-side scripting with Lua in Redis 2.6
