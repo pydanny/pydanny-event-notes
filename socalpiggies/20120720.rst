@@ -70,3 +70,15 @@ Comparing Redis to other databases/caches
 * Redis
 
     * in-memory, optionally persisted, data structures, very fast, server-side scripting, single-threaded
+
+* MongoDB
+
+    * On-disk, speed inversely related to data integrity, bson, master/slave, sharding, multi-master, server-side map-reduce, database-level locking
+
+* Riak
+
+    * on-disk, pluggable data stores, multi-master sharding, RESTful API, server side map-reduce
+    
+* MySQL/PostgreSQL
+
+    * On-disk/in-memory, pluggable data stores, master/slave, sharding, stored procedures, ...
