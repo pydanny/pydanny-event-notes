@@ -51,3 +51,4 @@ What is Redis?
 * Support for master/slave replication (multiple slaves and slave chaining supported)
 
     * No master-master, don't even try. In other words, if you have two masters running on the same system, you'll have serious, major, painful issues.
+    * Client-side sharding
