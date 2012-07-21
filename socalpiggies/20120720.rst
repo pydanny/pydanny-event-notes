@@ -177,7 +177,11 @@ Why Redis with Python?
 
 .. note:: TODO: Download the slides later and try to get the code examples out.
 
-Cool stuff you can build
-=========================
+Cool stuff you can build with Redis + Python
+==============================================
 
 * Reddit
+* Caching
+* Cookies
+* Analytics
+* Configuration management
