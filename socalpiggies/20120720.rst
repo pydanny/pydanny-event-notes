@@ -38,3 +38,11 @@ Who am I?
 
 * And cool places will hear of: ChowNow
 * Very heavy user of Redis
+* Author of upcoming Redis in Action
+
+What is Redis?
+================
+
+* In-memory database/data structure server
+
+    * Limited to main memory; vm and diskstore defunct
