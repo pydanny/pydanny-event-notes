@@ -66,3 +66,7 @@ Comparing Redis to other databases/caches
 * Memcached
 
     * in-memory, no-persistence, counters, strings, very fast, multi-threaded
+
+* Redis
+
+    * in-memory, optionally persisted, data structures, very fast, server-side scripting, single-threaded
