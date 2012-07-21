@@ -187,3 +187,5 @@ Cool stuff you can build with Redis + Python
 * Configuration management
 * Autocomplete
 * Distributed Locks
+* Counting semaphores
+* Task queues
