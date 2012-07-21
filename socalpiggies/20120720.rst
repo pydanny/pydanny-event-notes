@@ -6,3 +6,5 @@ July 20, 2012
 * Meetup http://www.meetup.com/socalpython/events/71023052/
 * http://www.crosscamp.us/
 * Planned talk: Josiah Carlson, the author of the upcoming Redis in Action
+* Run by http://grapheffect.com
+
