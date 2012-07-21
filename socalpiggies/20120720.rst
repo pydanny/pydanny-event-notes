@@ -46,3 +46,5 @@ What is Redis?
 * In-memory database/data structure server
 
     * Limited to main memory; vm and diskstore defunct
+    
+* Persistence via snapshot or append-only file
