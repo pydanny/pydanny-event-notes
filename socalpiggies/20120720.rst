@@ -197,4 +197,4 @@ Cool stuff you can build with Redis + Python
 * Cat rooms
 * Job searching
 
-.. note:: Ahem. You can do all of this in a relational database. Or an XML database. Or anything.
+.. note:: Ahem. You can do all of this in a relational database. Or an XML filestore. Or anything.
