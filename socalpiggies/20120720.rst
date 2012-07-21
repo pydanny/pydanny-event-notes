@@ -173,4 +173,4 @@ Why Redis with Python?
             conn.zincrby(prefix + hour, )
             ...
 
-.. note:: code examples coming to fast. :P
+.. note:: code examples coming too fast. :P
