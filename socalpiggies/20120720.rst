@@ -193,3 +193,4 @@ Cool stuff you can build with Redis + Python
 * Messaging
 * Search engines
 * Ad targeting
+* Twitter
