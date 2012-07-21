@@ -82,3 +82,31 @@ Comparing Redis to other databases/caches
 * MySQL/PostgreSQL
 
     * On-disk/in-memory, pluggable data stores, master/slave, sharding, stored procedures, ...
+    
+Redis Strings
+===============
+
+.. note:: Apparent other types in Redis are really just strings. Hrm.
+
+* Really just scalars of a few different types
+* Character strings
+
+    * concatenante values to the end
+    * get/set individual bits
+    * get/set byte ranges
+
+* Integers (platform long int)
+
+    * increment/decrement
+    * auto "casting"
+
+* Floats (IEEE 754 FP Double)
+
+    * increment/decrement
+    * auto "casting"
+
+Redis Lists
+============
+
+ * Doubly-linked list of character strings
+ 
