@@ -61,7 +61,7 @@ What is Redis?
 * Server-side scripting with Lua in Redis 2.6
 
 Comparing Redis to other databases/caches
-================================================
+---------------------------------------------------------
 
 * Memcached
 
@@ -84,7 +84,7 @@ Comparing Redis to other databases/caches
     * On-disk/in-memory, pluggable data stores, master/slave, sharding, stored procedures, ...
     
 Redis Strings
-===============
+-------------------
 
 .. note:: Apparent other types in Redis are really just strings. Hrm.
 
@@ -106,7 +106,46 @@ Redis Strings
     * auto "casting"
 
 Redis Lists
-============
+-------------------
 
  * Doubly-linked list of character strings
  
+    * push/pop from both ends
+    * **blocking** pop from multiple lists
+    * **blocking**
+    
+Redis Sets
+-------------------
+
+* Unique unordered sequence of character strings 
+* Backed by a hash table
+* add, remove. check membership, pop, random pop
+    
+    
+Redis Hashes
+-------------------
+
+* kind of like Python dict
+* Key-value mapping inside a key
+* get/set/delete single/multiple
+* increment values by ints/floats
+
+Sorted Sets (ZETS)
+-------------------
+
+* Like a hash, with 'members' and 'scores', which are limited to numeric values
+
+.. note:: Maybe good for search generation?
+
+Publish/Subscribe
+-------------------
+
+* Readers subscribe to "channels", exact strings or patterns
+* Writers publish to channels, broadcasting to all subscribers
+* Messages are transient so they can be missed
+
+Why Redis with Python?
+========================
+
+* Python has reasonable sane syntax/semantics
+* Python allows you to easy manipulation of data and data structures
