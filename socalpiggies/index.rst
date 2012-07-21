@@ -10,6 +10,7 @@ Talks
 .. toctree::
    :maxdepth: 2
 
+   20120720
    20120517
    20120222-12-factor-app
    20111110-dreamhost
