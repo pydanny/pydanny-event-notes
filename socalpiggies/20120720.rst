@@ -194,3 +194,7 @@ Cool stuff you can build with Redis + Python
 * Search engines
 * Ad targeting
 * Twitter
+* Cat rooms
+* Job searching
+
+.. note:: Ahem. You can do all of this in a relational database. Or an XML database. Or anything.
