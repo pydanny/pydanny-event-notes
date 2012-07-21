@@ -25,7 +25,16 @@ Who am I?
 
     * rpqueue, parse-crontab, async_http, timezone-utels, PyPE
     * PyPE is his own text editor
+    
 * Worked at some cool places we've never heard of:
 
     * Networks in Motion
     * Ad.ly
+    
+* Worked at some cool places you have heard of:
+
+    * Google
+    * YouTube
+
+* And cool places will hear of: ChowNow
+* Very heavy user of Redis
