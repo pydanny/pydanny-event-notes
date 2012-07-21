@@ -48,3 +48,4 @@ What is Redis?
     * Limited to main memory; vm and diskstore defunct
     
 * Persistence via snapshot or append-only file
+* Support for master/slave replication (multiple slaves and slave chaining supported)
