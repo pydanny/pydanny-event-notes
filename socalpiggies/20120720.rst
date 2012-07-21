@@ -149,3 +149,14 @@ Why Redis with Python?
 
 * Python has reasonable sane syntax/semantics
 * Python allows you to easy manipulation of data and data structures
+* Python has a large and growing community
+* Redis has reasonable sane syntax/semantics
+* Redis allows you to easy manipulation of data and data structures
+* Redis has a medium-sized and growing community
+* Available as remote server
+
+    * Like a remote IPython, only for data
+
+.. epigraph::
+
+    Doesn't that sound like a good match?
