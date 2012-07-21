@@ -24,3 +24,8 @@ Who am I?
 * Author of a few small OS projects
 
     * rpqueue, parse-crontab, async_http, timezone-utels, PyPE
+    * PyPE is his own text editor
+* Worked at some cool places we've never heard of:
+
+    * Networks in Motion
+    * Ad.ly
