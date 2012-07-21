@@ -160,3 +160,17 @@ Why Redis with Python?
 .. epigraph::
 
     Doesn't that sound like a good match?
+    
+.. sourcecode:: python
+
+    from itertools import imap
+    import redis
+    def process_lines(prefix, logfile):
+        conn = redis.Redis()
+        for log in imap(parse_line, open(logfile, 'rb')):
+            time = log.timestamp.isoformat()
+            ...
+            conn.zincrby(prefix + hour, )
+            ...
+
+.. note:: code examples coming to fast. :P
