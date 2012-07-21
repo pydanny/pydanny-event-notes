@@ -14,3 +14,8 @@ Redis and Python: It's PB and J time
 * Dr Josiah Carlson, the author of the upcoming Redis in Action
 * http://twitter.com/dr_josiah
 * http://bit.ly/redis-in-action
+
+Who am I?
+============
+
+* Python user of 12 years
