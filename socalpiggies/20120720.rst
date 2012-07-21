@@ -19,3 +19,8 @@ Who am I?
 ============
 
 * Python user of 12 years
+* Former python-dev bike-shedder
+* Former maintainer of Python async sockets libraries
+* Author of a few small OS projects
+
+    * rpqueue, parse-crontab, async_http, timezone-utels, PyPE
