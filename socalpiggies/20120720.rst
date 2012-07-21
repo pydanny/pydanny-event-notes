@@ -185,3 +185,5 @@ Cool stuff you can build with Redis + Python
 * Cookies
 * Analytics
 * Configuration management
+* Autocomplete
+* Distributed Locks
