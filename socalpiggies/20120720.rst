@@ -59,3 +59,10 @@ What is Redis?
     * Strings, Lists, Sets, Hashes, Sorted Sets (ZSETs)
 
 * Server-side scripting with Lua in Redis 2.6
+
+Comparing Redis to other databases/caches
+================================================
+
+* Memcached
+
+    * in-memory, no-persistence, counters, strings, very fast, multi-threaded
