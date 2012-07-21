@@ -174,3 +174,5 @@ Why Redis with Python?
             ...
 
 .. note:: code examples coming too fast. :P
+
+.. todo:: Download the slides later and try to get the code examples out.
