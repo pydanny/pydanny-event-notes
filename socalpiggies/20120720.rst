@@ -189,3 +189,7 @@ Cool stuff you can build with Redis + Python
 * Distributed Locks
 * Counting semaphores
 * Task queues
+* Publish/Subscribe
+* Messaging
+* Search engines
+* Ad targeting
