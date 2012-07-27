@@ -119,3 +119,15 @@ Basic Image Object
     foo.src = url;
     if(foo.complete) return true
     else return false
+    
+Image Events
+--------------
+
+.. code-block:: javascript
+
+    foo.onerror=function(){}
+    // 404
+    foo.onsuccess=function(){}
+    // 200
+    foo.onabort=function(){}
+    // cient timeout
