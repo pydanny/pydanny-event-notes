@@ -262,3 +262,9 @@ How?
 * Write controllers that present the correct view for whichever device the application is being used on.
 * The models, and controllers (mostly) can stay consistent
 * Coding flexible layouts
+
+Why do this?
+--------------
+
+* Above all else, it improves the user experience. Don't send users to mobile app download pages!
+* Just the idea of creating applications instead of "web pages" helps narrow the focus to engaging users with a meaningful experience.
