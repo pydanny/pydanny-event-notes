@@ -225,6 +225,8 @@ JS To Rule Them All
     * https://twitter.com/_activetheory
     * http://activetheory.net/
     
+.. note:: This guy is a super-talented front end developer. Incredibly good JavaScript and CSS guy.
+    
 synopsis
 --------
 
@@ -233,3 +235,10 @@ One of the more cringe-inducing terms for any JS developer is "web page". We've 
 Static pages with responsive layouts aren't going to cut it in this new universe, so we'll look at using only JavaScript to structure applications, create and style markup, and also be platform aware in order to present users with an interactive experience suited for each device.
 
 This talk will be a general theory overview accompanied by plenty of examples and very brief code demonstrations. It will cover interesting points along the way such as best practices for smooth UI and animation, content management, SEO, and even how to use these exact techniques to create native mobile applications.
+
+Current state of affairs
+-------------------------
+
+* Desktop sites like http://nfl.com or http://techcrunch.com, smashing as much content as possible into big scrolling pages
+* Separate mobile sites that "*feel jenky*", not smooth like mobile apps
+* iOS/Android/etc mobile app
