@@ -154,7 +154,7 @@ To see events fired by rollover, these send out business processes on rollovers
     var check = function(){
         if (beacon.complete == false){
             if (tries--){
-                // keep on checking until we run out of tried
+                // keep on checking until we run out of tries
                 setTimeout(function(){check()}, ms); 
             }
             else {
@@ -175,7 +175,7 @@ To see events fired by rollover, these send out business processes on rollovers
         check();
     });
     
-    beacon.src=quirkyUrl;
+    beacon.src=quirkyURL;
     check();
     
 image_lazyload.js
