@@ -147,6 +147,7 @@ To see events fired by rollover, these send out business processes on rollovers
     var tries = Math.ceil(totalms/ms);
     var beacon = new Image();
     
+    // create a recursive function
     var check = function(){
         if (beacon.complete == false){
             if (tries--){
@@ -154,16 +155,17 @@ To see events fired by rollover, these send out business processes on rollovers
             }
             else {
                 window.removeEvent('unload', quickSend);
-            
+                beacon.src = backup; // never went so we go to backup location
             }
         }
         else{
             window.removeEvent('unload', quickSend);
-        
+            //ahhhhhhhh don't leave. Need. Moar. Time......
         }
     
     };
     
+    //failsafe
     var quickSend = window.addEvent('unload', function(){
         tries = 0;
         check();
