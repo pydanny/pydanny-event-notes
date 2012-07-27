@@ -8,3 +8,20 @@ Backbone: The framework that isn't
 ====================================
 
 * by @thedaniel
+
+Lots of hot client frameworks
+------------------------------
+
+* Angular
+* Ember
+* Knockout
+* Spine
+* Backbone
+
+Backbone is kind of opinionated
+-----------------------------------
+
+The fact that it leaves out even basic framework structure yet makes you make your own decisions
+
+* but you shouldn't have to rewrite boilerplate
+* and you should still have a set of drop-in components that work well together
