@@ -9,7 +9,7 @@ Backbone: The framework that isn't
 
 * by @thedaniel
 
-.. note:: Used a presentation tool that doesn't have a back button. Ahem.
+.. note:: Presenter used a presentation tool that doesn't have a back button. Ahem.
 
 Lots of hot client frameworks
 ------------------------------
