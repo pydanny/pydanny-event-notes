@@ -336,7 +336,10 @@ Mobile Applications
 
 * Now you have Smooth animation and performance indistinguishable from a native app
 * Same code base can be made to accommodate different devices with good routing controls
-* Thoughts on PhoneGap vs. Titanium: **Titanium > PhoneGap**
+* Thoughts on PhoneGap vs. Titanium: 
+
+    * **Titanium > PhoneGap**
+    * PhoneGap hijacks the click method and this causes issues
 
 Questions
 -----------
@@ -349,4 +352,3 @@ Questions
 
     * Yes
     
-* 
