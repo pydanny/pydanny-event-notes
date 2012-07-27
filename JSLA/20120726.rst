@@ -37,5 +37,18 @@ What do frameworks provide?
 * Controllers
 * Presenters
 * Observers
-* Handlers
+* Routers
+
+In other words, the glue you need to make something work.
+
+What does backbone provide?
+------------------------------
+
+* Models
+
+.. code-block:: javascript
+
+    var view - new SandwichView({model: rueben});
+
+
 
