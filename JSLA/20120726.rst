@@ -95,7 +95,17 @@ Presenter's opinions about Backbone
 Going Native: Practical scripting with the JavaScript Image Object
 ==================================================================
 
+A Practical JavaScript talk
+
 * Aaron Martin
 
     * http://twitter.com/citygridmedia
     * http://www.citygrid.com/
+
+What can the Image object do?
+-----------------------------------
+
+* Handle Image Data
+* Server Communication (pre AJAX)
+* Analytics
+* Page Performance
