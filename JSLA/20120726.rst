@@ -30,4 +30,12 @@ The fact that it leaves out even basic framework structure yet makes you make yo
 * You should have the freedom to do what you want.
 
 What do frameworks provide?
--------------
+---------------------------------------
+
+* Models
+* Views
+* Controllers
+* Presenters
+* Observers
+* Handlers
+
