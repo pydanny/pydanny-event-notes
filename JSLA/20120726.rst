@@ -2,14 +2,15 @@
 July 26, 2012
 ==============
 
-* Hosted by http://citygrid.com
+* Hosted by http://www.citygrid.com/
 
 Backbone: The framework that isn't
 ====================================
 
 * by Daniel Hengeveld
-* http://twitter.com/thedaniel
-* http://www.favortree.com
+
+    * http://twitter.com/thedaniel
+    * http://www.favortree.com
 
 .. note:: Presenter used a presentation tool that doesn't have a back button. Ahem.
 
@@ -90,3 +91,11 @@ Presenter's opinions about Backbone
 * Doesn't force you to follow a 'Backbone Way'.
 * If your app isn't trivial, Backbone might not be the right choice
 * If you need to handle lots of DOM and JS executions, Backbone might be a right choice.
+
+Going Native: Practical scripting with the JavaScript Image Object
+==================================================================
+
+* Aaron Martin
+
+    * http://twitter.com/citygridmedia
+    * http://www.citygrid.com/
