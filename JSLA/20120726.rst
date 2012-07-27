@@ -62,3 +62,8 @@ What does backbone provide?
             (new SomeItemView({model:item})).render().el
         );
     }
+    
+Backbone opinions
+-----------------
+
+* Tight coupling between models and views that represent them.
