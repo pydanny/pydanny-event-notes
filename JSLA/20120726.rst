@@ -306,5 +306,6 @@ It's like butter
 * Going back to detecting device capabilities
 * Use CSS3 transitions applied with JS is the best performance way
 * Use top/left for desktop, and translateX/translateY for mobile. Use device detection to automatically convert left/top.
+* Watch out for firefox. You can easily have flickering images.
 * User translate3d for iOS
 * **Use canvas only where absolute necessary**
