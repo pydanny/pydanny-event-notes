@@ -8,14 +8,17 @@ July 26, 2012
 Backbone: The framework that isn't
 ====================================
 
-"Backbone.js is often discussed alongside the many other popular client-side frameworks like Ember, Knockout, et cetera. This talk will discuss how Backbone.js is less like those opinionated frameworks and more like a set of glue libraries to build your own framework, and will also cover some useful patterns you can use in your own Backbone application."
+.. note:: Presenter used a presentation tool that doesn't have a back button. Ahem.
 
 * by Daniel Hengeveld
 
     * http://twitter.com/thedaniel
     * http://www.favortree.com
+    
+Synopsis
+---------
 
-.. note:: Presenter used a presentation tool that doesn't have a back button. Ahem.
+Backbone.js is often discussed alongside the many other popular client-side frameworks like Ember, Knockout, et cetera. This talk will discuss how Backbone.js is less like those opinionated frameworks and more like a set of glue libraries to build your own framework, and will also cover some useful patterns you can use in your own Backbone application.
 
 Lots of hot client frameworks
 ------------------------------
@@ -98,7 +101,7 @@ Presenter's opinions about Backbone
 Going Native: Practical scripting with the JavaScript Image Object
 ==================================================================
 
-*A Practical JavaScript talk*: JQuery, Dojo, Mootools, Ext, Prototype, Script.aculo.us, Backbone, Modernizer….[sigh]…it’s hard to keep up. Remember when there was just something called JavaScript? I do. Don’t get me wrong I love all the aforementioned libraries like a father loves his children, but when it is time to get practical and create performance solutions those babies got to go. I’m going to introduce you to an old friend of mine, the JavaScript native image object. This ol’boy is perhaps one of the most powerful objects in JavaScript and he’s uber simple to get to know. I’m going to show you some of his tricks and try to convince you that he belongs in your JavaScript solutions tool belt!
+*A Practical JavaScript talk*
 
 * by Aaron Martin
 
@@ -107,6 +110,11 @@ Going Native: Practical scripting with the JavaScript Image Object
     * Big fan of Mootools (http://en.wikipedia.org/wiki/Mootools)
     
 .. note:: This was an AWESOME talk. Great to see how digging into the fundamentals can allow you to do some really impressive things with a tiny bit of code.
+
+Synopsis
+---------
+
+JQuery, Dojo, Mootools, Ext, Prototype, Script.aculo.us, Backbone, Modernizer….[sigh]…it’s hard to keep up. Remember when there was just something called JavaScript? I do. Don’t get me wrong I love all the aforementioned libraries like a father loves his children, but when it is time to get practical and create performance solutions those babies got to go. I’m going to introduce you to an old friend of mine, the JavaScript native image object. This ol’boy is perhaps one of the most powerful objects in JavaScript and he’s uber simple to get to know. I’m going to show you some of his tricks and try to convince you that he belongs in your JavaScript solutions tool belt!
 
 What can the Image object do?
 -----------------------------------
@@ -212,13 +220,16 @@ The point of it all
 JS To Rule Them All
 =====================
 
-"One of the more cringe-inducing terms for any JS developer is "web page". We've now reached the point where any meaningful experience needs to be an application. It also needs to be thoughtfully crafted to work on phones and tablets all the while having the level of animation and polish users have come to expect from the technology they use regardless of platform.
-
-Static pages with responsive layouts aren't going to cut it in this new universe, so we'll look at using only JavaScript to structure applications, create and style markup, and also be platform aware in order to present users with an interactive experience suited for each device.
-
-This talk will be a general theory overview accompanied by plenty of examples and very brief code demonstrations. It will cover interesting points along the way such as best practices for smooth UI and animation, content management, SEO, and even how to use these exact techniques to create native mobile applications."
-
 * by Michael Anthony
 
     * https://twitter.com/_activetheory
     * http://activetheory.net/
+    
+synopsis
+--------
+
+One of the more cringe-inducing terms for any JS developer is "web page". We've now reached the point where any meaningful experience needs to be an application. It also needs to be thoughtfully crafted to work on phones and tablets all the while having the level of animation and polish users have come to expect from the technology they use regardless of platform.
+
+Static pages with responsive layouts aren't going to cut it in this new universe, so we'll look at using only JavaScript to structure applications, create and style markup, and also be platform aware in order to present users with an interactive experience suited for each device.
+
+This talk will be a general theory overview accompanied by plenty of examples and very brief code demonstrations. It will cover interesting points along the way such as best practices for smooth UI and animation, content management, SEO, and even how to use these exact techniques to create native mobile applications.
