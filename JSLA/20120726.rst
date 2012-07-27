@@ -101,6 +101,7 @@ A Practical JavaScript talk
 
     * http://twitter.com/citygridmedia
     * http://www.citygrid.com/
+    * Big fan of Mootools (http://en.wikipedia.org/wiki/Mootools)
 
 What can the Image object do?
 -----------------------------------
