@@ -175,9 +175,8 @@ To see events fired by rollover, these send out business processes on rollovers
         check();
     });
     
-    // missing code here
-    // missing code here
-    // missing code here        
+    beacon.src=quirkyUrl;
+    check();
     
 image_lazyload.js
 -------------------
