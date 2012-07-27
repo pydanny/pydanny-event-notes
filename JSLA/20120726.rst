@@ -195,3 +195,10 @@ How to load things as the page is scrolled:
     
     img.src = (config.src) ? config.src : config.fallback;
     
+    
+The point of it all
+-------------------
+
+* Adding in Frameworks slows things down. If you have a huge amount of data going back and forward on the site, say images, then loading JavaScript frameworks will slow you down.
+
+* If you can figure out how to do it in Native JavaScript in 4 lines of code, that's better than loading Mootools or JQuery.
