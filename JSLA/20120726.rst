@@ -297,3 +297,14 @@ Not just static pages
 * Bad animation can be distracting and in the way, good animation can be useful to invoke emotion and hierarchy.
 * Getting rid of "click, reload, repeat"
 * Using animation to bridge the gap between content presentation
+
+It's like butter
+-------------------
+
+"making things look pretty on mobile devices"
+
+* Going back to detecting device capabilities
+* Use CSS3 transitions applied with JS is the best performance way
+* Use top/left for desktop, and translateX/translateY for mobile. Use device detection to automatically convert left/top.
+* User translate3d for iOS
+* **Use canvas only where absolute necessary**
