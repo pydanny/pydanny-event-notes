@@ -49,6 +49,16 @@ What does backbone provide?
 .. code-block:: javascript
 
     var view - new SandwichView({model: rueben});
+    // view.model attribute set to reuben
+    
+* Events instead of callbacks
 
+.. code-block:: javascript
 
-
+    this.collection.on('add', this.addItemView, this);
+    
+    function(item){
+        view.$('.js.item.container').append(
+            (new SomeItemView({model:item})).render().el
+        );
+    }
