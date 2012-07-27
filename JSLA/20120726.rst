@@ -309,3 +309,13 @@ It's like butter
 * Watch out for firefox. You can easily have flickering images.
 * User translate3d for iOS
 * **Use canvas only where absolute necessary**
+
+    * Use the smallest rendering area possible
+    * Keep your canvas small!
+    
+Content Management
+--------------------
+
+* Techniques to use WordPress or other traditional CMS with this type of JS application. .. note:: CMS are not ideal for this sort of API thing unless your app is supposed to replace a CMS.
+* Serving and loading JSON data
+* Using models to store and make that data accessible within the application.
