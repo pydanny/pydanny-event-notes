@@ -138,7 +138,7 @@ Image Events
 image_beacon.js
 ----------------------------
 
-To see events fired by rollover, these send out business processes on rollovers
+To see events fired by rollover, these send out business processes on rollovers. This way they can track people's usage of the site. For example, which image are people perhaps 'right-clicking' on and other things not normally detectable.
 
 .. code-block:: javascript
 
