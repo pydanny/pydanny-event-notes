@@ -316,9 +316,11 @@ It's like butter
 Content Management
 --------------------
 
-* Techniques to use WordPress or other traditional CMS with this type of JS application. .. note:: CMS are not ideal for this sort of API thing unless your app is supposed to replace a CMS.
+* Techniques to use WordPress or other traditional CMS with this type of JS application. 
 * Serving and loading JSON data
 * Using models to store and make that data accessible within the application.
+
+.. warning:: CMS are not ideal for this sort of API thing unless your app is supposed to be the front end for a CMS.
 
 SEO
 -----
