@@ -82,10 +82,10 @@ What does backbone provide?
     
     });
     
-Backbone opinions
------------------
+Presenter's opinions about Backbone 
+------------------------------------
 
-* Tight coupling between models and views that represent them.
+* Provides Tight coupling between models and views that represent them.
 * 4 classes and a default sync sync method and kid of sets you loose with them
 * Doesn't force you to follow a 'Backbone Way'.
 * If your app isn't trivial, Backbone might not be the right choice
