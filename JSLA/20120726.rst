@@ -151,7 +151,8 @@ To see events fired by rollover, these send out business processes on rollovers
     var check = function(){
         if (beacon.complete == false){
             if (tries--){
-                setTimeout(function(){check()}, ms); // keep on checking until we run out of tried
+                // keep on checking until we run out of tried
+                setTimeout(function(){check()}, ms); 
             }
             else {
                 window.removeEvent('unload', quickSend);
