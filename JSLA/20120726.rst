@@ -102,6 +102,8 @@ A Practical JavaScript talk
     * http://twitter.com/citygridmedia
     * http://www.citygrid.com/
     * Big fan of Mootools (http://en.wikipedia.org/wiki/Mootools)
+    
+.. note:: This was an AWESOME talk. Great to see how digging into the fundamentals can allow you to do some really impressive things with a tiny bit of code.
 
 What can the Image object do?
 -----------------------------------
