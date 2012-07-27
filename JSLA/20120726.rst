@@ -63,6 +63,23 @@ What does backbone provide?
         );
     }
     
+* Ability to combine template context and user data
+
+.. code-block:: javascript
+
+    var BaseView = Backbone.View.extend({
+        // snip giant chunk of code
+    });
+    
+* Do the anti-pattern of having a fat router
+
+.. code-block:: javascript
+
+    app = Backbone.Router.Extend({
+        // snip giant router function
+    
+    });
+    
 Backbone opinions
 -----------------
 
