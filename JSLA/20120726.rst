@@ -290,3 +290,10 @@ Try to stick to using only JS for the view
     $test.size(100, 100).setBG(image.png');
     $test.css({top: 100, left: 100});
     $parent.append($test);
+    
+Not just static pages
+------------------------
+
+* Bad animation can be distracting and in the way, good animation can be useful to invoke emotion and hierarchy.
+* Getting rid of "click, reload, repeat"
+* Using animation to bridge the gap between content presentation
