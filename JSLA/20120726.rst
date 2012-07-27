@@ -109,3 +109,13 @@ What can the Image object do?
 * Server Communication (pre AJAX)
 * Analytics
 * Page Performance
+
+Basic Image Object
+-------------------
+
+.. code-block:: javascript
+
+    var foo = new Image();
+    foo.src = url;
+    if(foo.complete) return true
+    else return false
