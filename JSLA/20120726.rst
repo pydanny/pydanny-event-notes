@@ -282,6 +282,7 @@ Try to stick to using only JS for the view
 
     * Create an element, style it, and then appending it to a parent
     * Easier to debug, much faster to debug, less files open
+    * Problem: Can be a bit problematic using JQuery on mobile. Maybe use JQuery Mobile?
     
 .. code-block:: javascript
 
