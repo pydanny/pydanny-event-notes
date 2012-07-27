@@ -131,3 +131,41 @@ Image Events
     // 200
     foo.onabort=function(){}
     // cient timeout
+
+image_beacon.js
+----------------------------
+
+To see events fired by rollover, these send out business processes on rollovers
+
+.. code-block:: javascript
+
+    var quirkyURL = 'http://url.xyz'
+    var backupURL = 'http://url2.xyz'
+    
+    var ms = 500;
+    var totalms = 5000;
+    var tries = Math.ceil(totalms/ms);
+    var beacon = new Image();
+    
+    var check = function(){
+        if (beacon.complete == false){
+            if (tries--){
+                setTimeout(function(){check()}, ms); // keep on checking until we run out of tried
+            }
+            else {
+                window.removeEvent('unload', quickSend);
+            
+            }
+        }
+        else{
+            window.removeEvent('unload', quickSend);
+        
+        }
+    
+    };
+    
+    var quickSend = window.addEvent('unload', function(){
+        tries = 0;
+        check();
+    });
+    
