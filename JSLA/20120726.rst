@@ -352,3 +352,6 @@ Questions
 
     * Yes
     
+* **Do you use load different size images or do you resize them in the JS?**
+
+    * Always load different size images. Resizing is a performance sink.
