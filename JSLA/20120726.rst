@@ -9,6 +9,8 @@ Backbone: The framework that isn't
 
 * by @thedaniel
 
+.. note:: Used a presentation tool that doesn't have a back button. Ahem.
+
 Lots of hot client frameworks
 ------------------------------
 
@@ -25,3 +27,7 @@ The fact that it leaves out even basic framework structure yet makes you make yo
 
 * but you shouldn't have to rewrite boilerplate
 * and you should still have a set of drop-in components that work well together
+* You should have the freedom to do what you want.
+
+What do frameworks provide?
+-------------
