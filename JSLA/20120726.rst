@@ -242,3 +242,23 @@ Current state of affairs
 * Desktop sites like http://nfl.com or http://techcrunch.com, smashing as much content as possible into big scrolling pages
 * Separate mobile sites that "*feel jenky*", not smooth like mobile apps
 * iOS/Android/etc mobile app
+
+What can we do about it?
+------------------------
+
+Write apps that run everywhere!
+
+But...
+---------
+
+* You may be familiar with the term, "write once run everywhere"
+* But this is different. Write multiple views and route end users to the appropriate view
+
+How?
+-------
+
+* Use good code structure
+* Device identification tools
+* Write controllers that present the correct view for whichever device the application is being used on.
+* The models, and controllers (mostly) can stay consistent
+* Coding flexible layouts
