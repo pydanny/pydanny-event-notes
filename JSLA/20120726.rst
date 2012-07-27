@@ -268,3 +268,24 @@ Why do this?
 
 * Above all else, it improves the user experience. Don't send users to mobile app download pages!
 * Just the idea of creating applications instead of "web pages" helps narrow the focus to engaging users with a meaningful experience.
+
+Try to stick to using only JS for the view
+---------------------------------------------
+
+* In the past:
+
+    * Write a ton of markup
+    * Separate out pieces of HTML via Mustache et al
+    * But this gets clunky on larger efforts
+    
+* Going forward:
+
+    * Create an element, style it, and then appending it to a parent
+    * Easier to debug, much faster to debug, less files open
+    
+.. code-block:: javascript
+
+    var $tst $(<div class="test" />"");
+    $test.size(100, 100).setBG(image.png');
+    $test.css({top: 100, left: 100});
+    $parent.append($test);
