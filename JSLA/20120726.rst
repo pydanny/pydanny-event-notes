@@ -286,8 +286,8 @@ Try to stick to using only JS for the view
     
 .. code-block:: javascript
 
-    var $tst $(<div class="test" />"");
-    $test.size(100, 100).setBG(image.png');
+    var $tst $("<div class="test" />");
+    $test.size(100, 100).setBG('image.png');
     $test.css({top: 100, left: 100});
     $parent.append($test);
     
