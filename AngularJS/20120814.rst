@@ -3,7 +3,12 @@ August 14, 2012 - Rebuilding DoubleClick with AngularJS
 ============================================================
 
 * At Google San Francisco
-* Talk about converting Double Click Advertising UI to AngularJS
+
+.. pull-quote:: Meetup Description
+
+    This month we'll have a very special guest speaker - Marc Jacobs, tech lead of the DoubleClick Digital Marketing Manager team in NYC. If you want to get first hand info about building a large enterprise app with AngularJS, this is the meetup for you!
+
+    This presentation will be done over video-conference (from Mountain View) and attendees are encouraged to ask questions and join the discussion over the video link. Additionally, one or two AngularJS core team members will be present on site and can answer questions locally as well.
 
 Old app
 ============================
