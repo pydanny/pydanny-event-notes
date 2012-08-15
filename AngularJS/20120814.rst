@@ -5,6 +5,8 @@ Angular JSAugust 14, 2012
 * At Google San Francisco
 * Talk about converting Double Click Advertising UI to AngularJS
 
+.. note:: kind of sales-pitchy. Hope to see code examples
+
 Old app
 ============================
 
