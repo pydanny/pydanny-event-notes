@@ -121,3 +121,16 @@ Caching
 * Browser
 * $http
 * Application
+
+AngularJS in review
+=====================
+
+advantages
+------------
+
+* Leverages standard web technologies
+* New engineers get up to speed quickly
+* Testing is deeply embedded in the Angular way
+* Velocity of development is excellent
+* Passionate framework team
+* Growing community of framework users
