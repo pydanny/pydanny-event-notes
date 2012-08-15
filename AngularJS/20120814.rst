@@ -82,7 +82,7 @@ Other libraries they use
 ============================
 
 * Underscore.js
-* Closure
+* Closure Compiler (https://developers.google.com/closure/compiler/)
 * LESS
 * HTML5 Boilerplate
 
