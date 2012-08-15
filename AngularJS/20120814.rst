@@ -151,6 +151,8 @@ realities
 * Mixing client/server-side templating can be messy, yet it may be unavoidable.
 
 
-.. admonition:: Closing thought: 
+.. admonition:: Closing thoughts: 
 
-    I wish I came out of this talk knowing something about how AngularJS actually works
+    I wish I came out of this talk knowing something about how AngularJS actually works.
+    
+    The documentation and style of what I see in the AngularJS docs makes me think of a modernized Dojo.
