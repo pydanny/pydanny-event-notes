@@ -103,7 +103,7 @@ Open sourcing their work?
 * Sharing across google
 * Content that it's too specific for their use cases
 
-.. note:: I think that they haven't released some of their commonly used code is not ideal.
+.. note:: I think that they haven't released some of their commonly used code is not good.
 
 Internationalization
 =======================
