@@ -134,3 +134,7 @@ advantages
 * Velocity of development is excellent
 * Passionate framework team
 * Growing community of framework users
+
+.. admonition:: Closing thought: 
+
+    I wish I came out of this talk knowing something about how AngularJS actually works
