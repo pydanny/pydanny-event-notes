@@ -67,3 +67,22 @@ Their AngularJS strategy caused a lot of FUD:
 * AngularJS maintained by less than 5 people.
 
 Google got over the FUD and now embrace AngularJS.
+
+Single Page Architecture
+==========================
+
+Issues:
+
+* Common view content
+* bookmarkability
+* JQuery
+
+Other libraries they use
+============================
+
+* Underscore.js
+* Closure
+* LESS
+* HTML5 Boilerplate
+
+
