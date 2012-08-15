@@ -111,3 +111,12 @@ Internationalization
 * DFA is translated into 10 languages
 * The have a custom wiki-like language for things to be translated
 * They rewrote the ``gettext`` protocol. 
+
+Caching
+========
+
+* Server
+* HTTP
+* Browser
+* $http
+* Application
