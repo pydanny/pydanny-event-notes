@@ -65,3 +65,5 @@ Their AngularJS strategy caused a lot of FUD:
 
 * Why weren't they using GWT?
 * AngularJS maintained by less than 5 people.
+
+Google got over the FUD and now embrace AngularJS.
