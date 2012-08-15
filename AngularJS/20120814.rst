@@ -53,4 +53,10 @@ Transition to prototype
 Transition to AngularJS
 ========================
 
-* Strategy: Upgrade the app page-by-page
+* Early Strategy: Upgrade the app page-by-page
+* Eventual Strategy: Rewrote the app from scratch
+
+Their AngularJS strategy caused a lot of FUD:
+
+* Why weren't they using GWT?
+* AngularJS maintained by less than 5 people.
