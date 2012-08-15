@@ -1,0 +1,56 @@
+==============================
+Angular JSAugust 14, 2012
+==============================
+
+* At Google San Francisco
+* Talk about converting Double Click Advertising UI to AngularJS
+
+Old app
+============================
+
+* DFA6 FE was C# on ASP.NET
+* DFA6 BE was Java on Oracle
+
+
+New App - challenges
+=====================
+
+* Rebuild DFA using technologies that made more sense for Google.
+
+    * Engineering skills
+    * Google tech backends
+    
+* GWT or not?
+
+    * Principal UI technology across Google advertising products
+    * No resources on their team familiar with it
+    * Hard to find engineers with GWT
+    
+Other tools they considered
+
+    * Backbone.js
+    * JavaScriptMVC
+    * others
+
+Enter AngularJS
+
+    * It was declarative
+    * Had two-way data binding
+    * Used plan old JavaScript objects
+    * Happily integrated with JQuery
+    * It had a full testing story
+    * It had a straightforward architectural model
+    
+Transition to prototype
+=========================
+
+* One engineer created a basic prototype in two days.
+
+    * Used existing web services and CSS
+    * 10% time spent compared to GWT
+    * 10% of the size of code base
+    
+Transition to AngularJS
+========================
+
+* Strategy: Upgrade the app page-by-page

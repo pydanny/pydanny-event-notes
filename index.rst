@@ -43,6 +43,7 @@ Meetups
 .. toctree::
    :maxdepth: 1
 
+   AngularJS/index
    sfv-developers/index
    JSLA/index
    socalpiggies/index
