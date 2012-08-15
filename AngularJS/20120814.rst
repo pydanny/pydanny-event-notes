@@ -135,6 +135,13 @@ advantages
 * Passionate framework team
 * Growing community of framework users
 
+disadvantages
+--------------
+
+* AngularJS scenarios are ignored, poorly documented, and not at all obvious to use.
+* AngularJS unit testing technologies are currently in flux.
+* AngularJS documentation is quite buggy and is missing some key conceptional content.
+
 .. admonition:: Closing thought: 
 
     I wish I came out of this talk knowing something about how AngularJS actually works
