@@ -2,6 +2,7 @@
 Rebuilding DoubleClick with AngularJS
 ============================================================
 
+* http://www.meetup.com/AngularJS-SF/events/76149102/
 * August 14, 2012
 * At Google San Francisco
 * Case study about use of AngularJS for DoubleClick
