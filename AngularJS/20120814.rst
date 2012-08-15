@@ -1,7 +1,8 @@
 ============================================================
-August 14, 2012 - Rebuilding DoubleClick with AngularJS
+Rebuilding DoubleClick with AngularJS
 ============================================================
 
+* August 14, 2012
 * At Google San Francisco
 * Case study about use of AngularJS for DoubleClick
 
