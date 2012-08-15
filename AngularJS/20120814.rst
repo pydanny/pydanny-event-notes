@@ -142,6 +142,15 @@ disadvantages
 * AngularJS unit testing technologies are currently in flux.
 * AngularJS documentation is quite buggy and is missing some key conceptional content.
 
+realities
+--------------
+
+* Flexible, powerful, but also complex
+* Dependency Injection is awesome, but a mind-bender for many JS engineers
+* Does not attempt to solve all key problems in large-scale web application design
+* Mixing client/server-side templating can be messy, yet it may be unavoidable.
+
+
 .. admonition:: Closing thought: 
 
     I wish I came out of this talk knowing something about how AngularJS actually works
