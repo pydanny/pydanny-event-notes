@@ -77,14 +77,22 @@ Issues:
 
 * Common view content
 * bookmarkability
-* JQuery
 
 Other libraries they use
 ============================
 
+* JQuery
 * Underscore.js
 * Closure Compiler (https://developers.google.com/closure/compiler/)
 * LESS
 * HTML5 Boilerplate
 
+Third-party controls
+=====================
 
+Started with JQueryUI but now have their own:
+
+* list
+* grid
+* validation framework
+* notification framework
