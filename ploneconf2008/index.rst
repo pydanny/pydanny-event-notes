@@ -9,4 +9,6 @@ Venue: Ronald Reagan Center, Washington DC
    
    day_1_kuhn_keynote
    day_1_feed_the_masses
-   class_curriculem
+   day_1_plone_theming
+   day_1_lightning_talks
+   class_curriculum

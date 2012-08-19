@@ -1,5 +1,5 @@
 ============================
-Day 1 - Wednesday 8, 2008
+Day 1 - Lightning Talks
 ============================
 
 Last minutes of the day
@@ -42,34 +42,44 @@ KaizenPlone
     - Way too many options in Plone
     - Works well for Plone experts, not for others
     - Its a FAQ
+    
         - Page per problem
         - Paragraph per solution
         - Names underneath to vote
         - Sort of like Stack Overflow
+        
     - Not out yet
 
 atomising by Tarek Zaide
 ------------------------------
+
     - Fetches RSS feed and sticks into a Sqlite3 database
     - Managed via simple configuration file
     
 Cluemapper by Nate Aune
 ------------------------
+
     - Trac causes pain
     - Cluemapper
+    
         - Project management tool
         - Extension to Trac
         - Personal dashboard
         - easily create new projects
         - Hour management
         - Pretty mockups
+        
     - Cluemapper tech
+    
         - Dojo AJAX framework
         - WSGI
+        
     - Timetracking rocks!
+    
         - Handles hours
         - pretty graphs
         - collates
+        
     - Should replace the crap that is STACR
     - cluemapper.org
     - cluemapper.blit.tv
@@ -83,10 +93,14 @@ PyPI Replication Project
     - Allows you to mirror PyPI on your local machine
     - About 5 GB disk space, 150 GB traffic per month
     - Phase 1
+    
         - About to go live in November 2008
+        
     - Phase 2
+    
         - Refactored
         - Auto-mirror selection in buildout!
+        
     - https://launchpad.net/pypi-mirror
     
 Proposed improvements by Calvin Hendryx-Parker

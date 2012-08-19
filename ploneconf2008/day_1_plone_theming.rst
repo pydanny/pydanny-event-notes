@@ -1,10 +1,8 @@
-============================
-Day 1 - Wednesday 8, 2008
-============================
+========================
+Day 1 - Plone Developer
+========================
 
-
-Plone Developer by Rob Porter
-================================
+*  by Rob Porter
 
 Here we go!
 
@@ -12,7 +10,9 @@ Useful Tools
 --------------
 
     - Web Developer
+    
         - Turn off web caching
+        
     - Firebug
     - plone.reload
     
