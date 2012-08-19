@@ -34,6 +34,7 @@ Conferences
    Pycon2010/index
    DjangoCon2009/index
    Pycon2009/index
+   ploneconf2008/index   
    Pycon2008/index
    PloneConf2007/index
 
