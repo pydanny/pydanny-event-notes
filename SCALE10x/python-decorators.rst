@@ -269,7 +269,7 @@ Decorator Template
     
 .. note:: Not the same as "Class Decorators". See PEP 3129
 
-Paramterized decorators
+Paramaterized decorators
 ========================
 
 * need 2 closures
@@ -293,7 +293,7 @@ Paramterized decorators
     '12345'
     
     #syntactical sugar for
-    echo = limit(5)echo
+    echo = limit(5)
     
 Warning: Function attributes get mangled in decorators
 ========================================================
