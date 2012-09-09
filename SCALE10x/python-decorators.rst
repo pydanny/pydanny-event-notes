@@ -57,8 +57,8 @@ A function can have attributes assigned:
 
 .. sourcecode:: python
 
-    >>> def foo2():
-    ...     print "STUFF", foo2.stuff
+    >>> def foo3():
+    ...     print "STUFF", foo3.stuff
     >>> foo3.stuff = "Data"
     >>> foo3()
     Data
