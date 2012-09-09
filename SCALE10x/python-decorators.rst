@@ -277,10 +277,10 @@ Paramaterized decorators
 .. sourcecode:: python 
 
     def limit(length):
-        def decorator(function)
-            def wrapper(*args, **kwargs):
+        def decorator(function):
+            def wrapper(*args, **kwargs):           
                 result = function(*args, **kwargs)
-                result = result[:length]
+                return result[:length]
             return wrapper
         return decorator
         
