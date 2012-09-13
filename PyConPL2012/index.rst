@@ -1,6 +1,6 @@
-=============
-PyCon Poland
-=============
+=================
+PyCon Poland 2012
+=================
 
 Dates: September 13-16
 Venue:
