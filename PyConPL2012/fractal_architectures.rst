@@ -59,4 +59,7 @@ Sometimes it's good to farm things out rather then forcing it into your stack. F
 The Diablo III example
 ======================
 
-* Auction house could benefit from this architecture
+Auction house could benefit from this architecture.
+
+* Store the data in tiny places per user per general geolocation.
+* Works perfectly using SQLite3 and Axiom
