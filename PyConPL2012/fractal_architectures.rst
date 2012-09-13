@@ -93,6 +93,7 @@ Links:
 * http://divmod.readthedocs.org/en/latest/products/axiom/index.html
 * https://launchpad.net/divmod.org
 * https://github.com/rcarmo/divmod.org/tree/master/Axiom
+* http://www.devshed.com/c/a/Python/SSH-with-Twisted/3/
 
 Installation caveat: Axiom requires Epsilon in setup.py egg-info, so you need to manually install it first
 

@@ -160,7 +160,7 @@ Formish and Deform
 Anthrax
 ========
 
-His own forms library. Early beta but it looks interesting  
+His own forms library. Pre-alpha but it looks interesting  
 
 * Highly modular. If you create a dependency, create a module
 * 4 layers
@@ -197,3 +197,7 @@ His own forms library. Early beta but it looks interesting
         password = TextField(widgets=[PasswordInput], label='Hasło')
         repeat_password = TextField(widgets=[PasswordInput], label='Powtórz hasło')
         ok = HttpSubmit()
+        
+My thoughts on it:
+
+    * Don't like the ``__<SOMETHING>__`` syntax
