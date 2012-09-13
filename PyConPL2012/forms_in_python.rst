@@ -12,8 +12,13 @@ Talk Description
 
 My lecture would consist of two parts. First I would like to discuss what can a developer expect from a form library. Secondly I will show a design of one that would address all these problems.
 
+Introduction
+============
+
+The basis of reviews:
+
 Why are they important?
-========================
+-----------------------
 
 Forms are ubiquitous across all Python frameworks
 
@@ -27,7 +32,7 @@ Forms are ubiquitous across all Python frameworks
 * Boilerplate and repition removal
 
 Scope of Features
-====================
+-----------------------
 
 All form libraries need to have the following components:
 
@@ -43,7 +48,7 @@ All form libraries need to have the following components:
     * Try not to define both data and form schema
     
 Challenges
-==========
+-----------------------
 
 * Flexible but not full of feature creep
 
@@ -58,3 +63,45 @@ Challenges
 
     * If coupled too tightly then it's hard to move to other projects
     * If coupled too loosely then API can suffer.
+    
+FormEncode
+===========
+
+* By Ian Book
+* Minimalist: only validation, coercion, html-filling
+* Was recommended by Pylons book
+* **Problem**: No schema reflection
+
+Django Forms
+=============
+
+* Second attempt
+* Plays best in the Django framework
+* **Problem**: Hard to create new widgets
+
+.. code-block:: python
+
+    class AuthorForm(forms.ModelForm):
+    
+        class Meta:
+            model = Author
+            fields = ['name', 'email', ]
+            
+Sprox
+======
+
+* Combines FormEncode and ToscaWidgets
+* Extendable and easy to create new widgets
+* **Problem**: unpleasant API
+
+TODO: Get code example
+
+FormAlchemy
+===========
+
+* Built on idea of shcema reflection
+* Generates forms and tables
+* Type coercion 
+
+TODO: get code sample
+    
