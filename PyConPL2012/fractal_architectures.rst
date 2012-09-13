@@ -2,7 +2,12 @@
 Fractal Architectures
 =====================
 
-* by Laurens Van Houtven (@lvh)
+* by Laurens Van Houtven
+
+    * https://twitter.com/lvh
+    * Twisted Developer
+    * PSF Member
+    * Lives in Krakow
 
 
 Talk Description
