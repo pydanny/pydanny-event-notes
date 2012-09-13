@@ -44,8 +44,8 @@ Consider Instead...
 
         * Perfect for things like a webmail client. Most of the real behavior of the system is interacting with the client, not doing SMTP.
     
-import this
-===========
+Breaking the rules
+==================
 
 .. epigraph::
 
