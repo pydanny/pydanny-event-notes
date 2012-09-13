@@ -94,7 +94,7 @@ Sprox
 * Extendable and easy to create new widgets
 * **Problem**: unpleasant API
 
-.. code-block::
+.. code-block:: python
 
     from sprox.formbase import AddRecordForm
     from formencode import Schema
@@ -124,7 +124,15 @@ FormAlchemy
 * Generates forms and tables
 * Type coercion 
 
-TODO: get code sample
+.. code-block:: python
+
+    fs = FieldSet(User)
+    fs.append(Field('repeat_password').label('Repeat password'))
+
+    def password_match(value, field):
+        if value != field.parent.password.value:
+            raise ValidationError('Passwords do not match')
+
     
 Formish and Deform
 ====================
@@ -171,8 +179,10 @@ His own forms library. Early beta but it looks interesting
 * Building block relations
 
     * A form has fields. It can be rendered into a front end
+    * A field has a list of widgets that are called depending on the format requested
+    * A front-end handles some widgets by assigning views to render them.
 
-.. code-block::
+.. code-block:: python
 
     class RegisterForm(Form):
         __validators__ = [('equals', 'password', 'repeat_password')]
