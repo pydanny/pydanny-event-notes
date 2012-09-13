@@ -160,7 +160,11 @@ Formish and Deform
 Anthrax
 ========
 
-His own forms library. Pre-alpha but it looks interesting  
+https://github.com/zefciu/Anthrax
+
+.. note:: The name comes from `classic literature`, where Galahad visits Castle Anthrax and has his purity threatened.
+
+His own forms library. Pre-alpha but it looks interesting. 
 
 * Highly modular. If you create a dependency, create a module
 * 4 layers
@@ -200,4 +204,8 @@ His own forms library. Pre-alpha but it looks interesting
         
 My thoughts on it:
 
+    * I like the seperation of layers. 
+    * Like the way widgets are a list attached to a field, not just as a single widget per field
     * I don't like the ``__<SOMETHING>__`` syntax. He likes them so we'll agree to disagree. ;-)
+    
+        
