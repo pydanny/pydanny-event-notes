@@ -42,3 +42,14 @@ Consider Instead...
     * Lower latency
     * Great for when one user is only interacting with data that just affects themselves
     * Perfect for things like a webmail client. Most of the real behavior of the system is interacting with the client, not doing SMTP.
+    
+import this
+===========
+
+.. epigraph::
+
+    Special cases aren't special enough to break the rules.
+    However, practicality beats purity
+    
+    -- Tim Peters, Zen of Python
+    
