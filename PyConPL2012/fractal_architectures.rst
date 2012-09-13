@@ -88,7 +88,7 @@ Manhole
 =======
 
 * Twisted project
-* TODO: find details
+* TODO: find details as to why he mentioned this
 
 Content of the Talks
 ==========================
@@ -115,4 +115,5 @@ Poking holes in his own design
 * Querying across stores is hard. :-(
 
     * Data analytics is harder
-    * Big data requires special tools like Hadoop
+    * Big data requires special tools like Hadoop, Apache HBASE, Hive, etc
+    
