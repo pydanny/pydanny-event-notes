@@ -19,6 +19,7 @@ Talks
    :maxdepth: 2
    
    fractal_architectures
+   forms_in_python
 
 Invited Speakers
 ==================
