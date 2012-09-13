@@ -18,3 +18,20 @@ Invited Speakers
  * Laurens Van Houtven
  * Kai Diefenbach 
  * Stefan Kögl
+
+Sponsors
+========
+
+* Python Academy: http://www.python-academy.com/
+* Allegro
+* Onet
+* Megiteam 
+* OSworld.pl: http://www.osworld.pl/
+* OSnews.pl: http://www.osnews.pl/
+* Polish Python User Group: http://pl.python.org/
+* Bioinformatyk http://www.bioinformatyk.eu/
+* Linux Magazine Poland: http://www.linuxmagazine.pl/
+* Wingware Python IDE
+* Github: https://github.com
+* Enthought
+* Coders Mill
