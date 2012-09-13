@@ -189,7 +189,7 @@ Errors should never pass silently
 Check out except Exception at the bottom!
 -----------------------------------------
 
-`logging.exception() captures the entire error to the logs!`
+`logging.exception(error) captures the entire error to the logs!`
     
 .. sourcecode:: python
 
@@ -197,8 +197,8 @@ Check out except Exception at the bottom!
         handle_a_client()
     except socket.error, e:
         log.warning('client went away: %s', e)
-    except Exception:
-        logging.exception() # This captures the whole traceback!!!
+    except Exception, e:
+        logging.exception(e) # This captures the whole traceback!!!
 
 In the face of ambiguity, refuse the temptation to guess.
 ============================================================

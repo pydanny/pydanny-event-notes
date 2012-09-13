@@ -8,7 +8,7 @@ Welcome to pydanny-event-notes!
 
 I've been collecting my notes taken over the years into this one location. My intention is to capture all that I've learned or forgotten, share it with others, and compare that with where I am now.
 
-Latest Live-Note: http://pydanny-event-notes.readthedocs.org/en/latest/AngularJS/20120814.html
+Latest Live-Note: http://pydanny-event-notes.readthedocs.org/en/latest/PyconPL2012/index.html
 
 Conferences
 ============
@@ -16,6 +16,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   PyconPL2012/index
    PyconPH2012/index
    DjangoConEurope2012/index
    Pycon2012/index
