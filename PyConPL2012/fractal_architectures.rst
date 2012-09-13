@@ -23,7 +23,7 @@ Check out Twelve Factor App.
 * Level 2: Application Servers
 * Level 3: Load Balancing
 
-The problem for you is that scaling all of these levels gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. Or pay companies like Heroku a lot of money.
+The problem for you is that scaling all of these levels gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. Or pay companies like Heroku and dotCloud and Redhat a lot of money.
 
 Consider Instead...
 =====================
@@ -87,4 +87,24 @@ http://divmod.org/trac/wiki/DivmodAxiom (site down)
 Manhole
 =======
 
-With 
+* Twisted project
+* TODO: find details
+
+Content of the Talks
+==========================
+
+.. epigraph::
+
+    Either make things run faster or make things do less work.
+
+* Query latency between servers (database, caching, http, etc)
+* Caching really doesn't work for game servers and processing
+
+**Talk Contention:** If you put it all on a bunch of small servers that can just do their limited collection of tasks, then you get to avoid latency issues between components.
+
+Poking holes in his own design
+===============================
+
+* Some of his data doesn't fit into small shards. So things like Encyclopedic data or 'world data' won't work. So where do you put this data?
+* Size of data becomes an issue. Small shards hold less data
+* Data updates with 10 million user stores means you have to update 10 million datastores
