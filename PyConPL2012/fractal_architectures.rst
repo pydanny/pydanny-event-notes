@@ -98,6 +98,18 @@ Manhole
 * Twisted project
 * TODO: find details as to why he mentioned this
 
+Contention of the Talk
+======================
+
+.. epigraph::
+
+    Either make things run faster or make things do less work.
+
+* Query latency between servers (database, caching, http, etc)
+* Caching really doesn't work for game servers and processing
+
+**Talk Contention:** If you put it all on a bunch of small servers that can just do their limited collection of tasks, then you get to avoid latency issues between components.
+
 Poking holes in his own design
 ===============================
 
@@ -128,14 +140,4 @@ Poking holes in his own design
 
 * No load balancing exists that handles this behavior. Which means depending on your setup you're still playing with load balancing.
 
-Contention of the Talk
-======================
 
-.. epigraph::
-
-    Either make things run faster or make things do less work.
-
-* Query latency between servers (database, caching, http, etc)
-* Caching really doesn't work for game servers and processing
-
-**Talk Contention:** If you put it all on a bunch of small servers that can just do their limited collection of tasks, then you get to avoid latency issues between components.
