@@ -140,4 +140,11 @@ Poking holes in his own design
 
 * No load balancing exists that handles this behavior. Which means depending on your setup you're still playing with load balancing.
 
+Testing
+===========
 
+How do you do it?
+
+* Careful focus on functional 
+* Careful focus on unit tests with mocks
+* If you must, use Paxos algorithm to manage the transaction tests
