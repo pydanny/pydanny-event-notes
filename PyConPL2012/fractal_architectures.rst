@@ -94,6 +94,8 @@ Links:
 * https://launchpad.net/divmod.org
 * https://github.com/rcarmo/divmod.org/tree/master/Axiom
 
+Installation caveat: Axiom requires Epsilon in setup.py egg-info, so you need to manually install it first
+
 Info:
 
  * Runs on top of SQLite3
