@@ -26,3 +26,14 @@ Forms are ubiquitous across all Python frameworks
 * Our first line of defense against security against CSRF and other attack methods.
 * Boilerplate and repition removal
 
+Scope of Features
+====================
+
+All form libraries need to have the following components:
+
+* User input handling
+
+    * Type coercion
+    * Validation
+    
+    
