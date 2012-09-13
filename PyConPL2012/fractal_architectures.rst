@@ -23,7 +23,7 @@ Check out Twelve Factor App.
 * Level 2: Application Servers
 * Level 3: Load Balancing
 
-The problem is that scaling all of this gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. 
+The problem is that scaling all of these lvels gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. 
 
 Consider Instead...
 =====================
@@ -40,8 +40,9 @@ Consider Instead...
  
     * Constraints on code means you have the freedom to do what you want within those constraints.
     * Lower latency
-    * Great for when one user is only interacting with data that just affects themselves
-    * Perfect for things like a webmail client. Most of the real behavior of the system is interacting with the client, not doing SMTP.
+    * Great for when one user is only interacting with data that just affects themselves. For example:
+
+        * Perfect for things like a webmail client. Most of the real behavior of the system is interacting with the client, not doing SMTP.
     
 import this
 ===========
@@ -53,3 +54,9 @@ import this
     
     -- Tim Peters, Zen of Python
     
+Sometimes it's good to farm things out rather then forcing it into your stack. For example, instead of doing the SMTP yourself, let Rackspace (Mailgun) or Amazon (SMS) do it for you.
+
+The Diablo III example
+======================
+
+* Auction house could benefit from this architecture
