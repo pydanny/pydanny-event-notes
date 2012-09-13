@@ -88,7 +88,13 @@ Auction house could benefit from this architecture.
 Axiom
 =======
 
-http://divmod.org/trac/wiki/DivmodAxiom (site down)
+Links:
+
+* http://divmod.readthedocs.org/en/latest/products/axiom/index.html
+* https://launchpad.net/divmod.org
+* https://github.com/rcarmo/divmod.org/tree/master/Axiom
+
+Info:
 
  * Runs on top of SQLite3
  * Object database that works with one class per one table.

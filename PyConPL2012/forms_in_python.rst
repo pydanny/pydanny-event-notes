@@ -36,4 +36,5 @@ All form libraries need to have the following components:
     * Type coercion
     * Validation
     
-    
+* Widget generation
+* Data schema reflection
