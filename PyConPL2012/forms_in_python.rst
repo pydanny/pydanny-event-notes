@@ -15,8 +15,14 @@ My lecture would consist of two parts. First I would like to discuss what can a 
 Why are they important?
 ========================
 
-* Forms are ubiquitous across all Python frameworks
+Forms are ubiquitous across all Python frameworks
 
-    * Python is a strongly typed language so we have to handle input properly
-    * Closest to the user 
-    * 
+* Python is a strongly typed language so we have to handle input properly
+* Closest to the user 
+
+    * What they see most
+    * This is where they tend to see our mistakes
+    
+* Our first line of defense against security against CSRF and other attack methods.
+* Boilerplate and repition removal
+
