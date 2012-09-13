@@ -2,7 +2,7 @@
 Fractal Architectures
 =====================
 
-* by  Laurens Van Houtven (@lvh)
+* by Laurens Van Houtven (@lvh)
 
 
     Traditional service architecture wisdom generally tells us to build services like this:
@@ -63,9 +63,22 @@ Auction house could benefit from this architecture.
 
 * Store the data in tiny places per user per general geolocation.
 * Would work perfectly using SQLite3 per user if you add in Axiom
+* Alternative databases:
+
+    * PostgreSQL
+    * Redis
+    * MySQL
+    
+.. epigraph::
+
+    You should not do anything, ever on MySQL!
+    
+    -- Laurens Van Houtven
 
 Axiom
 =======
+
+http://divmod.org/trac/wiki/DivmodAxiom (site down)
 
  * Runs on top of SQLite3
  * Object database that works with one class per one table.
