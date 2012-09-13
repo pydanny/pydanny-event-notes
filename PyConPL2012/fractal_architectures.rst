@@ -108,5 +108,10 @@ Poking holes in his own design
 * Some of his data doesn't fit into small shards. So things like Encyclopedic data or 'world data' won't work. So where do you put this data?
 * Size of data becomes an issue. Small shards hold less data
 * Data updates with 10 million user stores means you have to update 10 million datastores
-* You need to keep most of your queries local per shard.
-* This forces tight coupling because a shard needs to really focus on shard data
+
+    * You need to keep most of your queries local per shard.
+    * This forces tight coupling because a shard needs to really focus on shard data
+    
+* Querying across stores is hard. :-(
+
+    * Data analytics is harder
