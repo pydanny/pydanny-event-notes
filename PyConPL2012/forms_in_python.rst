@@ -38,3 +38,6 @@ All form libraries need to have the following components:
     
 * Widget generation
 * Data schema reflection
+
+    * Critical boilerplate reduction
+    * Try not to define both data and form schema
