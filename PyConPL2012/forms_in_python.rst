@@ -41,3 +41,8 @@ All form libraries need to have the following components:
 
     * Critical boilerplate reduction
     * Try not to define both data and form schema
+    
+Challenges
+==========
+
+* Flexible but not full of feature creep
