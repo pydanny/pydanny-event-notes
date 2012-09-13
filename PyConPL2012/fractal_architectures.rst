@@ -23,7 +23,7 @@ Check out Twelve Factor App.
 * Level 2: Application Servers
 * Level 3: Load Balancing
 
-The problem is that scaling all of these lvels gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. 
+The problem for you is that scaling all of these levels gets server and code expensive. You have to add in distributed data, messaging queues, and extra servers. Or pay companies like Heroku a lot of money.
 
 Consider Instead...
 =====================
@@ -67,13 +67,10 @@ Auction house could benefit from this architecture.
 
     * PostgreSQL
     * Redis
-    * MySQL
-    
-.. epigraph::
+    * MySQL (not recommended)
 
-    You should not do anything, ever on MySQL!
-    
-    -- Laurens Van Houtven
+* Try to use byte-differential storage. Unfortunately, the only professional option for this method is Dropbox. 
+
 
 Axiom
 =======
@@ -86,3 +83,8 @@ http://divmod.org/trac/wiki/DivmodAxiom (site down)
  * Great for doing queues
  * Does filestore
  * Axiom powerups can have more than just static data, you can add behaviors
+ 
+Manhole
+=======
+
+With 
