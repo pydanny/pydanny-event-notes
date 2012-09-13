@@ -29,9 +29,16 @@ Consider Instead...
 =====================
 
 * Sharding architecture
-* The problem is that sharding is:
+* Problems:
     
     * Expensive
     * Only for things on a Facebook scale. 
     * Most people don't need this sort of thing.
     * Forces restrictions on code patterns.
+    
+ * Advantages
+ 
+    * Constraints on code means you have the freedom to do what you want within those constraints.
+    * Lower latency
+    * Great for when one user is only interacting with data that just affects themselves
+    * Perfect for things like a webmail client. Most of the real behavior of the system is interacting with the client, not doing SMTP.
