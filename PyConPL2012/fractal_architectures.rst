@@ -62,4 +62,14 @@ The Diablo III example
 Auction house could benefit from this architecture.
 
 * Store the data in tiny places per user per general geolocation.
-* Works perfectly using SQLite3 and Axiom
+* Would work perfectly using SQLite3 per user if you add in Axiom
+
+Axiom
+=======
+
+ * Runs on top of SQLite3
+ * Object database that works with one class per one table.
+ * Strongly typed
+ * Great for doing queues
+ * Does filestore
+ * Axiom powerups can have more than just static data, you can add behaviors
