@@ -12,6 +12,14 @@ Venue:
     
 .. note:: Because I don't speak Polish, I will only capture English language talks.
 
+Talks
+-----
+
+.. toctree::
+   :maxdepth: 2
+   
+   fractal_architectures
+
 Invited Speakers
 ==================
 
