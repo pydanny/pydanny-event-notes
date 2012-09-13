@@ -115,3 +115,4 @@ Poking holes in his own design
 * Querying across stores is hard. :-(
 
     * Data analytics is harder
+    * Big data requires special tools like Hadoop
