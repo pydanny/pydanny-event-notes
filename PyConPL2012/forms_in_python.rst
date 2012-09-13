@@ -2,7 +2,10 @@
 Forms in python - problems and my proposal of solving them
 ==========================================================
 
-By Szymon Pyżalski
+* By Szymon Pyżalski
+
+    * STX Next Python Experts
+    * https://github.com/zefciu/Forms-in-python
 
 Talk Description
 =================
