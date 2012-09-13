@@ -200,4 +200,4 @@ His own forms library. Pre-alpha but it looks interesting
         
 My thoughts on it:
 
-    * Don't like the ``__<SOMETHING>__`` syntax
+    * I don't like the ``__<SOMETHING>__`` syntax. He likes them so we'll agree to disagree. ;-)
