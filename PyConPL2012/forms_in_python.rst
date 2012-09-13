@@ -94,7 +94,28 @@ Sprox
 * Extendable and easy to create new widgets
 * **Problem**: unpleasant API
 
-TODO: Get code example
+.. code-block::
+
+    from sprox.formbase import AddRecordForm
+    from formencode import Schema
+    from formencode.validators import FieldsMatch
+    from tw.forms import PasswordField, TextField
+
+    form_validator =  Schema(chained_validators=(FieldsMatch('password',
+                                                             'verify_password',
+                                                             messages={'invalidNoMatch':
+                                                             'Passwords do not match'}),))
+    class RegistrationForm(AddRecordForm):
+        __model__ = User
+        __require_fields__     = ['password', 'user_name', 'email_address']
+        __omit_fields__        = ['_password']
+        __field_order__        = ['user_name', 'email_address', 'display_name', 'password', 'verify_password']
+        __base_validator__     = form_validator
+        email_address          = TextField
+        display_name           = TextField
+        verify_password        = PasswordField('verify_password')
+
+    registration_form = RegistrationForm(DBSession)
 
 FormAlchemy
 ===========
@@ -105,3 +126,60 @@ FormAlchemy
 
 TODO: get code sample
     
+Formish and Deform
+====================
+
+* deform is a fork of formish
+* don't do reflection
+* Strong seperation between schema and form
+* Schema can be used for other data-parsing formats
+
+.. code-block::
+
+    class Schema(colander.Schema):
+        password = colander.SchemaNode(
+            colander.String(),
+            validator=colander.Length(min=5),
+            widget=deform.widget.CheckedPasswordWidget(size=20),
+            description='Type your password and confirm it')
+    schema = Schema()
+    form = deform.Form(schema, buttons=('submit',)
+    
+Anthrax
+========
+
+His own forms library. Early beta but it looks interesting  
+
+* Highly modular. If you create a dependency, create a module
+* 4 layers
+
+    * fields
+    * widgets
+    * views
+    * templates
+    
+* building blocks
+
+    * forms: A collection of subcontainers and fields
+    * Field: Knows how to validate and coerce a particular data type
+    * Widget: a suggestion about presentation
+    * Validator: Works on a form or container, ad-hoc or generic
+    * Front-end: A complete system to render the form in forms like HTML, Dojo flavored HTML, Angular flavored HTML, XML, etc
+    * View: Front end dependent object
+    * Template: Let you define the output in a flexible way
+    
+* Building block relations
+
+    * A form has fields. It can be rendered into a front end
+
+.. code-block::
+
+    class RegisterForm(Form):
+        __validators__ = [('equals', 'password', 'repeat_password')]
+        __reflect__ = ('eplasty', User)
+        __frontend__ = 'dojo'
+        login = {'label': 'Login'}
+        hash = salt = None
+        password = TextField(widgets=[PasswordInput], label='Hasło')
+        repeat_password = TextField(widgets=[PasswordInput], label='Powtórz hasło')
+        ok = HttpSubmit()
