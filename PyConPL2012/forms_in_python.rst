@@ -46,3 +46,15 @@ Challenges
 ==========
 
 * Flexible but not full of feature creep
+
+    * Easy to grow too big
+    * but you can't make the project unmanageable
+    
+* Allow reflection but don't bind user's hands
+
+    * If you can't modify the reflection then the form library quickly becomes useless on real projects
+
+* Portable but allows developers to use specific features
+
+    * If coupled too tightly then it's hard to move to other projects
+    * If coupled too loosely then API can suffer.
