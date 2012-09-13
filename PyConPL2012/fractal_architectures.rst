@@ -29,3 +29,9 @@ Consider Instead...
 =====================
 
 * Sharding architecture
+* The problem is that sharding is:
+    
+    * Expensive
+    * Only for things on a Facebook scale. 
+    * Most people don't need this sort of thing.
+    * Forces restrictions on code patterns.
