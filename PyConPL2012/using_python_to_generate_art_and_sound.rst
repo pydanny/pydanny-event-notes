@@ -26,3 +26,11 @@ Introduction
 * Understanding the fundamentals first
 * Helps you understand your options
 
+Overview
+========
+
+* Simple sound with the Python stdlib
+* Numpy and Scipy
+* Plotting sound arrays with Matplotlib
+* Creative sound generation techniques
+* Using the same tricks on graphics instead
