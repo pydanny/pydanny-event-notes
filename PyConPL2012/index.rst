@@ -22,6 +22,7 @@ Talks
    forms_in_python
    continuous_integration
    what_i_missed_about_python
+   composability_through_multiple_inheritence
    using_python_to_generate_art_and_sound
 
 Schedule
