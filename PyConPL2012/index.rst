@@ -20,6 +20,14 @@ Talks
    
    fractal_architectures
    forms_in_python
+   what_i_missed_about_python
+   
+
+Tutorials
+=========
+
+ * CouchDB and Python (unfortunately was doing client work so worked through this)
+
 
 Invited Speakers
 ==================

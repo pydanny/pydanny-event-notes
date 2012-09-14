@@ -207,5 +207,3 @@ My thoughts on it:
     * I like the seperation of layers. 
     * Like the way widgets are a list attached to a field, not just as a single widget per field
     * I don't like the ``__<SOMETHING>__`` syntax. He likes them so we'll agree to disagree. ;-)
-    
-        
