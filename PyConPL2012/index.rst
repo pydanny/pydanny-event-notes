@@ -23,9 +23,10 @@ Talks
    what_i_missed_about_python
    using_python_to_generate_art_and_sound
 
-Tutorials
+Schedule
 =========
 
+ * http://pl.pycon.org/2012/en/agenda
  * CouchDB and Python (unfortunately was doing client work so worked through this)
 
 
