@@ -43,3 +43,5 @@ PyCon PL 2009
 * October 16-18 in Ustron
 * So much fun last year we had to expand it!
 * The day before the conference there was a big snow storm
+* Wesley Chun was the guest speaker
+
