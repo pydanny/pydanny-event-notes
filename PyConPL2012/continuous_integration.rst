@@ -46,4 +46,4 @@ Set up your own QA servers
 * OpenStack is nice because:
 
     * It does a lot of the lifting for you
-    * 
+    * Open source so you can use it for free and contribute back
