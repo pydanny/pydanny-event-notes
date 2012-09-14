@@ -171,3 +171,12 @@ Introducing Pycairo
 
 * Python API for cairo
 * HTML Canvas uses cairo as well
+* Showed how to use Gaussian algorithm to build clusters of dots
+
+Blocks and Puffs
+-------------------
+
+* Show same technique as used in audio to create puffs of clouds
+* Added blue background. 
+* Alpha and radial gradient background
+5. Adjust X and Y axis of gaussian to stretch the clouds into a more cloud-like shape
