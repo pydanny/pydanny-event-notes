@@ -131,4 +131,5 @@ Chords for music
 Using matplotlib to visualize the chord
 ========================================
 
-She showed very nice code to plot out audio files
+She showed very nice code to plot out audio files.
+
