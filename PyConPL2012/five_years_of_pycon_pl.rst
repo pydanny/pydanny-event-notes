@@ -53,3 +53,8 @@ PyCon PL 2010
 * October 8-10 in Ustron
 * A little bit earlier so we could miss the snow storm
 * The weather was beautiful!
+* So nice that people wore short sleeves outside!
+* Armin Ronacher was our guest speaker
+
+    * Jinja2
+    * Flask
