@@ -146,7 +146,7 @@ Formish and Deform
 * Strong seperation between schema and form
 * Schema can be used for other data-parsing formats
 
-.. code-block::
+.. code-block:: python
 
     class Schema(colander.Schema):
         password = colander.SchemaNode(
