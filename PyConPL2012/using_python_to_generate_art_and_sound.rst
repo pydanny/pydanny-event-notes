@@ -190,3 +190,18 @@ Can also use these processes on colors.
     * Explore constraining to a subset of colors
 
 * Used this technique and more to generate real paintins
+
+Summary: Think functionally
+============================
+
+* Parametize everything
+* Use numpy array functions as much as you can
+* Can combine wave, array, math from the Python stdlib for audio synthesis
+* Sound and art composition are extremely similar
+* Experiment with Gaussian distributions
+
+
+In Memorandum
+=============
+
+* http://numfocus.org/johnhunter
