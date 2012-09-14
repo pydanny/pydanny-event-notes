@@ -93,3 +93,6 @@ PyCon PL 2011
 
 * September 13-16 in Machocice Kapitulne
 * Took place at this hotel we are at now
+* Guest speakers:
+
+    * Audrey Roy
