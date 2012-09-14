@@ -179,7 +179,7 @@ Blocks and Puffs
 * Show same technique as used in audio to create puffs of clouds
 * Added blue background. 
 * Alpha and radial gradient background
-5. Adjust X and Y axis of gaussian to stretch the clouds into a more cloud-like shape
+* Adjust X and Y axis of gaussian to stretch the clouds into a more cloud-like shape
 
 Not just puffs
 ---------------
