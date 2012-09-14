@@ -63,6 +63,11 @@ Thoughts on the diamond problem
     * Python has cooperative inheritance
     * In our example, you have to carefully watch how things are constructed
     
+Super was designed to solve this problem
+------------------------------------------
+
+But it failed. It's only useful in limited cases and can fool you.
+    
 .. code-block:: python
 
     class D(A):
