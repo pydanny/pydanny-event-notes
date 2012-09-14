@@ -20,7 +20,7 @@ Talks
    
    fractal_architectures
    forms_in_python
-   testing
+   continuous_integration
    what_i_missed_about_python
    using_python_to_generate_art_and_sound
 
