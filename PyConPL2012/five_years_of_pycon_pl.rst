@@ -79,4 +79,9 @@ PyCon PL 2011
 
     * Brandon Craig Rhodes
     * Lennart Regebro
-    
+
+* Yummy BBQ outside with lightning talks!
+
+    * Note: looks like a very impressive setup
+    * You had to do it in your heavy coat
+    * It was fun!
