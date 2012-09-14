@@ -7,7 +7,7 @@ aka Five Years of Python
 * by Filip Kłębczyk
 
 .. note:: I'm translating this entire talk from Polish.
-    I don't speak Polish except how to say, "Thanks".
+    I don't speak Polish except how to say, "Thanks" and now "Questions?".
 
 Introduction
 =============
@@ -85,3 +85,11 @@ PyCon PL 2011
     * Note: looks like a very impressive setup
     * You had to do it in your heavy coat
     * It was fun!
+    
+PyCon PL 2011
+=============
+
+.. note:: This weekend's conference!
+
+* September 13-16 in Machocice Kapitulne
+* Took place at this hotel we are at now
