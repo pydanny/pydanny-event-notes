@@ -109,4 +109,26 @@ Now we show the simplified example:
     def note(freq, duration, amp=10000, rate=41100):
         # TODO add code stuff here
         pass
-    
+
+Is this music?
+---------------
+
+Not yet. You need chords for music!
+
+Chords for music
+================
+
+* Simply add 2 notes of different frequencies together
+* She looked up Piano key frequencies on wikipedia
+
+.. code-block:: python
+
+    # chord function
+    def chord():
+        # TODO get a sample of this code
+        pass
+        
+Using matplotlib to visualize the chord
+========================================
+
+She showed very nice code to plot out audio files
