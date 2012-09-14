@@ -31,3 +31,4 @@ PyCon PL 2008
 
 * August 18-19 in Rybnik
 * Rybnik looks like a lovely city.
+* The administration of the event has been a growing process.
