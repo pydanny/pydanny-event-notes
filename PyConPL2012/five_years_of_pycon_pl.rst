@@ -8,7 +8,9 @@ aka Five Years of Python
 
 .. note:: I'm translating this entire talk from Polish.
 
-.. note:: I don't speak Polish
+.. note:: I don't speak Polish.
+
+.. note:: Actually, I do know how to say "Thanks" 
 
 Introduction
 =============
@@ -33,3 +35,4 @@ PyCon PL 2008
 * Rybnik looks like a lovely city.
 * The administration of the event has been a growing process.
 * We had a big old-fashioned monitor on the presenter's desk.
+* Lennart Regebro was the first foreign guest to PyCon PL
