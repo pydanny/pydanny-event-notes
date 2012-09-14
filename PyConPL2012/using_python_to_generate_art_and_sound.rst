@@ -150,4 +150,24 @@ File structure
     * contains piano keys
     * contains imports of all the notes components
     
-Use numpy's `uniform()` function to create nice distributions of frequencies and durations
+* Used numpy's `uniform()` function to create nice distributions of frequencies and durations
+
+* Constrained the frequencies so they are humanly playable 
+* Explained use of random.choice over numpy.choice. Chose it because numpy's version is in beta.
+
+Results
+---------
+
+* Colorful rainbow of sounds that sounds relatively pleasant to the ear
+
+Adding Gaussian Distribution
+------------------------------------
+
+* Using an algorithm to make things more centralized.
+* Which blurred things so instead of a rainbow of sounds it sounded like puffy clouds. :-)
+
+Introducing Pycairo
+====================
+
+* Python API for cairo
+* HTML Canvas uses cairo as well
