@@ -70,4 +70,43 @@ Generates a 440 Hz sine wave
     SAMPLE_RATE = 44100
     DURATION = 3
     
-    # TODO finish
+    # TODO finish tons more code
+    
+Simplifying via a function
+
+.. code-block:: python
+
+    import array
+    from math import sin, pi
+    import wave
+
+    SAMPLE_RATE = 44100    
+    
+    def note() # TODO finish coding this out
+    
+Can this be simplified further?
+-------------------------------
+
+* Yes via NumPy arrays!
+
+    * perfect for sound operations
+    
+.. code-block:: python
+
+    # numpy.linspace(start, stop, num):
+    >>> linspace(0, 1, 10)
+    array() # TODO get this value
+    
+    #sumpy.sin(x)
+
+Now we show the simplified example:
+
+.. code-block:: python
+
+    from numpy import linspace, int16, sin
+    from scipy.io.wavfile import write  # Using this because it's less code to use than the Wave module
+    
+    def note(freq, duration, amp=10000, rate=41100):
+        # TODO add code stuff here
+        pass
+    
