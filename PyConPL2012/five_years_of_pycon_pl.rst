@@ -14,3 +14,10 @@ Introduction
 * We've been doing PyCon PL for 5 years
 * How many people have been to PyCon before? (about half)
 * How many people have come to their first PyCon?  (about half)
+
+How did we get started?
+===============================
+
+
+* The inspiration comes from various other user group conferences.
+* We wanted something for Python
