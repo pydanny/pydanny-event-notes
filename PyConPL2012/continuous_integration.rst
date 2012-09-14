@@ -47,3 +47,6 @@ Set up your own QA servers
 
     * It does a lot of the lifting for you
     * Open source so you can use it for free and contribute back
+
+* My Polish is bad so I wonder if I missed him suggesting paid PaaS like Heroku, dotCloud, et al
+
