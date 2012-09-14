@@ -107,3 +107,5 @@ Act III: Example
         * Created
         * Modified
         * cache_version is an field that tracks which cached version is being displayed
+
+* By composing his models on many projects via Abstract Models, he can test each reused abstract model extensively and repeatedly.
