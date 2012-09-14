@@ -2,7 +2,9 @@
 PyCon PL 5 lat
 ===========================
 
-by Filip Kłębczyk
+aka Five Years of Python
+
+* by Filip Kłębczyk
 
 .. note:: I'm translating this entire talk from Polish.
 
@@ -20,5 +22,6 @@ How did we get started?
 
 
 * The inspiration comes from various other user group conferences.
-* We wanted something for Python
+* We wanted an event for Python 
 * Piotr got credit and applause for his untiring work in the Polish Python community. Many attendees are previous students of his.
+* We also give credit to PLUG (Polish Linux User Group)
