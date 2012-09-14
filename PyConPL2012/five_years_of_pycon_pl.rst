@@ -25,3 +25,9 @@ How did we get started?
 * We wanted an event for Python 
 * Piotr got credit and applause for his untiring work in the Polish Python community. Many attendees are previous students of his.
 * We also give credit to PLUG (Polish Linux User Group)
+
+PyCon PL 2008
+==============
+
+* August 18-19 in Rybnik
+* 
