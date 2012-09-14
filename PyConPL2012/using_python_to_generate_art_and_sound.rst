@@ -180,3 +180,13 @@ Blocks and Puffs
 * Added blue background. 
 * Alpha and radial gradient background
 5. Adjust X and Y axis of gaussian to stretch the clouds into a more cloud-like shape
+
+Not just puffs
+---------------
+
+Can also use these processes on colors.
+
+    * Use uniform distribution for picking colors randomly
+    * Explore constraining to a subset of colors
+
+* Used this technique and more to generate real paintins
