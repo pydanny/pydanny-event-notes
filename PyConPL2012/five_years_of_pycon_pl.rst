@@ -74,7 +74,7 @@ PyCon PL 2011
 .. note:: When asked who had been to all PyCons before this one people raised their hand. So I raised my hand too.
 
 * September 22-25 in Machocice Kapitulne
-* Took place at this hotel we are at note.
+* Took place at this hotel we are at now (Hotel Przedwiośnie)
 * Guest speakers:
 
     * Brandon Craig Rhodes
