@@ -55,6 +55,10 @@ Thoughts on the diamond problem
     >>> class B(object): pass    
     >>> class AB(A,B): pass        
     >>> class BA(B,A): pass     
+    >>> class C(D, AB): pass
+    >>> class D(A): pass
 
 * Python has a definition of how to resolve the diamond problem in multiple inheritance.
-* Python has cooperative inheritance
+
+    * Python has cooperative inheritance
+    * In our example, you have to carefully watch how things are constructed
