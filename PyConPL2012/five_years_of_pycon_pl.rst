@@ -33,6 +33,10 @@ PyCon PL 2008
 * The administration of the event has been a growing process.
 * We had a big old-fashioned monitor on the presenter's desk.
 * Lennart Regebro was the first foreign guest to PyCon PL!
+
+    * Zope
+    * Plone
+
 * Lots of beer was drunk!
 
 PyCon PL 2009
@@ -45,6 +49,9 @@ PyCon PL 2009
     * It was much harder to get there
     
 * Wesley Chun was the guest speaker
+
+    * Google App Engine
+
 * This year we didn't have a big monitor on the presenter desk.
 
 PyCon PL 2010
@@ -58,3 +65,18 @@ PyCon PL 2010
 
     * Jinja2
     * Flask
+    
+* This guy played piano a lot
+
+PyCon PL 2011
+=============
+
+.. note:: When asked who had been to all PyCons before this one people raised their hand. So I raised my hand too.
+
+* September 22-25 in Machocice Kapitulne
+* Took place at this hotel we are at note.
+* Guest speakers:
+
+    * Brandon Craig Rhodes
+    * Lennart Regebro
+    
