@@ -139,3 +139,15 @@ Concatenate notes into sequences
 ===================================
 
 She showed using numpy's `concatenate()` function to add up arrays of sound samples.
+
+Weaving it all together
+=========================
+
+File structure
+
+* notes.py
+
+    * contains piano keys
+    * contains imports of all the notes components
+    
+Use numpy's `uniform()` function to create nice distributions of frequencies and durations
