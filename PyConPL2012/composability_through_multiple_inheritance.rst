@@ -4,7 +4,9 @@ Composability through multiple inheritance
 
 Original Polish Title: Kompozycja poprzez wielokrotne dziedziczenie (talk is in English)
 
-by Łukasz Langa
+* by Łukasz Langa
+
+    * https://twitter.com/llanga
 
 Description
 ============
@@ -81,4 +83,16 @@ But it failed. It's only useful in limited cases and can fool you.
 
 Warning: If you mix ClassName.__init__() and super your are going to have a bad time.
 
-QUESTION: How?
+QUESTION to ask: How? Why?
+
+Django ORM as a diamond pattern case study
+------------------------------------------
+
+.. note:: need to cook up proof of this
+
+* Problems: If you have a diamond pattern in Django it causes duplicate fields
+* breaks  the Liskov substitution pattern
+
+Act III: 
+=======================
+    * 
