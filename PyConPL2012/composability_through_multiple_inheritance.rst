@@ -99,6 +99,11 @@ Django ORM as a diamond pattern case study
 Act III: Example
 =======================
 
-* Use base classes in Django models is a good way to have easily maintained code. Example:
+* Use base classes in Django models is a good way to have easily maintained code. Examples:
 
     * EditorTrackable is a Model base that handles not just who can edit data, but also handles cascading deletes elegantly.
+    * TimeTrackable is a model that tracks when something was created/deleted. Includes the following:
+
+        * Created
+        * Modified
+        * cache_version is an field that tracks which cached version is being displayed
