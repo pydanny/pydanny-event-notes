@@ -2,11 +2,14 @@
 Composability through multiple inheritance
 ==========================================
 
-Original Polish Title: Kompozycja poprzez wielokrotne dziedziczenie (talk is in English)
+Original Polish Title: `Kompozycja poprzez wielokrotne dziedziczenie`
+
+note:: Talk is in English, but title and description were in Polish
 
 * by Łukasz Langa
 
     * https://twitter.com/llanga
+    * TODO: 
 
 Description
 ============
@@ -93,6 +96,9 @@ Django ORM as a diamond pattern case study
 * Problems: If you have a diamond pattern in Django it causes duplicate fields
 * breaks  the Liskov substitution pattern
 
-Act III: 
+Act III: Example
 =======================
-    * 
+
+* Use base classes in Django models is a good way to have easily maintained code. Example:
+
+    * EditorTrackable is a Model base that handles not just who can edit data, but also handles cascading deletes elegantly.
