@@ -27,3 +27,34 @@ Act I: Exposition
     
 * Composition isn't a science, it's an art    
 * Programming done well is art. Programming done badly is trash
+* Jamie Zawinksi: You can have a string that describes things accurately, or you can have a string that describes things accurately with flair
+
+Act II: Rising Action
+======================
+
+* If you use old-style style classes, you're going to have a bad time.
+
+MRO
+----
+
+.. code-block:: python
+
+    >>> class A(object):
+        pass
+    ...
+    ...
+    >>> A.mro()
+    [<class '__main__.A'>, <type 'object'>]
+    
+Thoughts on the diamond problem
+------------------------------------
+
+.. code-block:: python
+
+    >>> class A(object): pass
+    >>> class B(object): pass    
+    >>> class AB(A,B): pass        
+    >>> class BA(B,A): pass     
+
+* Python has a definition of how to resolve the diamond problem in multiple inheritance.
+* Python has cooperative inheritance
