@@ -24,6 +24,7 @@ Talks
    what_i_missed_about_python
    composability_through_multiple_inheritance
    using_python_to_generate_art_and_sound
+   five_years_of_pycon_pl
 
 Schedule
 =========
