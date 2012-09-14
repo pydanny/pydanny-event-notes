@@ -62,3 +62,10 @@ Thoughts on the diamond problem
 
     * Python has cooperative inheritance
     * In our example, you have to carefully watch how things are constructed
+    
+.. code-block:: python
+
+    class D(A):
+        def __init__(self):
+            super(D, self).__init__(arg_a='d')
+            
