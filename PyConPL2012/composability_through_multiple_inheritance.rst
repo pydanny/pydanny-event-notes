@@ -9,7 +9,7 @@ note:: Talk is in English, but title and description were in Polish
 * by Łukasz Langa
 
     * https://twitter.com/llanga
-    * TODO: 
+    * https://github.com/ambv
 
 Description
 ============
