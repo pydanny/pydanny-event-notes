@@ -81,7 +81,7 @@ Django Forms
 
 .. code-block:: python
 
-rom django.forms import ModelForm, Textarea
+    from django.forms import ModelForm, Textarea
 
     class AuthorForm(ModelForm):
         class Meta:

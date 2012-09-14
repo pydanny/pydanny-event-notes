@@ -3,7 +3,7 @@ PyCon Poland 2012
 =================
 
 Dates: September 13-16
-Venue:
+Venue::
 
     Hotel Przedwiośnie "Early Spring" 
     Mąchocice Kapitulne 178 
