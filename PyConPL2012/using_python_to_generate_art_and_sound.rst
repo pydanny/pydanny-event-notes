@@ -9,6 +9,8 @@ Using Python to Generate Art and Sound
     * PSF Member
     * My fiancee!
     
+.. note:: Lots of code samples with detailed explanations. Can't keep up with my notes but it's awesome.
+    
 Description
 ============
 
