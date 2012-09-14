@@ -4,7 +4,7 @@ Kompozycja poprzez wielokrotne dziedziczenie
 
 by Łukasz Langa
 
-.. note:: Started late. And I don't speak Polish. 
+.. note:: Alas, I got convinced to try doing this late. And I don't speak Polish. 
 
 Description
 ============
