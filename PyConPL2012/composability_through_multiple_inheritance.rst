@@ -74,3 +74,11 @@ But it failed. It's only useful in limited cases and can fool you.
         def __init__(self):
             super(D, self).__init__(arg_a='d')
             
+
+* Don't omit super(c, self).__init__() even if your base class is `object`
+* Don't assume you know what arguments you are going to get
+* Dont' assume you know what arguments you should pass to `super`
+
+Warning: If you mix ClassName.__init__() and super your are going to have a bad time.
+
+QUESTION: How?
