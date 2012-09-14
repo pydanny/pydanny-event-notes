@@ -6,9 +6,7 @@ aka Five Years of Python
 
 * by Filip Kłębczyk
 
-.. note:: Translator notes
-
-    I'm translating this entire talk from Polish.
+.. note:: I'm translating this entire talk from Polish.
     I don't speak Polish except how to say, "Thanks".
 
 Introduction
