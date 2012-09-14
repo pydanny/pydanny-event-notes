@@ -96,3 +96,5 @@ PyCon PL 2011
 * Guest speakers:
 
     * Audrey Roy
+    
+* Have fun and do Python!
