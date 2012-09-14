@@ -6,11 +6,10 @@ aka Five Years of Python
 
 * by Filip Kłębczyk
 
-.. note:: I'm translating this entire talk from Polish.
+.. note:: Translator notes
 
-.. note:: I don't speak Polish.
-
-.. note:: Actually, I do know how to say "Thanks" 
+    I'm translating this entire talk from Polish.
+    I don't speak Polish except how to say, "Thanks".
 
 Introduction
 =============
@@ -31,8 +30,16 @@ How did we get started?
 PyCon PL 2008
 ==============
 
-* August 18-19 in Rybnik
+* October 18-19 in Rybnik
 * Rybnik looks like a lovely city.
 * The administration of the event has been a growing process.
 * We had a big old-fashioned monitor on the presenter's desk.
-* Lennart Regebro was the first foreign guest to PyCon PL
+* Lennart Regebro was the first foreign guest to PyCon PL!
+* Lots of beer was drunk!
+
+PyCon PL 2009
+==============
+
+* October 16-18 in Ustron
+* So much fun last year we had to expand it!
+* The day before the conference there was a big snow storm
