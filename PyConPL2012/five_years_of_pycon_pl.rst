@@ -23,11 +23,11 @@ How did we get started?
 
 * The inspiration comes from various other user group conferences.
 * We wanted an event for Python 
-* Piotr got credit and applause for his untiring work in the Polish Python community. Many attendees are previous students of his.
 * We also give credit to PLUG (Polish Linux User Group)
+* Piotr Kasprzyk, Ph.D, gets credit and applause for his untiring work in the Polish Python community. Many attendees are previous students of his and he invited Audrey Roy to PyCon PL 2012.
 
 PyCon PL 2008
 ==============
 
 * August 18-19 in Rybnik
-* 
+* Rybnik looks like a lovely city.
