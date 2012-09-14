@@ -22,7 +22,7 @@ Act I: Exposition
 ====================
 
 * You can use legos to build small things and yet also to build big things.
-* Lego block do have the composability feature
+* Lego blocks do have the composability feature
 * To make components work, you need to have a framework that embodies compositionality.
 * UNIX pipes are a good example:
 
@@ -33,6 +33,8 @@ Act I: Exposition
 * Composition isn't a science, it's an art    
 * Programming done well is art. Programming done badly is trash
 * Jamie Zawinksi: You can have a string that describes things accurately, or you can have a string that describes things accurately with flair
+
+.. note:: According to Lucasz, the owner of Lego stole the invention from someone else and patented it, and made a fortune. The actual inventor died of grief.
 
 Act II: Rising Action
 ======================
@@ -86,8 +88,6 @@ But it failed. It's only useful in limited cases and can fool you.
 
 Warning: If you mix ClassName.__init__() and super your are going to have a bad time.
 
-QUESTION to ask: How? Why?
-
 Django ORM as a diamond pattern case study
 ------------------------------------------
 
@@ -109,3 +109,5 @@ Act III: Example
         * cache_version is an field that tracks which cached version is being displayed
 
 * By composing his models on many projects via Abstract Models, he can test each reused abstract model extensively and repeatedly.
+
+QUESTION to ask: How? Why? The Django ORM fails in the diamond pattern. Even with Abstract base classes?
