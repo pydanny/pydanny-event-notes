@@ -135,3 +135,7 @@ Using matplotlib to visualize the chord
 
 She showed very nice code to plot out audio files.
 
+Concatenate notes into sequences
+===================================
+
+She showed using numpy's `concatenate()` function to add up arrays of sound samples.
