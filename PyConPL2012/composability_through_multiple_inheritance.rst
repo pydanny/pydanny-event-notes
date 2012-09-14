@@ -91,10 +91,11 @@ Warning: If you mix ClassName.__init__() and super your are going to have a bad 
 Django ORM as a diamond pattern case study
 ------------------------------------------
 
-.. note:: need to cook up proof of this
-
 * Problems: If you have a diamond pattern in Django it causes duplicate fields
-* breaks  the Liskov substitution pattern
+* breaks the Liskov substitution pattern
+* Example https://github.com/ambv/kitdjango/blob/master/src/lck/django/common/models.py
+
+    * TASK: Check out what happens when you add TimeTrackable and something else from this file. You will apparently get duplicate fields.
 
 Act III: Example
 =======================
@@ -110,4 +111,8 @@ Act III: Example
 
 * By composing his models on many projects via Abstract Models, he can test each reused abstract model extensively and repeatedly.
 
-QUESTION to ask: How? Why? The Django ORM fails in the diamond pattern. Even with Abstract base classes?
+Monkeypatching Django
+=====================
+
+* https://github.com/ambv/kitdjango/blob/master/src/lck/django/common/monkeys.py
+
