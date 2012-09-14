@@ -1,6 +1,6 @@
-============================================
-Kompozycja poprzez wielokrotne dziedziczenie
-============================================
+================================================================================
+Continuous integration - czyli jak spędzić weekend z dziewczyną zamiast z szefem
+================================================================================
 
 by Łukasz Langa
 
@@ -9,7 +9,7 @@ by Łukasz Langa
 Description
 ============
 
-Jednym z momentów zwrotnych w historii było wprowadzenie produkcji półfabrykatów. Poprzez tworzenie prostych komponentów, które integruje się później w złożone produkty, producenci są w stanie budować szybciej i taniej, osiągając lepszą jakość. W tej opowieści programisty o sercu inżyniera opisuję, jak używam mechanizmu wielokrotnego dziedziczenia dostępnego w Pythonie, by realizować tę rzeczywistość przemysłową w kodzie źródłowym. Przykłady bazują głównie na Django, jego ORM, formularzach i klasowych widokach. Jednakże zasady, które opisuję, są ogólne. W trakcie wykładu wspominam o sposobach implementacji komponowalnych modeli abstrakcyjnych, a także mixinów do formularzy i widoków. Tłumaczę, jak to podejście tworzy czytelne i zarządzalne idiomy, wraz z ich plusami i minusami. Zakończę podsumowując moje doświadczenia z próbą stworzenia biblioteki ściśle reużywalnych komponentów.
+Większość z nas woli programować zamiast debugować. Tym bardziej mało kto lubi szukać błędu na serwerze produkcyjnym w sobotni wieczór. Jak tego uniknąć? Nie wpuszczaj błędów na produkcję. Podczas prezentacji pokażę jak przy użyciu takich projektów jak nose, jenkins, pyflakes, fabric tego dokonać.
 
 This is a talk on continuous integration and best practices.
 
