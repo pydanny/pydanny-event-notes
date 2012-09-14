@@ -25,4 +25,5 @@ Act I: Exposition
 
     $ ps aux | grep celery | grep -v grep | ...
     
-* G
+* Composition isn't a science, it's an art    
+* Programming done well is art. Programming done badly is trash
