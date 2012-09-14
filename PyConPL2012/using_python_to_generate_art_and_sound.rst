@@ -200,8 +200,22 @@ Summary: Think functionally
 * Sound and art composition are extremely similar
 * Experiment with Gaussian distributions
 
-
 In Memorandum
 =============
 
+* John Hunter, founder of Numpy, passed away recently
 * http://numfocus.org/johnhunter
+
+Bonus Slide
+============
+
+* Tones + filters = sound effects
+
+    * Play with looping, itertools
+    
+* Image sequences + Reportlab = flipbook PDFs
+
+    * Use strokes and not fills
+
+* Save image + sound sequences as videos
+* Image composition can respond to audio input
