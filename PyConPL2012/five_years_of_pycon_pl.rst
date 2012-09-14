@@ -21,3 +21,4 @@ How did we get started?
 
 * The inspiration comes from various other user group conferences.
 * We wanted something for Python
+* Piotr got credit and applause for his untiring work in the Polish Python community. Many attendees are previous students of his.
