@@ -77,3 +77,13 @@ Timezone woes
 * There are not 24 timezones, there are standard times per country
 * standard times change
 * If you want to accurate describe times from the past, you need a database of timezone changes.
+
+Abbreviation Evil
+==================
+
+* CST
+
+    * Australia CST
+    * China Standard Time
+    * Chungua Standard Time
+    * US CST
