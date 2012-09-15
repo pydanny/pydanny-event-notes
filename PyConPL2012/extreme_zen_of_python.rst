@@ -76,3 +76,20 @@ OpenComparison
 * By printing (e), you don't get the error type or stack trace
 * Fixed code with a custom exception that gets raised and prints additional info
 
+Decorators
+----------
+
+* Awesome to use
+* Easy to explain what they do
+* He did a walkthrough of a sample decorator without arguments.  Then one that accepts an argument.
+
+    * 3 nested functions
+    * Hard to read
+
+* He corrected himself because he didn't use @functools.wraps, which is the better way to define decorators. More complexity.
+* Hard to explain implementation
+* If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea.
+
+Getting it done vs. technical debt
+----------------------------------
+
