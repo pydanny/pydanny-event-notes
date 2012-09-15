@@ -88,3 +88,5 @@ Benefits
 * Challenging but successful implementation
 * Good performance
 * optimized to handle any load
+
+    * 20x speed over standard Python
