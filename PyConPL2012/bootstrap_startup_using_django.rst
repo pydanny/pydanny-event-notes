@@ -2,7 +2,12 @@
 How to bootstrap a startup using Django
 =============================================
 
-by Jannis Leidal
+* by Jannis Leidal
+
+    * https://twitter.com/jezdez
+    * https://github.com/jezdez
+    * Django core dev
+    * Technical lead at http://gidsy.com
 
 Talk Description
 ================
