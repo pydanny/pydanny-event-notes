@@ -111,3 +111,8 @@ Advantage pytz
     
 * Works well
 * Except for POSIX
+
+Current standard specification
+===============================
+
+* TODO: Find out specified RFCs
