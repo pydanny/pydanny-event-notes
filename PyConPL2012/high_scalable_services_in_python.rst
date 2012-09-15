@@ -88,6 +88,14 @@ Workflow:
 * Call the Cython modules from Python
 * Put all the dependencies for the C library, Cython components, and Python into setup.py files so they can easily deploy
 
+System Summary
+----------------
+
+* C
+* Cython
+* Tornado
+* Python
+
 Benefits
 ==========
 
