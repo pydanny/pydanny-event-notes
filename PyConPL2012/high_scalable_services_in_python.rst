@@ -6,6 +6,10 @@ Original title: `Wysoko skalowalne serwisy pythonowe w OnetPoczcie`
 
 by Igor Waligóra
 
+.. note:: I'm translating this entire talk from Polish.
+    I don't speak Polish except how to say, "Thanks" and now "Questions?".
+
+
 Talk Description (In Polish)
 ============================
 
