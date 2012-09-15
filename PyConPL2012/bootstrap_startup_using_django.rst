@@ -22,3 +22,12 @@ What is Gidsy?
 ================
 
 Gidsy is a place where anyone can explore, book and offer things to do.
+
+Why did they choose Django?
+===========================
+
+* Big community
+* Network
+* Language
+* Many problems already solved
+* The Admin
