@@ -120,6 +120,21 @@ Deploy System
 * Operations made as easy as possible via knife and fabric
 
 
+Operations
+===========
+
+* Log everything you can for debugging
+* If you deploy often you need immediate feedback
+* Use services if you can:
+
+    * Mixpanel
+    * NewRelic
+    * Librato
+    * Papertrail
+    * Pageduty
+    
+* Show the metrics on a screen in the office
+
 
 
 Questions
