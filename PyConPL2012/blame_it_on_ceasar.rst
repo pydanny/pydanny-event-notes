@@ -57,3 +57,10 @@ Solar Calendars
     * Julian Calendar
 
 Thanks to the success of the Roman Empire Europe takes a weird Solar calendar, and thanks to the success of Europe, the world takes it on too.
+
+How do you implement the calendar yourself?
+===========================================
+
+* Python has datetime, date, and calendar
+* JavaScript is momentjs.com, which is the current best option for JavaScript
+
