@@ -93,3 +93,55 @@ Decorators
 Getting it done vs. technical debt
 ----------------------------------
 
+* Tests and docs take time. Skipping them risks:
+
+    * Multiple coding standards
+    * Deploying broken code
+    * Problems upgrading dependencies
+    * Forgetting install/deploy
+
+* Must document:
+
+    * Installation/deployment
+    * Coding standards
+    * How to run tests
+    * Config
+
+* Easy test patterns:
+
+    * Always make sure test harness can run
+    * Use tests instead of shell/repl
+    * After 1st deadline, reject incoming code that drops coverage
+    * Use coverage.py
+
+Namespaces
+----------
+
+* Powerful, useful, precise
+* Dangerous to use `import *`
+
+.. code-block:: python
+
+    >>> from re import *
+    >>> from os import *
+
+    >>> re.error == os.error
+    False
+
+Breaking built-ins
+------------------
+
+Continued from above:
+
+.. code-block:: python
+
+    >>> compare_builtins(re)
+
+* Breaks compile() built-in
+
+.. code-block:: python
+
+    >>> compare_builtins(os)
+
+* Breaks open() built-in
+
