@@ -141,7 +141,7 @@ Operations
 * Show the metrics on a screen in the office
 * django-app-metrics to get a log trail from the system
 
-    * 
+    * http://www.djangopackages.com/packages/p/django-app-metrics/
     
 Things they learned
 ====================
