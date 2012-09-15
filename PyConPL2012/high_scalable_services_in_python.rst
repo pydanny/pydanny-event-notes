@@ -10,7 +10,7 @@ Original title: `Wysoko skalowalne serwisy pythonowe w OnetPoczcie`
     * Works on high integrity systems
 
 .. note:: I'm translating this entire talk from Polish.
-    I don't speak Polish except how to say, "Thanks" and now "Questions?".
+    I don't speak Polish except how to say, "Thanks" and "Questions?".
 
 
 Talk Description (In Polish)
@@ -56,3 +56,14 @@ Their Python server
 
 * Tornado
 * JSON-RPC
+
+libOP - API
+-------------
+
+* libAUTH
+* libDB
+* libOCACHE
+* libANTYSPAM
+* libStorage
+
+They export to python using Cython modules.
