@@ -95,12 +95,17 @@ Testing
 * Full test suite via private Travis CI project
 * Fast tests locally with django-discover-runner
 
+    * http://www.djangopackages.com/packages/p/django-configurations/
+
 Releasing
 =============
 
 * Virtualenv/pip
 * localshop as local PyPI host
-* django-configurations for Django Settings
+* django-configurations for Django Settings 
+
+    * http://www.djangopackages.com/packages/p/django-configurations/
+    
 * Upstart for processes management
 
 Scaling up
@@ -134,7 +139,20 @@ Operations
     * Pageduty
     
 * Show the metrics on a screen in the office
+* django-app-metrics to get a log trail from the system
 
+    * 
+    
+Things they learned
+====================
+
+* Only scale when you need to, but be prepared
+* Be pragmatic, use the best tool to do the job
+* Automate as much as you can
+* Continuous integration and deployment
+* Make routine tasks as easy as possible
+* Use services
+* Display metrics
 
 
 Questions

@@ -10,7 +10,7 @@ Venue::
     26-001 Maslow k / Kielce 
     center coordinates: 50.9024 N, 20.78021 E.
     
-.. note:: Because I don't speak Polish, I will only capture English language talks.
+.. note:: Even though I don't speak Polish, I tried to capture some of the Polish talks.
 
 Talks
 -----
