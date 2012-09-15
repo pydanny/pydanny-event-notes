@@ -4,6 +4,8 @@ Blame it on Ceasar: A rant on calendaring
 
 by Lennart Regebro
 
+    * https://twitter.com/regebro
+
 Talk Description
 ================
 
