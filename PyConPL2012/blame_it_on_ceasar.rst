@@ -87,3 +87,5 @@ Abbreviation Evil
     * China Standard Time
     * Chungua Standard Time
     * US CST
+
+Timezones are based on politics, not science.
