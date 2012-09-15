@@ -30,7 +30,15 @@ Some sort of email system
 * 80 thousand requests a minute
 * Spam
 
-SMTP
-======
+Server types
+--------------
 
-Postfix > MDA > Storage
+* SMTP
+
+    * Postfix > MDA > Storage
+
+* POP3 / IMAP
+
+    * Dovecot > storage
+    
+* PHP / JavaScript > Python Server > Storage
