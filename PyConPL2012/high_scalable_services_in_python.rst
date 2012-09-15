@@ -90,3 +90,16 @@ Benefits
 * optimized to handle any load
 
     * 20x speed over standard Python
+
+Critical tools
+==================
+
+* PyPI
+* Virtualenv
+
+.. code-block:: bash
+
+    $ dpkg -i libop_1.1.0_amd64.deb
+    $ mkvirtualenv mparser
+    (mparser) $ source mparser/bin/activate
+    $ pip install -r requirements.txt
