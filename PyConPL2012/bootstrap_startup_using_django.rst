@@ -43,6 +43,42 @@ Why Django is a good choice?
 Implementing search
 =====================
 
+**Haystack**:  http://www.haystacksearch.org/
+
 * Needed customizable search abstraction
 * Indexing, filtering, faceting, "More like this"
 * Spatial search and sorting
+
+Implementing API
+=================
+
+**Tastypie**: 
+
+* Highly customizable Web API library
+* Hooks for auth, throttling, caching, etc
+* Backbone.js compatible
+
+Task Queues
+============
+
+**Celery**
+
+If you have a user triggered process that will take a long time, use an asynchronous task queue to manage the task
+
+* Async code execution
+* Generate thumbnails, search index updates, caching, etc
+* Collect stats without blocking
+
+Caching
+========
+
+**Memcached**
+
+* Periodic cache refreshing for high traffic sites
+* Fragment caching with dates and cache version
+* Cache warming during deployment
+
+Questions
+============
+
+* Do they use a specific Catching library or the Django API?
