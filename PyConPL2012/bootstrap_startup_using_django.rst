@@ -78,7 +78,19 @@ Caching
 * Fragment caching with dates and cache version
 * Cache warming during deployment
 
+Workflow
+=========
+
+.. epigraph:: "Always check in a module cleaner then when you checked it out." -- Uncle Bob
+
+* Main branch is always deployable
+* Development happens in feature branches
+* Code reviews via pull requests
+* Shared responsibility
+
+
 Questions
 ============
 
 * Do they use a specific Catching library or the Django API?
+
