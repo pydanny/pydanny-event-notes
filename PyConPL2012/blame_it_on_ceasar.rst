@@ -74,4 +74,6 @@ You don't. You use libraries.
 Timezone woes
 ===============
 
-.. note:: There are not 24 timezones, there are standard times.
+* There are not 24 timezones, there are standard times per country
+* standard times change
+* If you want to accurate describe times from the past, you need a database of timezone changes.
