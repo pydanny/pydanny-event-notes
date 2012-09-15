@@ -31,3 +31,11 @@ Why did they choose Django?
 * Language
 * Many problems already solved
 * The Admin
+
+Why Django is a good choice?
+==============================
+
+* Proven technology by similar use cases
+* Stable APIs in a well-defined release process
+* Good documentation with focus on prose
+* Huge community of 3rd party components
