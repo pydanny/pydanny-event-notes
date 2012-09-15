@@ -121,3 +121,8 @@ Libraries
 * http://pypi.python.org/pypi/tzlocal (Download and test it out!)
 * http://pypi.python.org/pypi/icalendar
 * http://pypi.python.org/pypi/DateUtils
+
+Datepickers
+=================
+
+* Based on JavaScript if you are doing the web
