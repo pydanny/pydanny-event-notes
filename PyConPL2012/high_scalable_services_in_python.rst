@@ -44,3 +44,15 @@ Server types
 * Webmail
 
     * PHP / JavaScript > Python Server > Storage
+    
+
+Persistence Server
+-------------------
+
+* check RFC 822
+
+Their Python server
+--------------------
+
+* Tornado
+* JSON-RPC
