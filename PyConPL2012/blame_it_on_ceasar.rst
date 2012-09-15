@@ -70,3 +70,8 @@ You don't. You use libraries.
     * http://date4j.net/
     
 * The US calendar shows Sunday as the first day of the week, which is confusing because it puts the first day on the weekend.
+
+Timezone woes
+===============
+
+.. note:: There are not 24 timezones, there are standard times.
