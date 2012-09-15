@@ -7,7 +7,7 @@ Original title: `Wysoko skalowalne serwisy pythonowe w OnetPoczcie`
 * by Igor Waligóra
 
     * From Warsaw
-    * Works on high integrity systems
+    * Works on high integrity systems at Onet (https://twitter.com/onetpl)
 
 .. note:: I'm translating this entire talk from Polish.
     I don't speak Polish except how to say, "Thanks" and "Questions?".
@@ -109,3 +109,22 @@ Critical tools
     $ mkvirtualenv mparser
     (mparser) $ source mparser/bin/activate
     $ pip install -r requirements.txt
+    
+Results
+===================
+
+* really good performance
+* 99.8% uptime
+* Able to handle 500 thousand spam hits a minute
+
+Summary
+============
+
+* Build good systems
+* C libraries are the way to go
+* Use Python to build your stuff, but leverage in the C libraries
+* Processes
+
+    * Scrum
+    * DevOps
+    
