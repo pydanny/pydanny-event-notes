@@ -5,6 +5,8 @@ Blame it on Ceasar: A rant on calendaring
 by Lennart Regebro
 
     * https://twitter.com/regebro
+    * http://python3porting.com/
+    * Runs a consulting shop and does really good work.
 
 Talk Description
 ================
