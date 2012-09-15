@@ -79,6 +79,9 @@ Workflow:
 
 * Take C code that does what they need.
 * Implement as Cython
+
+    * http://cython.org
+
 * Call the Cython modules from Python
 * Put all the dependencies for the C library, Cython components, and Python into setup.py files so they can easily deploy
 
