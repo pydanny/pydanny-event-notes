@@ -4,7 +4,10 @@ Highly scalable services in Python
 
 Original title: `Wysoko skalowalne serwisy pythonowe w OnetPoczcie`
 
-by Igor Waligóra
+* by Igor Waligóra
+
+    * From Warsaw
+    * Works on high integrity systems
 
 .. note:: I'm translating this entire talk from Polish.
     I don't speak Polish except how to say, "Thanks" and now "Questions?".
