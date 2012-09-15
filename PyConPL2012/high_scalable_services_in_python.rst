@@ -7,7 +7,14 @@ Original title: `Wysoko skalowalne serwisy pythonowe w OnetPoczcie`
 * by Igor Waligóra
 
     * From Warsaw
-    * Works on high integrity systems at Onet (https://twitter.com/onetpl)
+    * Works on high integrity systems at Onet
+    
+* About Onet
+
+    * Over 70 developers use Python full time 
+    * https://twitter.com/onetpl
+    * news portal and email provider
+    * One of the oldest sites in Poland
 
 .. note:: I'm translating this entire talk from Polish.
     I don't speak Polish except how to say, "Thanks" and "Questions?".
