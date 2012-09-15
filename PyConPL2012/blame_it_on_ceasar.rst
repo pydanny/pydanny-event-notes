@@ -89,3 +89,8 @@ Abbreviation Evil
     * US CST
 
 Timezones are based on politics, not science.
+
+Daylight Savings Time
+=======================
+
+* Changing the hour can cause problems with computers. Going over midnight twice breaks things.
