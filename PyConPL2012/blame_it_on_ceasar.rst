@@ -127,4 +127,4 @@ Datepickers
 
 * Based on JavaScript if you are doing the web
 * http://arshaw.com/fullcalendar/
-* https://github.com/collective/juery.recurrenceinput.js
+* https://github.com/collective/jquery.recurrenceinput.js
