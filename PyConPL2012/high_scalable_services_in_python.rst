@@ -66,7 +66,10 @@ libOP - API
 * libANTYSPAM
 * libStorage
 
-They export to python using Cython modules.
+Making Python faster
+=======================
+
+Write in C, make bindings in Cython, import into Python
 
 .. code-block:: c
 
