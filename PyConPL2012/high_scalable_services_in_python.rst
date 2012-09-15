@@ -67,3 +67,9 @@ libOP - API
 * libStorage
 
 They export to python using Cython modules.
+
+.. code-block:: c
+
+    int mparser_fetch(const struct mparser_server *mparser, etc){
+        [...]
+    }
