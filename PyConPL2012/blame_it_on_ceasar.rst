@@ -103,8 +103,6 @@ Pytz discussion
 He gave examples of how this module does a lot of the lifting for you on timezones and daylight saving time::
 
     pytz 30 - 15 dateutil
-
-* http://pypi.python.org/pypi/tzlocal (Download and test it out!)
     
 Advantage pytz
 ================
@@ -116,3 +114,9 @@ Current standard specification
 ===============================
 
 * TODO: Find out specified RFCs
+
+Libraries
+===========
+
+* http://pypi.python.org/pypi/tzlocal (Download and test it out!)
+* http://pypi.python.org/pypi/icalendar
