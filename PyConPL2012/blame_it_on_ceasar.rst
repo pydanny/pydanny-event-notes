@@ -17,3 +17,11 @@ Timekeeping on all levels is surprisingly difficult. This talk explains why it's
 * Mesopotamian mathematics
 * Time zones
 * Recurring events is less fun than you think.
+
+Introduction
+==============
+
+.. epigraph:: The problem with calendaring is that it is based off of multiple cycles that don't work well with each other
+
+**Rome:** They had a 10 month calendar that made winter a dead period in the calendar.
+
