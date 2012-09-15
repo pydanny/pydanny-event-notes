@@ -57,6 +57,7 @@ Implementing API
 * Highly customizable Web API library
 * Hooks for auth, throttling, caching, etc
 * Backbone.js compatible
+* Not for 3rd parties, just to serve out system content. So no need yet for OAuth or other protocols
 
 Task Queues
 ============
@@ -77,6 +78,7 @@ Caching
 * Periodic cache refreshing for high traffic sites
 * Fragment caching with dates and cache version
 * Cache warming during deployment
+* All their code is based off the Django cache module. They don't use any libraries here because their data is too complex to rely on a caching framework.
 
 Workflow
 =========
@@ -154,9 +156,4 @@ Things they learned
 * Use services
 * Display metrics
 
-
-Questions
-============
-
-* Do they use a specific Catching library or the Django API?
 
