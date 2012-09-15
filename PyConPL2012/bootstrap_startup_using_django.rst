@@ -39,3 +39,10 @@ Why Django is a good choice?
 * Stable APIs in a well-defined release process
 * Good documentation with focus on prose
 * Huge community of 3rd party components
+
+Implementing search
+=====================
+
+* Needed customizable search abstraction
+* Indexing, filtering, faceting, "More like this"
+* Spatial search and sorting
