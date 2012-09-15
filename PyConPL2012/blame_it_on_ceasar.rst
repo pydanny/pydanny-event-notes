@@ -6,6 +6,7 @@ by Lennart Regebro
 
     * https://twitter.com/regebro
     * http://python3porting.com/
+    * http://regebro.wordpress.com    
     * Runs a consulting shop and does really good work.
 
 Talk Description
