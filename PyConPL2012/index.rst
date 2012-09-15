@@ -25,6 +25,9 @@ Talks
    composability_through_multiple_inheritance
    using_python_to_generate_art_and_sound
    five_years_of_pycon_pl
+   high_scalable_services_in_python
+   blame_it_on_ceasar
+   bootstrap_startup_using_django
 
 Schedule
 =========
