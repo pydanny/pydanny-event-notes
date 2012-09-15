@@ -41,4 +41,6 @@ Server types
 
     * Dovecot > storage
     
-* PHP / JavaScript > Python Server > Storage
+* Webmail
+
+    * PHP / JavaScript > Python Server > Storage
