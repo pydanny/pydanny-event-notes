@@ -28,6 +28,7 @@ Talks
    high_scalable_services_in_python
    blame_it_on_ceasar
    bootstrap_startup_using_django
+   an_extreme_talk_about_the_zen_of_python
 
 Schedule
 =========
