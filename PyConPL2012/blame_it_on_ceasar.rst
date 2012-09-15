@@ -100,4 +100,6 @@ Daylight Savings Time
 Pytz tutorial
 =============
 
-He gave examples of how this module does a lot of the lifting for you on timezones and daylight saving time
+He gave examples of how this module does a lot of the lifting for you on timezones and daylight saving time::
+
+    pytz 30 - 15 dateutil
