@@ -23,5 +23,33 @@ Introduction
 
 .. epigraph:: The problem with calendaring is that it is based off of multiple cycles that don't work well with each other
 
-**Rome:** They had a 10 month calendar that made winter a dead period in the calendar.
+**Rome:** They had a 10 month calendar that made winter a dead period in the calendar. Eventually they added January and February
 
+Lunar Calendars
+=================
+
+* The year is twelve lunar months long.
+* The year is out of sync with the seasons
+* Example: The Islamic Calendar
+
+Lunisolar calendars
+=====================
+
+* The year is 12 or 13 months long
+* The year is kept in sync with season by leap months
+* examples
+
+    * Hebrew
+    * Buddhist
+
+Solar Calendars
+=================
+    
+The villain of the story is Caesar
+
+* The year follows the solstices/seasons
+* The moon is ignored completely
+* Examples:
+
+    * French republican
+    * Julian Calendar
