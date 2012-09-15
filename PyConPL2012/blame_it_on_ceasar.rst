@@ -94,3 +94,5 @@ Daylight Savings Time
 =======================
 
 * Changing the hour can cause problems with computers. Going over midnight twice breaks things.
+* JavaScript handles this well
+* Python handles it well
