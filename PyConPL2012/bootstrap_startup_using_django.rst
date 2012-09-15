@@ -52,7 +52,7 @@ Implementing search
 Implementing API
 =================
 
-**Tastypie**: 
+**Tastypie**: http://tastypieapi.org/
 
 * Highly customizable Web API library
 * Hooks for auth, throttling, caching, etc
@@ -61,7 +61,7 @@ Implementing API
 Task Queues
 ============
 
-**Celery**
+**Celery**: http://celeryproject.org/
 
 If you have a user triggered process that will take a long time, use an asynchronous task queue to manage the task
 
