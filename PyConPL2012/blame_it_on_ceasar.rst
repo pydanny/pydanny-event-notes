@@ -61,6 +61,12 @@ Thanks to the success of the Roman Empire Europe takes a weird Solar calendar, a
 How do you implement the calendar yourself?
 ===========================================
 
+You don't. You use libraries.
+
 * Python has datetime, date, and calendar
 * JavaScript is momentjs.com, which is the current best option for JavaScript
+* Java has issues thanks to an early design decision mistake.
 
+    * http://date4j.net/
+    
+* The US calendar shows Sunday as the first day of the week, which is confusing because it puts the first day on the weekend.
