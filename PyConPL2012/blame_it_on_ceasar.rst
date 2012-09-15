@@ -45,7 +45,7 @@ Lunisolar calendars
 Solar Calendars
 =================
     
-The villain of the story is Caesar
+.. epigraph:: The villain of the story is Caesar
 
 * The year follows the solstices/seasons
 * The moon is ignored completely
