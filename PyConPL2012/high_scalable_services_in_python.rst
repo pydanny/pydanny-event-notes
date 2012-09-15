@@ -81,3 +81,10 @@ Workflow:
 * Implement as Cython
 * Call the Cython modules from Python
 * Put all the dependencies for the C library, Cython components, and Python into setup.py files so they can easily deploy
+
+Benefits
+==========
+
+* Challenging but successful implementation
+* Good performance
+* optimized to handle any load
