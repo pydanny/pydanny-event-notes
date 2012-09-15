@@ -88,6 +88,39 @@ Workflow
 * Code reviews via pull requests
 * Shared responsibility
 
+Testing
+========
+
+* Seperation of fast and slow tests
+* Full test suite via private Travis CI project
+* Fast tests locally with django-discover-runner
+
+Releasing
+=============
+
+* Virtualenv/pip
+* localshop as local PyPI host
+* django-configurations for Django Settings
+* Upstart for processes management
+
+Scaling up
+===========
+
+* TODO - get slide that I missed
+
+Deploy System
+===============
+
+* Builds are virtualenvs
+* Atomic and orchestrated releases
+* Lots of notifications
+* Mix of Chef and Fabric
+* Trying to open source it
+* Using New Relic and Hipchat to track things
+* Operations made as easy as possible via knife and fabric
+
+
+
 
 Questions
 ============
