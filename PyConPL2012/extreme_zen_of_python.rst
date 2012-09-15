@@ -7,7 +7,7 @@ Daniel Greenfeld
 
 * Family on both sides from Poland
 * Principal at Cartwheel Web, PSF & DSF member
-* Fiancee is me
+* Fiancee is @audreyr!
 * Co-lead on OpenComparison which powers djangopackages.com and more
 
 Zen of Python
