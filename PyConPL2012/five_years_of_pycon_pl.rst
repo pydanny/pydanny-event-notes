@@ -86,7 +86,7 @@ PyCon PL 2011
     * You had to do it in your heavy coat
     * It was fun!
     
-PyCon PL 2011
+PyCon PL 2012
 =============
 
 .. note:: This weekend's conference!
