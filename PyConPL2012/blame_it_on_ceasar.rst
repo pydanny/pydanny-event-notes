@@ -97,9 +97,17 @@ Daylight Savings Time
 * JavaScript handles this well
 * Python handles it well
 
-Pytz tutorial
-=============
+Pytz discussion
+================
 
 He gave examples of how this module does a lot of the lifting for you on timezones and daylight saving time::
 
     pytz 30 - 15 dateutil
+
+* http://pypi.python.org/pypi/tzlocal (Download and test it out!)
+    
+Advantage pytz
+================
+    
+* Works well
+* Except for POSIX
