@@ -145,3 +145,10 @@ Continued from above:
 
 * Breaks open() built-in
 
+* Bad shortcut pattern to teach beginners. Technical debt.
+
+Summary
+-------
+
+* Our community is built off of the Zen of Python
+* Thank you: Richard Jones, Raymond Hettiger, Matt Harrison, Kenneth Love, PyCon Poland, others
