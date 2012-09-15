@@ -95,7 +95,7 @@ Testing
 * Full test suite via private Travis CI project
 * Fast tests locally with django-discover-runner
 
-    * http://www.djangopackages.com/packages/p/django-configurations/
+    * http://www.djangopackages.com/packages/p/django-discover-runner/
 
 Releasing
 =============
