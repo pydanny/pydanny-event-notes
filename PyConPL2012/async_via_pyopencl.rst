@@ -39,9 +39,11 @@ OpenCL
 * Compile dor binary kernels run on cores separate from CPU
 * Based on C
 * Includes events and asynchronous execution
-* http://pypi.python.org/pypi/pyopencl
-* http://mathema.tician.de/software/pyopencl
-* http://documen.tician.de/pyopencl/
+* Information
+
+    * http://pypi.python.org/pypi/pyopencl
+    * http://mathema.tician.de/software/pyopencl
+    * http://documen.tician.de/pyopencl/
 
 Basic OpenCL programming model
 ==============================
