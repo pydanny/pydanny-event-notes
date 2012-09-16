@@ -114,3 +114,28 @@ OpenCL programming workflow
 4. Run computations
 5. After finishing computations get results from device
 6. Free resources
+
+Event based programming done in Python
+==========================================
+
+* Instruct OpenCl to run computations
+* Don't wait for data
+* Computation will get to you when it's done
+
+.. code-block:: python
+
+    event = pyopencl.enqueue_copy(queue, a, agpu)
+    event.wait()
+    
+    event = program.increase(queue, a.shape, None, a_gpu)
+
+    # later code
+    queue0 = pyopencl.CommandQueue(context)
+    queue1 = pyopencl.CommandQueue(context)    
+    event = pyopencl.enqueue_copy(queue)
+    
+    
+Event-related objects
+=======================
+
+* Not all PyOpenCL functions and methods accept list of event sto wait for
