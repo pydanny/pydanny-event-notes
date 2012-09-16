@@ -40,8 +40,6 @@ OpenCL
 * Based on C
 * Includes events and asynchronous execution
 
-**Question**: What command are you running to get info on a device?
-
 Basic OpenCL programming model
 ==============================
 
@@ -162,3 +160,6 @@ Provides:
     * Parallel scan
     
 Designed so you aren't writing C code from scratch all the time to make your computations work fast in the graphics cards.
+
+
+
