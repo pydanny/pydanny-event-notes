@@ -5,11 +5,11 @@ PyCon Poland 2012
 Dates: September 13-16
 Venue::
 
-    Hotel Przedwiośnie "Early Spring" 
-    Mąchocice Kapitulne 178 
-    26-001 Maslow k / Kielce 
+    Hotel Przedwiośnie "Early Spring"
+    Mąchocice Kapitulne 178
+    26-001 Maslow k / Kielce
     center coordinates: 50.9024 N, 20.78021 E.
-    
+
 .. note:: Even though I don't speak Polish, I tried to capture some of the Polish talks.
 
 Talks
@@ -17,7 +17,7 @@ Talks
 
 .. toctree::
    :maxdepth: 2
-   
+
    fractal_architectures
    forms_in_python
    continuous_integration
@@ -29,6 +29,16 @@ Talks
    blame_it_on_ceasar
    bootstrap_startup_using_django
    async_via_pyopencl
+   
+**An Extreme Talk about the Zen of Python**
+
+Three people submitted live-notes of this talk. I would have taken notes but as I was giving the talk it would have caused a fatal recursion error.
+   
+.. toctree::
+   :maxdepth: 2
+
+   extreme_zen_of_python
+
 
 Schedule
 =========
@@ -43,7 +53,7 @@ Invited Speakers
  * Audrey M. Roy
  * Jannis Leidel
  * Laurens Van Houtven
- * Kai Diefenbach 
+ * Kai Diefenbach
  * Stefan Kögl
 
 Sponsors
@@ -52,7 +62,7 @@ Sponsors
 * Python Academy: http://www.python-academy.com/
 * Allegro
 * Onet
-* Megiteam 
+* Megiteam
 * OSworld.pl: http://www.osworld.pl/
 * OSnews.pl: http://www.osnews.pl/
 * Polish Python User Group: http://pl.python.org/
