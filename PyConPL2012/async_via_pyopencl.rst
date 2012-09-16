@@ -36,7 +36,7 @@ OpenCL
     * Extensions
     * Different models for different devices
 
-* Compile dor binary kernals run on cores separate from CPU
+* Compile dor binary kernels run on cores separate from CPU
 * Based on C
 * Includes events and asynchronous execution
 
@@ -104,3 +104,13 @@ PyOpenCL
 
     * extensions
     * high level programming
+    
+OpenCL programming workflow
+============================
+
+1. Compile kernels
+2. Prepare data
+3. Transfer data to device
+4. Run computations
+5. After finishing computations get results from device
+6. Free resources
