@@ -161,5 +161,12 @@ Provides:
     
 Designed so you aren't writing C code from scratch all the time to make your computations work fast in the graphics cards.
 
+Extensions
+============
 
+All extensions require pointers to the C so it's tricky to make them work
 
+OpenGL
+========
+
+Can share data between OpenCL and OpenGL
