@@ -74,3 +74,33 @@ Execution run-time hierarchy
     * Which means you can have 100 threads run in a group, or 1000.
 
 * Work-item
+
+Execution Models
+==================
+
+* Task parallelism
+
+    * One thread running computations
+    * Possibility of running many threads at the same time
+    * Require out-of-order queue or many queues
+    
+* Computation parallelism
+
+    * Many 
+    
+TODO - Get the parts I missed
+
+PyOpenCL
+=========
+
+* ... and PyCUDA
+* Python wrapper for OpenCL
+* Not only wrapper
+
+    * Pythonic
+    * Object oriented
+    
+* Stable but still work in progress
+
+    * extensions
+    * high level programming
