@@ -149,3 +149,16 @@ Fission
 * Can be used to reserve some computational power
 * Solution similar to CPU virtualization
 * No problems with device-to-device memory transfers
+
+Where PyOpenCL helps
+=====================
+
+Provides:
+
+    * Array
+    * Random number generators
+    * Single pass element-wise expressions
+    * Reduction
+    * Parallel scan
+    
+Designed so you aren't writing C code from scratch all the time to make your computations work fast in the graphics cards.
