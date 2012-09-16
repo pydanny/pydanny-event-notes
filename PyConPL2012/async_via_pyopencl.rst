@@ -5,7 +5,7 @@ Asynchronous and event-driven PyOpenCL programming
 * by Tomasz Rybak
 
     * tomasz.rybak@post.pl
-    * Debian Maintainer of PyOPenCL and PyCUDOA
+    * Debian Maintainer of PyOpenCL and PyCUDOA
     * Currently working at CodiLime
     * Worked at University of Geneva
 
@@ -24,3 +24,41 @@ Increasing hardware parallelism
 * No more automatic performance improvements
 * Different programming models
 * OpenCL has emerged as a standard intended to help with programming over this obstacle.
+
+Summary: Use OpenCL to access the power of graphics cards as math processors
+
+OpenCL
+=======
+
+* Standard maintained by Khronos
+* Similar to OpenGL
+
+    * Extensions
+    * Different models for different devices
+
+* Compile dor binary kernals run on cores separate from CPU
+* Based on C
+* Includes events and asynchronous execution
+
+**Question**: What command are you running to get info on a device?
+
+Basic OpenCL programming model
+==============================
+
+* Execution units hierarchy
+
+    * Hosts
+    * Platforms
+    * Computing devices
+    * Computing units
+    * Processing elements
+    
+* Memory hierarchy
+
+    * Global memory
+    * Constant memory
+    * local memory
+    * Private memory
+    
+* Relaxed consistency of memory access
+* Cache
