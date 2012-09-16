@@ -38,7 +38,7 @@ Three people submitted live-notes of this talk. I would have taken notes but as 
    :maxdepth: 2
 
    extreme_zen_of_python
-
+   extreme_talk_about_zen_of_python
 
 Schedule
 =========
