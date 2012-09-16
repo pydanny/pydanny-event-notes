@@ -62,3 +62,15 @@ Basic OpenCL programming model
     
 * Relaxed consistency of memory access
 * Cache
+
+Execution run-time hierarchy
+==============================
+
+* Context
+* Queue
+* Work-group
+
+    * A bunch of threads go into a work group
+    * Which means you can have 100 threads run in a group, or 1000.
+
+* Work-item
