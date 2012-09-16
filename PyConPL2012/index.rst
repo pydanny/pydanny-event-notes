@@ -28,6 +28,7 @@ Talks
    high_scalable_services_in_python
    blame_it_on_ceasar
    bootstrap_startup_using_django
+   async_via_pyopencl
 
 Schedule
 =========
