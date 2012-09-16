@@ -138,4 +138,14 @@ Event based programming done in Python
 Event-related objects
 =======================
 
-* Not all PyOpenCL functions and methods accept list of event sto wait for
+* Not all PyOpenCL functions and methods accept list of event to wait for
+* We can wait for these events manually
+* Or we can create a marker or barrier to force the end of a queue
+
+Fission
+=========
+
+* Splitting one physical device into many logical ones.
+* Can be used to reserve some computational power
+* Solution similar to CPU virtualization
+* No problems with device-to-device memory transfers
