@@ -170,3 +170,14 @@ OpenGL
 ========
 
 Can share data between OpenCL and OpenGL
+
+Future of PyOpenCL
+=======================
+
+* Intention to share code between PyOpenCL and PyCUDA
+* Increase number 3rd party libraries
+* Some of those could be added to PyOpenCL
+* Resolving existing problems
+
+    * Adding extensions should be easier
+    * Supporting additional libraries
