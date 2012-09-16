@@ -186,3 +186,8 @@ Future of PyOpenCL
 
     * Adding extensions should be easier
     * Supporting additional libraries
+    
+Suggestions
+============
+
+Check out http://copperhead.github.com as a way to wrap PyCUDA for easier coding.
