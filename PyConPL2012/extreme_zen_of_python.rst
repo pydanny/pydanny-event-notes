@@ -2,6 +2,8 @@
 An Extreme Talk about the Zen of Python
 =======================================
 
+.. note:: live-noted by Audrey Roy (audreyr) and submitted as a pull request
+
 Daniel Greenfeld
 ----------------
 

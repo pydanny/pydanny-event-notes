@@ -2,6 +2,8 @@
 Extreme Talk about Zen of Python
 ================================
 
+.. note:: live-noted by Łukasz Langa (ambv) and submitted as a pull request
+
 "What mistakes I did and how I correct them."
 
 The speaker: Daniel Greenfeld, both his parents' ancestors were from Poland. Learned Python at NASA.

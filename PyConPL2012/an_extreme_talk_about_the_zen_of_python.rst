@@ -2,6 +2,8 @@
 An extreme talk about the Zen of Python
 =======================================
 
+.. note:: live-noted by Zbigniew Siciarz (zsiciarz) and submitted as a pull request
+
  * by Daniel Greenfeld
  
 Description
