@@ -33,9 +33,7 @@ Talks
 An Extreme Talk about the Zen of Python
 ==========================================
 
-I would have taken notes but as I was presenting it would have caused a fatal recursion error.
-
-Three people submitted live-notes of this talk.
+.. note:: I would have taken notes but as I was presenting it would have caused a fatal recursion error. Fortunately, three people (Audrey Roy, Łukasz Langa, and Zbigniew Siciarz) submitted live-notes of this talk.
    
 .. toctree::
    :maxdepth: 2
