@@ -30,9 +30,12 @@ Talks
    bootstrap_startup_using_django
    async_via_pyopencl
    
-**An Extreme Talk about the Zen of Python**
+An Extreme Talk about the Zen of Python
+==========================================
 
-Three people submitted live-notes of this talk. I would have taken notes but as I was giving the talk it would have caused a fatal recursion error.
+I would have taken notes but as I was presenting it would have caused a fatal recursion error.
+
+Three people submitted live-notes of this talk.
    
 .. toctree::
    :maxdepth: 2
