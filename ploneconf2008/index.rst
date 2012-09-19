@@ -12,3 +12,4 @@ Venue: Ronald Reagan Center, Washington DC
    day_1_plone_theming
    day_1_lightning_talks
    class_curriculum
+   products_to_look_up

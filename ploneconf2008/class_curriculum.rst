@@ -11,7 +11,7 @@ Goals of the class for our firm
         - buildout
         - Zope 3 style products
     3. Have fun
-    4. Make money
+    4. Make enough money to get some Taco bell
     5. Prospect for potential customers for consulting
     6. Prospect for potential employees for consulting
     7. Earn me street cred in Plone community

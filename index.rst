@@ -62,7 +62,7 @@ Credits
 ========
  
 * Audrey Roy. She makes this and so much more possible. She is my life.
-* Eric Holscher and the rtfd.org community.
+* Eric Holscher and the http://rtfd.org community.
 * Github for DVCS hosting.
 * The Django, Python, and the Open Source communities.
 
