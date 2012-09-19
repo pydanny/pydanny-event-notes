@@ -1,10 +1,6 @@
-============================
-Day 2 - Thursday 9 2008
-============================
-
-
-Day 2 summary 
-==============
+===============
+Day 2 - Summary
+===============
 
 I was very rested by the time I arrived.  I had slept well.
 
@@ -12,11 +8,11 @@ So you want to be a consultant by panel
 ---------------------------------------------
 No, I'm not looking to leave NASA these days.  However, I do some side consulting, and even in my day job there are good project control lessons you can learn from the consulting crowd.  For example, ideas on recruiting, customer relations, and how to handle billing when you need time to boost skills.  There were 5 plone board members in the panel, and much wisdom was shared.  Plone board members there:
 
-    - Nate Atune
-    - Gaer Baekholt
-    - Calvin Hendryx-Parker
-    - Jon Stahl
-    - Someone else whose name escapes me
+- Nate Atune
+- Gaer Baekholt
+- Calvin Hendryx-Parker
+- Jon Stahl
+- Someone else whose name escapes me
     
 
 What makes a great development team by Mike Robinson
@@ -38,11 +34,11 @@ Plone has a number of embarressments, with issues ranging from rich media suppor
 
 Wants to revamp much for Plone 4.  Some quick bullets:
 
-    - Follow the guiding lights shown by some of the other Python web frameworks.
-    - Make learning follow a constant set of humps, not huge ones followed by a plateau followed by an insurmountable wall.
-    - make certain things real easy to do (logo, branding, content types, etc)
-    - Create one true way and remove the other ways
-    - embrace through the web but allow filesystem round-trip for deployment and collaboration
+- Follow the guiding lights shown by some of the other Python web frameworks.
+- Make learning follow a constant set of humps, not huge ones followed by a plateau followed by an insurmountable wall.
+- make certain things real easy to do (logo, branding, content types, etc)
+- Create one true way and remove the other ways
+- embrace through the web but allow filesystem round-trip for deployment and collaboration
     
 NASA Science case study by Katie Cunningham and Daniel Greenfeld
 ----------------------------------------------------------------
@@ -58,16 +54,16 @@ General Socializing
 -------------------
 Where to begin? I had great fun with so many incredibly awesome people.  The quick and dirty list:
 
-    - Vernon Chapman
-    - Tarek Zaide
-    - Alex Clark
-    - Amy Clark
-    - Matt Bowen
-    - Jon Stahl
-    - Nate Aune
-    - Katie Cunningham
-    - Gary Burner
-    - Joel Burton
-    - My whole agile development team
+- Vernon Chapman
+- Tarek Zaide
+- Alex Clark
+- Amy Clark
+- Matt Bowen
+- Jon Stahl
+- Nate Aune
+- Katie Cunningham
+- Gary Burner
+- Joel Burton
+- My whole agile development team
     
 If I missed you, let me know!

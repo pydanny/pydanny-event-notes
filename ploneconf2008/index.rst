@@ -14,6 +14,11 @@ Venue: Ronald Reagan Center, Washington DC
    day_1_feed_the_masses
    day_1_plone_theming
    day_1_lightning_talks
+   day_2_agile_process
+   day_2_bringing_open_source_practices_to_education
+   day_2_consultant_talks
+   day_2_what_makes_a_great_development_team
+   day_2_summary
    day_3_buildout   
    day_3_buildout_with_tarek
    day_3_kss
