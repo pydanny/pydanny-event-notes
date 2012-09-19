@@ -1,52 +1,62 @@
-============================
-Day 3 - Friday 10 2008
-============================
+==================================
+Day 3 - Buildout by Clayton Parker
+==================================
 
+- Buildout
 
-Buildout by Clayton Parker
-==============================
+    - parts
+    - recipes
+    - command-line
+    
+- ZopeSkel
 
-    - Buildout
-        - parts
-        - recipes
-        - command-line
-    - ZopeSkel
-        - Custom recipes
+    - Custom recipes
     
 Why buildout?
 --------------
-    - because it rocks
-    - lets us fetch all the dependencies easily
-    - no more ugly checklists
-    - lets us put everything involved in setup into one configuration file
+
+- because it rocks
+- lets us fetch all the dependencies easily
+- no more ugly checklists
+- lets us put everything involved in setup into one configuration file
     
 ------    
     
 Syntax
 --------
-    - Variable substitution 
-        - ${part:option}
-    - option additional and removal
-        options = foo bar
-        options += foo
-        options -= bar
-    - Reserved characters
-        - :$%{}
-        - Don't use those things
-    - http-address: 11001 
-    - zeo-address: 10001
+
+- Variable substitution 
+
+    - ``${part:option}``
+    
+- option additional and removal
+
+    options = foo bar
+    options += foo
+    options -= bar
+    
+- Reserved characters
+
+    - :$%{}
+    - Don't use those things
+    
+- http-address: 11001 
+- zeo-address: 10001
     
 ----
     
 
 Parts and Recipes
 --------------------
-    - Can't have a part without a recip
-    - Part is identified in brackets:
-        - [plone]
+
+- Can't have a part without a recip
+- Part is identified in brackets:
+
+    - [plone]
     
 Buildout
 --------
+
 Some notes about buildout::
     
     [buildout]
@@ -60,11 +70,14 @@ Some notes about buildout::
         
 Recipes
 --------
+
 Find recipes on...
+
     - PYPI
     - collective
     
 Plone recipes
+
     - plone.recipe.plone
     - plone.recipe.zope2install
     - plone.recipe.zope2instance
@@ -86,13 +99,15 @@ plone.recipe.zope2install::
 
 Extending Configuration
 --------------------------
-    - buildout.cfg
-    - profiles
-        - base.cfg
-        - development.cfg
-        - debug.cfg (high debug settings)
-        - qa.cfg (testing tools included)
-        - prod.cfg (squid, varnish, etc)
+
+- buildout.cfg
+- profiles
+
+    - base.cfg
+    - development.cfg
+    - debug.cfg (high debug settings)
+    - qa.cfg (testing tools included)
+    - prod.cfg (squid, varnish, etc)
         
 how to extend::
 
@@ -102,6 +117,7 @@ how to extend::
     
 PIL integration!!!
 -------------------
+
 doh::
 
     [buildout]
@@ -114,6 +130,7 @@ doh::
 
 Handy tips
 --------------
+
 TODO: get all this stuff. Some handy stuff from this talk::
 
     [instance]
@@ -138,10 +155,12 @@ TODO: get all this stuff. Some handy stuff from this talk::
 Useful command line tools
 
     - [ipzope]
+    
         - sets up ipython for Zope without the ugliness!!!  Find this full setup!
         - Lots of handy featurs
     
     - [zopepy]
+    
         - Python prompt with all the Zope eggs in it but doesn't start up zope.
         - Great for command-line stuff without the weight
     
@@ -157,7 +176,8 @@ collective.recipe.zope2cluster
 
 Creating recipes
 -------------------
-$ paster create -t recipe my.recipe.example
+
+``$ paster create -t recipe my.recipe.example``
 
 Recipe really just consists of::
 
@@ -169,7 +189,8 @@ Recipe really just consists of::
         
 Question
 -----------
-    - Plone Deployment workshop (Indianapolis Nov 19-21)
-    - Creates a plone site in your Zope! #asked by me!!!
-        - collective.recipe.plonesite
-        
+
+- Plone Deployment workshop (Indianapolis Nov 19-21)
+- Creates a plone site in your Zope! #asked by me!!!
+
+    - collective.recipe.plonesite

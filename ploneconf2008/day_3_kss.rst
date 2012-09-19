@@ -1,26 +1,25 @@
-============================
-Day 3 - Friday 10 2008
-============================
+==========================
+Day 3 - KSS by Joel Burton
+==========================
 
-
-KSS by Joel Burton
-====================
-
-    - Joel is not a JavaScript expert
+- Joel is not a JavaScript expert
     
 Overview
 ----------
-    - Why KSS
-    - Client-side convenience
-    - Server-side power
-    - Quick reference guide
+
+- Why KSS
+- Client-side convenience
+- Server-side power
+- Quick reference guide
     
 Challenges of JavaScript
 ------------------------
-    - Another language
-    - Browser incompatibilities
-    - Even when done correctly...
-        - Do it again in Python
+
+- Another language
+- Browser incompatibilities
+- Even when done correctly...
+
+    - Do it again in Python
         
 What is KSS?
 ------------

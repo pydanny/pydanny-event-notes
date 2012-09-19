@@ -22,6 +22,23 @@ What I did
         - Drag and drop
         - order fields
 
+What others did
+===============
 
+- Faculty staff thing
+- PloneFormGen
+- Theming sprint (maybe)
+- SchoolTool (Zope 3 school info thing)
+- ZopeSkel 
+- Documentation sprint
+- beginner's sprint    
+- Vice 
+- KSS
+- Dexterity
 
-
+    - Users
+    - Integration
+    - User interface
+    
+- Plone 4 Artists (what we did)
+- Remote Include
