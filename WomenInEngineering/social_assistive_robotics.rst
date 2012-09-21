@@ -13,6 +13,11 @@ by Maja J Matáric
 * Ph.D earned at MIT
 * Center director of CRES, WiSE Chair in Engineering, President of the Faculty, Vice Dean for Research
 
+Full bio of speaker
+===================
+
+Dr. Maja J Matarić is a professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California, and founding director of the USC Center for Robotics and Embedded Systems. She received her MS and PhD in Computer Science and Artificial Intelligence from MIT and is fellow of the American Association for the Advancement of Science and of the IEEE, and recipient of the Presidential Awards for Excellence in Science, Mathematics & Engineering Mentoring, the Okawa Foundation, NSF Career, and the MIT TR35 Innovation Awards. She is featured in Michal Apted’s movie “Me & Isaac Newton”, in The New Yorker (“Robots that Care”, J. Groopman, 2009), Popular Science (“The New Face of Autism Therapy”, 2010), IEEE Spectrum (“Caregiver Robots”, 2010), and is one of the LA Times Magazine 2010 Visionaries. Her research into socially assistive robotics is aimed at creating caregiving machines that can provide personalized assistance in convalescence, rehabilitation, education, and eldercare. Her group is developing robot-assisted therapies for children with autism spectrum disorders, stroke and traumatic brain injury survivors, and individuals with Alzheimer’s Disease. Details are found at http://robotics.usc.edu/interaction/.
+
 Roboticist
 ===========
 
