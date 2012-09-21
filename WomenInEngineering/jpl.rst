@@ -87,7 +87,7 @@ Curiosity's Capabilities
 * Mobile Geochemical laboratory
 * Nuclear powered
 * Really big!
-* Weights as much as a 2011 minicooper
+* Weighs more than a 2011 minicooper
 
 Landing target
 ----------------
