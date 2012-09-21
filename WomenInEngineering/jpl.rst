@@ -92,4 +92,6 @@ Landing target
 * Not using balloons for landing
 * Guided entry, spacecraft guided itself during descent
 
-.. epigraph:: Do not go where the path may lead. Go instead where there is no path, instead leave a trail.
+.. epigraph::
+    
+    Do not go where the path may lead. Go instead where there is no path, instead leave a trail.
