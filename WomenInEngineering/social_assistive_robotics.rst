@@ -170,5 +170,8 @@ Mentoring advice
 * Don't take **no** for an answer. 
 * Be true to yourself: speak up, bit wisely (and increasingly with seniority)
 * Do outreach, so you do good and get perspective
+* Refuse the false choice of work vs. family
 
-"
+
+
+
