@@ -5,9 +5,9 @@ Hitting the Road to Mars
 by Nagin Cox
 
 * Cornell University, Robotics & Psychology
-* Joined the airforce
+* Joined the US Air Force
 * Wanted to be part of JPL since she was 14
-* Been involved in Galileo, Spirit, Curiosity, and Opportinity
+* Been involved in Galileo, Spirit, Curiosity, and Opportunity
 
 Full bio of speaker
 ===================
@@ -52,3 +52,11 @@ Spirit & Opportunity: Same mission in 1997 applied in 2003
 * Designed to investigate rocks for evidence of past liquid water
 
 .. note:: She remembers the last day Spirit's wheels moved on Earth
+
+Landing the rovers
+====================
+
+* Needed a flat landing spot. Scientists wanted the grand canyon but the engineers wanted flat terrain.
+* Target landing spot is in a long ellipse pattern
+* You bounce many times at five stories high over 25 times.
+* Waited 10 minutes for the signal to come back after landing
