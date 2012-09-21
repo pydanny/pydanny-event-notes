@@ -41,3 +41,6 @@ About Mars exploration
 =========================
 
 * First started going there in 1960s
+* Because of solar orbits, we can get there once every 2 years
+* Landing on Mars was first done in 1976 with Viking
+* Landed on Mars again in 1997 with `Sojourner`. Didn't go far - only about 10 feet.
