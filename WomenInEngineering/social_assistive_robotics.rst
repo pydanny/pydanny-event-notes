@@ -144,3 +144,11 @@ Stroke Rehabilitation
 .. warning:: Robots are always interpreted as male. Adding a wig and bra to a robot is not cool. Real tests have shown that trying to change the gender of a robot is counterproductive.
 
 
+Eldercare, Alzheimer's Disease, and Dementia
+================================================
+
+* We're all headed there
+* Aging-in-place requires a social component to offset isolation
+* Evidence supports physical fitness as effective against Alzheimer's as medication
+* Research has shown that senior citizens really like robots. Any statements otherwise are not backed up by science
+
