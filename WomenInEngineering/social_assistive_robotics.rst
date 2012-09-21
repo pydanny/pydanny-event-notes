@@ -172,6 +172,6 @@ Mentoring advice
 * Do outreach, so you do good and get perspective
 * Refuse the false choice of work vs. family
 * Be excellent and demand excellence of others
-
+* Form a network of peers; it's all about people
 
 
