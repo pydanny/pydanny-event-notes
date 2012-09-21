@@ -12,6 +12,7 @@ by Maja J Matarić
     
 * Ph.D earned at MIT
 * Center director of CRES, WiSE Chair in Engineering, President of the Faculty, Vice Dean for Research
+* Give much credit to her students
 
 Full bio of speaker
 ===================
@@ -152,4 +153,13 @@ Eldercare, Alzheimer's Disease, and Dementia
 * Evidence supports physical fitness as effective against Alzheimer's as medication
 * Research has shown that senior citizens really like robots. Any statements otherwise are not backed up by science
 * Singing games with too-perfect voices (like Frank Sinatra) are counterproductive. This is a good example of Uncanny Valley.
+
+Role modeling: How to be a mentor
+===================================
+
+* Be transparent and don't compartmentalize
+* Expect 100% effort and commitment
+* Demand collaboration. *We are a team*
+* Be completely honest but fair and mindful of difference. *You are not me but this is how it works*
+* Be kind but not wimpy. *Life strikes again but so what?*
 
