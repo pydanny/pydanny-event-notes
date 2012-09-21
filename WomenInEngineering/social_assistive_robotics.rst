@@ -4,6 +4,7 @@ Socially Assistive Robotics and Discoveries on the Research Path
 
 by Maja J Matáric
 
+* http://robotics.usc.edu/interaction/
 * Ph.D University of Southern California
 * BS in CS at University of Kansas
 
@@ -110,5 +111,33 @@ Research questions
     * Adaption along w/ the user indifinitely
 
 .. note:: Social time has to be realtime. Chess is not realtime. A conversation with body language has to be done in realtime or you lose engagement with the user.
+
+Autism Spectrum Disorders (ASD)
+===================================
+
+Those with ASD will live full length lives and are at least as intelligent as the rest of us. How do we make them more productive within society?
+
+* Children with ASD interact socially with robots in ways they do not with people or computers
+* Robots seem to elicit social behaviors, communication, join attention, turn taking, initiating play, even the first social smile
+* An opportunity to develop robots as tools for ASD diagnosis, intervention and therapy
+
+.. note:: They look at ways that kids with ASD suddenly begin acting with robots in a way they don't interact with humans or computers. They do amazing astonishing things they don't do otherwise.
+
+
+Stroke Rehabilitation
+=======================
+
+* Most stroke sufferers are left with permanent deficits due to a lack of long-term supervised rehabilitation
+* 40% of traumatic brain injury symptoms (TBI) are similar to stroke
+* Rehabilitation requires hours of supervised daily exercise
+* Continual motivation has shown to be a critical aspects of recovery; rehabilitation is depressing.
+
+.. note:: Stroke sufferers after the 12 weeks of physical therapy often don't continue working the body to improve
+
+
+
+
+
+
 
 
