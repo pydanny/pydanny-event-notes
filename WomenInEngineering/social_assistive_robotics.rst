@@ -134,10 +134,4 @@ Stroke Rehabilitation
 
 .. note:: Stroke sufferers after the 12 weeks of physical therapy often don't continue working the body to improve
 
-
-
-
-
-
-
-
+.. note:: Stroke sufferers will stay engaged but cheat if they can.
