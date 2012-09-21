@@ -163,3 +163,12 @@ Role modeling: How to be a mentor
 * Be completely honest but fair and mindful of difference. *You are not me but this is how it works*
 * Be kind but not wimpy. *Life strikes again but so what?*
 
+Mentoring advice
+=================
+
+* Do what you love and love what you do
+* Don't take **no** for an answer. 
+* Be true to yourself: speak up, bit wisely (and increasingly with seniority)
+
+
+"
