@@ -36,3 +36,8 @@ Four stages of planetary exploration
 2. Orbiting mission
 3. Landing
 4. Human exploration (only done on the moon)
+
+About Mars exploration
+=========================
+
+* First started going there in 1960s
