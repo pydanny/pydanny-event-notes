@@ -134,4 +134,7 @@ Stroke Rehabilitation
 
 .. note:: Stroke sufferers after the 12 weeks of physical therapy often don't continue working the body to improve
 
-.. note:: Stroke sufferers will stay engaged but cheat if they can.
+.. note:: Stroke sufferers will stay engaged but cheat if they can!
+
+.. admonition:: Robots are always interpreted as male. Adding a wig and bra to a robot is not cool. Real tests have shown that trying to change the gender of a robot is counterproductive.
+
