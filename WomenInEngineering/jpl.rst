@@ -1,5 +1,5 @@
 ========================
-Hitting the Road on Mars
+Hitting the Road to Mars
 ========================
 
 by Nagin Cox
@@ -34,3 +34,5 @@ Four stages of planetary exploration
 
 1. Flyby
 2. Orbiting mission
+3. Landing
+4. Human exploration (only done on the moon)
