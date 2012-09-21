@@ -171,7 +171,7 @@ Mentoring advice
 * Be true to yourself: speak up, bit wisely (and increasingly with seniority)
 * Do outreach, so you do good and get perspective
 * Refuse the false choice of work vs. family
-
+* Be excellent and demand excellence of others
 
 
 
