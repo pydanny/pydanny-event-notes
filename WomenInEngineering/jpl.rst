@@ -44,3 +44,11 @@ About Mars exploration
 * Because of solar orbits, we can get there once every 2 years
 * Landing on Mars was first done in 1976 with Viking
 * Landed on Mars again in 1997 with `Sojourner`. Didn't go far - only about 10 feet.
+
+Spirit & Opportunity: Same mission in 1997 applied in 2003
+===========================================================
+
+* We were only 35 million miles from Mars, closest in 65,000 years!
+* Designed to investigate rocks for evidence of past liquid water
+
+.. note:: She remembers the last day Spirit's wheels moved on Earth
