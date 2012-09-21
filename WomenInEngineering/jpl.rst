@@ -60,3 +60,13 @@ Landing the rovers
 * Target landing spot is in a long ellipse pattern
 * You bounce many times at five stories high over 25 times.
 * Waited 10 minutes for the signal to come back after landing
+
+Driving the rovers
+==================
+
+* Found lots of bedrock
+* Being stuck in sand happened while trekking over dunes
+* Rovers kept functioning longer and longer
+
+    * Spirit stopped in 2010
+    * Opportunity is still going as of 2012!
