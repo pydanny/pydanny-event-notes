@@ -2,7 +2,7 @@
 Socially Assistive Robotics and Discoveries on the Research Path
 ================================================================
 
-by Maja J Matáric
+by Maja J Matarić
 
 * http://robotics.usc.edu/interaction/
 * Ph.D University of Southern California
@@ -152,3 +152,4 @@ Eldercare, Alzheimer's Disease, and Dementia
 * Evidence supports physical fitness as effective against Alzheimer's as medication
 * Research has shown that senior citizens really like robots. Any statements otherwise are not backed up by science
 * Singing games with too-perfect voices (like Frank Sinatra) are counterproductive. This is a good example of Uncanny Valley.
+
