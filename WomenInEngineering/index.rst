@@ -12,6 +12,7 @@ Talks at L.A. Girl Geek Dinner #1 – Google Venice
    :maxdepth: 2
 
    social_assistive_robotics
+   jpl
 
 
 
