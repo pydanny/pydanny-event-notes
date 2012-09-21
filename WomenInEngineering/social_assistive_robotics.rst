@@ -136,6 +136,6 @@ Stroke Rehabilitation
 
 .. note:: Stroke sufferers will stay engaged but cheat if they can!
 
-.. admonition:: Robots are always interpreted as male. Adding a wig and bra to a robot is not cool. Real tests have shown that trying to change the gender of a robot is counterproductive.
+.. warning:: Robots are always interpreted as male. Adding a wig and bra to a robot is not cool. Real tests have shown that trying to change the gender of a robot is counterproductive.
 
 
