@@ -48,6 +48,8 @@ About Mars exploration
 Spirit & Opportunity: Same mission in 1997 applied in 2003
 ===========================================================
 
+* http://science.nasa.gov/missions/mars-rovers/
+* http://science.nasa.gov/missions/mars-exploration-rover-spirit/
 * We were only 35 million miles from Mars, closest in 65,000 years!
 * Designed to investigate rocks for evidence of past liquid water
 
@@ -76,6 +78,8 @@ Curiosity
 
 The next big step
 
+* http://science.nasa.gov/missions/msl/
+
 Curiosity's Capabilities
 ------------------------
 
@@ -94,5 +98,4 @@ Landing target
 
 .. epigraph::
     
-    *Do not go where the path may lead. Go instead where there is no path and leave a trail.*
-    -- Ralph Waldo Emerson
+    *Do not go where the path may lead. Go instead where there is no path and leave a trail.* -- Ralph Waldo Emerson
