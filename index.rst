@@ -45,6 +45,7 @@ Meetups
 .. toctree::
    :maxdepth: 1
 
+   WomenInEngineering/index
    AngularJS/index
    sfv-developers/index
    JSLA/index
