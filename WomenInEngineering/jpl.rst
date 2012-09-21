@@ -21,3 +21,16 @@ Many NASA centers
 * HQ (I worked there)
 * ARC
 * JPL
+
+About JPL
+==========
+
+* Used to be an Army base
+* Doesn't do jet testing anymore
+* Does robots and exploration for NASA as part of Caltech
+
+Four stages of planetary exploration
+========================================
+
+1. Flyby
+2. Orbiting mission
