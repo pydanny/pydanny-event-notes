@@ -54,7 +54,7 @@ Spirit & Opportunity: Same mission in 1997 applied in 2003
 .. note:: She remembers the last day Spirit's wheels moved on Earth
 
 Landing the rovers
-====================
+-------------------
 
 * Needed a flat landing spot. Scientists wanted the grand canyon but the engineers wanted flat terrain.
 * Target landing spot is in a long ellipse pattern
@@ -62,7 +62,7 @@ Landing the rovers
 * Waited 10 minutes for the signal to come back after landing
 
 Driving the rovers
-==================
+-------------------
 
 * Found lots of bedrock
 * Being stuck in sand happened while trekking over dunes
@@ -70,3 +70,25 @@ Driving the rovers
 
     * Spirit stopped in 2010
     * Opportunity is still going as of 2012!
+    
+Curiosity
+=========
+
+The next big step
+
+Curiosity's Capabilities
+------------------------
+
+* Robot field geologist
+* Mobile Geochemical laboratory
+* Nuclear powered
+* Really big!
+* Weights as much as a 2011 minicooper
+
+Landing target
+----------------
+
+* Landing ellipse is tiny compared to previous missions is tiny
+* Not using balloons for landing
+* Guided entry, spacecraft guided itself during descent
+
