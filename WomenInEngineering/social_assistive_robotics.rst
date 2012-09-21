@@ -173,5 +173,5 @@ Mentoring advice
 * Refuse the false choice of work vs. family
 * Be excellent and demand excellence of others
 * Form a network of peers; it's all about people
-
+* be a mentor and recruit mentors lifelong
 
