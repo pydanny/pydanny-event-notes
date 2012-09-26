@@ -54,4 +54,11 @@ Pre-processing
 
 * Unrepeat (His description of long terms like `sweeeeeet`)
 * Entity Extraction (Pulling out nouns/entities from text have to not skew the results. For example: Fight against **evil** can make a positive description sound bad)
-* 
+* Tokenization
+
+    * Problem: Abbreviations
+    * Problem: Emoticons
+
+.. code-block:: javascript
+
+    var natural = require('natural);
