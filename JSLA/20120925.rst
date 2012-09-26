@@ -90,3 +90,9 @@ Getting training data
 
 * sentiment140.com
 * Use emoticons to pre-classify text
+
+Test!
+------
+
+* Against 70k+ records from sentiment140.com
+* Humans only agree 70-80% of the time so don't expect perfection
