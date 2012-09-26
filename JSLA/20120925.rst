@@ -73,3 +73,13 @@ Pre-processing
     * May not be a word
     * Carry => Cari
 
+N-Grams
+--------
+
+TODO: Get definitions of this.
+
+Getting training data
+----------------------
+
+* Sentiment140.com
+* Use emoticons to pre-classify text
