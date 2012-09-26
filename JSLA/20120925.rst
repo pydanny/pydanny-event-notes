@@ -28,7 +28,7 @@ Text Mining
 * Understanding huge amounts of Twitter data
 * Wanted to figure out how to investigate this via node.js
 
-    * github.com/Natural
+    * https://github.com/NaturalNode/natural
     
 Types of Sentiment
 --------------------
@@ -53,3 +53,4 @@ Pre-processing
 --------------
 
 * Unrepeat (His description of long terms like `sweeeeeet`)
+* Entity Extraction ()
