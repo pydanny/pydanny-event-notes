@@ -59,6 +59,17 @@ Pre-processing
     * Problem: Abbreviations
     * Problem: Emoticons
 
-.. code-block:: javascript
+* Spell correct http://norvig.com/spell-correct.html
+* Word stopping
+* Limitization
 
-    var natural = require('natural);
+    * Reduce word to it's root form
+    * Result is a word
+    * Running => Run
+
+* Stemming
+
+    * Reduce word to a stem
+    * May not be a word
+    * Carry => Cari
+
