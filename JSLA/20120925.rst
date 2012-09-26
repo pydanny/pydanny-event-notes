@@ -25,3 +25,4 @@ Text Mining
 ========================================
 
 * Sentiment analysis is how you do mining
+* Understanding huge amounts of Twitter data
