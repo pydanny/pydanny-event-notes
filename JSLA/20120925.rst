@@ -78,8 +78,15 @@ N-Grams
 
 TODO: Get definitions of this.
 
+Naive Bayes Classifer
+---------------------
+
+TODO: Show javascript example
+
+.. note:: the data coming needs to train this algorithm
+
 Getting training data
 ----------------------
 
-* Sentiment140.com
+* sentiment140.com
 * Use emoticons to pre-classify text
