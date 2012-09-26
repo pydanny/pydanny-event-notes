@@ -3,4 +3,8 @@ September 25, 2012
 ==================
 
 * Hosted by http://www.crosscamp.us/
+
+    * https://twitter.com/crosscampusla
+
 * Event: http://js.la/
+
