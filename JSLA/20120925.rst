@@ -26,3 +26,25 @@ Text Mining
 
 * Sentiment analysis is how you do mining
 * Understanding huge amounts of Twitter data
+* Wanted to figure out how to investigate this via node.js
+
+    * github.com/Natural
+    
+Types of Sentiment
+--------------------
+
+* Polarity: Positive or negative
+* Continuous: -10 to +10
+* Categorical: Happy, sad, angry, frustrated
+
+Assumptions
+------------
+
+* Bag of Words
+* English
+
+Techniques
+------------
+
+* Semantic Summation
+* Machine learning classification
