@@ -48,3 +48,8 @@ Techniques
 
 * Semantic Summation
 * Machine learning classification
+
+Pre-processing
+--------------
+
+* Unrepeat (His description of long terms like `sweeeeeet`)
