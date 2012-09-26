@@ -14,15 +14,22 @@ September 25, 2012
 
     * HTML5 Dev Conf
     * EdgeCast
+
     
 Text Mining 
 ===========
 
 * Speaker: Danny Tran
-* Works for Walt Disney
+
+    * Works for Walt Disney
+    * https://twitter.com/digi_danny
+    * https://github.com/digidanny
+    * http://www.dannytran.me/
+
+.. note:: very good speaker!
  
 80% of all data is unstructured text
-========================================
+-------------------------------------
 
 * Sentiment analysis is how you do mining
 * Understanding huge amounts of Twitter data
