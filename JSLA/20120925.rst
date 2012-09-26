@@ -2,9 +2,15 @@
 September 25, 2012
 ==================
 
+* Event: http://js.la/
+
+    * http://jobs.js.la
+
 * Hosted by http://www.crosscamp.us/
 
     * https://twitter.com/crosscampusla
 
-* Event: http://js.la/
+* Sponsors
 
+    * HTML5 Dev Conf
+    * EdgeCast
