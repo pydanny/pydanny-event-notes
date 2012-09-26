@@ -8,7 +8,7 @@ Welcome to pydanny-event-notes!
 
 I've been collecting my notes taken over the years into this one location. My intention is to capture all that I've learned or forgotten, share it with others, and compare that with where I am now.
 
-Latest Live-Note: http://pydanny-event-notes.readthedocs.org/en/latest/WomenInEngineering/index.html
+Latest Live-Note: http://pydanny-event-notes.readthedocs.org/en/latest/JSLA/20120925.html
 
 Conferences
 ============
