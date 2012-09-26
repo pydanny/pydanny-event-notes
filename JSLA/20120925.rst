@@ -37,6 +37,11 @@ Text Mining
 
     * https://github.com/NaturalNode/natural
     
+* But could have used python:
+
+    * http://pypi.python.org/pypi/nltk/2.0.3
+    * Which would have been **many** times faster than node.js if used with **numpy**
+    
 Types of Sentiment
 --------------------
 
