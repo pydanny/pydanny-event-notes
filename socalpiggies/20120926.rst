@@ -44,3 +44,19 @@ History of OpenStack
 * 2008 - NASA creates Nebula
 * 2009 - Rackspace creates Swift
 * 2010 - OpenStack is born!
+
+.. note:: My last few months at NASA we were begging and pleading for the right to use Nebula so we didn't have to deal with standard NASA server provisioning which is both time intensive 
+
+Components of OpenStack
+------------------------
+
+* Nova
+
+    * OpenStack's Compute controller, originally created by NASA
+    * Communicates with the hypervisor to create/destroy VMs
+    * "Schedules"where VMs are created
+    * Originally handled network and storage allocation
+    * RESTful API
+    
+
+
