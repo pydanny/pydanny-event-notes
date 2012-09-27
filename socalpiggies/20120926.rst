@@ -158,6 +158,12 @@ Getting involved
 Dreamhost's OpenStack Deployment
 ---------------------------------
 
-TODO - Get the image displayed here. 
+TODO - Get the image displayed here.
+
+PaaS implementations on top of OpenStack
+-----------------------------------------
+
+* OpenShift
+* CloudFoundry
 
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
