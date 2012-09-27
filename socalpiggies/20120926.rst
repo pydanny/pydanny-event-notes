@@ -73,3 +73,12 @@ Components of OpenStack
     * Enables the creation of block devices via API that can be attached to VMs
     * Spun out from Nova during the latest release cycle
     * RESTful APIs
+    
+* Glance
+
+    * OpenStack's image service
+    * Provides services for discovering, registering, and retrieving VM images
+    * Integrates with Ceph to enable Copy-on-write (COW) for fast VM creation
+    * RESTful APIs
+    
+.. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
