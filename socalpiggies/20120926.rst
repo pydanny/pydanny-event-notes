@@ -145,5 +145,14 @@ Getting involved
     * Mailing lists
     * Governance moved to the newly formed OpenStack foundation. Thousands of members, including 170 companies.
     * Key members of OpenStack just joined the PSF for more community crossover
+    
+* Documentation
+
+    * http://docs.openstack.org
+    
+* Getting started
+
+    * DevStack - http://devstack.org
+    * TryStack - http://trystack.org
 
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
