@@ -111,7 +111,12 @@ Parts you may want to add to OpenStack
 * VPN
 * load balancing
 * Firewall
-* Etc
+* Metering system
+
+    * Way to monetize OpenStack!
+    * Ceilometer is an open source version: https://github.com/stackforge/ceilometer
+    
+* Billing
 
 Commercial options are available - and open source options are being authored:
 
