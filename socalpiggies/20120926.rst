@@ -154,5 +154,10 @@ Getting involved
 
     * DevStack - http://devstack.org
     * TryStack - http://trystack.org
+    
+Dreamhost's OpenStack Deployment
+---------------------------------
+
+TODO - Get the image displayed here. 
 
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
