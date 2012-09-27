@@ -108,6 +108,9 @@ Parts you may want to add to OpenStack
 ------------------------------------------------
 
 * Routing
+
+    * https://github.com/dreamhost/akanda
+
 * VPN
 * load balancing
 * Firewall
@@ -120,8 +123,16 @@ Parts you may want to add to OpenStack
 
 Commercial options are available - and open source options are being authored:
 
-    * https://github.com/dreamhost/akanda
-    
+How does OpenStack work?
+-------------------------------------------
 
-    
+* Components in designed to be loosely coupled
+* Several methods of communication
+
+    * REST APIs - simple HTTP services used to communicate between components
+    * Messaging - messages sent via AMQP to a message broker, generally RabbitMQ
+
+
+
+
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
