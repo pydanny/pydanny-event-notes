@@ -62,4 +62,7 @@ Components of OpenStack
     
 * Swift
 
-    
+    * Object storage system created by Rackspace
+    * Highly available, distributed, and eventually consistent
+    * RESTful APIs - S3 and Swift
+    * Can be swapped out for Ceph, a unified distributed storage system created at Dreamhost
