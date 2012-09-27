@@ -132,7 +132,18 @@ How does OpenStack work?
     * REST APIs - simple HTTP services used to communicate between components
     * Messaging - messages sent via AMQP to a message broker, generally RabbitMQ
 
+Getting involved
+-----------------
 
+* OpenStack is implemented in Python using standard processes
 
+    * Familiar frameworks and tools (Django, SQLAlchemy, boto, lxml, etc)
+    * Github + Gerrit + Jenkins for management and CI
+
+* OpenStack is a community
+
+    * Mailing lists
+    * Governance moved to the newly formed OpenStack foundation. Thousands of members, including 170 companies.
+    * Key members of OpenStack just joined the PSF for more community crossover
 
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
