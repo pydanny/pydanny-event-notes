@@ -92,5 +92,31 @@ Quantum
 * Replaces the networking services originally in Nova
 * Supports the concepts of complex virtual networks, including isolation from other tenants in the cloud
 * L2 services currently supported and some L3 services currently deployed
+
+Keystone
+~~~~~~~~
+
+* General identify framework for OpenStack
+
+Horizon
+~~~~~~~
+
+* Django based user interface
+* Provides web based interface to all the above components
+
+Parts you may want to add to OpenStack
+------------------------------------------------
+
+* Routing
+* VPN
+* load balancing
+* Firewall
+* Etc
+
+Commercial options are available - and open source options are being authored:
+
+    * https://github.com/dreamhost/akanda
+    
+
     
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
