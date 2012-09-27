@@ -10,3 +10,4 @@ Introduction to OpenStack
 By Jonathon LaCour
 
     * Experienced 15 years with Python
+    * Dreamhost lead developer
