@@ -4,6 +4,8 @@ September 26, 2012
 
 * Hosted at http://dreamhost.com
 
+.. note:: I'm speaking at this event but can't take notes on myself. :P
+
 Introduction to OpenStack
 =========================
 
@@ -58,5 +60,6 @@ Components of OpenStack
     * Originally handled network and storage allocation
     * RESTful API
     
+* Swift
 
-
+    
