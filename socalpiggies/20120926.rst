@@ -20,6 +20,9 @@ Let's talk about cloud
 * ground rules:
 
     * Cloud - elastic infrastructure providing compute, network, and storage via well-defined APIs
+    
     * Public cloud - A multi-tenant, publicly available cloud where resources are metered and billed as a utility, and any entity can place workloads.
+    
+        * Often makes money by charging monthly or service fees
+        
     * Private cloud - A privately owned cloud generally used by a single organization for one or more applications
-
