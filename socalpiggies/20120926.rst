@@ -1,0 +1,13 @@
+==================
+September 26, 2012
+==================
+
+* Hosted at http://dreamhost.com
+
+Introduction to OpenStack
+=========================
+
+* Speaker
+
+    * Jonathon LaCour
+    
