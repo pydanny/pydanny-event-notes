@@ -66,3 +66,10 @@ Components of OpenStack
     * Highly available, distributed, and eventually consistent
     * RESTful APIs - S3 and Swift
     * Can be swapped out for Ceph, a unified distributed storage system created at Dreamhost
+    
+* Cinder
+    
+    * OpenStack's block storage as a service platform
+    * Enables the creation of block devices via API that can be attached to VMs
+    * Spun out from Nova during the latest release cycle
+    * RESTful APIs
