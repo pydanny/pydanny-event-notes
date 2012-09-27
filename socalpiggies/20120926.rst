@@ -26,3 +26,21 @@ Let's talk about cloud
         * Often makes money by charging monthly or service fees
         
     * Private cloud - A privately owned cloud generally used by a single organization for one or more applications
+    
+What is OpenStack?
+-------------------
+
+* OpenStack is a cloud operating system or cloud management system
+* Use it to build public or private clouds
+
+    * VMs
+    * Volumes
+    * Multi-tenancy
+    * APIS - well defined and documented
+    
+History of OpenStack
+---------------------
+
+* 2008 - NASA creates Nebula
+* 2009 - Rackspace creates Swift
+* 2010 - OpenStack is born!
