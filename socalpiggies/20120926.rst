@@ -52,7 +52,8 @@ History of OpenStack
 Components of OpenStack
 ------------------------
 
-* Nova
+Nova
+~~~~
 
     * OpenStack's Compute controller, originally created by NASA
     * Communicates with the hypervisor to create/destroy VMs
@@ -60,25 +61,36 @@ Components of OpenStack
     * Originally handled network and storage allocation
     * RESTful API
     
-* Swift
+Swift
+~~~~~
 
     * Object storage system created by Rackspace
     * Highly available, distributed, and eventually consistent
     * RESTful APIs - S3 and Swift
     * Can be swapped out for Ceph, a unified distributed storage system created at Dreamhost
     
-* Cinder
+Cinder
+~~~~~~~~~~
     
     * OpenStack's block storage as a service platform
     * Enables the creation of block devices via API that can be attached to VMs
     * Spun out from Nova during the latest release cycle
     * RESTful APIs
     
-* Glance
+Glance
+~~~~~~~~~~
 
     * OpenStack's image service
     * Provides services for discovering, registering, and retrieving VM images
     * Integrates with Ceph to enable Copy-on-write (COW) for fast VM creation
     * RESTful APIs
+    
+Quantum
+~~~~~~~~~~
+
+* OpenStack's networking-as-a-service layer
+* Replaces the networking services originally in Nova
+* Supports the concepts of complex virtual networks, including isolation from other tenants in the cloud
+* L2 services currently supported and some L3 services currently deployed
     
 .. note:: Why I like OpenStack is that you have good control over your server provisioning. If a vendor doesn't play nice, you can move your stack or deploy on your own servers.
