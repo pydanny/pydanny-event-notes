@@ -11,3 +11,15 @@ By Jonathon LaCour
 
     * Experienced 15 years with Python
     * Dreamhost lead developer
+    * Teaches high level Python classes too
+
+Let's talk about cloud
+----------------------
+
+* The term *cloud* has been ruined
+* ground rules:
+
+    * Cloud - elastic infrastructure providing compute, network, and storage via well-defined APIs
+    * Public cloud - A multi-tenant, publicly available cloud where resources are metered and billed as a utility, and any entity can place workloads.
+    * Private cloud - A privately owned cloud generally used by a single organization for one or more applications
+
