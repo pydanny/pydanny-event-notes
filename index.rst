@@ -39,6 +39,14 @@ Conferences
    Pycon2008/index
    PloneConf2007/index
 
+Hackathons
+==========
+
+.. toctree::
+    :maxdepth: 1
+    
+    GoogleAppsScriptsHackathon/index
+
 Meetups
 ============
 
