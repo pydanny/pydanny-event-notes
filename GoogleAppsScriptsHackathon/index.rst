@@ -47,3 +47,24 @@ Vacation calendar for Brown University
 
 * Aggregates staff that are on vacation
 * Displays the results in a calendar instance
+
+Sample code snippets
+====================
+
+.. code-block:: javascript
+
+    function emailTest() {
+      // Send myself an email
+      MailApp.sendEmail("pydanny@gmail.com", "LA Hackathon test email", "Body of email"); 
+  
+      // Get a list of my files with 'Django' in it
+      var files = DocsList.find("Django");
+  
+      // Loop and log
+      for (var i in files){
+        Logger.log(i + '-----------');
+        Logger.log(files[i].getId());
+      }
+  
+      //var app = UiApp.createApplication();
+    }
