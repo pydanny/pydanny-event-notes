@@ -2,6 +2,8 @@
 Google Apps Script Hackathon
 ============================
 
+https://sites.google.com/site/appsscripthackathonlosangeles/
+
 What is Apps Script?
 =====================
 
