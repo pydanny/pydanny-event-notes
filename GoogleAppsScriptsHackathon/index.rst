@@ -2,10 +2,12 @@
 Google Apps Script Hackathon
 ============================
 
-What is Apps Scropt?
+What is Apps Script?
 =====================
 
 Google Apps Script is a JavaScript cloud scripting language that provides easy ways to automate with Google products. Started in the spreadsheets and was expanded from there.
+
+see http://www.google.com/script/start/
 
 Features
 ---------
@@ -21,12 +23,8 @@ Features
 * Build custom UIs
 * Run script as a serice
 
-Use Cases
-===========
+.. toctree::
+   :maxdepth: 2
+   
+   use_cases
 
-Grading made easy with Flubaroo
-
-* Create quiz using google forms
-* Automatically grades against answer key
-* Can email results and answers to each student
-* Provides charts to analyze the results
