@@ -499,7 +499,9 @@ Barath Kadaba
 
 * Decided to solve the narrow problem:
 
-    * To whom can they sell their produce to get the best price?
+    * **Problem**: To whom can they sell their produce to get the best price?
+    * **Solution**: Send farmer's SMS text messages with the latest known data
+    * **Quick Implementation**: Faked it with hand-texted SMS messages to farmers.
 
 2. Leader has to implement organization settings to make it possible to change
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
