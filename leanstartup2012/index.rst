@@ -548,6 +548,8 @@ Carol Howe
     
         * Mobile fans raved in long discussions
         * Web fans said one word answers like, "nice" and "neat"
+        
+    * Started with launch in California and took lessons from there
 
 4. Leader has to live by the same rules and disciplines as everyone else.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
