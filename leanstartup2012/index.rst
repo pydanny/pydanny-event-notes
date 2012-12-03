@@ -22,4 +22,5 @@ Todd Park - USA CTO
 Job
 ----
 
-* Often runs startup-like efforts inside the USA, which allows radical new approaches for the federal government
+* Often runs startup-like efforts called 'entrepreneurs in residence' inside the USA, which allows radical new approaches for the federal government
+* The FDA has been working with this program to help the health of the nation.
