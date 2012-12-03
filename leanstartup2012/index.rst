@@ -489,7 +489,7 @@ Components of making it happen
 
 Barath Kadaba
 
-* In 2008 told to change the lives of India. All the lives
+* In 2008 he was told to change the lives of India. All the lives
 * Given budget for just 3 people to do it.
 * First effort:
 
@@ -515,7 +515,16 @@ Barath Kadaba
 2. Leader has to implement organization settings to make it possible to change
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-forthcoming
+"Lawyers often are the barrier to success, they need to be instead considering how to make success more possible"
+
+Joe Hernandez
+
+1. Change **Mindset**, which will change **Behavior**.
+
+How do you shift a group from saying **no** (leaders, lawyers) to saying **yes**?
+
+2. Democratize Action
+3. Becomes the power of success
 
 3. Leader has to model pulling insights from both successes and failures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
