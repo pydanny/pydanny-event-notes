@@ -140,3 +140,12 @@ Jessica Scorpio
 * Founder of http://www.getaround.com/, which lets you rent cars from other people who live near you.
 * https://twitter.com/jessicascorpio
 
+Were not sure if it would work, so began prototyping. 
+
+Efforts
+-------
+
+* Worked with students out of Moffet field, near San Francisco, to see if it would work.
+* Built an iPhone app right away to get them a working prototype.
+* Competed in Tech Crunch Disrupt to get publicity and won.
+* They have a custom product called CarKit to let it wire into your car.
