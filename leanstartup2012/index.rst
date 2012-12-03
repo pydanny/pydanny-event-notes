@@ -69,3 +69,5 @@ MVP concept
 * While this is not a new concept, they decided to map out the requirements extremely clearly to students and parents.
 * They created an on-line testing system so that students could update their status by passing tests so they could see the results instantly.
 * Added tons of testing and metrics. Rather than wait for years for results, they needed to know right away so they could fix it.
+* Refused to use vanity metrics to promote the schools. They needed to know honest, real data on actual results - and kept even the bad news.
+* Encouraged teens to provide feedback through mechanisms that teens like to use.
