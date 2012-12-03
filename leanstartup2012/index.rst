@@ -163,3 +163,7 @@ Thoughts
 * Building a car and mass producing a car is crazy hard.
 * If you are creating a car company, you should know how to build a car, not just be a car executive.
 * Trying to build the Model-T of the 21st century. Getting it right means positive income for 90-100 years.
+* Different approach from segway
+
+    * Spent a lot of money doing research if there was a need for a small, sustainable vehicle market.
+    * 
