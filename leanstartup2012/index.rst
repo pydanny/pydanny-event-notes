@@ -383,6 +383,15 @@ Lessons learned
 
 * Determine who the buyers really are.
 * Bring in a Salesperson earlier in the process, however, the salesperson must like experimentation.
+* Prepare to pivot: That means you have to be ready to admit you got it wrong
+* Start small and organize for experimentation.
 
+Ivory Madison
+===============
 
+* https://twitter.com/IvoryMadison
+* CEO and founder of http://redroom.com
 
+"Bonfire of the Vanity Metrics"
+
+* Vanity blinds you to a lack of actually important data
