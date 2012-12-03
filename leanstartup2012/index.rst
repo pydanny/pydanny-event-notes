@@ -112,8 +112,8 @@ Get Out of the Building
 
 .. note:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
-TWO PEOPLE - didn't get names yet
-===================================
+TWO PEOPLE - Eric Ries and Tereza XYZ
+=======================================
 
 * Talking about using general accounting practices.
 * Stay away from vanity metrics, except for what goes into a pitch deck.
