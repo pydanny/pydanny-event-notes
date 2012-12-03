@@ -225,3 +225,9 @@ Kind-of-lean startup talk
     * https://twitter.com/Knodes
 
 If they can figure out the right people into your funnel to being a user, they become better than you about marketing your product.
+
+* build/measure/learn for everything... or else
+
+    * If you don't build it you don't know if it can be done
+    * Measure how it's used, by people or whatever
+    * Learn from what you observe.
