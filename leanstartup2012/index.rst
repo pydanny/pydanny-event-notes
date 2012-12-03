@@ -150,3 +150,14 @@ Efforts
 * Competed in Tech Crunch Disrupt to get publicity and won.
 * They have a custom product called CarKit to let it wire into your car.
 * Worked in litigation because part of this means granting easier access to your car. What if someone else is driving it and wrecks it? By getting some laws passed in California they cleared up the rules for making this service work.
+
+Daniel Kim
+===========
+
+* Founder of Litmoters (http://litmotors.com/)
+
+Issues
+========
+
+* building a car is hard
+* Building a car and mass producing a car is crazy hard.
