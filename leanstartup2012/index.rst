@@ -95,9 +95,13 @@ Get Out of the Building
 10 pragmatic ways to get out of the building
 ----------------------------------------------
 
-1. Don't Ask Your Uncle. In other words, don't ask people you know will say nice things.
-2. Set up a booth, do a public demo
-3. Interview potential customers.
-4. Put your office where your customers are
-5. Throw a party
-6. 
+1. **Don't Ask Your Uncle.** In other words, don't ask people you know will say nice things.
+2. **Set up a booth, do a public demo**
+3. **Interview potential customers.**
+4. **Put your office where your customers are**
+5. **Throw a party**
+6. **Talk to experts in the field**
+7. **Find the decision maker** (everyone else is just chaff)
+8. **Listen to what customers are demanding**
+9. **Pre-order, landing pages, analytics** (show demand for the product)
+10. **Ask for the introduction**
