@@ -406,4 +406,4 @@ Don't use
 * conversion rate
 * Percent growth
 * Twitter followers
-* 
+* Facebook friends or likes
