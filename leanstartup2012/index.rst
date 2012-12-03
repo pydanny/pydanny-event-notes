@@ -128,6 +128,7 @@ Beth Comstock interviewed by Eric Reis
 * Beth is the Chief Marketing Officer of General Electric (GE). https://en.wikipedia.org/wiki/Beth_Comstock
 * GE believes that entrepreneurs are everywhere
 * GE has to keep reinventing itself: **You don't last for over 130 years by staying static.**
-* Lessons learned: Partner with outside firms to help bring outside ideas into the company
+* **Lessons learned**: Partner with outside firms to help bring outside ideas into the company
 * Recently: GE got into energy storage (batteries) via startup/entrepreneurs and it is now a multi-billion dollar part of their business
-* Lesson learned: Really focus on MVP before trying to make it perfect for market. This is critical before ramping up to large production efforts - otherwise you have no idea what the problems really are.
+* **Lesson learned**: Really focus on MVP before trying to make it perfect for market. This is critical before ramping up to large production efforts - otherwise you have no idea what the problems really are.
+* **Statement**: You can fall in love with your technology or you can fall in love with what your customers think about your technology.
