@@ -84,7 +84,17 @@ Tendai Charasika
 * http://www.greaterlouisville.com/EnterpriseCORP/
 * Works with the Kentucky Innovation Network
 
-Statements
-------------
+Get Out of the Building
+-----------------------
 
+* Get out and talk to users
 * Get Uncomfortable
+* Learn quickly and upfront if people actually want/need your idea implemented
+* If you don't ask you miss out on what they really want.
+
+10 pragmatic ways to get out of the building
+----------------------------------------------
+
+1. Don't Ask Your Uncle. In other words, don't ask people you know will say nice things.
+2. Set up a booth, do a public demo
+3. Interview potential customers.
