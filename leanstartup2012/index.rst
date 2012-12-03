@@ -355,3 +355,8 @@ Learn Entrepreneurship
 **What we know now:** Learning Entrepreneurship some theory and a lot of practice
 
 .. warning:: Learning entrepreneurship from an educator is risky. Their experiences may not translate to today's conditions.
+
+Teach the Entrepreneurial API
+--------------------------------
+
+1. Teach how to create a business model canvas
