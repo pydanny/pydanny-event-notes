@@ -206,3 +206,9 @@ Process for building products
 
     * Don't worry if it's ugly, use paper
     * Don't use fancy tools
+    * If you use fancy tools, you risk locking up your product in whoever controls the fancy tools.
+    
+* Wireframes
+
+    * balsamiq is great
+    * So is paper
