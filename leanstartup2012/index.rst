@@ -2,7 +2,9 @@
 Lean Startup 2012 Simulcast
 ===========================
 
-Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. I am Daniel Greenfeld, one of the principals at `Cartwheel Web`_.
+Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. 
+
+I am Daniel Greenfeld, one of the principals at `Cartwheel Web`_.
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
 
@@ -115,4 +117,5 @@ TWO PEOPLE - didn't get names yet
 
 * Talking about using general accounting practices.
 * Stay away from vanity metrics, except for what goes into a pitch deck.
-* VCs use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
+* Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
+* Issue: Investors often use your original vanity metrics when determining how well your project is doing.
