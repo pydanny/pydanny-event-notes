@@ -249,10 +249,25 @@ Andres Glusman
  
 RSVPs are going up? Here is why:
 
-Myth 1: People give a damn about lean methodologies
+Myth: People give a damn about lean methodologies
 ----------------------------------------------------
 
 * No one wants to switch gears
 * No one wants to buy a process
 * Instead of convincing, just start doing it.
+* Avoid Malkovich Bias
 
+    * The tendency that everyone uses technology the same way that you do.
+    * Example: iPhone/iPad users often don't realize that the Android market is larger than the iPhone/iPad market.
+    
+Myth: People want to test things
+----------------------------------
+
+* People actually like to build things
+* Because of this issue, try to test easy things.
+* As you improve your system thanks to easy test results, testing becomes more exciting
+* Failure:
+
+    * Don't try to avoid failure, embrace it.
+    * Learn from each mistake via metrics and tests and improve ever since.
+    
