@@ -435,3 +435,13 @@ Ash Maura
 1. Establish a standard measure of progress
 2. DaveMcClure's Pirate Metrics (look them up)
 3. As you gain users, it becomes harder to measure progress.
+
+
+Leah Busque 
+============
+
+* Founder and CEO of Task Rabbit
+
+"If you had only $1, where should you spend it?"
+
+* Really understand your customer so you can target your acquisition techniques
