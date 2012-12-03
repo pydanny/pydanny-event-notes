@@ -112,9 +112,10 @@ Get Out of the Building
 
 .. note:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
-TWO PEOPLE - Eric Reis and Tereza XYZ
-=======================================
+TWO PEOPLE - Eric Reis and Tereza Nemessanyi 
+============================================
 
+* Tereza Nemessanyi (https://twitter.com/TerezaN)
 * Talking about using general accounting practices.
 * Stay away from vanity metrics, except for what goes into a pitch deck.
 * Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
