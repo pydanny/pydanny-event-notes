@@ -137,5 +137,6 @@ Beth Comstock interviewed by Eric Reis
 Jessica Scorpio
 ================
 
-* Founder of http://www.getaround.com/
+* Founder of http://www.getaround.com/, which lets you rent cars from other people who live near you.
 * https://twitter.com/jessicascorpio
+
