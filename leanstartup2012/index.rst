@@ -130,4 +130,4 @@ Beth Comstock interviewed by Eric Reis
 * GE has to keep reinventing itself: **You don't last for over 130 years by staying static.**
 * Lessons learned: Partner with outside firms to help bring outside ideas into the company
 * Recently: GE got into energy storage (batteries) via startup/entrepreneurs and it is now a multi-billion dollar part of their business
-
+* Lesson learned: Really focus on MVP before trying to make it perfect for market. This is critical before ramping up to large production efforts - otherwise you have no idea what the problems really are.
