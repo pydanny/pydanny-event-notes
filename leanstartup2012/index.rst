@@ -25,7 +25,12 @@ Work
 
 * Often runs startup-like efforts called 'entrepreneurs in residence' inside the USA, which allows radical new approaches for the federal government
 * The FDA has been working with this program to help the health of the nation.
-* Open Data Initiatives Program
 
-    * GPS grew out of this system
-    * Ronald Reagan is the godfather of the 'Open Data Initiatives Program'
+Open Data Initiatives Program
+------------------------------
+
+* Ronald Reagan is the godfather of the 'Open Data Initiatives Program'
+* GPS grew out of this system which has provided billions of dollars of business
+* The government is the holder of immense archives of useful data
+
+.. note:: Sunlight Labs (http://sunlightlabs.com/) is a group that works to translate the often **not-machine** readable data into formats that can be read and used by machines (and hence entrepreneurs).
