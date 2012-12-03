@@ -112,10 +112,15 @@ Get Out of the Building
 
 .. note:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
-TWO PEOPLE - Eric Ries and Tereza XYZ
+TWO PEOPLE - Eric Reis and Tereza XYZ
 =======================================
 
 * Talking about using general accounting practices.
 * Stay away from vanity metrics, except for what goes into a pitch deck.
 * Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
 * Issue: Investors often use your original vanity metrics when determining how well your project is doing
+
+TWO People - Beth Comstock and Eric Reis
+=========================================
+
+* Beth is the Chief Marketing Officer of General Electric (GE)
