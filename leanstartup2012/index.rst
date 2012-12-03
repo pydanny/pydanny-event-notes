@@ -524,7 +524,15 @@ Joe Hernandez
 How do you shift a group from saying **no** (leaders, lawyers) to saying **yes**?
 
 2. Democratize Action
+
+Create a clear set of guidelines in non-legalese that makes it easy for people to understand when they can move forward.
+
+.. note:: How is a set of guidelines 'democratization'?!?
+
 3. Becomes the power of success
+
+Enable easily understandable rewards so you can demonstrate success. Payment can be financial or simple numbers.
+
 
 3. Leader has to model pulling insights from both successes and failures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
