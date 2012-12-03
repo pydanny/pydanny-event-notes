@@ -274,3 +274,8 @@ Myth: People want to test things
 * Go after the things that will cause us to fail as fast and often as we can.
 
 **Reality**: People want to build and test things.
+
+Myth: You can test your way into a great experience
+--------------------------------------------------------
+
+* Testing your way to an experience often means you create a complete and total mess
