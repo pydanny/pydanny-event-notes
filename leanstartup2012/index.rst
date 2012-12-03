@@ -71,3 +71,9 @@ MVP concept
 * Added tons of testing and metrics. Rather than wait for years for results, they needed to know right away so they could fix it.
 * Refused to use vanity metrics to promote the schools. They needed to know honest, real data on actual results - and kept even the bad news.
 * Encouraged teens to provide feedback through mechanisms that teens like to use.
+
+What they discovered
+---------------------
+
+* Lectures were not effective. 
+* Teachers were much more effective dealing with individual student issues, rather than just broadcasting knowledge.
