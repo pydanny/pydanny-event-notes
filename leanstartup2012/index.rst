@@ -413,4 +413,11 @@ Characteristics of actionable metrics
 
 * Measure success at your core business
 * Show direct relations to revenue
-* 
+
+Your Four: Most important Metrics
+-----------------------------------
+
+* Measure revenue
+* Measure Sales Volume
+* Measure Customer Growth
+* Measure Customer Retention
