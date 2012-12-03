@@ -336,5 +336,11 @@ Using words that help people find you and choose you
     * Embrace the unsexy words in organic searches
     * Look for Entry Points and Top Content in GA
 
+Steve Blank
+===========
 
+https://en.wikipedia.org/wiki/Steve_Blank
 
+**What we used to believe:** Entrepreneurship can't be taught.
+
+**What we used to know:** Entrepreneurship can be taught to anyone who volunteers to try.
