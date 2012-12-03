@@ -2,7 +2,7 @@
 Lean Startup 2012 Simulcast
 ===========================
 
-Held at `Cartwheel Web`_ (http://cartwheelweb.com) we watched the event held in SF.
+Held at `Cartwheel Web`_ we watched the event held in SF.
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
 
