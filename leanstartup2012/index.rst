@@ -2,7 +2,9 @@
 Lean Startup 2012 Simulcast
 ===========================
 
-Held at Cartwheel Web we watched the event held in SF.
+Held at `Cartwheel Web`_ we watched the event held in SF.
+
+.. _`Cartwheel Web`: http://cartwheelweb.com
 
 Eric Reis
 ==========
@@ -109,4 +111,3 @@ Get Out of the Building
 .. admonition:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
 
-==========================
