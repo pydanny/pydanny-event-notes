@@ -314,3 +314,27 @@ TWO SPEAKERS - Nikhil Arora and Alejandro Velez
 * Got explosive growth
 * Switched from selling mushrooms to selling mushroom growing kits all over the country
 * Have a fish? Grow mushrooms! http://www.kickstarter.com/projects/2142509221/home-aquaponics-kit-self-cleaning-fish-tank-that-g?ref=card
+
+Stephanie Yeager
+==================
+
+@ http://twitter.com/steph_hay
+
+Using words that help people find you and choose you
+
+* You want people to choose you.
+* But words describing superlative are overused. Everyone is 'the best'.
+* Try using 'Lean content' to describe your product to someone who isn't you.
+* Look for the **ah-ha** body language
+
+    * See the questions they respond to you with before the **ah-ha** moment
+
+* Use the mom test. If you feel uncomfortable explaining it to your mom, then you need to find a better way.
+* **Growth goal**: Get found
+
+    * Test your messages in AdWords. Test for clicks, not conversions.
+    * Embrace the unsexy words in organic searches
+    * Look for Entry Points and Top Content in GA
+
+
+
