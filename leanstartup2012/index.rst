@@ -18,3 +18,8 @@ Todd Park - USA CTO
 * Current: - CTO of the USA
 * Worked a medical startup in Boston that went public in 2006
 * Created two more health based companies in Boston
+
+Job
+----
+
+* Often runs startup-like efforts inside the USA, which allows radical new approaches for the federal government
