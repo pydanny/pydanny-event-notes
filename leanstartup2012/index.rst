@@ -382,6 +382,7 @@ Lessons learned
 ----------------
 
 * Determine who the buyers really are.
-*
+* Bring in a Salesperson earlier in the process, however, the salesperson must like experimentation.
+
 
 
