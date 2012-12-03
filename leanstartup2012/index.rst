@@ -230,7 +230,7 @@ Kind-of-lean startup talk
     * Build: If you don't build it you don't know if it can be done
     * Measure: Find out how it's used, by people or whatever
     * **Learn** from what you observe.
-    
+
 * Telling your team to **BE** lean is like a crash diet
 
     * **Don't say:** Hey I just read this awesome book and we're going to start doing these 15 things differently.
@@ -240,3 +240,19 @@ Kind-of-lean startup talk
 
     * The real goal is to have fun creating a product your customers love.
     * GitHub is a **GREAT** example.
+
+Andres Glusman 
+==============
+
+ * Works at Meetup.com as Head of Insights & Strategy
+ * https://twitter.com/glusman
+ 
+RSVPs are going up? Here is why:
+
+Myth 1: People give a damn about lean methodologies
+----------------------------------------------------
+
+* No one wants to switch gears
+* No one wants to buy a process
+* Instead of convincing, just start doing it.
+
