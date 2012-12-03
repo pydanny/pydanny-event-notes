@@ -310,6 +310,9 @@ TWO SPEAKERS - Nikhil Arora and Alejandro Velez
 
 * http://www.backtotheroots.com/
 * Started selling at farmers markets
-* Explosive growth
+* Used a timer to gauge how long each person hung at their booth
+    
+    * Cause explosive growth
+    * not sure how, I think I missed something
+    
 * Switched from selling mushrooms to selling mushroom growing kits all over the country
-
