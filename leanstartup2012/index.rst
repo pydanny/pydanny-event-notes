@@ -234,7 +234,7 @@ Kind-of-lean startup talk
 * Telling your team to **BE** lean is like a crash diet
 
     * **Don't say:** Hey I just read this awesome book and we're going to start doing these 15 things differently.
-    * Changing habits is hard
+    * Changing habits is **HARD**.
 
 * **Beeing** lean isn't Knodes goal
 
