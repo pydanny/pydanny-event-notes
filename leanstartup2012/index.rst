@@ -98,3 +98,6 @@ Get Out of the Building
 1. Don't Ask Your Uncle. In other words, don't ask people you know will say nice things.
 2. Set up a booth, do a public demo
 3. Interview potential customers.
+4. Put your office where your customers are
+5. Throw a party
+6. 
