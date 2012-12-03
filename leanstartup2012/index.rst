@@ -395,3 +395,15 @@ Ivory Madison
 "Bonfire of the Vanity Metrics"
 
 * Vanity blinds you to a lack of actually important data
+* Mark Twain: "Facts are stubborn, statistics are more pliable."
+
+Don't use
+---------
+
+* Page views
+* New members
+* Total members
+* conversion rate
+* Percent growth
+* Twitter followers
+* 
