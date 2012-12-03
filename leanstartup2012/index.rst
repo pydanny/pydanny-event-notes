@@ -397,8 +397,8 @@ Ivory Madison
 * Vanity blinds you to a lack of actually important data
 * Mark Twain: "Facts are stubborn, statistics are more pliable."
 
-Don't use
----------
+Don't use these metrics
+-----------------------
 
 * Page views
 * New members
@@ -419,5 +419,5 @@ Your Four: Most important Metrics
 
 * Measure revenue
 * Measure Sales Volume
-* Measure Customer Growth
 * Measure Customer Retention
+* Measure Relevant Growth
