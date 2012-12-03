@@ -14,5 +14,7 @@ Eric Reis
 Todd Park - USA CTO
 ===================
 
+* Previous - CTO of Health and Human Services
+* Current: - CTO of the USA
 * Worked a medical startup in Boston that went public in 2006
 * Created two more health based companies in Boston
