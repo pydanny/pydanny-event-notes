@@ -231,3 +231,8 @@ If they can figure out the right people into your funnel to being a user, they b
     * If you don't build it you don't know if it can be done
     * Measure how it's used, by people or whatever
     * Learn from what you observe.
+    
+* Telling your team to **BE** lean is like a crash diet
+
+    * **Don't say:** Hey I just read this awesome book and we're going to start doing these 15 things differently.
+    * Changing habits is hard
