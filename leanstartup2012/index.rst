@@ -279,3 +279,5 @@ Myth: You can test your way into a great experience
 --------------------------------------------------------
 
 * Testing your way to an experience often means you create a complete and total mess
+* Sometimes you have to restart from scratch and see how it goes.
+* See http://www.meetup.com/create/ to see what they've managed to get working
