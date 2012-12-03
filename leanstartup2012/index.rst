@@ -77,3 +77,14 @@ What they discovered
 
 * Lectures were not effective. 
 * Teachers were much more effective dealing with individual student issues, rather than just broadcasting knowledge.
+
+Tendai Charasika
+==================
+
+* http://www.greaterlouisville.com/EnterpriseCORP/
+* Works with the Kentucky Innovation Network
+
+Statements
+------------
+
+* Get Uncomfortable
