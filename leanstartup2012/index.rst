@@ -363,4 +363,10 @@ Teach the Entrepreneurial API
 2. Teach understanding of Customer Development
 3. Teach how to implement the plan using Agile Engineering
 
-    
+
+George Bilbrey
+===============
+
+"Enterprise in the lean startup"
+
+* Part of Return Path: http://www.returnpath.com/
