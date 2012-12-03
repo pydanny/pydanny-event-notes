@@ -287,7 +287,9 @@ Panel - Getting engineers to embrace Lean
 
 * **Moderator:** Even Henshaw 
 * Melissa Sedano (http://www.bloomboard.com - https://twitter.com/Bloomboard)
-* Sam McAfee (http://www.change.org / )
+* Sam McAfee (http://www.change.org / http://www.change.org/users/sammcafee)
 
 How to get developers/engineers to switch from Agile to Lean.
 
+* Get engineers to embrace smaller prototypes
+* Get your engineers to embrace metrics
