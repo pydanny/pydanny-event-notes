@@ -156,8 +156,10 @@ Daniel Kim
 
 * Founder of Litmoters (http://litmotors.com/)
 
-Issues
-========
+Thoughts
+----------
 
-* building a car is hard
+* Building a car is hard.
 * Building a car and mass producing a car is crazy hard.
+* If you are creating a car company, you should know how to build a car, not just be a car executive.
+* Trying to build the Model-T of the 21st century. Getting it right means positive income for 90-100 years.
