@@ -293,3 +293,6 @@ How to get developers/engineers to switch from Agile to Lean.
 
 * Get engineers to embrace smaller prototypes
 * Get your engineers to embrace metrics
+* Throw away the code when you are done with the MVP
+
+.. warning:: Anyone who thinks you can throw away MVP code hasn't talked to anyone at Twitter, GitHub, or 95% of other companies. They still run off the original MVP code. The only companies who can get away with throwing away code are pre-existing companies with multi-million dollar budgets who use this in tiny segments of their system architecture.
