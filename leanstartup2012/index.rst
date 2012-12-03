@@ -407,3 +407,10 @@ Don't use
 * Percent growth
 * Twitter followers
 * Facebook friends or likes
+
+Characteristics of actionable metrics
+----------------------------------------
+
+* Measure success at your core business
+* Show direct relations to revenue
+* 
