@@ -121,11 +121,12 @@ TWO PEOPLE - Eric Reis and Tereza Nemessanyi
 * Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
 * Issue: Investors often use your original vanity metrics when determining how well your project is doing
 
-TWO People - Beth Comstock and Eric Reis
-=========================================
+Beth Comstock interviewed by Eric Reis
+======================================
 
 * Beth is the Chief Marketing Officer of General Electric (GE). https://en.wikipedia.org/wiki/Beth_Comstock
 * GE believes that entrepreneurs are everywhere
 * GE has to keep reinventing itself: **You don't last for over 130 years by staying static.**
 * Lessons learned: Partner with outside firms to help bring outside ideas into the company
 * Recently: GE got into energy storage (batteries) via startup/entrepreneurs and it is now a multi-billion dollar part of their business
+
