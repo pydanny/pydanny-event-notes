@@ -477,3 +477,4 @@ Making it happen
 
     * leaders need to change and lead this change into the business
     * change things to create success after new success
+    * Large companies typically get stuck and become stifling
