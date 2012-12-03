@@ -40,10 +40,12 @@ Todd is working on...
 -------------------------------
 
 * See RFPEZ to get through government RFPs faster (find on GitHub)
-* US government spends $80 billion on IT per year. Needs to be cheaper!
-
-    * This is why OpenStack (http://www.openstack.org) was started at NASA by Chris Kemp. It was to reduce cost of single server setup from tens of thousands of dollars (mostly labor costs for meetings to discuss setting up single machines) to the same cloud costs paid for Amazon AWS. I can tell you as an ex-NASA employee that server provisioning was overly expensive as of 2010.
-    * US Government runs 24,000 websites. How are they all done?
-
 * Getting your health records from the US government without pain.
+* US Government runs 24,000 websites. How are they all done? How much replication happens?
+* US government spends $80 billion on IT per year. Needs to be cheaper! Use open source and better IT companies!
+
+.. note:: This is why OpenStack (http://www.openstack.org) was started at NASA by Chris Kemp. It was to reduce cost of single server setup from tens of thousands of dollars (mostly labor costs for meetings to discuss setting up single machines) to the same cloud costs paid for Amazon AWS. I can tell you as an ex-NASA employee that server provisioning was overly expensive as of 2010.
+
+
+
 
