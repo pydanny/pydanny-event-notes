@@ -281,3 +281,13 @@ Myth: You can test your way into a great experience
 * Testing your way to an experience often means you create a complete and total mess
 * Sometimes you have to restart from scratch and see how it goes.
 * See http://www.meetup.com/create/ to see what they've managed to get working
+
+Panel - Getting engineers to embrace Lean
+===========================================
+
+* **Moderator:** Even Henshaw 
+* Melissa Sedano (http://www.bloomboard.com - https://twitter.com/Bloomboard)
+* Sam McAfee (http://www.change.org / )
+
+How to get developers/engineers to switch from Agile to Lean.
+
