@@ -185,3 +185,11 @@ Lane Halley
 
 * Carbon 5
 * http://www.lanehalley.com/
+
+Process for building products
+-----------------------------
+
+* Sketch out your ideas as a team
+
+    * Lowest response fidelity
+    * Cross functional pairing is important
