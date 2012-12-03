@@ -523,11 +523,11 @@ Joe Hernandez
 
     How do you shift a group from saying **no** (leaders, lawyers) to saying **yes**?
 
-2. Democratize Action
+2. **Democratize** Action
 
     Create a clear set of guidelines in non-legalese that makes it easy for people to understand when they can move forward.
 
-    .. note:: How is a set of guidelines 'democratization'?!?
+    .. note:: How is a set of guidelines '**democratization**'?!? I think he needs a dictionary. :P
 
 3. Becomes the power of success
 
@@ -543,7 +543,11 @@ Carol Howe
 * But this wasn't how it started:
 
     * Started with a photo capture app that would upload to your computer and that would file to the government
-    * But when they created the app prototype, people made it clear they wanted to just finish it on their phone
+    * But when they created the app prototype, testers made it clear they wanted to just finish it on their phone
+    * Stepped back and looked at the feedback from prototype users and listened carefully
+    
+        * Mobile fans raved in long discussions
+        * Web fans said one word answers like, "nice" and "neat"
 
 4. Leader has to live by the same rules and disciplines as everyone else.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
