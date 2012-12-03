@@ -540,7 +540,10 @@ Joe Hernandez
 Carol Howe
 
 * In 2009 created a start-to-finish app for Intuit that lets you take pictures of your tax documents and it files for you.
+* But this wasn't how it started:
 
+    * Started with a photo capture app that would upload to your computer and that would file to the government
+    * But when they created the app prototype, people made it clear they wanted to just finish it on their phone
 
 4. Leader has to live by the same rules and disciplines as everyone else.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
