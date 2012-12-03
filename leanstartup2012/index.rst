@@ -14,8 +14,9 @@ Eric Reis
 Todd Park - USA CTO
 ===================
 
+* https://twitter.com/todd_park
 * Previous - CTO of Health and Human Services
-* Current: - CTO of the USA
+* Current: - U.S. Chief Technology Officer and Assistant to the President. Tech entrepreneur-in-residence at the White House
 * Worked a medical startup in Boston that went public in 2006
 * Created two more health based companies in Boston
 
