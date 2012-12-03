@@ -450,3 +450,8 @@ Leah Busque
     * test everything
     * not just channels
     * not just funnels
+    
+* Geo-targeting is critically important.
+
+    * What works in one place will not work somewhere else
+    * Test and measure the results
