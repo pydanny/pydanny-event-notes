@@ -537,7 +537,10 @@ Joe Hernandez
 3. Leader has to model pulling insights from both successes and failures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-forthcoming
+Carol Howe
+
+* In 2009 created a start-to-finish app for Intuit that lets you take pictures of your tax documents and it files for you.
+
 
 4. Leader has to live by the same rules and disciplines as everyone else.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
