@@ -476,7 +476,7 @@ Making it happen
 * Scott: 
 
     * leaders need to change and lead this change into the business
-    * change things to create success after new success
+    * Change things to create success after new success
     * Large companies typically get stuck and become stifling
     * Companies lean on politics and slide desk to stop changes:
     * Leaders need to stop deciding on opinion, but to work on actionable metrics
@@ -491,17 +491,26 @@ Barath Kadaba
 
 * In 2008 told to change the lives of India. All the lives
 * Given budget for just 3 people to do it.
-* Decided to focus on the lives of Indian farmers. 
+* First effort:
 
-    * 150m+ of them
-    * Contribute 25% of India's GDP
-    * Most live in poverty
+    * Decided to focus on the lives of Indian farmers. 
 
-* Decided to solve the narrow problem:
+        * 150m+ of them
+        * Contribute 25% of India's GDP
+        * Most live in poverty
 
-    * **Problem**: To whom can they sell their produce to get the best price?
-    * **Solution**: Send farmer's SMS text messages with the latest known data
-    * **Quick Implementation**: Faked it with hand-texted SMS messages to farmers.
+    * Decided to solve the narrow problem:
+
+        * **Problem**: To whom can they sell their produce to get the best price?
+        * **Solution**: Send farmer's SMS text messages with the latest known data
+        * **Quick Implementation**: Faked it with hand-texted SMS messages to farmers.
+        * HUGE success
+    
+* They got 20+ projects done this way
+
+    * Team fought management death threats to stay alive
+    * Only survived because they were so small
+    * Yet increased the income of millions of farmers by 20%
 
 2. Leader has to implement organization settings to make it possible to change
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
