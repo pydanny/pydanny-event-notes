@@ -132,3 +132,4 @@ Beth Comstock interviewed by Eric Reis
 * Recently: GE got into energy storage (batteries) via startup/entrepreneurs and it is now a multi-billion dollar part of their business
 * **Lesson learned**: Really focus on MVP before trying to make it perfect for market. This is critical before ramping up to large production efforts - otherwise you have no idea what the problems really are.
 * **Statement**: You can fall in love with your technology or you can fall in love with what your customers think about your technology.
+* They want help and will pay for it! See http://www.gequest.com
