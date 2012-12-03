@@ -193,3 +193,11 @@ Process for building products
 
     * Lowest response fidelity
     * Cross functional pairing is important
+
+* When designers and developers work together, they need to understand each other's tools. 
+* Lean startup is great for design
+
+    * Quick
+    * Visual
+    * Collaborative
+    * innovative
