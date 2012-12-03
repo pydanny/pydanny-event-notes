@@ -4,9 +4,10 @@ Lean Startup 2012 Simulcast
 
 Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. 
 
-I am Daniel Greenfeld, one of the principals at `Cartwheel Web`_.
+I am Daniel Greenfeld (pydanny_), one of the principals at `Cartwheel Web`_.
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
+.. _pydanny: https://twitter.com/pydanny
 
 Eric Reis
 ==========
