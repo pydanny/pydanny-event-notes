@@ -185,6 +185,7 @@ Lane Halley
 
 * Carbon 5
 * http://www.lanehalley.com/
+* thinknow
 
 Process for building products
 -----------------------------
