@@ -155,6 +155,7 @@ Daniel Kim
 ===========
 
 * Founder of Litmoters (http://litmotors.com/)
+* Builds self-balancing contained motorcycles.
 
 Thoughts
 ----------
