@@ -201,3 +201,8 @@ Process for building products
     * Visual
     * Collaborative
     * innovative
+    
+* Use workflow sketches to determine the flow of a product
+
+    * Don't worry if it's ugly, use paper
+    * Don't use fancy tools
