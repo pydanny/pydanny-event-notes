@@ -445,3 +445,8 @@ Leah Busque
 "If you had only $1, where should you spend it?"
 
 * Really understand your customer so you can target your acquisition techniques
+* Be holistic:
+    
+    * test everything
+    * not just channels
+    * not just funnels
