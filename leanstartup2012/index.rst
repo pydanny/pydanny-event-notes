@@ -271,3 +271,6 @@ Myth: People want to test things
     * Don't try to avoid failure, embrace it.
     * Learn from each mistake via metrics and tests and improve ever since.
     
+* Go after the things that will cause us to fail as fast and often as we can.
+
+**Reality**: People want to build and test things.
