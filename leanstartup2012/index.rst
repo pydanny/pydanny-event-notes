@@ -124,3 +124,6 @@ TWO People - Beth Comstock and Eric Reis
 =========================================
 
 * Beth is the Chief Marketing Officer of General Electric (GE)
+* GE believes that entrepreneurs are everywhere
+* GE has to keep reinventing itself: **You don't last for over 130 years by staying static.**
+* Lessons learned: Partner with outside firms to help bring outside ideas into the company
