@@ -370,3 +370,18 @@ George Bilbrey
 "Enterprise in the lean startup"
 
 * Part of Return Path: http://www.returnpath.com/
+
+    * new product: Anti-phishing system
+
+* Built with small team inside of their large 400 person company
+* Read all the lean books
+
+.. note:: Read http://www.amazon.com/The-State-Philosophy-Theodore-Andrew/dp/1480290556/?ie=UTF8&tag=cn-001-20&linkCode=ur2
+
+Lessons learned
+----------------
+
+* Determine who the buyers really are.
+*
+
+
