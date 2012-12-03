@@ -20,8 +20,12 @@ Todd Park - USA CTO
 * Worked a medical startup in Boston that went public in 2006
 * Created two more health based companies in Boston
 
-Job
+Work
 ----
 
 * Often runs startup-like efforts called 'entrepreneurs in residence' inside the USA, which allows radical new approaches for the federal government
 * The FDA has been working with this program to help the health of the nation.
+* Open Data Initiatives Program
+
+    * GPS grew out of this system
+    * Ronald Reagan is the godfather of the 'Open Data Initiatives Program'
