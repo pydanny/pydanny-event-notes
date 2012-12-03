@@ -213,3 +213,15 @@ Process for building products
 
     * balsamiq is great
     * So is paper
+    
+Ron Williams
+================
+
+Kind-of-lean startup talk
+
+* Founder Knodes
+
+    * http://knod.es/
+    * https://twitter.com/Knodes
+
+If they can figure out the right people into your funnel to being a user, they become better than you about marketing your product.
