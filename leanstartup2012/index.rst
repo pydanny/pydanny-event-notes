@@ -455,3 +455,12 @@ Leah Busque
 
     * What works in one place will not work somewhere else
     * Test and measure the results
+    
+Big Panel
+==========
+
+* Scott Cook
+* Carol Howe
+* Joe Hernandez
+* Barath Kadaba
+
