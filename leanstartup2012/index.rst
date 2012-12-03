@@ -118,4 +118,4 @@ TWO PEOPLE - didn't get names yet
 * Talking about using general accounting practices.
 * Stay away from vanity metrics, except for what goes into a pitch deck.
 * Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
-* Issue: Investors often use your original vanity metrics when determining how well your project is doing.
+* Issue: Investors often use your original vanity metrics when determining how well your project is doing
