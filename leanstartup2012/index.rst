@@ -34,3 +34,4 @@ Open Data Initiatives Program
 * The government is the holder of immense archives of useful data
 
 .. note:: Sunlight Labs (http://sunlightlabs.com/) is a group that works to translate the often **not-machine** readable data into formats that can be read and used by machines (and hence entrepreneurs).
+
