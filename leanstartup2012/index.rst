@@ -309,6 +309,7 @@ TWO SPEAKERS - Nikhil Arora and Alejandro Velez
 ==================================================
 
 * http://www.backtotheroots.com/
+* Started selling at farmers markets
 * Explosive growth
-* Switched from selling mushrooms to selling mushroom growing kits
+* Switched from selling mushrooms to selling mushroom growing kits all over the country
 
