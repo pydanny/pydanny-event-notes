@@ -341,6 +341,17 @@ Steve Blank
 
 https://en.wikipedia.org/wiki/Steve_Blank
 
+Teaching Entrepreneurship
+--------------------------
+
 **What we used to believe:** Entrepreneurship can't be taught.
 
-**What we used to know:** Entrepreneurship can be taught to anyone who volunteers to try.
+**What we know now:** Entrepreneurship can be taught to anyone who volunteers to try.
+
+Learn Entrepreneurship
+--------------------------
+**What we used to believe:** Learn Entrepreneurship requires a lot of education
+
+**What we know now:** Learning Entrepreneurship some theory and a lot of practice
+
+.. warning:: Learning entrepreneurship from an educator is risky. Their experiences may not translate to today's conditions.
