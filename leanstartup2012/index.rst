@@ -108,6 +108,6 @@ Get Out of the Building
 9. **Pre-order, landing pages, analytics** (show demand for the product)
 10. **Ask for the introduction**
 
-.. admonition:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
+.. note:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
 
