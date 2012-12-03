@@ -29,7 +29,8 @@ Work
 Open Data Initiatives Program
 ------------------------------
 
-* Ronald Reagan is the godfather of the 'Open Data Initiatives Program'
+* URL: http://www.data.gov
+* Ronald Reagan is the godfather of the 'Open Data Initiatives Program'!
 * GPS grew out of this system which has provided billions of dollars of business
 * The government is the holder of immense archives of useful data
 
