@@ -464,3 +464,8 @@ Big Panel
 * Joe Hernandez
 * Barath Kadaba
 
+Question: What is the goal you have for your venture
+-----------------------------------------------------
+
+* You want to stay small and insignificant? (0%)
+* You want to be giant and well known? (100%)
