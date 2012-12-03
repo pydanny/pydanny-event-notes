@@ -166,4 +166,14 @@ Thoughts
 * Different approach from segway
 
     * Spent a lot of money doing research if there was a need for a small, sustainable vehicle market.
-    * 
+    * Did building of product after doing market research
+
+* Engineering:
+
+    * Built by hand, rather via expensive machinery.
+    * Didn't worry to much about meeting prototype deadlines
+
+* Feedback
+
+    * Did a small production round to demonstrate that people would buy it. This impressed investors
+    * Got lots of feedback from users and drivers
