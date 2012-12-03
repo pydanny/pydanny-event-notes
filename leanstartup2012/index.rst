@@ -113,5 +113,6 @@ Get Out of the Building
 TWO PEOPLE - didn't get names yet
 ===================================
 
-* Talking about using general accounting practices
-* Stay away from vanity metrics, except for what goes into a pitch deck
+* Talking about using general accounting practices.
+* Stay away from vanity metrics, except for what goes into a pitch deck.
+* VCs use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
