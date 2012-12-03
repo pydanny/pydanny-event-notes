@@ -459,10 +459,10 @@ Leah Busque
 Big Panel
 ==========
 
-* Scott Cook (Intuit)
+* Scott Cook (Intuit boss)
 * Carol Howe
 * Joe Hernandez
-* Barath Kadaba
+* Barath Kadaba (VP of engineering)
 
 Question: What is the goal you have for your venture?
 -----------------------------------------------------
@@ -480,4 +480,38 @@ Making it happen
     * Large companies typically get stuck and become stifling
     * Companies lean on politics and slide desk to stop changes:
     * Leaders need to stop deciding on opinion, but to work on actionable metrics
+
+Components of making it happen
+------------------------------
     
+1. Leader has to set the grand challenge
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Barath Kadaba
+
+* In 2008 told to change the lives of India. All the lives
+* Given budget for just 3 people to do it.
+* Decided to focus on the lives of Indian farmers. 
+
+    * 150m+ of them
+    * Contribute 25% of India's GDP
+    * Most live in poverty
+
+* Decided to solve the narrow problem:
+
+    * To whom can they sell their produce to get the best price?
+
+2. Leader has to implement organization settings to make it possible to change
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+forthcoming
+
+3. Leader has to model pulling insights from both successes and failures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+forthcoming
+
+4. Leader has to live by the same rules and disciplines as everyone else.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+forthcoming
