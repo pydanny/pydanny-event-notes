@@ -236,6 +236,7 @@ Kind-of-lean startup talk
     * **Don't say:** Hey I just read this awesome book and we're going to start doing these 15 things differently.
     * Changing habits is **HARD**.
 
-* **Beeing** lean isn't Knodes goal
+* **Beeing** lean isn't your goal
 
-    * The real goal for for Knodes is to have fun creating a product their customers love.
+    * The real goal is to have fun creating a product your customers love.
+    * GitHub is a **GREAT** example.
