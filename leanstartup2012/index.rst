@@ -295,8 +295,10 @@ How to get developers/engineers to switch from Agile to Lean.
 * Get your engineers to embrace metrics
 * Throw away the code when you are done with the MVP
 
-Danger
---------
+.. warning:: Read the 'Danger: MVPs often not disposable' section below
+
+Danger: MVPs often not disposable
+----------------------------------
 
 Throw away code after the MVP is done? That only works for established companies.
 
