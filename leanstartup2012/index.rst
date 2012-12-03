@@ -302,4 +302,4 @@ Danger: MVPs often not disposable
 
 Throw away code after the MVP is done? That only works for established companies.
 
-Anyone who thinks you can throw away MVP code hasn't talked to anyone at Twitter, GitHub, or 95% of other companies. They still run off the original MVP code. The only companies who can get away with throwing away code are pre-existing companies with multi-million dollar budgets who use this in tiny segments of their system architecture.
+Anyone who thinks you can throw away MVP code hasn't talked to anyone at Twitter, GitHub, or 95% of other companies. They still run off the original MVP code. The only companies who can get away with throwing away code are pre-existing companies with multi-million dollar budgets who use MVP efforts in tiny segments of their system architecture.
