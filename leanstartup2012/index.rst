@@ -421,3 +421,17 @@ Your Four: Most important Metrics
 * Measure Sales Volume
 * Measure Customer Retention
 * Measure Relevant Growth
+
+Find the big picture in???
+---------------------------
+
+.. note:: They switched back to the speaker after 2 seconds. :P
+
+Ash Maura
+==========
+
+"Getting the ultimate metrics dashboard"
+
+1. Establish a standard measure of progress
+2. DaveMcClure's Pirate Metrics (look them up)
+3. As you gain users, it becomes harder to measure progress.
