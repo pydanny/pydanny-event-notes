@@ -2,7 +2,7 @@
 Lean Startup 2012 Simulcast
 ===========================
 
-Held at `Cartwheel Web`_ we watched the event held in SF.
+Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. I am Daniel Greenfeld, one of the principals at `Cartwheel Web`_.
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
 
