@@ -360,7 +360,7 @@ Teach the Entrepreneurial API
 --------------------------------
 
 1. Teach how to create a business model canvas
-2. Teach understanding of  Customer Development
+2. Teach understanding of Customer Development
 3. Teach how to implement the plan using Agile Engineering
 
     
