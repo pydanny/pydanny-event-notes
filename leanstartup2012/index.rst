@@ -219,12 +219,11 @@ Ron Williams
 
 Kind-of-lean startup talk
 
-* Founder Knodes
+* Founder of Knodes
 
     * http://knod.es/
     * https://twitter.com/Knodes
-
-If they can figure out the right people into your funnel to being a user, they become better than you about marketing your product.
+    * If they can figure out the right people into your funnel to being a user, your user becomes better than you about marketing your product.
 
 * **build/measure/learn **for everything... or else
 
