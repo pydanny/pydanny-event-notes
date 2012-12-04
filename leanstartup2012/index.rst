@@ -279,7 +279,7 @@ Myth: People want to test things
 
     * Don't try to avoid failure, embrace it.
     * Learn from each mistake via metrics and tests and improve ever since.
-    
+
 * Go after the things that will cause us to fail as fast and often as we can.
 
 **Reality**: People want to build and test things.
@@ -464,7 +464,7 @@ Leah Busque
 
     * What works in one place will not work somewhere else
     * Test and measure the results
-    
+
 Big Panel
 ==========
 
@@ -514,7 +514,7 @@ Barath Kadaba
         * **Solution**: Send farmer's SMS text messages with the latest known data
         * **Quick Implementation**: Faked it with hand-texted SMS messages to farmers.
         * HUGE success
-    
+
 * They got 20+ projects done this way
 
     * Team fought management death threats to stay alive
@@ -554,10 +554,10 @@ Carol Howe
     * Started with a photo capture app that would upload to your computer and that would file to the government
     * But when they created the app prototype, testers made it clear they wanted to just finish it on their phone
     * Stepped back and looked at the feedback from prototype users and listened carefully
-    
+
         * Mobile fans raved in long discussions
         * Web fans said one word answers like, "nice" and "neat"
-        
+
     * Started with launch in California and took lessons from there
 
 4. Leader has to live by the same rules and disciplines as everyone else.
@@ -657,9 +657,9 @@ Did Lean Startup Machine and won it. Ran 10 experiments and pivoted 5 times duri
 3. Experiment - Getting people into food places
 
     * Fierce competition everywhere. Not worth doing.
-    
+
 4. Missed
-    
+
 5. Experiment - Wine club for restaurants
 
     * 6 bi-monthly events in 2013 for the serious wino with exclusive chefs
@@ -721,4 +721,8 @@ Problems he hears in pitches
 
     * Winners are portrayed perfectly, losers are portrayed like idiots
     * He contends that winners often are just lucky enough to start at the right time.
-    
+
+Tips
+-----
+
+* Do not go public until your company has built a fortress. If you don't have all the positions filled, brand established, predictability in the market, then you are at great risk.
