@@ -567,7 +567,7 @@ Drew Houston
 
 Q&A from questions given from the audience:
 
-* **Question: **What do you look at in regards to metrics?
+* **Question:** What do you look at in regards to metrics?
 
     * **Answer:** We look primarily for: "How many active users do we have?"
 
@@ -587,3 +587,7 @@ Q&A from questions given from the audience:
     * **Answer:** Build something that makes others happy
     * **Answer:** Have fun making it work
     * **Answer:** Figure out how many users you need to get in order to do the startup full time.
+    
+Charles Hudson
+===============
+
