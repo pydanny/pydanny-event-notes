@@ -564,4 +564,20 @@ Drew Houston
 ============
 
 * Founder of dropbox.com
-* Answering questions given from the audience
+
+Q&A from questions given from the audience:
+
+* **Question: **What do you look at in regards to metrics?
+
+    * **Answer:** We look primarily for: "How many active users do we have?"
+
+* **Question:** What tools do you use for gathering metrics?
+
+    * **Answer:** The simplest tools possible to gather metrics
+    * **Answer:** Store them in google docs and other simple tools
+
+* **Question:** How do you find people?
+
+    * **Answer:** Personal network
+    * **Answer:** Connect with the developer/business communities
+
