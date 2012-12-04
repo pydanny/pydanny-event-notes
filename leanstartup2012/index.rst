@@ -699,3 +699,6 @@ Interviewed by Eric Reis. Notable quotes:
     
         * Sales and marketing doesn't happen magically.
         * No matter how good your product might be, people won't come to it without sales and marketing.
+        * Critical examples: Google, SalesForce, Facebook, and Twitter have thousands of sales rep.
+        * Business applications do not sell themselves
+        * Don't rely on anything going viral
