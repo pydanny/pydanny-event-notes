@@ -615,3 +615,17 @@ Had to pivot
 * Couldn't monetize just on Android
 * Tried to leverage switching to Kindle Fire and iOS
 * Story isn't done yet
+
+Dave Binetti
+==============
+
+* co-founder of Votizen
+* http://davidbinetti.com/
+
+When you do you pivot?
+-------------------------
+
+* You need to have a vision to make a decision based off of hard metrics.
+
+    * Often people make a pivot based not on hard metrics but emotion
+    * Pivoting doesn't mean changing your vision, it means changing your path
