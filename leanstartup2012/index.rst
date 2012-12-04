@@ -234,7 +234,7 @@ Kind-of-lean startup talk
     * https://twitter.com/Knodes
     * If they can figure out the right people into your funnel to being a user, your user becomes better than you about marketing your product.
 
-* **build/measure/learn **for everything... or else
+* **build/measure/learn** for everything... or else
 
     * Build: If you don't build it you don't know if it can be done
     * Measure: Find out how it's used, by people or whatever
@@ -688,4 +688,14 @@ Interviewed by Eric Reis. Notable quotes:
     * You can take the ideas of the time and with a twist, apply them to great success
     * The bubble itself was only 18 months. From 3rd quarter of 1998 to the 1st quarter of 2000.
 
-.. note:: Very intense firehouse of data.
+* Problems he hears in pitches
+
+    * Not every startup can startup can be lean. Sometimes you need to just be audacious. Think Apple, Intel, or anything Elon Musk does these days.
+
+        * You can't put a rocket into space on a lean program.
+        * Don't let the lean startup methodology destroy other ways of doing things. 
+
+    * Lean startup methodology used to avoid sales marketing strategy seriously.
+    
+        * Sales and marketing doesn't happen magically.
+        * No matter how good your product might be, people won't come to it without sales and marketing.
