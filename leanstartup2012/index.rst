@@ -680,4 +680,5 @@ Interviewed by Eric Reis. Notable quotes:
 * Pivoted twice when it was still called, "We fucked up"
 * When you get a ton of customer service requests it means you are succeeded.
 * You have to move quickly in order to capture the market. You can't wait. Just have to move.
+* Until your effort makes a product market fit, it's not a real company.
 
