@@ -603,3 +603,8 @@ How they got started
 
 * Saw that none of the games for Android were any good
 * Decided to become the 'android guys'
+* Platform decisions matter
+
+    * Tech
+    * Distribution Channels
+    * Can they go between systems?
