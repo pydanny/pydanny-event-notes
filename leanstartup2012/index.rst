@@ -716,3 +716,9 @@ Problems he hears in pitches
     * By taking the stigma out of pivoting, entrepreneurs have an excuse to not try hard enough. Don't be gleeful about failure.
     * People who claim to be "serial entrepreneurs" without success are giving themselves a fancy title for being a failure.
     * Preserve the good of failing, learn from it and succeed next time.
+    
+* History is weird
+
+    * Winners are portrayed perfectly, losers are portrayed like idiots
+    * He contends that winners often are just lucky enough to start at the right time.
+    
