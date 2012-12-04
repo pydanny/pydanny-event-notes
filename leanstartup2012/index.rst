@@ -727,3 +727,7 @@ Tips
 
 * Do not go public until your company has built a fortress. If you don't have all the positions filled, brand established, predictability in the market, then you are at great risk.
 * Going public today is an extreme sport. It's very dangerous.
+* Lean Startup is like the `Theory of Relativity for Business`.
+
+    * We now have a process and science for getting things done.
+    * **BUT** you still need old fashioned sales and marketing.
