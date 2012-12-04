@@ -688,17 +688,22 @@ Interviewed by Eric Reis. Notable quotes:
     * You can take the ideas of the time and with a twist, apply them to great success
     * The bubble itself was only 18 months. From 3rd quarter of 1998 to the 1st quarter of 2000.
 
-* Problems he hears in pitches
+Problems he hears in pitches
+-----------------------------
 
-    * Not every startup can startup can be lean. Sometimes you need to just be audacious. Think Apple, Intel, or anything Elon Musk does these days.
+* Not every startup can startup can be lean. Sometimes you need to just be audacious. Think Apple, Intel, or anything Elon Musk does these days.
 
-        * You can't put a rocket into space on a lean program.
-        * Don't let the lean startup methodology destroy other ways of doing things. 
+    * You can't put a rocket into space on a lean program.
+    * Don't let the lean startup methodology destroy other ways of doing things. 
 
-    * Lean startup methodology used to avoid sales marketing strategy seriously.
-    
-        * Sales and marketing doesn't happen magically.
-        * No matter how good your product might be, people won't come to it without sales and marketing.
-        * Critical examples: Google, SalesForce, Facebook, and Twitter have thousands of sales rep.
-        * Business applications do not sell themselves
-        * Don't rely on anything going viral
+* Lean startup methodology used to avoid sales marketing strategy seriously.
+
+    * Sales and marketing doesn't happen magically.
+    * No matter how good your product might be, people won't come to it without sales and marketing.
+    * Critical examples: Google, SalesForce, Facebook, and Twitter have thousands of sales rep.
+    * Business applications do not sell themselves
+    * Don't rely on anything going viral
+
+* Entrepreneurs give up too quickly
+
+    * Are you going to do the heavy lifting over a long period of time?
