@@ -673,11 +673,11 @@ Marc Andreessen
 =================
 
 * http://a16z.com/
-* https://twitter.com/a16z
+https://twitter.com/pmarca
 
-Interviewed by Eric Reis
-
-Tell us the unedited story of how it all happened
--------------------------------------------------
+Interviewed by Eric Reis. Notable quotes:
 
 * Pivoted twice when it was still called, "We fucked up"
+* When you get a ton of customer service requests it means you are succeeded.
+* You have to move quickly in order to capture the market. You can't wait. Just have to move.
+
