@@ -707,3 +707,9 @@ Problems he hears in pitches
 * Entrepreneurs give up too quickly
 
     * Are you going to do the heavy lifting over a long period of time?
+    * keep at it!
+    
+* Failure fetish
+
+    * People who are serial entrepreneurs are giving themselves a fancy title for being a failure.
+    * Preserve the good of failing, learn from it and succeed next time.
