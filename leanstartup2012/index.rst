@@ -211,18 +211,18 @@ Process for building products
     * Visual
     * Collaborative
     * innovative
-    
+
 * Use workflow sketches to determine the flow of a product
 
     * Don't worry if it's ugly, use paper
     * Don't use fancy tools
     * If you use fancy tools, you risk locking up your product in whoever controls the fancy tools.
-    
+
 * Wireframes
 
     * balsamiq is great
     * So is paper
-    
+
 Ron Williams
 ================
 
@@ -710,7 +710,7 @@ Problems he hears in pitches
 
     * Are you going to do the heavy lifting over a long period of time?
     * keep at it!
-    
+
 * Failure fetish
 
     * By taking the stigma out of pivoting, entrepreneurs have an excuse to not try hard enough. Don't be gleeful about failure.
@@ -726,3 +726,4 @@ Tips
 -----
 
 * Do not go public until your company has built a fortress. If you don't have all the positions filled, brand established, predictability in the market, then you are at great risk.
+* Going public today is an extreme sport. It's very dangerous.
