@@ -713,5 +713,6 @@ Problems he hears in pitches
     
 * Failure fetish
 
-    * People who are serial entrepreneurs are giving themselves a fancy title for being a failure.
+    * By taking the stigma out of pivoting, entrepreneurs have an excuse to not try hard enough. Don't be gleeful about failure.
+    * People who claim to be "serial entrepreneurs" without success are giving themselves a fancy title for being a failure.
     * Preserve the good of failing, learn from it and succeed next time.
