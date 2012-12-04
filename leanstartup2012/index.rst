@@ -591,3 +591,9 @@ Q&A from questions given from the audience:
 Charles Hudson
 ===============
 
+* https://twitter.com/chudson
+* http://www.charleshudson.net/
+
+.. epigraph::
+
+    "Being a VC does not protect you from making boneheaded mistakes as founder."
