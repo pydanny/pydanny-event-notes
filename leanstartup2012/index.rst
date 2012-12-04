@@ -668,3 +668,13 @@ Did Lean Startup Machine and won it. Ran 10 experiments and pivoted 5 times duri
     
         * They've made $4500 in days
         * They could have sold out if not presenting
+        
+Marc Andreessen
+=================
+
+Interviewed by Eric Reis
+
+Tell us the unedited story of how it all happened
+-------------------------------------------------
+
+* Pivoted twice when it was still called, "We fucked up"
