@@ -581,3 +581,9 @@ Q&A from questions given from the audience:
     * **Answer:** Personal network
     * **Answer:** Connect with the developer/business communities
 
+* **Question:** What are your goals and how are you accomplishing it?
+
+    * **Answer:** Build something that makes me happy
+    * **Answer:** Build something that makes others happy
+    * **Answer:** Have fun making it work
+    * **Answer:** Figure out how many users you need to get in order to do the startup full time.
