@@ -4,13 +4,14 @@ Lean Startup 2012 Simulcast
 
 Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. 
 
-I am Daniel Greenfeld (pydanny_), one of the principals at `Cartwheel Web`_. I have two startups I'm working on:
+I am Daniel Greenfeld (blog_, twitter_), one of the principals and CTO at `Cartwheel Web`_, a software consulting shop that builds startups. I have two startups of my own:
 
-* `Pet Cheatsheets`_ 
+* `Pet Cheatsheets`_
 * MoveHero_
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
-.. _pydanny: https://twitter.com/pydanny
+.. _twitter: https://twitter.com/pydanny
+.. _blog: https://pydanny.com
 .. _`Pet Cheatsheets`: http://petcheatsheets.com
 .. _`MoveHero`: http://movehero.co
 
