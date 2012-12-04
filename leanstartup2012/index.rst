@@ -554,4 +554,7 @@ Carol Howe
 4. Leader has to live by the same rules and disciplines as everyone else.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-forthcoming
+Scott Cook
+
+* Test your beliefs the same way you make others test theirs.
+* If you don't test your beliefs, then you'll drive into places based on opinion, not science.
