@@ -597,3 +597,9 @@ Charles Hudson
 .. epigraph::
 
     "Being a VC does not protect you from making boneheaded mistakes as founder."
+
+How they got started
+--------------------
+
+* Saw that none of the games for Android were any good
+* Decided to become the 'android guys'
