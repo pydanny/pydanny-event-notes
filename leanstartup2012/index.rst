@@ -685,6 +685,7 @@ Interviewed by Eric Reis. Notable quotes:
 
     * Worried that people who lived through the crash are suffering psychological damage from the event.
     * Many of the ideas of the time were valid, but were just too early.
-    
+    * You can take the ideas of the time and with a twist, apply them to great success
+    * The bubble itself was only 18 months. From 3rd quarter of 1998 to the 1st quarter of 2000.
 
 .. note:: Very intense firehouse of data.
