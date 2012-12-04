@@ -12,7 +12,7 @@ I am Daniel Greenfeld (pydanny_), one of the principals at `Cartwheel Web`_.
 Other live-notes / live-blogs
 ==============================
 
-As is frequently happens, I'm not the only one documenting the event live. 
+As is frequently happens, I'm not the only one documenting the event live. Check out the hard work and excellent writing of others!
 
 * https://docs.google.com/document/d/1scTPA9HyYdhMISy1vm6XI8viEUOAkRzboDjTsI2W3fw/preview?sle=true#
 * http://www.bizwatchsearchanalytics.com/reporting/?p=907&option=com_wordpress&Itemid=1 
