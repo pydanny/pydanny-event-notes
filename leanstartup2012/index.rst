@@ -2,8 +2,6 @@
 Lean Startup 2012 Simulcast
 ===========================
 
-Myself and a group of Los Angeles entrepreneurs watched the event broadcast from San Francisco. 
-
 I am Daniel Greenfeld (blog_, twitter_), one of the principals and CTO at `Cartwheel Web`_, a software consulting shop that builds startups. I have two startups of my own:
 
 * `Pet Cheatsheets`_
