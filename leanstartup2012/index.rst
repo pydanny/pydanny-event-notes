@@ -673,7 +673,7 @@ Marc Andreessen
 =================
 
 * http://a16z.com/
-https://twitter.com/pmarca
+* https://twitter.com/pmarca
 
 Interviewed by Eric Reis. Notable quotes:
 
@@ -682,3 +682,4 @@ Interviewed by Eric Reis. Notable quotes:
 * You have to move quickly in order to capture the market. You can't wait. Just have to move.
 * Until your effort makes a product market fit, it's not a real company.
 
+.. note:: Very intense firehouse of data.
