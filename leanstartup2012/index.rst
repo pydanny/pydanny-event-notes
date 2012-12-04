@@ -681,7 +681,9 @@ Interviewed by Eric Reis. Notable quotes:
 * When you get a ton of customer service requests it means you are succeeded.
 * You have to move quickly in order to capture the market. You can't wait. Just have to move.
 * Until your effort makes a product market fit, it's not a real company.
-* We learned a lot of lessons from the dot-com crash:
+
+We learned a lot of lessons from the dot-com crash
+---------------------------------------------------
 
     * Worried that people who lived through the crash are suffering psychological damage from the event.
     * Many of the ideas of the time were valid, but were just too early.
