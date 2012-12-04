@@ -7,7 +7,12 @@ Myself and a group of Los Angeles entrepreneurs watched the event broadcast from
 I am Daniel Greenfeld (blog_, twitter_), one of the principals and CTO at `Cartwheel Web`_, a software consulting shop that builds startups. I have two startups of my own:
 
 * `Pet Cheatsheets`_
+
+    Build custom 1-page reference sheets for your pets in minutes.
+
 * MoveHero_
+
+    Get free, anonymous moving estimates.
 
 .. _`Cartwheel Web`: http://cartwheelweb.com
 .. _twitter: https://twitter.com/pydanny
