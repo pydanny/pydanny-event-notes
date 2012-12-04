@@ -608,3 +608,10 @@ How they got started
     * Tech
     * Distribution Channels
     * Can they go between systems?
+    
+Had to pivot
+-------------
+
+* Couldn't monetize just on Android
+* Tried to leverage switching to Kindle Fire and iOS
+* Story isn't done yet
