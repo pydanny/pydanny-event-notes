@@ -9,6 +9,15 @@ I am Daniel Greenfeld (pydanny_), one of the principals at `Cartwheel Web`_.
 .. _`Cartwheel Web`: http://cartwheelweb.com
 .. _pydanny: https://twitter.com/pydanny
 
+Other live-notes / live-blogs
+==============================
+
+As what frequently happens, I'm not the only one documenting the event life. 
+
+* https://docs.google.com/document/d/1scTPA9HyYdhMISy1vm6XI8viEUOAkRzboDjTsI2W3fw/preview?sle=true#
+* http://www.bizwatchsearchanalytics.com/reporting/?p=907&option=com_wordpress&Itemid=1 
+* http://www.shoestring.com.au/2012/12/the-lean-startup-conference-live-blog-from-4-am/#.UL0_H2zg4Ds.twitter 
+
 Eric Reis
 ==========
 
@@ -629,3 +638,33 @@ When you do you pivot?
 
     * Often people make a pivot based not on hard metrics but emotion
     * Pivoting doesn't mean changing your vision, it means changing your path
+
+Mark Abramson
+===============
+
+Did Lean Startup Machine and won it. Ran 10 experiments and pivoted 5 times during the conference
+
+1. Experiment - Tax paying
+
+    * Discovered that restaurants over 25 employees have to pay an extra tax
+    * They all send it accountants and pay serious money.
+    * No pain. Not worth doing.
+
+2. Experiment - Happy Hour Marketing
+
+    * No one has problems here. Not worth doing.
+
+3. Experiment - Getting people into food places
+
+    * Fierce competition everywhere. Not worth doing.
+    
+4. Missed
+    
+5. Experiment - Wine club for restaurants
+
+    * 6 bi-monthly events in 2013 for the serious wino with exclusive chefs
+    * $1500 for 2 people for an annual membership
+    * **People will pay for this service!**
+    
+        * They've made $4500 in days
+        * They could have sold out if not presenting
