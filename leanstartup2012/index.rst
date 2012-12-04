@@ -18,7 +18,7 @@ As what frequently happens, I'm not the only one documenting the event live.
 * http://www.bizwatchsearchanalytics.com/reporting/?p=907&option=com_wordpress&Itemid=1 
 * http://www.shoestring.com.au/2012/12/the-lean-startup-conference-live-blog-from-4-am/#.UL0_H2zg4Ds.twitter 
 
-Eric Reis
+Eric Ries
 ==========
 
 * If you are building a startup you are trying to replace the big companies you dislike. The big companies started the same way you did, as a way to break the current system.
@@ -122,7 +122,7 @@ Get Out of the Building
 
 .. note:: Idea: Market your tech startup by sitting in a coffee shop and showing people.
 
-TWO PEOPLE - Eric Reis and Tereza Nemessanyi 
+TWO PEOPLE - Eric Ries and Tereza Nemessanyi 
 ============================================
 
 * Tereza Nemessanyi (https://twitter.com/TerezaN)
@@ -131,7 +131,7 @@ TWO PEOPLE - Eric Reis and Tereza Nemessanyi
 * Investors use vanity metrics to make investments in your project, but using them for concrete business decision making is dangerous.
 * Issue: Investors often use your original vanity metrics when determining how well your project is doing
 
-Beth Comstock interviewed by Eric Reis
+Beth Comstock interviewed by Eric Ries
 ======================================
 
 * Beth is the Chief Marketing Officer of General Electric (GE). https://en.wikipedia.org/wiki/Beth_Comstock
@@ -675,7 +675,7 @@ Marc Andreessen
 * http://a16z.com/
 * https://twitter.com/pmarca
 
-Interviewed by Eric Reis. Notable quotes:
+Interviewed by Eric Ries. Notable quotes:
 
 * Pivoted twice when it was still called, "We fucked up"
 * When you get a ton of customer service requests it means you are succeeded.
