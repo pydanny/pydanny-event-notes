@@ -672,6 +672,9 @@ Did Lean Startup Machine and won it. Ran 10 experiments and pivoted 5 times duri
 Marc Andreessen
 =================
 
+* http://a16z.com/
+* https://twitter.com/a16z
+
 Interviewed by Eric Reis
 
 Tell us the unedited story of how it all happened
