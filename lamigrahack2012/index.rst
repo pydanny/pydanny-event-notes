@@ -13,6 +13,9 @@ I am Daniel Greenfeld (blog_, twitter_), one of the principals at `Cartwheel Web
 .. _`Pet Cheatsheets`: http://petcheatsheets.com
 .. _`MoveHero`: http://movehero.co
 
+Talks
+=====
+
 .. toctree::
    :maxdepth: 2
    
