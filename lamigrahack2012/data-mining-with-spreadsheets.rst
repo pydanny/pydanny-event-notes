@@ -2,7 +2,7 @@
 Data Mining with Spreadsheets
 =================================
 
-Instructor: (Getting that info after the class)
+by Ronald Campbell of the Journalist at the Orange County Register
 
 Useful links
 ============

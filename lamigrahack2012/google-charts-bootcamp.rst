@@ -4,6 +4,8 @@ Google Fusion Tables Bootcamp
 
 http://research.google.com/tables
 
+Presented by Rebecca (of Google)
+
 Examples
 =========
 
