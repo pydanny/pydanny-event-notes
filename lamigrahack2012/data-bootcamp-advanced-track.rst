@@ -11,3 +11,7 @@ Questions to be answered
 2. What are best practices for fusion tables?
 3. How do you use fusion tables with secure data?
 4. How do you import data directly with .csvs?
+
+    * Store in AppEngine
+    * Store in CloudSQL
+    
