@@ -16,6 +16,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   lamigrahack2012/index
    leanstartup2012/index
    PyConPL2012/index
    PyconPH2012/index
