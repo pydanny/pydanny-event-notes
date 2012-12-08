@@ -17,3 +17,7 @@ Cool Tools
 
 * Chrome Extension to find tables
 * New capability to turn shared Google Spreadsheets data into visualizations automagically
+* Open Refine
+
+    * Used to be Google Refine, a closed source product
+    * https://github.com/OpenRefine #lamigrahack
