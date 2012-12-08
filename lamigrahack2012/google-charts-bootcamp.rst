@@ -16,3 +16,4 @@ Cool Tools
 ===========
 
 * Chrome Extension to find tables
+* New capability to turn shared Google Spreadsheets data into visualizations automagically
