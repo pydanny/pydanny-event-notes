@@ -25,7 +25,9 @@ Cool Tools
 Open Refine
 -------------
 
+Makes turning data into machine readable format much, much easier. Can we have this as a hosted service somewhere?
+
 * Used to be Google Refine, a closed source product
 * https://github.com/OpenRefine #lamigrahack
+* Installation: https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions
 
-**What it does:** Makes turning data into machine readable format much, much easier.
