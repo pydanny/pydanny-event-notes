@@ -34,4 +34,4 @@ Adjusting the Data
 ===================
  
 * Under 'Data Options' change the year to 2007 (sidebar)
-* 
+* Formula for comparing 2012 with 2007: `new - old / old`
