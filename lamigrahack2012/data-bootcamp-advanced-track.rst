@@ -19,6 +19,16 @@ Questions to be answered
 ===============================================
 
 Fusion tables is about column/row data and merges, so you just use a merge column to show the data you want per polygon.
+
+2. What are best practices for fusion tables?
+=======================================================
+
+Not yet covered
+
+3. How do you use fusion tables with secure data?
+======================================================
+
+Not yet covered
     
 4. How do you import data files directly?
 =========================================
