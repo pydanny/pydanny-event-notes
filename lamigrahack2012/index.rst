@@ -21,5 +21,6 @@ Talks
    
    data-mining-with-spreadsheets
    google-charts-bootcamp
+   data-bootcamp-advanced-track
 
 
