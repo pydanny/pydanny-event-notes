@@ -28,3 +28,10 @@ Time to interview the data!
 * Paste the generated data into your spreadsheet of choice.
 * Select the highest row with numbers and enter something like into the first empty cell to the right: `=D1/B1`
 * Copy/paste the **formula only** to the empty cells corresponding to the other rows.
+* Format the results to show percentages
+
+Adjusting the Data
+===================
+ 
+* Under 'Data Options' change the year to 2007 (sidebar)
+* 
