@@ -2,7 +2,7 @@
 Data Mining with Spreadsheets
 =================================
 
-.. note:: This tutorial was called 'Data Mining with Excel' but can be done with any spreadsheet tool (Excel, Numbers, Google Spreadsheet, etc)
+Instructor: (Getting that info after the class)
 
 Useful links
 ============
