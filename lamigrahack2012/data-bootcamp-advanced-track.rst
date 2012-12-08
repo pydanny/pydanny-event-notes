@@ -11,9 +11,15 @@ Questions to be answered
 2. What are best practices for fusion tables?
 3. How do you use fusion tables with secure data?
 4. How do you import data files directly?
+5. How do you hide columns completely from viewers?
     
 4. How do you import data files directly?
 =========================================
 
 * Store in AppEngine
 * Store in CloudSQL
+
+5. How do you hide columns completely from viewers?
+====================================================
+
+* It's a setting control
