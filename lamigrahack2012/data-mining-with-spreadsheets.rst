@@ -35,3 +35,13 @@ Adjusting the Data
  
 * Under 'Data Options' change the year to 2007 (sidebar)
 * Formula for comparing 2012 with 2007: `new - old / old`
+
+What does this show?
+====================
+
+* Incoming workforce with high school and post-high school education dropped
+* **Surprise**: Incoming workforce with bachelor's degree or higher is increasing. 
+
+    * Might be because more immigrants coming in have bachelor's degrees.
+    * Might be because more immigrants are getting bachelor's degrees.
+    * No way to figure out what this means from the data available. We need a journalist to investigate!
