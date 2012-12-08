@@ -9,8 +9,13 @@ Useful links
 
 * http://census.gov/cps/data/cpstablecreator.html
 
-Workforce data to consider for immigrants
-==========================================
+The CPS table creator allows to mine data from the March analysis of Census data.
 
-* Point of origin
-* Education
+Workforce data to consider for immigrant data analysis
+=======================================================
+
+Generate a report using the following criteria
+
+* Education Attainment (sidebar)
+* Nativity: Point of origin (sidebar)
+* California (topbar)
