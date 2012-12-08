@@ -20,5 +20,6 @@ Talks
    :maxdepth: 2
    
    data-mining-with-spreadsheets
+   google-charts-bootcamp
 
 
