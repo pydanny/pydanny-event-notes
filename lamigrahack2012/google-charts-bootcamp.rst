@@ -2,6 +2,8 @@
 Google Fusion Tables Bootcamp
 =============================
 
+http://research.google.com/tables
+
 Examples
 =========
 
@@ -9,3 +11,8 @@ Examples
 * Texas Tribune County map
 * SF BAy Area Bike accident map
 * Connection examples
+
+Cool Tools
+===========
+
+* Chrome Extension to find tables
