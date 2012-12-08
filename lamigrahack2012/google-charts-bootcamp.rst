@@ -21,3 +21,11 @@ Cool Tools
 
     * Used to be Google Refine, a closed source product
     * https://github.com/OpenRefine #lamigrahack
+    
+Open Refine
+-------------
+
+* Used to be Google Refine, a closed source product
+* https://github.com/OpenRefine #lamigrahack
+
+**What it does:** Makes turning data into machine readable format much, much easier.
