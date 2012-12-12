@@ -8,6 +8,8 @@ December 12, 2012
 OpenCNAM
 ==========
 
+.. note:: code samples should have greater contrast
+
 by Randall Degges
 
     * https://twitter.com/rdegges
@@ -84,6 +86,9 @@ Tools
     * Via Heroku can scale up as needed
     * Use read-slaves to increase for performance
     
+* Stripe
+* BitPay for BitCoin
+    
 Method - SOA
 --------------
 
@@ -92,3 +97,33 @@ Method - SOA
     * API service (handles telephony)
     * Accounts App (user authentication)
     * Website app (public facing site)
+    
+* Benefits
+
+    * Developers can focus on individual components
+    * If one part breaks, the other parts will still function
+    
+Flask Libraries they used
+------------------------------------
+
+* dynamodb-mapper
+
+    * Replicates ORM functionality
+    * Pretty fast
+    
+* flask-login
+
+    * Handles authentication
+    * flask-login decorator
+
+Marketing
+----------
+
+* You don't need marketers
+* Use this formula
+
+    * Google your industry
+    * Find your customers
+    * Put names, urls, and emails into a google docs
+    * Email 3 customers per day, asking for feedback
+    * Listen to feedback
