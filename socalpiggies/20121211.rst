@@ -147,8 +147,7 @@ Background
 
 * First distance learning system was proposed in 1892!
 * In the 1970s correspondence education picked up with television lectures
-
-
+* Now we have a ton of on-line courses
 
 The Future is in the Headlights
 ----------------------------------
@@ -163,6 +162,8 @@ The Future is in the Headlights
 What we have today
 --------------------------
 
-* MOOCS: Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
+* MOOCs: Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
 * DIY courses: (hackerspaces, Maker Fair)
 * Peer-to-peer Learning Exchanges (Meetups, PyCons, et al)
+
+MOOCs are the new kid on the block. MIT Courseware and other things have been around for a while, but haven't taken off until recently.
