@@ -176,8 +176,26 @@ The MOOC Controvery
 Issues that people raise against MOOC:
 
 * Is that a real education that you're getting?!?!
+
+    * read Clay Shirky's essay on the subject.
+
 * The encroachment of entrepreneurs
+
+    * Is it wise to drive education through business?
+    * What skills will entrepreneurs want people to learn?
+
 * Potentially inapplicable for most forms of education
+
+    * Can you get your medical degree this way?
+
 * Impossible to stop cheating/other forms of academic dishonesty
 
-.. note:: read Clay Shirky's essay on the subject.
+    * How do you **really** test the student?
+    * How can the education system get validated if online?
+
+What does this have to do with Python?
+------------------------------------------
+
+* Everyone offers a Python programming course.
+* Python pops up even in non-programming courses
+* Python as "the new Basic"
