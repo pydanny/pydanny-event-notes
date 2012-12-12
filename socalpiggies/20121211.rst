@@ -197,5 +197,8 @@ What does this have to do with Python?
 ------------------------------------------
 
 * Everyone offers a Python programming course.
-* Python pops up even in non-programming courses
-* Python as "the new Basic"
+* Python pops up even in non-programming courses such as statistics
+* Python is "the new Basic"
+
+We are already teachers
+-------------------------
