@@ -167,3 +167,5 @@ What we have today
 * Peer-to-peer Learning Exchanges (Meetups, PyCons, et al)
 
 MOOCs are the new kid on the block. MIT Courseware and other things have been around for a while, but haven't taken off until recently.
+
+**Why this is important**: 1 trillion dollars in US student debt means that many students feel can't educate themselves via college.
