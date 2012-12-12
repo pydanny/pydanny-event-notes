@@ -2,7 +2,7 @@
 December 12, 2012
 ==================
 
-* Hosted at http://qconnect.com
+* Hosted at QConnect (Get confirmed URL soon)
 
 
 OpenCNAM
@@ -135,3 +135,10 @@ A better protocol for Called ID
 * CNAM Storage product
 * Make it faster
 * Make it cheaper
+
+
+The Role and Representation of Python in the Online Educational Boom
+========================================================================
+
+By Justin Hampton
+
