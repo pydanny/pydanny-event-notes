@@ -142,10 +142,16 @@ The Role and Representation of Python in the Online Educational Boom
 
 By Justin Hampton
 
+Background
+------------
+
+* First distance learning system was proposed in 1892!
+* In the 1970s correspondence education picked up with television lectures
+
+
 
 The Future is in the headlights
 ----------------------------------
 
-* First distance learning system was proposed in 1892!
-* In the 1970s correspondence education picked up with television lectures
 * Modular vs Linear
+* Personalized vs Generic
