@@ -164,5 +164,5 @@ What we have today
 --------------------------
 
 * MOOCS: Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
-
 * DIY courses: (hackerspaces, Maker Fair)
+* Peer-to-peer Learning Exchanges (Meetups, PyCons, et al)
