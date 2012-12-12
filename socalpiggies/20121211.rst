@@ -150,8 +150,10 @@ Background
 
 
 
-The Future is in the headlights
+The Future is in the Headlights
 ----------------------------------
 
-* Modular vs Linear
-* Personalized vs Generic
+* Modular vs. Linear
+* Personalized vs. Generic
+* Distributed vs. Localized
+* Accessible vs. Elite
