@@ -160,7 +160,9 @@ The Future is in the Headlights
 
 ... but we're not there yet.
 
-MOOCS: What we have today
+What we have today
 --------------------------
 
-Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
+* MOOCS: Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
+
+* DIY courses: (hackerspaces, Maker Fair)
