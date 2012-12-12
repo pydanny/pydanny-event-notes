@@ -200,5 +200,18 @@ What does this have to do with Python?
 * Python pops up even in non-programming courses such as statistics
 * Python is "the new Basic"
 
-We are already teachers
--------------------------
+Taking Advantage
+------------------
+
+* Getting with the programs: Working with EDX, Coursera, et al on local tutoring programs (can be part of paid portions)
+* Making room for the influx
+* Reinforcing via tutorials and small instructional efforts like PyCon tutorials
+* Devising our own platforms: the black best system
+
+    * College degrees take this place in traditional educational systems
+    * What can we do to enforce standards across MOOCs
+
+Continuing Education
+----------------------
+
+* Not much use for advanced Python developers - perhaps just reinforcement
