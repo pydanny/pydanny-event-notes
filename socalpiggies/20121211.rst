@@ -127,3 +127,8 @@ Marketing
     * Put names, urls, and emails into a google docs
     * Email 3 customers per day, asking for feedback
     * Listen to feedback
+
+Selling: xCNAM
+----------------
+
+* 100 character Unicode string
