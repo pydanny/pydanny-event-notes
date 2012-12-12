@@ -179,3 +179,5 @@ Issues that people raise against MOOC:
 * The encroachment of entrepreneurs
 * Potentially inapplicable for most forms of education
 * Impossible to stop cheating/other forms of academic dishonesty
+
+.. note:: read Clay Shirky's essay on the subject.
