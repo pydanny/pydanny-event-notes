@@ -8,8 +8,6 @@ December 12, 2012
 OpenCNAM
 ==========
 
-.. note:: code samples should have greater contrast
-
 by Randall Degges
 
     * https://twitter.com/rdegges
