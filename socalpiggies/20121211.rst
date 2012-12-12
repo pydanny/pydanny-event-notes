@@ -162,10 +162,20 @@ The Future is in the Headlights
 What we have today
 --------------------------
 
-* MOOCs: Massive Open Online Courses (e.g. Coursera, Udemy, Udacity, EDX, etc)
+* MOOCs: **Massive Open Online Courses** (e.g. Coursera, Udemy, Udacity, EDX, etc)
 * DIY courses: (hackerspaces, Maker Fair)
 * Peer-to-peer Learning Exchanges (Meetups, PyCons, et al)
 
 MOOCs are the new kid on the block. MIT Courseware and other things have been around for a while, but haven't taken off until recently.
 
 **Why this is important**: 1 trillion dollars in US student debt means that many students feel can't educate themselves via college.
+
+The MOOC Controvery
+------------------------
+
+Issues that people raise against MOOC:
+
+* Is that a real education that you're getting?!?!
+* The encroachment of entrepreneurs
+* Potentially inapplicable for most forms of education
+* Impossible to stop cheating/other forms of academic dishonesty
