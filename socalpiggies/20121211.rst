@@ -1,0 +1,94 @@
+==================
+December 12, 2012
+==================
+
+* Hosted at http://qconnect.com
+
+
+OpenCNAM
+==========
+
+by Randall Degges
+
+    * https://twitter.com/rdegges
+    * http://rdegges.com
+    * http://opencnam.com
+    
+Problems he wants to solve in Caller ID
+------------------------------------------
+
+* Ancient tech dominates (1905 era)
+* 15 character strings for caller ID isn't enough
+* Caller ID doesn't really work on Mobile - it involves serious hacks
+* Users pay around 1 cent per query
+* resolving it is **hard**
+
+    * Pricey: Telco negotiating means talking to Executives and very expensive
+    * Resources: Tiny community of developers who know CNAM telephony
+    * Complex: Based off really weird switches that cache CNAM data without updating
+    
+* Summary
+
+    * Hacks for mobile
+    * Data quality issues
+    * Pricey
+
+.. parsed-literal::
+
+    "It's just a string"
+    
+    -- Every developer, ever
+    
+How they resolved it
+-----------------------
+
+* Figure out how to replace it
+* Provide longer Unicode string
+* Make it cheap: .04 cents per query (really cheap)
+* Encrypt everything
+* Provide an API::
+
+    $ curl -H "Accept: application/json" # TODO add rest
+
+
+Tools
+-------
+
+* Flask
+
+    * Fast
+    * Under 1000 lines of code so they know it's stable
+    * Lots of good libraries for it
+    
+* AWS
+
+    * Dynamic scaling
+    * DynamoDB
+
+        * Similar to MongoDB, at least as fast and much more stable
+        * Really, really fast
+        
+            * **In their case** it's 2500% (25x) faster than PostgreSQL if you are in the Amazon Datacenter
+            * DynamoDB is so fast in their case it's faster than using MemcachedD
+  
+        * Reliable (data replicated across data centers)
+        * 
+
+* Heroku
+
+    * Simple to get started
+    * Reliable (99.99%)
+    
+* PostgreSQL
+
+    * Via Heroku can scale up as needed
+    * Use read-slaves to increase for performance
+    
+Method - SOA
+--------------
+
+* They broke up the project into a bunch of components
+
+    * API service (handles telephony)
+    * Accounts App (user authentication)
+    * Website app (public facing site)
