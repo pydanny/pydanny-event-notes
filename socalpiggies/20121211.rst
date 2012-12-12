@@ -131,4 +131,9 @@ Marketing
 Selling: xCNAM
 ----------------
 
+A better protocol for Called ID
+
 * 100 character Unicode string
+* CNAM Storage product
+* Make it faster
+* Make it cheaper
