@@ -228,3 +228,8 @@ Issues
     * Sociology
 
 * Entrepreneurs are often shockingly uneducated and inexperienced, relying on sales rather than any other skill. Do we want them determine the future of education?
+
+* Really interesting discussion about online education at SoCal Python.
+
+    * Are MOOCs really the answer?
+    * Do we want business driving education? 
