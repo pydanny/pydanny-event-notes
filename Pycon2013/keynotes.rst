@@ -25,6 +25,18 @@ Specifics
 * Win32
 * books (shameless plug: I wrote a book called Two Scoops of Django. Check it out at http://django.2scoops.org)
 
+High level qualities of Python
+------------------------------------
+
+* Ease of learning
+* Rapid development cycle
+* Economy of expression
+* Readability and Beauty
+* One way to do it
+* Interactive prompt
+* Batteries includes
+* Protocols: WSGI, dbapi, etc
+
 
 Guido Van Rossum
 ===================
