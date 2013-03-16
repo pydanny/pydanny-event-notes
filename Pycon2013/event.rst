@@ -17,3 +17,10 @@ Things that are hard in Javascript
 * Comparing Arrays
 * Adding numbers
 * Defining types
+* Loading Modules
+
+Things that are easy in Javascript
+====================================
+
+* Calling functions
+* Handling events
