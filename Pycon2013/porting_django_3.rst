@@ -7,3 +7,11 @@ Django 1.5 now supports Python 3, so now's the time to start thinking about port
 by Jacob Kaplan-Moss
 
     * Django co-creator and BDFL
+    * https://github.com/jacobian / https://twitter.com/jacobian
+
+
+Do I want to use Python 3?
+=============================
+
+* Yes!
+* 
