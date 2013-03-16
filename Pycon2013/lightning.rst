@@ -71,4 +71,13 @@ Coding Across America is a five month journey around the United States to learn 
 * http://codingacrossamerica.com
 
 
+Gitstreams (Justin Lily)
+===========================
 
+* Doesn't like the Github activity stream
+
+    * Too much activity
+    * Filtering isn't good enough
+    
+* gitstreams is an email digest of GitHub activity
+* You choose the email frequency
