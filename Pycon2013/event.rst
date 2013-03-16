@@ -9,7 +9,6 @@ by Glyph
     * Founder of Twisted
     * has been doing event-driven architecture since he was 8 years old
     
-.. warning:: Slides are going to be dense and full of content.
 
 Things that are hard in Javascript
 ====================================
