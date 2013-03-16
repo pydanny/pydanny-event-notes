@@ -58,3 +58,14 @@ How and why a Java Expert switched to Python (Ron Cox)
     Mailgun
     AWS
     
+* Steve Holdren's comment: http://www.artima.com/weblogs/viewpost.jsp?thread=42242
+
+Coding Across America (Matt Makai)
+======================================
+
+* 30 cities in 5 months
+* Talk with developers from all cities
+* Especially Python developers
+
+Why?!?
+
