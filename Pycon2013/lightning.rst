@@ -50,5 +50,13 @@ How and why a Java Expert switched to Python (Ron Cox)
     * Java language wasn't productive enough.
     * Java platform was very resource intensive
     
-* Tried Python for 2 weeks
+* New stack:
+
+.. code-block:: python
+
+    Python 3.2
+    CherryPy
+    MongoDB
+    Mailgun
+    AWS
     
