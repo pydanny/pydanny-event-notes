@@ -122,3 +122,4 @@ PyWeek Challenge (Richard Jones)
 ===================================
 
 * Spend a week writing a video game using Python
+* Learn more, create libraries, maybe even release something on Steam!
