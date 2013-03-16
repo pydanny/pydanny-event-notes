@@ -92,6 +92,19 @@ Decorators
 * Works for functions, methods, and classes
 * Adds powerful layer of composable tools
 
+Abstract Base Classes
+-------------------------
+
+Uniform definition of what it means to be a sequence, mapping, etc
+
+Ability to override is `isinstance()` and `issubclass()`
+
+* The new duck-typing "If it says it's a duck..."
+
+Mix-in capability
+
+
+
 
 Guido Van Rossum
 ===================
