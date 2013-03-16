@@ -75,6 +75,14 @@ Generators
 * Easiest way to write an iterator
 * Simple syntax, only adds the YIELD keyword
 
+Generator Expressions
+----------------------
+
+* Same syntax as list comprehensions but with parenthesis instead of brackets
+* Acts as a generator
+* reduces memory footprints exponentially.
+
+
 Guido Van Rossum
 ===================
 
