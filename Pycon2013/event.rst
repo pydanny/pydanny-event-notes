@@ -24,3 +24,9 @@ Things that are easy in Javascript
 
 * Calling functions
 * Handling events
+
+A Tale of Two Events
+======================
+
+* asynchronous I/O
+* Clicky buttons
