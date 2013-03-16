@@ -7,9 +7,34 @@ Lightning Talks
 Retask: Queue for humans (Kushal Das)
 =======================================
 
-Goals:
--------
-
 * Simplest setup
 * Ease of use
 * redis backend
+* https://pypi.python.org/pypi/retask
+* retask.rtfd.org
+
+.. code-block:: python
+
+    # producer.py
+    from retask.task import Task
+    from retask.queue import Queue
+    queue = Queue('example')
+    info1 = {'user':'kushal', 'url':'http://kushaldas.in'}
+    info2 = {'user':'fedora planet', 'url':'http://planet.fedoraproject.org'}
+    task1 = Task(info1)
+    task2 = Task(info2)
+    queue.connect()
+    queue.enqueue(task1)
+    queue.enqueue(task2)
+
+.. code-block:: python
+
+    # consumer
+    from retask.task import Task
+    from retask.queue import Queue
+    queue = Queue('example')
+    queue.connect()
+    while queue.length != 0:
+        task = queue.dequeue()
+        if task:
+            print task.data
