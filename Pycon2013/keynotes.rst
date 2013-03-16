@@ -39,6 +39,22 @@ High level qualities of Python
 * Batteries includes
 * Protocols: WSGI, dbapi, etc
 
+.. code-block:: python
+
+    import hashlib
+    import os
+    import pprint
+    hashmap = {}
+    for path, dirs, files in os.walk('.'):
+        for filename in files:
+            fullname = os.path.join(path, filename)
+            with open(fullname) as f:
+                d = f.read()
+            h = hashlib.md5(d).hexdigest()
+            filelist = hashmap.setdefault(h, [])
+            filelist.append(fullname)
+    pprint.pprint(hashmap)
+
 
 Guido Van Rossum
 ===================
