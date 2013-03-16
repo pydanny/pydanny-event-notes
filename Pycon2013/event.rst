@@ -53,3 +53,25 @@ PyJS (Most complete Python in browser)
 * http://pyjs.org
 * Javascript compiler for Python
 * Widget toolkit
+
+.. code-block:: python
+
+    # TODO Add imports
+
+    def hello_world(button):
+        alert(button.getHTML())
+    b = Button("Hello, world")
+    b.addClickListener(hello_world)
+
+    # TODO Finish
+    
+.. code-block:: python
+
+    # TODO Add imports
+
+    def alert(txt):
+        lbl = Text()
+        btn = Button("OK")
+        
+        vert = V.VerticalPanel()
+        # TODO Finish
