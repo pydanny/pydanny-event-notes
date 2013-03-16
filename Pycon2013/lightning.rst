@@ -118,3 +118,7 @@ PyCon Germania
 * German speaking PyCon
 * http://de.pycon.org
 
+PyWeek Challenge (Richard Jones)
+===================================
+
+* Spend a week writing a video game using Python
