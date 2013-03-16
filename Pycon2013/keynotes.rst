@@ -23,7 +23,9 @@ Specifics
 * Repository of Modules (PyPI)
 * Killer apps (Django, Pandas, etc)
 * Win32
-* books (shameless plug: I wrote a book called Two Scoops of Django. Check it out at http://django.2scoops.org)
+* books 
+
+    * *Shameless plug*: I wrote a book called Two Scoops of Django. Check it out at http://django.2scoops.org
 
 High level qualities of Python
 ------------------------------------
