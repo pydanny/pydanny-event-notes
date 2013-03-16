@@ -36,8 +36,8 @@ When X -> Do Y
 * Event driven architecture is incredibly simple. When X, then do Y.
 * When I click -> Do Say "hi"
 
-HTML Example
-===================
+HTML Event-Driven Example
+=============================
 
 .. code-block:: html
 
@@ -46,3 +46,10 @@ HTML Example
         Hello, world!
     </button>
     
+
+PyJS (Most complete Python in browser)
+==========================================
+
+* http://pyjs.org
+* Javascript compiler for Python
+* Widget toolkit
