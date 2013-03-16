@@ -55,6 +55,12 @@ High level qualities of Python
             filelist.append(fullname)
     pprint.pprint(hashmap)
 
+Indentation
+----------------------
+
+* This is how we write pseudo-code in or out of Python
+* Contributes to the uncluttered feel of the language
+
 
 Guido Van Rossum
 ===================
