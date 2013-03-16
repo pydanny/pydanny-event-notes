@@ -133,5 +133,27 @@ Python Epiphanies (Stuart Williams)
 
 
 
-Chris Neugebaur
-===================
+Job Security (Chris Neugebaur)
+===================================
+
+* PyCon Australia 2013
+* People code in Python because it's readible
+
+    * "Readability counts"
+    * PEP-8
+    
+* Readability sucks
+
+    1. People can comprehend your code
+    2. You can maintain your code
+    3. Your code is applicable in more places
+    
+* THIS IS ALL BAD! (if you want more billable hours)
+* How do you write unmaintainable code?
+
+    * Variable naming systems
+    * Metaclasses
+    * Monkey-patching (roll your own stdlib)
+    
+    
+    
