@@ -29,11 +29,13 @@ A solid maybe. Missing pieces as of 3/16/2013:
 
 * No Python Image Library (PIL / Pillow)
 * No MySQL python 3 bindings aren't that good.
-* No gunicorn as async (sync does work)
-* No django-debug-toolbar
-* No django-registration
-* No django-extensions
-* No Haystack
-* No django-tagging
-* No Sentry
-* No django-compressor
+* Popular items on https://www.djangopackages.com:
+
+    * No gunicorn as async (sync does work)
+    * No django-debug-toolbar
+    * No django-registration
+    * No django-extensions
+    * No Haystack
+    * No django-tagging
+    * No Sentry
+    * No django-compressor
