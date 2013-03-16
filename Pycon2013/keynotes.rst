@@ -84,6 +84,14 @@ Generator Expressions
 
 .. note:: Giant embarrassing oops by pydanny: At PyCon Philippines 2012 I demonstrated a Gajillionitem element generator expression in my shell, but used brackets instead of parenthesis.
 
+Decorators
+------------
+
+* Expressive
+* Easy on the eyes
+* Works for functions, methods, and classes
+* Adds powerful layer of composable tools
+
 
 Guido Van Rossum
 ===================
