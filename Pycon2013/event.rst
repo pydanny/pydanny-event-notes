@@ -35,3 +35,14 @@ When X -> Do Y
 
 * Event driven architecture is incredibly simple. When X, then do Y.
 * When I click -> Do Say "hi"
+
+HTML Example
+===================
+
+.. code-block:: html
+
+    <!DOCTYPE html>
+    <button onclick="alert(this.innerHTML);"
+        Hello, world!
+    </button>
+    
