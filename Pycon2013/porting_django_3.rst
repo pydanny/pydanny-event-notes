@@ -21,3 +21,10 @@ Python 3 has fewer warts
 * `print()` is a function!
 * `super()` syntax is better!
 * unicode no longer sucks!
+
+Can I use Python 3?
+=====================
+
+A solid maybe. Missing pieces as of 3/16/2013:
+
+* Python Image Library (PIL / Pillow)
