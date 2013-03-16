@@ -73,7 +73,7 @@ List comprehensions
 ---------------
 
 * Easiest way to write an iterator
-
+* Simple syntax, only adds the YIELD keyword
 
 Guido Van Rossum
 ===================
