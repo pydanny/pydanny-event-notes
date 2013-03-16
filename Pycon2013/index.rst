@@ -10,3 +10,4 @@ Pycon 2013
    
    lightning
    keynotes
+   event
