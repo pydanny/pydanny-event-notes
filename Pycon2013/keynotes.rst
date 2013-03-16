@@ -41,10 +41,10 @@ High level qualities of Python
 
 .. code-block:: python
 
-    import hashlib
-    import os
-    import pprint
-    hashmap = {}
+    # search directory tree for all diplicate files
+    import hashlib, os, pprint
+
+    hashmap = {} # content signature -> list of filenames
     for path, dirs, files in os.walk('.'):
         for filename in files:
             fullname = os.path.join(path, filename)
