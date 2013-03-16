@@ -8,7 +8,7 @@ by Glyph
 
     * Founder of Twisted
     * has been doing event-driven architecture since he was 8 years old
-    
+    * Not stupid enough to attempt live-coding while on stage.
 
 Things that are hard in Javascript
 ====================================
