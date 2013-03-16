@@ -38,3 +38,8 @@ Retask: Queue for humans (Kushal Das)
         task = queue.dequeue()
         if task:
             print task.data
+            
+How and why a Java Expert switched to Python (Ron Cox)
+========================================================
+
+* Got into Java v1
