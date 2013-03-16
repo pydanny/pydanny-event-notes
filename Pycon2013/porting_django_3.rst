@@ -14,4 +14,8 @@ Do I want to use Python 3?
 =============================
 
 * Yes!
-* 
+* Python 3 has fewer warts
+
+    * urllib / urllib2 replaced with urlparse
+    * std library cleanup
+    
