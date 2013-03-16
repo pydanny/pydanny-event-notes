@@ -15,7 +15,7 @@ Do I want to use Python 3?
 
 Python 3 has fewer warts
 
-* urllib / urllib2 replaced with urlparse
+* `urllib` / `urllib2` replaced with `urlparse`
 * std library cleanup
 * funky syntax is killed
 * `print()` is a function!
