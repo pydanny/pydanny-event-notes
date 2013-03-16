@@ -29,3 +29,9 @@ A Tale of Two Events
 
 * asynchronous I/O
 * Clicky buttons
+
+When X -> Do Y
+================
+
+* Event driven architecture is incredibly simple. When X, then do Y.
+* When I click -> Do Say "hi"
