@@ -29,3 +29,4 @@ A solid maybe. Missing pieces as of 3/16/2013:
 
 * No Python Image Library (PIL / Pillow)
 * No MySQL python 3 bindings aren't that good.
+* No gunicorn as async 
