@@ -98,3 +98,9 @@ Documentation
 ================
 
 * django.me/py3
+
+Moving Forward
+================
+
+* Django used to be the holdup for moving Python 3 usage forward
+* Q&A is at room 201 upstairs
