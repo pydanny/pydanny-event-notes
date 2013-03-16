@@ -61,6 +61,19 @@ Indentation
 * This is how we write pseudo-code in or out of Python
 * Contributes to the uncluttered feel of the language
 
+List comprehensions
+-------------------------
+
+* arguably the most loved feature of the language
+* How much stuff should we put on one line?
+    
+    * Each list comprehension should represent a single English sentence
+
+* Generators
+---------------
+
+* Easiest way to write an iterator
+
 
 Guido Van Rossum
 ===================
