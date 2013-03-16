@@ -4,6 +4,8 @@ Lightning Talks
 
 .. note:: Live-noting lighting talks is very challenging. I'll do what I can but the level of detail provided in lightning talk notes will in general not be the same as my notes on normal talks.
 
+.. warning:: If you are presenting, never, ever, ever, ever rely on the internet.
+
 Retask: Queue for humans (Kushal Das)
 =======================================
 
@@ -98,3 +100,8 @@ Home media server!
     * More
     
 * Setup is easy, just sudo apt-get 7 packages
+
+ (Mike Mueller)
+===========================
+
+
