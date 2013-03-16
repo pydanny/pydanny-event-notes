@@ -101,7 +101,20 @@ Home media server!
     
 * Setup is easy, just sudo apt-get 7 packages
 
- (Mike Mueller)
-===========================
+European Conferences (Mike Mueller)
+======================================
 
+Euro SciPy
+----------------
+
+* August 21-24 in Brussels, Belgium
+* 2 days of tutorials, 2 days of conference
+* http://euroscipy.org
+
+PyCon Germania
+----------------
+
+* Octover 14-19
+* German speaking PyCon
+* http://de.pycon.org
 
