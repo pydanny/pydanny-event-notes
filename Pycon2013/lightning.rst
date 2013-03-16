@@ -82,3 +82,19 @@ Gitstreams (Justin Lily)
 * gitstreams is an email digest of GitHub activity
 * You choose the email frequency
 
+NasberryPi (Mark Ransom)
+============================
+
+Home media server!
+
+* Just started with RaspberryPi
+* Got this working on a Pogo plug, should work fine with RaspberryPi
+* What he has setup:
+
+    * Fileserver
+    * Media server
+    * Web server (nginx, django) (For a personal home site, why does he use Nginx?)
+    * Torrent server
+    * More
+    
+* Setup is easy, just sudo apt-get 7 packages
