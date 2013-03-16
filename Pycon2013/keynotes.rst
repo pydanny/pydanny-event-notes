@@ -107,7 +107,10 @@ Ability to override is `isinstance()` and `issubclass()`
 
 Mix-in capability
 
+Superstars
+-----------
 
+Unbelievably good people coming into things
 
 
 Guido Van Rossum
