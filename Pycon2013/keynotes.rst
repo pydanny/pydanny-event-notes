@@ -13,6 +13,10 @@ What's makes Python awesome? (Raymond Hettiger)
     * collections, itertools,etc
     * etc
     
+* I've seen previous versions of this talk. My notes at those times:
+
+    * http://pydanny-event-notes.readthedocs.org/en/latest/PyCodeConf2011/python_is_awesome.html
+    
 Specifics
 ------------------
 
