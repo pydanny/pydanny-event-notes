@@ -152,4 +152,3 @@ Job Security (Chris Neugebaur)
     * Variable naming systems
     * Metaclasses
     * Monkey-patching (roll your own stdlib)
-
