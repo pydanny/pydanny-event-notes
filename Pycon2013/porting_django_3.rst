@@ -39,3 +39,5 @@ A solid maybe. Missing pieces as of 3/16/2013:
     * No django-tagging
     * No Sentry
     * No django-compressor
+
+* Much easier for new projects over existing sites
