@@ -63,9 +63,12 @@ How and why a Java Expert switched to Python (Ron Cox)
 Coding Across America (Matt Makai)
 ======================================
 
+Coding Across America is a five month journey around the United States to learn and write about technology in thirty cities.
+
 * 30 cities in 5 months
 * Talk with developers from all cities
 * Especially Python developers
+* http://codingacrossamerica.com
 
-Why?!?
+
 
