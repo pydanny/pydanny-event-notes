@@ -27,4 +27,5 @@ Can I use Python 3?
 
 A solid maybe. Missing pieces as of 3/16/2013:
 
-* Python Image Library (PIL / Pillow)
+* No Python Image Library (PIL / Pillow)
+* No MySQL python 3 bindings aren't that good.
