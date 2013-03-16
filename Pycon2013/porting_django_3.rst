@@ -94,3 +94,7 @@ How to port to Python 3
 See Jeff Triplett's port of django-sitetree
 
     
+Documentation
+================
+
+* django.me/py3
