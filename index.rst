@@ -16,6 +16,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   Pycon2013/index
    lamigrahack2012/index
    leanstartup2012/index
    PyConPL2012/index
@@ -63,6 +64,7 @@ Meetups
    PyLadies/index
    LADjango/index
    LAHackNight/index
+   chapter_04_starting_a_project.rst
    
 Articles
 ========
