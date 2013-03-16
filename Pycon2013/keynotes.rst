@@ -69,7 +69,7 @@ List comprehensions
     
     * Each list comprehension should represent a single English sentence
 
-* Generators
+Generators
 ---------------
 
 * Easiest way to write an iterator
