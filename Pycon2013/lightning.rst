@@ -45,3 +45,8 @@ How and why a Java Expert switched to Python (Ron Cox)
 * Got into Java v1 ages ago
 * Worked with servlets to deliver web sites
 * About 2.5 years ago was working on mobile tech including Android and iOS work.
+* Was tired of Java:
+
+    * Java language wasn't productive enough.
+    * Java platform was very resource intensive
+    
