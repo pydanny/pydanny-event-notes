@@ -123,3 +123,15 @@ PyWeek Challenge (Richard Jones)
 
 * Spend a week writing a video game using Python
 * Learn more, create libraries, maybe even release something on Steam!
+
+Python Epiphanies (Stuart Williams)
+==========================================
+
+* How do you pretend to type during talks so you don't make mistakes?
+* Fake it until you make it!
+* Use the code module from the Python stdlib
+
+
+
+Chris Neugebaur
+===================
