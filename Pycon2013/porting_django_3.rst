@@ -13,9 +13,11 @@ by Jacob Kaplan-Moss
 Do I want to use Python 3?
 =============================
 
-* Yes!
-* Python 3 has fewer warts
+Python 3 has fewer warts
 
-    * urllib / urllib2 replaced with urlparse
-    * std library cleanup
-    
+* urllib / urllib2 replaced with urlparse
+* std library cleanup
+* funky syntax is killed
+* `print()` is a function!
+* `super()` syntax is better!
+* unicode no longer sucks!
