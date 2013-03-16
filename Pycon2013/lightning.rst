@@ -42,4 +42,6 @@ Retask: Queue for humans (Kushal Das)
 How and why a Java Expert switched to Python (Ron Cox)
 ========================================================
 
-* Got into Java v1
+* Got into Java v1 ages ago
+* Worked with servlets to deliver web sites
+* About 2.5 years ago was working on mobile tech including Android and iOS work.
