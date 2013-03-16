@@ -16,3 +16,4 @@ Things that are hard in Javascript
 
 * Comparing Arrays
 * Adding numbers
+* Defining types
