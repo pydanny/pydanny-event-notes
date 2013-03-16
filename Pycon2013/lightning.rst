@@ -50,3 +50,5 @@ How and why a Java Expert switched to Python (Ron Cox)
     * Java language wasn't productive enough.
     * Java platform was very resource intensive
     
+* Tried Python for 2 weeks
+    
