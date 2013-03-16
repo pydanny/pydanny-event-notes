@@ -73,8 +73,24 @@ Keep a single codebase that runs on both 2 and 3. Good for apps that need to sup
 How to port to Python 3
 ========================
 
-* Get the test suite running (use django-discover-runner)
+* Choose an approach from the above.
+* Get the test suite running (use django-discover-runner, tox)::
+
+    [tox]
+    envlist - py27-django14, py33-django15
+
+    py27-django14
+
 * Evaluate dependencies
-* Fix unicode handling
+* syntax changes
+
+    * print vs print()
+    * django.utils.six
+    
+* Fix unicode handling::
+
+    django.utils.unicode
 
 See Jeff Triplett's port of django-sitetree
+
+    
