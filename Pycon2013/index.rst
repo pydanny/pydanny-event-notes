@@ -7,7 +7,7 @@ Pycon 2013
 .. toctree::
    :maxdepth: 2
    
-   
+
+   event   
    lightning
    keynotes
-   event
