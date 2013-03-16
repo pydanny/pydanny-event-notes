@@ -82,6 +82,8 @@ Generator Expressions
 * Acts as a generator
 * reduces memory footprints exponentially.
 
+.. note:: Giant embarrassing oops: At PyCon Philippines 2012 I demonstrated a Gajillionitem element generator expression in my shell, but used brackets instead of parenthesis.
+
 
 Guido Van Rossum
 ===================
