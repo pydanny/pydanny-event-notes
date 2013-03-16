@@ -131,8 +131,6 @@ Python Epiphanies (Stuart Williams)
 * Fake it until you make it!
 * Use the code module from the Python stdlib
 
-
-
 Job Security (Chris Neugebaur)
 ===================================
 
@@ -154,6 +152,4 @@ Job Security (Chris Neugebaur)
     * Variable naming systems
     * Metaclasses
     * Monkey-patching (roll your own stdlib)
-    
-    
-    
+
