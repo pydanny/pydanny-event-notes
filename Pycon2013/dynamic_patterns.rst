@@ -71,3 +71,9 @@ Integration
 * Fine
 * Inspect
 * Application owns relationship
+
+API enforcement
+-----------------
+
+* Abstract base Classes
+* Duck Typing
