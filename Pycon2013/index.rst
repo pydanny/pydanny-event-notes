@@ -8,6 +8,7 @@ Pycon 2013
    :maxdepth: 2
    
 
+   dynamic_patterns
    porting_django_3
    event   
    lightning
