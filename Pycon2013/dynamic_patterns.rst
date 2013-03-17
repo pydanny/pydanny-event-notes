@@ -43,10 +43,9 @@ virtualenvwrapper, cliff
 Importing Custom
 ----------------------
 
-Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy
-
+Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy, Blogofile
 
 pkg_resources
 ----------------------
 
-Trac, Nose, SQLAlchemy
+Trac, Nose, SQLAlchemy, Blogofile
