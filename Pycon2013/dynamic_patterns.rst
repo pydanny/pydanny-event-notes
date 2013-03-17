@@ -18,6 +18,15 @@ The applications studied include:
 * OpenStack CLI
 * cliff
 
+Cliff
+=======
+
+cliff is a framework for building command line programs and is where Doug did his research for his talk.
+
+* https://github.com/dreamhost/cliff
+* https://pypi.python.org/pypi/cliff
+* https://cliff.readthedocs.org/en/latest/
+
 How plugins work?
 ===================
 
@@ -77,3 +86,11 @@ API enforcement
 
 * Abstract base Classes
 * Duck Typing
+
+Invocation
+-----------
+
+* Storage - Driver
+* Notifications - Dispatcher
+
+Package: stevedor
