@@ -62,3 +62,12 @@ Enabling
 
 * Explicit disabling
 * Automatic disabling
+
+Summary: Everything is turned on by default.
+
+Integration
+-------------
+
+* Fine
+* Inspect
+* Application owns relationship
