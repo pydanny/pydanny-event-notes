@@ -27,6 +27,8 @@ cliff is a framework for building command line programs and is where Doug did hi
 * https://pypi.python.org/pypi/cliff
 * https://cliff.readthedocs.org/en/latest/
 
+see also https://github.com/dreamhost/stevedore
+
 How plugins work?
 ===================
 
@@ -93,4 +95,3 @@ Invocation
 * Storage - Driver
 * Notifications - Dispatcher
 
-Package: stevedor
