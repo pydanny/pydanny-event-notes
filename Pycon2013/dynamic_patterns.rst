@@ -40,3 +40,13 @@ Enabling Implicit
 virtualenvwrapper, cliff
 
 
+Importing Custom
+----------------------
+
+Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy
+
+
+pkg_resources
+----------------------
+
+Trac, Nose, SQLAlchemy
