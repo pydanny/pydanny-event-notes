@@ -6,3 +6,14 @@ Python makes loading code dynamically easy, allowing you to configure and extend
 
 by Doug Hellmann
 
+The applications studied include:
+
+* Mercurial
+* Sphinx
+* Trac
+* virtualenvwrapper
+* Django
+* nose
+* ceilometer
+* OpenStack CLI
+* cliff
