@@ -24,28 +24,21 @@ How plugins work?
 Discovery
 -------------
 
-File/Explicit: Mercurial
-File/Scan: Diamond/Blogofile
-Import reference / Explicit: Django, Mercurial, Pyramid, Spginx, Nova
-Import reference / Scan: 1 or 2
+* File/Explicit: Mercurial
+* File/Scan: Diamond/Blogofile
+* Import reference / Explicit: Django, Mercurial, Pyramid, Spginx, Nova
+* Import reference / Scan: 1 or 2
 
-Enabling Explicit
+Enabling 
 -------------------
 
-Django, Pyramid, SQLAlchemy, Blogofile, Mercurial, Trac, Sphinx
-
-Enabling Implicit
--------------------
-
-virtualenvwrapper, cliff
+* Explicit: Django, Pyramid, SQLAlchemy, Blogofile, Mercurial, Trac, Sphinx
+* Implicit: virtualenvwrapper, cliff
 
 
-Importing Custom
+Importing
 ----------------------
 
-Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy, Blogofile
+* Custom: Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy, Blogofile
+* pkg_resources: Trac, Nose, SQLAlchemy, Blogofile
 
-pkg_resources
-----------------------
-
-Trac, Nose, SQLAlchemy, Blogofile
