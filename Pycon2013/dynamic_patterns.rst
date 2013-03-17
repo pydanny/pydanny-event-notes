@@ -17,3 +17,26 @@ The applications studied include:
 * ceilometer
 * OpenStack CLI
 * cliff
+
+How plugins work?
+===================
+
+Discovery
+-------------
+
+File/Explicit: Mercurial
+File/Scan: Diamond/Blogofile
+Import reference / Explicit: Django, Mercurial, Pyramid, Spginx, Nova
+Import reference / Scan: 1 or 2
+
+Enabling Explicit
+-------------------
+
+Django, Pyramid, SQLAlchemy, Blogofile, Mercurial, Trac, Sphinx
+
+Enabling Implicit
+-------------------
+
+virtualenvwrapper, cliff
+
+
