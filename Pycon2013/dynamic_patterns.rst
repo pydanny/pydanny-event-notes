@@ -45,4 +45,5 @@ Importing
 API Enforcement
 =================================
 
-Convention is easier but Base Class / Interface is more stable
+* Convention is easier but Base Class / Interface is more stable
+* Doug used Abstract Base Classes for cliff
