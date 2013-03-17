@@ -42,3 +42,7 @@ Importing
 * Custom: Django, Pyramid, Sphinx, Diamond, Nova, Nose, SQLAlchemy, Blogofile
 * pkg_resources: Trac, Nose, SQLAlchemy, Blogofile
 
+API Enforcement
+=================================
+
+Convention is easier but Base Class / Interface is more stable
