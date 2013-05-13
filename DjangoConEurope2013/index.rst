@@ -5,6 +5,19 @@ DjangoCon Europe 2013 (Django Circus)
 * Location: Warsaw, Poland
 * URL: http:djangocircus.com
 
+PyWaW
+-------
+
+PyWaW is short for the Python Warsaw Meetup Group
+
+.. toctree::
+   :maxdepth: 2
+
+   django_beyond
+
+
+Django Circus
+---------------
 
 .. toctree::
    :maxdepth: 2
@@ -19,4 +32,5 @@ DjangoCon Europe 2013 (Django Circus)
    thread_profiling
    migrations
    pony   
+
 
