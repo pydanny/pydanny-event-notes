@@ -1,6 +1,6 @@
-========================
-DjangoCon Europe 2013
-========================
+=====================================
+DjangoCon Europe 2013 (Django Circus)
+=====================================
 
 * Location: Warsaw, Poland
 * URL: http:djangocircus.com
