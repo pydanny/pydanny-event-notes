@@ -14,3 +14,8 @@ Kickstarter
 
 * Wanted ₤2,500 pounds
 * Got ₤17,952 pounds from 502 backers
+
+What's wrong with South
+=========================
+
+* 5 years of learning
