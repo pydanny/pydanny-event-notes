@@ -111,3 +111,16 @@ Benchmarks
 ===========
 
 Circus + gevent is slightly faster than Gunicorn + gevent. 
+
+Upcoming features
+==================
+
+* Clustering
+* stderr/stdout streaming in the web dashboard
+
+Thanks!
+============
+
+* Docs: http://circus.io
+* Code: https://github.com/mozilla-services/circus
+* slides: http://blog.ziade.org/slides/djangocon2012/circus.html
