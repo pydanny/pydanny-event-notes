@@ -124,3 +124,9 @@ Review
 
 * Your ego is **not** on the line.
 * **Humility**: No, really.
+
+Lack of Review
+================
+
+* **Patience**: Core members are people
+* **Pro-active**: Send polite, friendly follow up messages often
