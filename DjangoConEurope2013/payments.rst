@@ -69,5 +69,9 @@ Ourselves
 * Many penetrations happen internally, not from technical assaults from outside.
 * Wrote anonymizing code
 * Wrote an app called Solitude.
+* Inside the DB:
+
+    * removed personally identifying information
+    * encrypted other data
 
 .. _MDN: https://developer.mozilla.org/en/docs‎
