@@ -30,7 +30,13 @@ Django Circus
    javascript_django
    thread_profiling
    migrations
-   pony   
+   pony
+   taming_multiple_databases
+   play_nice
+   fractal_architectures
+   django_orm
+   web_of_stuff
+   bleed_for_speed
 
 PyWaW
 -------
