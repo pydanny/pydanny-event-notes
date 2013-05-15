@@ -47,3 +47,15 @@ Proposal
 
 We hack creativity and make it worthless.
 
+Battle Plan
+=============
+
+Learn an "imaginative programming process"
+
+Four types of People who Don't Really Exist
+================================================
+
+* Technique, No Imagination: Stereotypical Programmer
+* Imagination, No Technique: Stereotypical Biz Dudes
+* 
+* 
