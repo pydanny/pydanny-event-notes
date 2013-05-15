@@ -78,6 +78,17 @@ Ourselves
     
 * Defended by depth
 
+Tips
+==============
+
+* use python-requests
+
+    * SSL certs are not handled well by Python's URLLIB
+    * Requests does it well
+    
+* OWASP
+    
+    * django-paranoia
 
 .. _MDN: https://developer.mozilla.org/en/docs‎
 
