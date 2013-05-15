@@ -61,3 +61,14 @@ Why did Kopernik debate all the physical evidence for the Earth-centric universe
 .. note::
 
     "Kopernik made the most awesome code refactor in history."  -- Brandon Rhodes
+    
+Kopernik's model of the solar system made it clear that the Sun was the center of the solar system instead of yet another object.
+
+TODO - get Brandon's code models for the Ptolomic and Kopernik solar system models.
+
+Copernican Refactor
+--------------------
+
+Brandon's new term for any refactor that brings things to the center.
+
+Example: Gadgets that combine automobile cigarette lighters with a USB connector to put power into mobile devices.
