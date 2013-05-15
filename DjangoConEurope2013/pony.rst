@@ -130,3 +130,11 @@ Lack of Review
 
 * **Patience**: Core members are people
 * **Pro-active**: Send polite, friendly follow up messages often
+
+Review: Part 1 of n
+====================
+
+* **Confidence**: Do not give up or get angry if changes must be mad.
+* Follow up quickly
+* Email tag can be frustrating
+* #djang-dev can help
