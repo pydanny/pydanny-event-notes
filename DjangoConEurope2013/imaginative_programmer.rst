@@ -66,4 +66,4 @@ Zed's Imaginative Programming Process
 =====================================
 
 1. Perceiving the Imaginative Idea
-2. 
+2. Establish the Concept
