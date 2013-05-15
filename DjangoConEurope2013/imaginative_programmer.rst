@@ -59,5 +59,8 @@ Four types of People who Don't Really Exist
 
 * Technique, No Imagination: Stereotypical Programmer
 * Imagination, No Technique: Stereotypical Biz Dudes
-* 
-* 
+
+Zed's Imaginative Programming Process
+=====================================
+
+ding
