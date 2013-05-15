@@ -55,3 +55,18 @@ Django & APIs for JS apps
 * django-piston was too long in the tooth
 * django-tastypie had an uncomfortable amount of boilerplate
 * django-rest-framework was just right.
+
+django-rest-framrwork example:
+
+.. code-block:: python
+
+    # serializer
+    class FriendSerializer(serializers.ModelSerializer):
+    
+        class Meta:
+            model = Friend
+            fields = ('id', 'name', )
+
+TODO - add examples from our book_
+
+.. _book: https://django.2scoops.org
