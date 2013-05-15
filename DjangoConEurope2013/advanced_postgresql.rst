@@ -25,3 +25,10 @@ Custom Types
 * PostgreSQL has a huge range of built-in types
 * Most can be used natively in Django
 * You can find libraries to support them.
+
+Example:
+
+    * citext
+    * case insensitive text
+    * ignores case on comparisons for a field
+    
