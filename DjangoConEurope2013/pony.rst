@@ -119,6 +119,8 @@ Code
     
 * Document and **boldly** defend design decisions (wiki)
 
+.. note:: Video of Jacob Talking while he starts coding ended here.
+
 Review
 ==========
 
@@ -138,3 +140,5 @@ Review: Part 1 of n
 * Follow up quickly
 * Email tag can be frustrating
 * #djang-dev can help
+
+.. note:: Russell reviewed the code here
