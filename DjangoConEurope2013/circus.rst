@@ -28,7 +28,7 @@ Missing features from supervisord
 ==================================
 
 * Realtime stdout/stderr
-* realtme stats
+* realtime stats
 * powerful web console
 * Remote access
 * clustering
@@ -106,3 +106,8 @@ WSGI
 * Chaussette: WSGI server that reuses already opened sockets
 * Launched with the socket...
 * TODO - catch up
+
+Benchmarks
+===========
+
+Circus + gevent is slightly faster than Gunicorn + gevent. 
