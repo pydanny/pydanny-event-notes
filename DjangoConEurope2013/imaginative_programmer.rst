@@ -65,5 +65,7 @@ Four types of People who Don't Really Exist
 Zed's Imaginative Programming Process
 =====================================
 
-1. Perceiving the Imaginative Idea
-2. Establish the Concept
+1. Perceiving the Imaginative Idea.
+2. Establish the Concept.
+3. Research techniques or tools. Programmers often skip this step.
+4. Refine the concept through composition.
