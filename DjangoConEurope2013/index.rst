@@ -5,15 +5,11 @@ DjangoCon Europe 2013 (Django Circus)
 * Location: Warsaw, Poland
 * URL: http:djangocircus.com
 
-PyWaW
--------
+Opening Statements
+--------------------
 
-PyWaW is short for the Python Warsaw Meetup Group
-
-.. toctree::
-   :maxdepth: 2
-
-   django_beyond
+* Kuba thanked the sponsors and community
+* Russell gave a wonderful eulogy of Malcolm Tredinnick, who passed away on March 17th, 2013. 
 
 
 Django Circus
@@ -32,5 +28,15 @@ Django Circus
    thread_profiling
    migrations
    pony   
+
+PyWaW
+-------
+
+PyWaW is short for the Python Warsaw Meetup Group. Which met a couple days before.
+
+.. toctree::
+  :maxdepth: 2
+
+  django_beyond
 
 
