@@ -118,3 +118,9 @@ Code
     * get a peer code review before submitting
     
 * Document and **boldly** defend design decisions (wiki)
+
+Review
+==========
+
+* Your ego is **not** on the line.
+* **Humility**: No, really.
