@@ -90,3 +90,14 @@ Existing Tools
 
     * Open sourced by Drop box
     * Size of bubble shows how expensive the thread is for the system
+    
+Summary
+=========
+
+* No green threads is low overhead
+* CPython & PyPy have high overhead
+
+Grand Finale
+===============
+
+Deterministic profiler + statistical profiler is how they assemble the data. Newrelic merged the profilers so the data is much better.
