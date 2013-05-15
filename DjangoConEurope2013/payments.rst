@@ -86,9 +86,12 @@ Tips
     * SSL certs are not handled well by Python's URLLIB
     * Requests does it well
     
-* OWASP
+* wrote django-paranoia to help track security things
+    * Includes something called paranoid_forms. Logs when people try to add or subtract keys to forms.
+    * includes a special sessions component for Django. Logs when:
     
-    * django-paranoia
+        * user agent changes
+        * IP Address changes
 
 .. _MDN: https://developer.mozilla.org/en/docs‎
 
