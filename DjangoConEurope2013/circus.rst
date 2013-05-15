@@ -82,5 +82,8 @@ TODO - Get a copy of the image from Tarek.
 Recap
 ======
 
-* **circusd**: dawem that watches all processes
-* 
+* **circusd**: daemon that watches all processes
+* **circusctl**: interaction shell
+
+TODO - get this data from Tarek
+
