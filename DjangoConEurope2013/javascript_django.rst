@@ -4,6 +4,9 @@ How to combine JavaScript & Django in a smart way
 
 by Przemek Lewandowski
 
+    * http://sunscrapers.com
+    * Really nice guy, met him earlier this week.
+
 Have you been using JavaScript more and more when building your web applications? Are you implementing REST API frequently? If so, you have probably realised that server-side generated content is no longer enough to provide cutting edge user experience.
 
 I would like to show you how to avoid jQuery callback hell and how to gain more flexibility using MVC on the client side. I will introduce tools for managing modules in JavaScript and will teach you how to become more productive with CoffeeScript. I will share my experience of integrating Django and sophisticated JavaScript stack from two points of view: RESTful API and static files management. Let the trip begin!
@@ -38,3 +41,17 @@ How to use Javascript framework with Coffeescript?
     * modular code
     * builder
     * uglifier
+    
+Tools for building JS apps in Django
+=====================================
+
+* django-compressor
+* django-pipeline
+* django-require
+
+Django & APIs for JS apps
+==========================
+
+* django-piston was too long in the tooth
+* django-tastypie had an uncomfortable amount of boilerplate
+* django-rest-framework was just right.
