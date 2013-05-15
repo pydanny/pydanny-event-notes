@@ -69,3 +69,4 @@ Zed's Imaginative Programming Process
 2. Establish the Concept.
 3. Research techniques or tools. Programmers often skip this step.
 4. Refine the concept through composition.
+5. Explore through prototypes
