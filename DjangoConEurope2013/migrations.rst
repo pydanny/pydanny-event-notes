@@ -83,3 +83,5 @@ Resources
 Code: https://github.com/andrewgodwin/django.tree/schema-alteration
 Blog: http://aerocode.org/category/django-diaries
 email: andrew@aerocode.org
+
+Working to do this for all of us, so give him feedback!
