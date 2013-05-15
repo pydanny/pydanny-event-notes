@@ -26,5 +26,15 @@ Javascript framework considerations
     * Models are poor
 
 * Backbone & Marionette helped but they were still unhappy
-* Angular
-* Ember
+* Angular, very nice
+* Ember, very nice
+
+How to use Javascript framework with Coffeescript?
+======================================================
+
+* Use requireJS with extra plugins
+
+    * Coffeescript painless integration
+    * modular code
+    * builder
+    * uglifier
