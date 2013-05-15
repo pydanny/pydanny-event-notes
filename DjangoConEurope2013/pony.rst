@@ -49,8 +49,8 @@ Forms of Contribute
 =====================
 
 * Bug Fixes are a great place to start
-* Minor additions
-* Major additions
+* Minor Contributions
+* Major Contributions
 
 Bug Fixes
 ===========
@@ -60,3 +60,30 @@ Bug Fixes
 3. Fix the code until tests pass
 4. Test against regressions
 5. Fix is not necessarily free from discussion
+
+Major Contributions
+=====================
+
+Do your homework
+
+    * Search trac
+    * Search django-developers
+    * Become familiar with the code you're proposing.
+    
+Minor Additions
+================
+
+* Follow same steps as major contribitions
+
+Risking against everything we are supposed to do
+==================================================
+
+* Coding live
+* Submitting to Django live
+
+Russ is talking
+================
+
+Ticket `#9595`_ in Django 
+
+.. _`#9595`: https://code.djangoproject.com/ticket/9595
