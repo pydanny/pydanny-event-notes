@@ -59,3 +59,17 @@ example:
     
     * Inaccurate for CPI tasks
     * can't interrupt C-extensions
+    
+Inquire into what's going on
+=============================
+
+.. code-block:: python
+
+    >>> import sys
+    >>> frames = sys._current_frame()
+    >>> print(frames)
+    {1234: <frame>}
+    >>> import traceback
+    >>> traceback.extract_stack(frame)
+    (...stuff here...)
+    
