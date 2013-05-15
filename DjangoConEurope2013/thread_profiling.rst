@@ -82,3 +82,11 @@ Attempt 1: Default dictionary
 * Uniquely identify a function 
 
 .. note:: Trying to figure out how to document what he's doing here. TODO: Get Amjith's images. :P
+
+Existing Tools
+================
+
+* plop - Uses signals and d3.js
+
+    * Open sourced by Drop box
+    * Size of bubble shows how expensive the thread is for the system
