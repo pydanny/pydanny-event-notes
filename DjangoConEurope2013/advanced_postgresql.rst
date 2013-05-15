@@ -100,4 +100,9 @@ The three-join rule:
     * It turns out that PostgreSQL is really good at multiple joins
     * Don't fall back into iterating over querysets to get data. Use SQL!
 
+Tips:
+======
 
+* Put RAW SQL in the model or manager. Put it in the view and you risk losing it
+* Use South
+* Don't be constrained by one database.
