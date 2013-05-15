@@ -22,3 +22,6 @@ What can PostgreSQL do for you
 Custom Types
 -------------
 
+* PostgreSQL has a huge range of built-in types
+* Most can be used natively in Django
+* You can find libraries to support them.
