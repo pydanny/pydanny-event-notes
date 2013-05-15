@@ -47,9 +47,9 @@ Bradley in 1725 proved Kopernik
 * Speed of light
 * Watched the stars move in relation to the Earth's movement
 
-.. epigraph::
+.. note::
 
-    "It took 1,900 years after the Greeks discovered the distance to the moon for us to determine the distance to a star."
+    "It took 1,900 years after the Greeks discovered the distance to the moon for us to determine the distance to a star." -- Brandon Rhodes
     
 Why did Kopernik debate all the physical evidence for the Earth-centric universe?
 ------------------------------------------------------------------------------------------
@@ -58,6 +58,6 @@ Why did Kopernik debate all the physical evidence for the Earth-centric universe
 * Wanted better math
 * Made the code pretty
 
-.. epigraph::
+.. note::
 
-    Kopernik made the most awesome code refactor in history.
+    "Kopernik made the most awesome code refactor in history."  -- Brandon Rhodes
