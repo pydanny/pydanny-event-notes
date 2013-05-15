@@ -36,3 +36,26 @@ New Relic targets
     * View layer
     * template layer
     * SQL calls
+    
+
+Threads for profiling
+==============================
+
+example:
+
+.. code-block:: python
+
+    import threading
+    t = threading.Thread(target-handler)
+    t.setDaemon(True)
+    t.start()
+    time.sleep(0.1)
+    
+**Pros:** 
+
+    * Cross platform
+    * mod_wsgi compliant
+**Cons:** 
+    
+    * Inaccurate for CPI tasks
+    * can't interrupt C-extensions
