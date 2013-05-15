@@ -35,3 +35,9 @@ Common Threads
 * Writers say he's not a writer because he writes tech books.
 * Guitarists say he's not a musician
 * Programmers say he's not a programmer because he doesn't submit pull requests.
+
+Proposal
+=========
+
+We hack creativity and make it worthless.
+
