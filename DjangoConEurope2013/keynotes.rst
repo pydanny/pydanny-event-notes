@@ -72,3 +72,4 @@ Copernican Refactor
 Brandon's new term for any refactor that brings things to the center.
 
 Example: Gadgets that combine automobile cigarette lighters with a USB connector to put power into mobile devices.
+
