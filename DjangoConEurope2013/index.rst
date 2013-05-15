@@ -12,7 +12,7 @@ Opening Statements
 --------------------
 
 * Kuba thanked the sponsors and community
-* Russell gave a wonderful eulogy of Malcolm Tredinnick, who passed away on March 17th, 2013. 
+* Russell Keith-Magee gave a wonderful eulogy of Malcolm Tredinnick, who passed away on March 17th, 2013. 
 
 
 Django Circus
