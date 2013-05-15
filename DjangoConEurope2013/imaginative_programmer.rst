@@ -7,11 +7,13 @@ The Imaginative Programmer
     * Wrote Learn Python the Hard Way.
     
         * E-Version: http://learnpythonthehardway.org
-        * Upcoming Print: http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&qid=1368612258&sr=8-1&tag=cn-001-20
-    
+        * `Upcoming Print Version`_ 
+            
     * Talks super-fast so I can't keep up.
     * True Fact: @zedshaw kicked me in the nuts at @pycon 2009.
-    
+
+.. _`Upcoming Print Version`:     http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&qid=1368612258&sr=8-1&tag=cn-001-20
+
 
 In the world of programming nothing is more irritating than the "artist". Programmers who are all "front-end", business guys who are all "ideas", and designers who can't draw. I say real programmers don't need to be artists. Rather, a programmer needs to have the skills necessary to take their imagination (or other people's) and translate it into working software.
 
