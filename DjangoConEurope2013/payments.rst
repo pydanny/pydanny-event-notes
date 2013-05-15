@@ -6,6 +6,7 @@ Processing payments for the paranoid
 
     * @andymckay
     * Works at Mozilla
+    * Presented barefoot
 
 The Mozilla Marketplace is the app store for Firefox OS and this Django powered site takes payments from users. 
 
