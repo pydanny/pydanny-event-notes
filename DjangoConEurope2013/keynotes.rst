@@ -76,3 +76,8 @@ Example: Gadgets that combine automobile cigarette lighters with a USB connector
 * Clean Architecture (http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * Docopt (https://pypi.python.org/pypi/docopt)
 * Django (compared to Python CGI)
+
+Closing
+--------
+
+If your code is driving you crazy, think like Kopernik and turn the world upside down.
