@@ -36,3 +36,29 @@ New modules
 
     * SQL generation
     * Database abstraction
+    
+Databases supported
+
+* PostgreSQL - yes
+* MySQL - yes
+* SQLite - yes
+* Oracle - hopefully
+* MSSQL - hopefully
+* DB2 - maybe
+* MongoDB - maybe
+
+New migration format
+=====================
+
+.. note:: TODO get this later, the code samples are on a black backgroun.
+
+* Shrink the size of migrationd
+
+Dependency Management
+=======================
+
+If you and another developer both add a new migration with the same name, South sorts in ASCII sort order. Which is a serious problem if you miss a dependency
+
+* South dependencies are driven now by a specification value in the Migration module
+* Auto-Merges migrations when there is no conflicting migrations
+* Can squash all the migrations into one big migration.
