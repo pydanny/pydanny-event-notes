@@ -75,5 +75,13 @@ Ourselves
 
     * removed personally identifying information
     * encrypted other data
+    
+* Defended by depth
+
 
 .. _MDN: https://developer.mozilla.org/en/docs‎
+
+
+.. note::
+
+    Just noticed that @andymckay is presenting barefoot at @djangocon @djangofact #djangocon
