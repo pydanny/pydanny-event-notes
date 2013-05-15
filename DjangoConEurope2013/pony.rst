@@ -116,3 +116,5 @@ Code
     * linters are your friend
     * comments are must
     * get a peer code review before submitting
+    
+* Document and **boldly** defend design decisions (wiki)
