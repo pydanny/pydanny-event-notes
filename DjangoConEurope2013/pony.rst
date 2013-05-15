@@ -88,7 +88,7 @@ Ticket `#9595`_ in Django
 
 .. _`#9595`: https://code.djangoproject.com/ticket/9595
 
-.. note:: Video of Jacob Talking while he starts coding. I think I'm going to sit back and watch this because taking notes I can't do it justice. It's that awesome of an effort.
+.. note:: Video of Jacob Talking while he starts coding began here.
 
 How to make a proposal
 =======================
@@ -108,5 +108,11 @@ Code
 =======
 
 * Make the code work
-* Make the code follow standards
 * Document your work
+* Make the code follow standards
+
+    * Stay within pep8 mostly
+    * respect existing style
+    * linters are your friend
+    * comments are must
+    * get a peer code review before submitting
