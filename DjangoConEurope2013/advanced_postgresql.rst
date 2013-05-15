@@ -51,4 +51,21 @@ Others
 * UUID
 * IPv4 and IPv6
 * Interval - stores time intervals directly in the database
-* See Craig's talk later
+* See Craig Kersteins's talk later
+
+Where do we sign up?
+======================
+
+Getting it work in Django
+
+* Adapt to psycopg2
+
+    * take string representation of the type and convert to and from the python object.
+
+* Write a Field class for Django
+
+    * subclass ``django.forms.Field``
+
+* Create a widget
+
+TODO - ask Christophe for the slides so I can finish this section
