@@ -70,3 +70,30 @@ Zed's Imaginative Programming Process
 3. Research techniques or tools. Programmers often skip this step.
 4. Refine the concept through composition.
 5. Explore through prototypes
+6. Make it real
+
+Examples
+==========
+
+Project Zorn
+--------------
+
+1. Idea: Zed loves mixing colors
+2. Concept: Create site for teaching color similar to euler project.
+3. Research: Find tools to build this
+4. Composition: Make 52 exercises and put it online with interactive parts powered by Django.
+5. Prototype: Using Zurb he prototyped the first page: http://projectzorn.com
+6. Realize: Start writing exercises at Django Circus
+
+Other ideas:
+
+1. Painting in Poland
+2. python-lost
+
+Closing thoughts
+=================
+
+* Email yourself your ideas
+* Don't worry about the fear aspect. Make sure you don't care if people don't like your stuff.
+* Great ideas work best in solitude
+* Great implementations work best in teams
