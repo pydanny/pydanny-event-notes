@@ -89,3 +89,17 @@ Ticket `#9595`_ in Django
 .. _`#9595`: https://code.djangoproject.com/ticket/9595
 
 .. note:: Video of Jacob Talking while he starts coding. I think I'm going to sit back and watch this because taking notes I can't do it justice. It's that awesome of an effort.
+
+How to make a proposal
+=======================
+
+* Don't communicate entitlement
+* Don't focus only on your own needs
+* Be decent
+* State the problem clearly
+* **Confidence**: propose a clear solution
+* Show your homework
+
+    * Previous tickets/attempts
+    * Potential downsides/drawbacks
+    * **Humility**: Unsure of aspect? Ask!
