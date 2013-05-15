@@ -17,3 +17,22 @@ Usage::
 
     python -m CProfile sample.py
 
+For big projects it can be big in response, so use **RunSnakeRun** (wxPython app) which gives you better data.
+
+Google uses profiler and displays the results in their search engine. Which is why it's good to use in production. Unfortunately profiling eats up performance. So what do you do?
+
+Targeted Profiling
+==================
+
+* Profile critical functions
+* Do hybird stuff
+
+New Relic targets
+===================
+
+* Web frameworks
+
+    * Django, flask, etc
+    * View layer
+    * template layer
+    * SQL calls
