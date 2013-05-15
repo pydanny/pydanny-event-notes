@@ -28,7 +28,22 @@ Custom Types
 
 Example:
 
-    * citext
+    * **citext**
     * case insensitive text
     * ignores case on comparisons for a field
     
+Example:
+
+    * **hstore**
+    * built-in dict-like structure
+    * Maps to Python dict
+    * Can be indexed and queried for inclusion
+    * requires custom sql
+    
+Example
+
+    * **json**
+    * All the cool kids use NoSQL databases
+    * Something faster than MongoDB to store your JSON databases
+    * validated going in
+    * Not feature rich, but it's growing
