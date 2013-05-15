@@ -69,3 +69,14 @@ Getting it work in Django
 * Create a widget
 
 TODO - ask Christophe for the slides so I can finish this section
+
+Indexes
+=========
+
+Django models are great but it's index creation syntax is somewhat lacking. Multi-column indexes for example
+
+Partial indexes in Django are good:
+
+.. code-block:: python
+
+    CREATE INDEX active_orders ON cart_order(status) IF status == 1
