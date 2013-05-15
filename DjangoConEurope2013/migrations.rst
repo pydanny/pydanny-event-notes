@@ -20,7 +20,7 @@ What's wrong with South
 
 * 5 years of learning, lessons learned
 * Poor VCS branching, two people commit to same place
-* Huge migration file size
+* Huge migration file size is too big
 * Migration sets get too large
 
 New modules
@@ -50,9 +50,9 @@ Databases supported
 New migration format
 =====================
 
-.. note:: TODO get this later, the code samples are on a black backgroun.
+.. note:: TODO get this later, the code samples are on a black background.
 
-* Shrink the size of migrationd
+* Shrink the size of migration
 
 Dependency Management
 =======================
@@ -61,7 +61,7 @@ If you and another developer both add a new migration with the same name, South 
 
 * South dependencies are driven now by a specification value in the Migration module
 * Auto-Merges migrations when there is no conflicting migrations
-* Can squash all the migrations into one big migration.
+* Can **squash** all the migrations into one big migration!
 
 How is it going?
 ===================
