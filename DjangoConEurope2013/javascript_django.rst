@@ -78,3 +78,8 @@ Static files management
 * django-storages
 * django-cumulus
 * django-require
+
+Closing thoughts
+====================
+
+* Never stop trying new solutions
