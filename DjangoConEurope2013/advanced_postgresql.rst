@@ -99,3 +99,5 @@ The three-join rule:
     * If you are joining more than three tables, use raw SQL
     * It turns out that PostgreSQL is really good at multiple joins
     * Don't fall back into iterating over querysets to get data. Use SQL!
+
+
