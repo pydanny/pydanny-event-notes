@@ -52,9 +52,9 @@ Tools for building JS apps in Django
 Django & APIs for JS apps
 ==========================
 
-* django-piston was too long in the tooth
-* django-tastypie had an uncomfortable amount of boilerplate
-* django-rest-framework was just right.
+* **django-piston** was too long in the tooth
+* **django-tastypie** had an uncomfortable amount of boilerplate
+* **django-rest-framework** was just right.
 
 django-rest-framrwork example:
 
@@ -67,7 +67,7 @@ django-rest-framrwork example:
             model = Friend
             fields = ('id', 'name', )
 
-TODO - add examples from our book_
+TODO - add examples from our book_, cause we also recommend django-rest-framework.
 
 .. _book: https://django.2scoops.org
 
