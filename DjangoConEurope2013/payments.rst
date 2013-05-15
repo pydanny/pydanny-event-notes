@@ -40,6 +40,8 @@ Steps for purchase
 2. Purchase and use an app
 3. Mozilla bills your carrier
 
+All powered by Solitude: https://github.com/mozilla/solitude
+
 Vulnerabilities they had to consider
 ========================================
 
@@ -68,7 +70,6 @@ Ourselves
 
 * Many penetrations happen internally, not from technical assaults from outside.
 * Wrote anonymizing code
-* Wrote an app called Solitude.
 * Inside the DB:
 
     * removed personally identifying information
