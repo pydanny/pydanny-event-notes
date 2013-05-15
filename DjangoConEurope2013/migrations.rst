@@ -62,3 +62,23 @@ If you and another developer both add a new migration with the same name, South 
 * South dependencies are driven now by a specification value in the Migration module
 * Auto-Merges migrations when there is no conflicting migrations
 * Can squash all the migrations into one big migration.
+
+How is it going?
+===================
+
+Working 2-3 days a week on this full-time
+
+Working on it:
+
+* **Schema backends**: Mostly done, ready for merge
+* **Migration code**: Still going, most complex part
+
+Upcoming
+
+* **Field API changes**: This Field needs to be able to inform migrations what's going on
+
+Resources
+==========
+
+Code: https://github.com/andrewgodwin/django.tree/schema-alteration
+Blog: http://aerocode.org/category/django-diaries
