@@ -73,3 +73,6 @@ Brandon's new term for any refactor that brings things to the center.
 
 Example: Gadgets that combine automobile cigarette lighters with a USB connector to put power into mobile devices.
 
+* Clean Architecture (http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* Docopt (https://pypi.python.org/pypi/docopt)
+* Django (compared to Python CGI)
