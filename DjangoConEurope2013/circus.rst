@@ -20,3 +20,15 @@ Supervisord is frequently used for management of these components. Alternatives 
 * upstart (system level - root access needed)
 * daemontools (low-level like upstart)
 * got, monit, runit, etc.
+
+Missing features from supervisord
+==================================
+
+* Realtime stdout/stderr
+* realtme stats
+* powerful web console
+* Remote access
+* clustering
+* event-based plugins
+
+Since those were missing, Tarek launched his own project: Circus!
