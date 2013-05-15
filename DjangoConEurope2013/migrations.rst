@@ -18,4 +18,21 @@ Kickstarter
 What's wrong with South
 =========================
 
-* 5 years of learning
+* 5 years of learning, lessons learned
+* Poor VCS branching, two people commit to same place
+* Huge migration file size
+* Migration sets get too large
+
+New modules
+=============
+
+* ``django.db.migrations``
+
+    * Migration commands
+    * autodetection
+    * The public API, as it were
+
+* ``django.db.backends.schema``
+
+    * SQL generation
+    * Database abstraction
