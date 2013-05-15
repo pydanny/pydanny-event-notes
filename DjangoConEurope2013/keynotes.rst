@@ -47,3 +47,7 @@ Bradley in 1725 proved Kopernik
 * Speed of light
 * Watched the stars move in relation to the Earth's movement
 
+.. epigraph::
+
+    "It took 1,900 years after the Greeks discovered the distance to the moon for us to determine the distance to a star."
+    
