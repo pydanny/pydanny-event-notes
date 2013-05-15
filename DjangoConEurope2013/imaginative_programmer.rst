@@ -27,3 +27,11 @@ Rant about not submitting pull requests: He brings developers into Python and Dj
 .. note::
 
     I ranted yesterday about this but maybe Zed has a point.
+    
+Common Threads
+==============
+
+* Artists says he's not an artist because he works on developing technical skills.
+* Writers say he's not a writer because he writes tech books.
+* Guitarists say he's not a musician
+* Programmers say he's not a programmer because he doesn't submit pull requests.
