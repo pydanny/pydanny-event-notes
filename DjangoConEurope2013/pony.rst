@@ -103,3 +103,10 @@ How to make a proposal
     * Previous tickets/attempts
     * Potential downsides/drawbacks
     * **Humility**: Unsure of aspect? Ask!
+
+Code
+=======
+
+* Make the code work
+* Make the code follow standards
+* Document your work
