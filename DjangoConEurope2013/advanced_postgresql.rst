@@ -105,4 +105,4 @@ Tips:
 
 * Put RAW SQL in the model or manager. Put it in the view and you risk losing it
 * Use South
-* Don't be constrained by one database.
+* Don't be constrained by fear of migrating from one database to another. Choose and use special features
