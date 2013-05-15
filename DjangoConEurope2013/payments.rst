@@ -20,3 +20,10 @@ Everyone should be paranoid:
     * Users
     * banks
     * Everyone
+    
+Mozilla Marketplace
+=====================
+
+* Powered by Django
+* Don't call it an "app store"
+* accepts payments
