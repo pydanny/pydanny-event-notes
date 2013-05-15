@@ -34,7 +34,7 @@ Hard to tell how things worked out
 Kopernik debated Ptolomy
 -------------------------
 
-Read:
+Kopernik read:
 
 * Galileo
 * Kepler's ellipses
