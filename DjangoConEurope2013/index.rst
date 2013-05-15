@@ -4,6 +4,9 @@ DjangoCon Europe 2013 (Django Circus)
 
 * Location: Warsaw, Poland
 * URL: http:djangocircus.com
+* Other people's notes:
+
+    * http://reinout.vanrees.org/weblog/tags/djangocon.html
 
 Opening Statements
 --------------------
