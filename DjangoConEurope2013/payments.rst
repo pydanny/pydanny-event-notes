@@ -27,3 +27,26 @@ Mozilla Marketplace
 * Powered by Django
 * Don't call it an "app store"
 * accepts payments
+* Powered by open source project 'zamboni'
+
+.. note:: 
+
+    Report bugs to Mozilla via their reporting system and they'll pay you.
+
+Steps for purchase
+=====================
+
+1. Set up your account with Mozilla
+2. Purchase and use an app
+3. Mozilla bills your carrier
+
+Vulnerabilities they had to consider
+========================================
+
+* XSS
+
+Mozilla Content Security Policy
+--------------------------------
+
+* MDN docs
+* Github blog
