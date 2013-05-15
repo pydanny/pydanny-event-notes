@@ -51,3 +51,7 @@ Bradley in 1725 proved Kopernik
 
     "It took 1,900 years after the Greeks discovered the distance to the moon for us to determine the distance to a star."
     
+Why did Kopernik debate all the physical evidence for the Earth-centric universe?
+------------------------------------------------------------------------------------------
+
+* Beauty
