@@ -84,6 +84,8 @@ Recap
 
 * **circusd**: daemon that watches all processes
 * **circusctl**: interaction shell
+* **circus-top**: Like top, but only for things Circus is managing
+* **circus-httpd**: Runs the web client
 
-TODO - get this data from Tarek
+TODO - get the rest of the components from Tarek
 
