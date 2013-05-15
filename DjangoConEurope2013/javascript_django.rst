@@ -70,3 +70,11 @@ django-rest-framrwork example:
 TODO - add examples from our book_
 
 .. _book: https://django.2scoops.org
+
+Static files management
+=========================
+
+* django.contrib.statisfiles
+* django-storages
+* django-cumulus
+* django-require
