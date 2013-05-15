@@ -5,6 +5,10 @@ The Imaginative Programmer
 * by Zed Shaw
 
     * Wrote Learn Python the Hard Way.
+    
+        * E-Version: http://learnpythonthehardway.org
+        * Upcoming Print: http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&qid=1368612258&sr=8-1&tag=cn-001-20
+    
     * Talks super-fast so I can't keep up.
     * True Fact: @zedshaw kicked me in the nuts at @pycon 2009.
     
