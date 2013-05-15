@@ -55,3 +55,9 @@ Why did Kopernik debate all the physical evidence for the Earth-centric universe
 ------------------------------------------------------------------------------------------
 
 * Beauty
+* Wanted better math
+* Made the code pretty
+
+.. epigraph::
+
+    Kopernik made the most awesome code refactor in history.
