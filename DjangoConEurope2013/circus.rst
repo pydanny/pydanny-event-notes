@@ -89,3 +89,20 @@ Recap
 
 TODO - get the rest of the components from Tarek
 
+Problem
+==========
+
+Can't interact with Django workers because they are supervised by Gunicorn, which is managed by Circus.
+
+Answer: Circus sockets - Not just sockets, but also manage processes.
+
+* Every process managed by Circus is forked from circusd
+* circusd creates & opens sockets
+* child processes can accept() connection on those sockets
+
+WSGI
+======
+
+* Chaussette: WSGI server that reuses already opened sockets
+* Launched with the socket...
+* TODO - catch up
