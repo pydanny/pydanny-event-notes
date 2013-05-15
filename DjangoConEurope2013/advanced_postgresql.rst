@@ -80,3 +80,22 @@ Partial indexes in Django are good:
 .. code-block:: python
 
     CREATE INDEX active_orders ON cart_order(status) IF status == 1
+    
+Custom Constraints
+=====================
+
+* Django's database agnosticism is a problem for things like foreign-key handling
+* It's also boring
+
+Tips:
+
+* Push database constraints into the database whenever possible.
+
+Raw SQL
+==========
+
+The three-join rule:
+
+    * If you are joining more than three tables, use raw SQL
+    * It turns out that PostgreSQL is really good at multiple joins
+    * Don't fall back into iterating over querysets to get data. Use SQL!
