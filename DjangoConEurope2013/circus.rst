@@ -32,3 +32,41 @@ Missing features from supervisord
 * event-based plugins
 
 Since those were missing, Tarek launched his own project: Circus!
+
+Technical choices for Circus
+=============================
+
+* Python 
+* PSUTIL
+* ZeroMQ
+* TODO - get rest of this
+
+The Core: psutil
+==================
+
+Third-party library
+
+.. code-block:: python
+
+    >>> import psutil
+    >>> p = psutil.Process(7384)
+    >>> p.name
+    'Address book'
+    
+    >>> p.uids
+    user
+    
+The Messenger: ZeroMQ
+======================
+
+* async library for message passing == smart socket
+* highly scalable
+* transports: ITC, IPC, TCP, PGM (multicast)
+* principal patterns
+
+    * request
+    * pub/sub
+    * push/pull
+
+* used by IPython
+* PyZMG - zmq bind + nice I/O event loop adapted from Tornado
