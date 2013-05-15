@@ -47,7 +47,7 @@ Technical choices for Circus
 The Core: psutil
 ==================
 
-Third-party library
+Third-party library that is easy to use and pretty elegant:
 
 .. code-block:: python
 
@@ -78,3 +78,9 @@ Circus Architecture
 ====================
 
 TODO - Get a copy of the image from Tarek.
+
+Recap
+======
+
+* **circusd**: dawem that watches all processes
+* 
