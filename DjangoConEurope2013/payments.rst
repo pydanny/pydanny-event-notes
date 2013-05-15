@@ -43,10 +43,31 @@ Steps for purchase
 Vulnerabilities they had to consider
 ========================================
 
-* XSS
+XSS
+---
 
-Mozilla Content Security Policy
---------------------------------
-
-* MDN docs
+Over come with 
+* Mozilla Content Security Policy
+* MDN_ docs
 * Github blog
+
+Phishing
+------------------------
+
+* navigator.mozPay
+* Trusted UI
+* MDN_ docs
+
+SQL injection
+--------------
+
+* careful ORM evaluation
+
+Ourselves
+-----------
+
+* Many penetrations happen internally, not from technical assaults from outside.
+* Wrote anonymizing code
+* Wrote an app called Solitude.
+
+.. _MDN: https://developer.mozilla.org/en/docs‎
