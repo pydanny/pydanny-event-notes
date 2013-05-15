@@ -19,31 +19,36 @@ Database Agnosticism
 What can PostgreSQL do for you
 ================================
 
-Custom Types
--------------
-
 * PostgreSQL has a huge range of built-in types
 * Most can be used natively in Django
 * You can find libraries to support them.
 
-Example:
+citext
+--------
 
-    * **citext**
     * case insensitive text
     * ignores case on comparisons for a field
     
-Example:
+hstore
+-------
 
-    * **hstore**
     * built-in dict-like structure
     * Maps to Python dict
     * Can be indexed and queried for inclusion
     * requires custom sql
     
-Example
+json
+------
 
-    * **json**
     * All the cool kids use NoSQL databases
     * Something faster than MongoDB to store your JSON databases
     * validated going in
     * Not feature rich, but it's growing
+    
+Others
+-------
+
+* UUID
+* IPv4 and IPv6
+* Interval - stores time intervals directly in the database
+* See Craig's talk later
