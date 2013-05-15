@@ -72,4 +72,13 @@ Inquire into what's going on
     >>> import traceback
     >>> traceback.extract_stack(frame)
     (...stuff here...)
-    
+
+Collate
+=========
+
+Attempt 1: Default dictionary
+------------------------------
+
+* Uniquely identify a function 
+
+.. note:: Trying to figure out how to document what he's doing here. TODO: Get Amjith's images. :P
