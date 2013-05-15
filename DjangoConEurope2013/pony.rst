@@ -45,3 +45,18 @@ Before you do anything with Django
 * ``./runtestspy --settings=test_sqlite``
 * Da not pass GO until tests run*
 
+Forms of Contribute
+=====================
+
+* Bug Fixes are a great place to start
+* Minor additions
+* Major additions
+
+Bug Fixes
+===========
+
+1. Write a test
+2. Have it break
+3. Fix the code until tests pass
+4. Test against regressions
+5. Fix is not necessarily free from discussion
