@@ -55,6 +55,6 @@ Datatypes:
 PostgreSQL resources
 =====================
 
-* `PostgreSQL book`_
+* My favorite is this`PostgreSQL book`_.
 
 .. _`PostgreSQL book`:: http://www.2scoops.co/high-perf-postgresql/
