@@ -98,5 +98,11 @@ Social Auth
     * Fast setup
     * Doesn't have as many auth services it supports
     
+* South
+* celery
+
+    * Unfair advantage for Python/Django in competitions
+    * Setup is a pain
+    
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
