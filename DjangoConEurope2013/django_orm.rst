@@ -5,6 +5,8 @@ Getting past the Django ORM limitations with Postgres
 by Craig Kersteins
 
     * Heroku guy
+    * http://craigkerstiens.com
+    * https://twitter.com/craigkerstiens
     
 
 With most frameworks the ORM attempts to treat all databases equally, this results in developers being limited in how many advantages they can take of their database. In particular Postgres has many features which developers would love to take advantage of but are not easily accessible via the Django ORM.
