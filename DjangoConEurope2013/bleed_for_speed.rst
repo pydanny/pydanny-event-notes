@@ -49,6 +49,8 @@ How to speed up Django fast
 ============================
 
 * Read `Two Scoops of Django`_ chapter 2 & 3. Much of it is summarized in https://github.com/twoscoops/django-twoscoops-project
+
+    * Suggests add a procfile, which we have as a pull request we may review during the sprints.
     
 .. _`Two Scoops of Django`: https://2scoops.org
     
