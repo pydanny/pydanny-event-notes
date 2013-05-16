@@ -17,9 +17,6 @@ The problem was that during the beginning one of the ships sailed right into the
 
 In his insanity he commanded the fleet to drive through the mines/torpedoes. And he said, "Damn the torpedoes drive straight ahead". He knew that the mines/torpedoes were old and could be driven through.
 
-
-The sun coming through the circus tent support poles acts as a wonderful sundial. #djangocon #doingitright
-
 **What does this have to do with Django?**
 
 Sometimes when faced with a daunting task, you have to take the bit between your teeth and plow straight ahead.
@@ -29,3 +26,4 @@ Sometimes when faced with a daunting task, you have to take the bit between your
 
 * Do it outside of hackathons
 * Great for tech and concept discovery
+* Throw away that code!
