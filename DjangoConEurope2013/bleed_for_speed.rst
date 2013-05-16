@@ -23,3 +23,9 @@ The sun coming through the circus tent support poles acts as a wonderful sundial
 **What does this have to do with Django?**
 
 Sometimes when faced with a daunting task, you have to take the bit between your teeth and plow straight ahead.
+
+24 hour prototyping
+====================
+
+* Do it outside of hackathons
+* Great for tech and concept discovery
