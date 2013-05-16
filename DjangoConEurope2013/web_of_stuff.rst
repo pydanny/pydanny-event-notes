@@ -31,3 +31,10 @@ As backend developers it's easy to forget that often with all the servers and co
 Act II - Personal Development
 ================================
 
+* Tutorials are useful for beginners
+* Advanced experts might need references
+* In-between beginner and advanced it's hard to get good. 
+
+.. note:: This in-between spot was the original target of `Two Scoops of Django`_.
+
+.. _`Two Scoops of Django`: https://2scoops.org
