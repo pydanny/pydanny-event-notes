@@ -76,6 +76,12 @@ Flip to Read Only Mode
 
 If you need to do system changes, you can make your site output only by turning on PostgreSQL's read-only mode. How cool is that?
 
+Connections for Django
+------------------------
+
+* Django right now doesn't have persistent DB connections (not until Django 1.6 anyway)
+* It has to reconnect all the time to the database, which is a performance hit.
+
 
 PostgreSQL resources
 =====================
