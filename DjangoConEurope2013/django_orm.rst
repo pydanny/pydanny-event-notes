@@ -77,5 +77,5 @@ PostgreSQL resources
 
 * My favorite is this `PostgreSQL book`_.
 
-.. _`PostgreSQL book`:: http://www.2scoops.co/high-perf-postgresql/
+.. _`PostgreSQL book`: http://www.2scoops.co/high-perf-postgresql/
 
