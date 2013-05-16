@@ -52,6 +52,24 @@ Datatypes:
     * Stores in JSON
     * Getting better in PostgreSQL 9.4
 
+Queueing
+---------
+
+Normally doing this in a database is a bad idea. So we use Redis and other resources. PostgreSQL has pub/sub and makes a great queue. You can get it working via celery with::
+
+    pip install celery trunk
+    
+Text Search
+------------
+
+Instead of Lucene, Sphinx, or Solr you can use PostgreSQL for full text search. 
+
+.. note:: Is there a Django extension?
+
+Indexes
+-------
+
+You should generally use a BTREE index. Depending on your use case, you may need other indexes.
 
 
 PostgreSQL resources
@@ -60,3 +78,4 @@ PostgreSQL resources
 * My favorite is this`PostgreSQL book`_.
 
 .. _`PostgreSQL book`:: http://www.2scoops.co/high-perf-postgresql/
+
