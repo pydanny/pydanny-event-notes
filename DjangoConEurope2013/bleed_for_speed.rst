@@ -84,6 +84,19 @@ Do it RIGHT away so the front end person can work
 
 * Rob prefers django-tastypie
 * These days prefer django-rest-framework now.
+
+Social Auth
+-------------
+
+* django-social-auth
+
+    * Gajillions of auth services it supports
+    * Takes some work to set up
+
+* django-allauth
+
+    * Fast setup
+    * Doesn't have as many auth services it supports
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
