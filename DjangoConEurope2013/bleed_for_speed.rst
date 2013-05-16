@@ -4,7 +4,7 @@ Bleed for Speed: Django for Rapid Prototyping
 
 By Rob Spectre
 
-    * http://twilio.com community manager
+    * http://twilio.com director of evangelism
 
 Come one, come all to the DjangoCon sideshow to see feats of inhuman speed as we take Django for a spin with rapid prototyping. Tossing security, performance, and maintainability out the tent, Rob Spectre shows a 30 minutes of tips and tricks for building rapid prototypes on Django gained over dozens of hackathons. Find the fastest path from startproject to a publicly accessible endpoint. Discover the reusable apps that cut down your hack's implementation time in half. Marvel at the testing techniques that will minimize demo-killing broken code. Step right up ladies and gents and see the framework forged in the newsroom furnace blast your entirely temporary project across hackathon deadline.
 
@@ -19,3 +19,7 @@ In his insanity he commanded the fleet to drive through the mines/torpedoes. And
 
 
 The sun coming through the circus tent support poles acts as a wonderful sundial. #djangocon #doingitright
+
+**What does this have to do with Django?**
+
+Sometimes when faced with a daunting task, you have to take the bit between your teeth and plow straight ahead.
