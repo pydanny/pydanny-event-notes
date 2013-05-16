@@ -32,3 +32,5 @@ Why Django?
 ================
 
 Rob's claim: Django is the best for rapid prototyping development.
+
+* Django was built explicitly for rapid prototyping development. Out of the newsroom and into production. Today.
