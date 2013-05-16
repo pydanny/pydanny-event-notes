@@ -14,4 +14,18 @@ This talk will be an in-depth review of the stages that most open source project
 Once upon a time...
 ======================
 
-* The Facebook SDK Python library fell under their radar.
+The Facebook SDK Python library
+
+    * Facebook rarely updated it
+    * Became unworkable
+    * People complained, got on Hacker News
+    * Disabled comments
+
+Now replaced by http://pythonforfacebook.com
+
+Public Source Projects
+=======================
+
+* Company open sources code
+* Doesn't maintain it: motivations are unclear
+* 
