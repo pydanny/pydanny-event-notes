@@ -27,3 +27,8 @@ Sometimes when faced with a daunting task, you have to take the bit between your
 * Do it outside of hackathons
 * Great for tech and concept discovery
 * Throw away that code!
+
+Why Django?
+================
+
+Rob's claim: Django is the best for rapid prototyping development.
