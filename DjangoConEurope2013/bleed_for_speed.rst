@@ -7,3 +7,13 @@ By Rob Spectre
     * http://twilio.com community manager
 
 Come one, come all to the DjangoCon sideshow to see feats of inhuman speed as we take Django for a spin with rapid prototyping. Tossing security, performance, and maintainability out the tent, Rob Spectre shows a 30 minutes of tips and tricks for building rapid prototypes on Django gained over dozens of hackathons. Find the fastest path from startproject to a publicly accessible endpoint. Discover the reusable apps that cut down your hack's implementation time in half. Marvel at the testing techniques that will minimize demo-killing broken code. Step right up ladies and gents and see the framework forged in the newsroom furnace blast your entirely temporary project across hackathon deadline.
+
+History Lesson
+=====================
+
+In the American civil war, there were naval battles. They had boats, and they had the Battle of Mobile Bay. Rear Admiral Bueugard led a fleet in with a simple battle of going between the fort on the left and the mines on the right to bash at the enemy. 
+
+The problem was that during the beginning one of the ships sailed right into the minefield and sunk. The admiral was crazy so would climb to the top of the mast and shout orders to the battle.
+
+
+The sun coming through the circus tent support poles acts as a wonderful sundial. #djangocon #doingitright
