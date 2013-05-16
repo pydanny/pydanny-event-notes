@@ -15,5 +15,7 @@ In the American civil war, there were naval battles. They had boats, and they ha
 
 The problem was that during the beginning one of the ships sailed right into the minefield and sunk. The admiral was crazy so would climb to the top of the mast and shout orders to the battle.
 
+In his insanity he commanded the fleet to drive through the mines/torpedoes. And he said, "Damn the torpedoes drive straight ahead". He knew that the mines/torpedoes were old and could be driven through.
+
 
 The sun coming through the circus tent support poles acts as a wonderful sundial. #djangocon #doingitright
