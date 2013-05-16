@@ -36,6 +36,7 @@ Django Circus
    web_of_stuff
    bleed_for_speed
    advanced_python
+   seeds
    
 
 PyWaW
