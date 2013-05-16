@@ -106,3 +106,7 @@ Learn to say no
 * Learn to do it nicely
 
 Simple Code is Good. Complex code is bad.
+
+.. epigraph::
+
+    "Open source makes the world a better place. Please, don't make it complicated." -- Kenneth Reitz
