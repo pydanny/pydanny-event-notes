@@ -103,6 +103,10 @@ Social Auth
 
     * Unfair advantage for Python/Django in competitions
     * Setup is a pain
+    * **Secret:** You can use the database for hackathons and not worry about setting up a real queue engine
+    
+Testing
+--------
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
