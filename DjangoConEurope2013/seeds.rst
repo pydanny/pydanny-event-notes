@@ -91,3 +91,10 @@ Sustainability
 
 * One of the biggest challenges for open source
 * Everyone has a limited amount of time in the day
+
+Learn to do less
+------------------
+
+* When an issue or pull request comes into the repo, two other developers usually triage it.
+* This saves an immense amount of time
+* I can focus my time on larger issues.
