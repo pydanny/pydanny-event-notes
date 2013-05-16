@@ -98,3 +98,11 @@ Learn to do less
 * When an issue or pull request comes into the repo, two other developers usually triage it.
 * This saves an immense amount of time
 * I can focus my time on larger issues.
+
+Learn to say no
+-----------------
+
+* Saying 'No' is really important
+* Learn to do it nicely
+
+Simple Code is Good. Complex code is bad.
