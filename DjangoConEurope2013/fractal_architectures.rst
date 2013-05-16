@@ -33,3 +33,11 @@ Static Assets / Long term storage
 
 * Uses a CDN like AWS, OpenStack Swift, or something else. 
 * Good for handling of micro-instance failure
+
+Two Ways for Better Performance
+================================
+
+* Do less stuff
+* Make stuff run faster
+
+If you off-put stuff from one server onto a database server, cache server, et al, then even in-database center latency will become an issue. His approach is to put everything on one tiny server per user and reduce latency between machines to **nothing**.
