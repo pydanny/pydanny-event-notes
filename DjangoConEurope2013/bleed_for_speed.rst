@@ -66,6 +66,12 @@ Static Files
 * Nice API
 * Bad: Documentation needs revision.
 * Brunch (PyPI App) is nice for compiling everything
+
+Deployment
+------------
+
+* Heroku is nice, and works in Europe now!
+* You can also use AWS: Learn configuration management (chef/puppet/salt stack etc).
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
