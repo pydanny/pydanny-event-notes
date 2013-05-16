@@ -71,6 +71,11 @@ Indexes
 
 You should generally use a BTREE index. Depending on your use case, you may need other indexes.
 
+Flip to Read Only Mode
+-----------------------
+
+If you need to do system changes, you can make your site output only by turning on PostgreSQL's read-only mode. How cool is that?
+
 
 PostgreSQL resources
 =====================
