@@ -27,3 +27,7 @@ As backend developers it's easy to forget that often with all the servers and co
     The maker movement is an effort by computers to liberate themselves from their human overlords. -- Zachary Voase
 
 .. note:: Zach tempted the demo gods by demonstrating something that used Arduino, Github, Django, Heroku, Foursquare to do something. Alas, the demo gods were not kind. The internet was very flaky.  Still, his device was really cool.
+
+Act II - Personal Development
+================================
+
