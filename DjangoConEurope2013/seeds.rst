@@ -65,3 +65,20 @@ Dictatorship Projects
 * Totalitarian BDFL owns everything
 * Dictator makes all decisions
 * Community feedback is encouraged, but users with feedback should have no expectation of change.
+
+Lessons Learned
+=================
+
+* Be Cordial be on your way
+
+    * Contributors
+
+        * Keep all interactions with a maintainer as respectful as possible
+        * They have likely donated a significant amount of time and energy into their project
+    
+    * Maintainers
+    
+        * be immensely thankful to all contributors
+        * They are the lifeblood of your project
+        * Ignore non-constructive feedback
+        * Some people just take things too seriously
