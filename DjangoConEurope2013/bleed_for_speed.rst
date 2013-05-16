@@ -56,6 +56,12 @@ How to speed up Django development
     
 * You can use Mozilla's Play-Doh as well
 
+Static Files
+--------------
+
+* Use the defaults as much as possible
+* Nice API
+* Bad: Documentation needs revision.
 
     
 .. _`Two Scoops of Django`: https://2scoops.org
