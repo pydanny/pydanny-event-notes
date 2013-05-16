@@ -31,5 +31,5 @@ SQLite3
 Static Assets / Long term storage
 --------------
 
-* Uses a CDN like AWS or something else. 
+* Uses a CDN like AWS, OpenStack Swift, or something else. 
 * Good for handling of micro-instance failure
