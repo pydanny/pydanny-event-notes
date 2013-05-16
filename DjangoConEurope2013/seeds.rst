@@ -38,3 +38,15 @@ On the other hand.. Gittip!
 * Everything is an issue
 * Major decisions are voted on github.
 * Interviewed with journalists are live-streamed
+
+.. epigraph::
+
+    "I'm not building Gittip, I'm building the community that's building Gittip." -- Chad Whitacre
+    
+Shared Investments
+====================
+
+* Shared ownership, extreme transparency
+* New contributors get involved by following a documented process
+* Low risk. High bus-factor
+* See also: Python, Django, Firefox, jQUery...
