@@ -75,7 +75,7 @@ You should generally use a BTREE index. Depending on your use case, you may need
 PostgreSQL resources
 =====================
 
-* My favorite is this`PostgreSQL book`_.
+* My favorite is this `PostgreSQL book`_.
 
 .. _`PostgreSQL book`:: http://www.2scoops.co/high-perf-postgresql/
 
