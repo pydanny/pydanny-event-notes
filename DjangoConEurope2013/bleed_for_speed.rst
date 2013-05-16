@@ -72,6 +72,7 @@ Deployment
 
 * Heroku is nice, and works in Europe now!
 * You can also use AWS: Learn configuration management (chef/puppet/salt stack etc).
+* Salt Stack call-out: https://github.com/esacteksab/salt-states 
 
 Packages to use
 ==================
