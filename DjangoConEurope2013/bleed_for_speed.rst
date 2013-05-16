@@ -36,4 +36,12 @@ Rob's claim: Django is the best for rapid prototyping development.
 
 * Django was built explicitly for rapid prototyping development. Out of the newsroom and into production. Today.
 * Django is flexible. 
-* Django has an incredible community. Have a problem? Jump on IRC? Read the docs?
+* Django has an incredible community. Have a problem? 
+
+    * Jump on IRC!
+    * Read the docs!
+    * Stack Overflow!
+    * Read `Two Scoops of Django`_!
+    
+.. _`Two Scoops of Django`: https://2scoops.org
+    
