@@ -65,7 +65,7 @@ Static Files
 * Use the defaults as much as possible
 * Nice API
 * Bad: Documentation needs revision.
-* Brunch (PyPI App) is nice for compiling everything
+* Brunch (http://brunch.io/) is nice for compiling everything
 
 Deployment
 ------------
