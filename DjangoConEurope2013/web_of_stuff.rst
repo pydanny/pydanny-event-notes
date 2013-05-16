@@ -7,10 +7,16 @@ By Zachary Voase
     * Cook
     * Eat
     * lift
-    * make stuff
+    * makes stuff
     
         * Was making stuff for Ford for big presentations
         * Interactive trade show experiences
 
 As software developers, the world of hardware can seem confusing but alluring. Small computers are now cheap enough that useful products can be built for less than $100. But the real value from the Internet of Things comes from networking. In this talk, I'll introduce you to basic hardware hacking, and show you how Web, mobile and microcontroller technologies can be brought together using Django—with surprising and playful results.
+
+Act I - Little Data
+========================
+
+* Computers are getting big again because of server farms and huge number crunching efforts
+* Economy of size goes in both directions. Not just big data, but little Data
 
