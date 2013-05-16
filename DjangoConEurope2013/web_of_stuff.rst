@@ -37,4 +37,11 @@ Act II - Personal Development
 
 .. note:: This in-between spot was the original target of `Two Scoops of Django`_.
 
+Resources
+==========
+
+* https://github.com/zacharyvoase/swipecheck
+* "Getting started with Arduino"
+* "The Art of Electronics"
+
 .. _`Two Scoops of Django`: https://2scoops.org
