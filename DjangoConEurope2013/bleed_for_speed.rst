@@ -65,7 +65,7 @@ Static Files
 * Use the defaults as much as possible
 * Nice API
 * Bad: Documentation needs revision.
-* Brunch is nice for compiling everything
+* Brunch (PyPI App) is nice for compiling everything
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
