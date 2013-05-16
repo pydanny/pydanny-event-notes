@@ -19,7 +19,7 @@ Backend
 Twisted
 --------
 
-Cause he's a core dev and is asynchronous
+Cause he's a core dev and is asynchronous. We could use Django.
 
 SQLite3
 -------
@@ -43,3 +43,9 @@ Two Ways for Better Performance
 If you off-put stuff from one server onto a database server, cache server, et al, then even in-database center latency will become an issue. His approach is to put everything on one tiny server per user and reduce latency between machines to **nothing**.
 
 This is the concept of **Data Locality**.
+
+Devil's Advocacy
+=================
+
+* Unusual design might make it hard to get more developer help.
+* Weird separation. 
