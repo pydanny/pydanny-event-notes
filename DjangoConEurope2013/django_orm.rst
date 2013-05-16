@@ -47,6 +47,9 @@ Datatypes:
 * hstore
 
     * does what MongoDB does but inside of PostgreSQL!
+    * Stores in JSON
+    * Getting better in PostgreSQL 9.4
+
 
 
 PostgreSQL resources
