@@ -49,3 +49,5 @@ Devil's Advocacy
 
 * Unusual design might make it hard to get more developer help.
 * Weird separation. 
+* Data is weird, maybe not good for big data. But 99% of sites don't have actual big data.
+* Transaction support doesn't work.
