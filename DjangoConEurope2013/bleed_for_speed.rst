@@ -72,6 +72,17 @@ Deployment
 
 * Heroku is nice, and works in Europe now!
 * You can also use AWS: Learn configuration management (chef/puppet/salt stack etc).
+
+Packages to use
+==================
+
+Build the RESTFUL API
+-----------------------
+
+Do it RIGHT away so the front end person can work
+
+* Rob prefers django-tastypie
+* These days prefer django-rest-framework now.
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
