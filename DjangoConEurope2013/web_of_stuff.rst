@@ -20,3 +20,4 @@ Act I - Little Data
 * Computers are getting big again because of server farms and huge number crunching efforts
 * Economy of size goes in both directions. Not just big data, but little Data
 
+As backend developers it's easy to forget that often with all the servers and code and automation we forget that at some point deep in the chain there is a a human being interaction with the system. Example: Cell Phone
