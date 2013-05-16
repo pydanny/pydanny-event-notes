@@ -116,6 +116,11 @@ More notes:
 
 * Django tests are fast/easy to write
 * AngularJS has a great testing tool. Even if you don't use that many of it's features, check out testacular.
+
+Conclusion
+============
+
+When faced with a difficult problem, sometimes its good to plow straight ahead.
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    

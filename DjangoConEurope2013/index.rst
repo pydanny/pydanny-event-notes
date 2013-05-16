@@ -35,6 +35,8 @@ Django Circus
    django_orm
    web_of_stuff
    bleed_for_speed
+   advanced_python
+   
 
 PyWaW
 -------
@@ -45,5 +47,4 @@ PyWaW is short for the Python Warsaw Meetup Group. Which met a couple days befor
   :maxdepth: 2
 
   django_beyond
-
 
