@@ -35,3 +35,4 @@ Example
 * 3.2 seconds for 1000 runs on SQLite3 running in memoery
 
 Doesn't seem slow, but what if we are testing 40 models this way? Test factories make this worse!
+
