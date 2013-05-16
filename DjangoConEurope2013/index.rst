@@ -37,6 +37,7 @@ Django Circus
    bleed_for_speed
    advanced_python
    seeds
+   mock_your_dtabase
    
 
 PyWaW
