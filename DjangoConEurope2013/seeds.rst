@@ -28,4 +28,13 @@ Public Source Projects
 
 * Company open sources code
 * Doesn't maintain it: motivations are unclear
-* 
+* Really sucks for users of the code
+
+On the other hand.. Gittip!
+==============================
+
+* Platform for sustainable development
+* Everything is open source, including internal discussions, interviews with media, etc
+* Everything is an issue
+* Major decisions are voted on github.
+* Interviewed with journalists are live-streamed
