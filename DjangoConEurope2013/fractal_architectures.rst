@@ -51,3 +51,9 @@ Devil's Advocacy
 * Weird separation. 
 * Data is weird, maybe not good for big data. But 99% of sites don't have actual big data.
 * Transaction support doesn't work.
+
+Thoughts
+==========
+
+* Crazy, fun idea
+* Sometimes it's good to try the insanity and see what happens
