@@ -42,7 +42,8 @@ Resources
 
 * https://github.com/zacharyvoase/swipecheck
 * "`Getting started with Arduino`_"
-* "The Art of Electronics"
+* "`The Art of Electronics`_"
 
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _`Getting started with Arduino`: http://www.amazon.com/Getting-Started-Arduino-Massimo-Banzi/dp/1449309879/ref=sr_1_1?ie=UTF8&qid=1368700709&sr=8-1&tag=cn-001-20
+.. _`The Art of Electronics`: http://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521370957/ref=sr_1_1?s=books&ie=UTF8&qid=1368700859&sr=1-1&tag=cn-001-20
