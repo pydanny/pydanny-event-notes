@@ -31,7 +31,6 @@ Django Circus
    thread_profiling
    migrations
    pony
-   taming_multiple_databases
    play_nice
    fractal_architectures
    django_orm
