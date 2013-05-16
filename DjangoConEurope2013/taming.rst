@@ -1,0 +1,3 @@
+Support for multiple databases has been introduced in Django 1.2 in 2010, and, while amazing, it's still a minefield filled with programming gotchas. I've stumbled upon many of them while developing a highly distributed system at SetJam and then Motorola Mobility and want to share my experiences with you. Knowing how to properly route queries, migrate schemas (using lovely South library) and then test the whole thing, while dodging chainsaws of Multi-DB API, will probably save you a few days of cursing.
+
+Just to ignite your curiosity: Did you remember to set `_for_write`correctly in all methods of your custom `QuerySet`?

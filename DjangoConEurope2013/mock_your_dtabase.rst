@@ -19,3 +19,19 @@ Your database is slow
 * We want SPEED!
 * The faster your test goes, the better.
 
+Example
+==========
+
+.. code-block:: python
+
+    def test_naive(self):
+        label = RecordLabel.objects.create()
+        artist = Artist.objects.create()
+        track = Track.objects.create()
+        # etc
+        
+* 8 database queries
+* 5.2 seconds for 1000 runs on PostgreSQL
+* 3.2 seconds for 1000 runs on SQLite3 running in memoery
+
+Doesn't seem slow, but what if we are testing 40 models this way?
