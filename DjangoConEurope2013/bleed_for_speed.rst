@@ -48,7 +48,7 @@ Rob's claim: Django is the best for rapid prototyping development.
 How to speed up Django development
 ==================================
 
-.. note:: Disclaimer: Rob really promoted our book. We had no idea before the conference he was going to do this.
+.. note:: Disclaimer: Rob really promoted our book_. We had no idea before the conference he was going to do this.
 
 * Read `Two Scoops of Django`_ chapter 2 & 3. Much of it is summarized in https://github.com/twoscoops/django-twoscoops-project
 
@@ -65,4 +65,4 @@ Static Files
 
     
 .. _`Two Scoops of Django`: https://2scoops.org
-    
+.. _book: https://2scoops.org    
