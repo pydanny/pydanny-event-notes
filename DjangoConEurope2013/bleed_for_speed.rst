@@ -107,6 +107,10 @@ Social Auth
     
 Testing
 --------
+
+* Why would you test in a short time space?
+* **On the contrary:** Why wouldn't you test?
+* Knowing your views all return 200 tests means you don't make the same results in writing code or demoing the project
     
 .. _`Two Scoops of Django`: https://2scoops.org
 .. _book: https://2scoops.org    
