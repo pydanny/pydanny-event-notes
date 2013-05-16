@@ -82,3 +82,12 @@ Lessons Learned
         * They are the lifeblood of your project
         * Ignore non-constructive feedback
         * Some people just take things too seriously
+
+Avoiding Burnout
+====================
+
+Sustainability
+----------------
+
+* One of the biggest challenges for open source
+* Everyone has a limited amount of time in the day
