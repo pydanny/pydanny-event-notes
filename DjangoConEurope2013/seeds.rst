@@ -50,3 +50,18 @@ Shared Investments
 * New contributors get involved by following a documented process
 * Low risk. High bus-factor
 * See also: Python, Django, Firefox, jQUery...
+
+HTTP for Humans
+=================
+
+python-requests
+
+* One of the most installed PyPI projects
+* Key difference between gittip/django and requests: Kenneth makes all the decisions
+
+Dictatorship Projects
+=======================
+
+* Totalitarian BDFL owns everything
+* Dictator makes all decisions
+* Community feedback is encouraged, but users with feedback should have no expectation of change.
