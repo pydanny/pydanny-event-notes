@@ -40,6 +40,7 @@ Django Circus
    mock_your_dtabase
    CBVs
    dynamic_models
+   prehistoric_python
    
 
 PyWaW
