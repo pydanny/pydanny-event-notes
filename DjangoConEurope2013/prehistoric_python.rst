@@ -5,7 +5,7 @@ Prehistorical Python: Patterns past their prime
 by Lennart Regebro
 
     * Freelancer
-    * Author of `Porting Python Python 3`_
+    * Author of `Porting Python Python 3`_ (worth it if you are upgrading from Python 2 to 3!)
     * Django, Pyramid, and Zope guy
 
 .. _`Porting Python Python 3`: https://gumroad.com/l/python3
