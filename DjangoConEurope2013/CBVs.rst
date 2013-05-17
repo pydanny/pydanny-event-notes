@@ -145,3 +145,11 @@ Where to from here?
     * AHAX support
     * PJAX
     * Multiple "actions" per page
+
+Call to Action
+================
+
+* IN discussion: Do you mean CBV or CBGV?
+* Docs can still be improved. YESSS!!!!
+* #18830 - FormCollection
+* Experiment with APIs. Django's admin is a useful case study
