@@ -43,7 +43,7 @@ Django 1.3
 * They kept trying to get CBVs into Django starting with Django 1.0.
 
 What went wrong
------------------
+=================
 
 * Fundamental confusion over purpose
 * Confusion over implementation choices
@@ -54,3 +54,21 @@ What went wrong
     * Steep learning curve
 
 * Bad documentation
+
+    * Russell takes the blame for the problems.
+    * Myself, Marc Tamlyn, and others worked to make it work.
+    
+Purpose
+----------
+
+Class-Based views are an object-oriented analog for function based views.
+
+* Class based views
+* Class based Generic Views
+
+Because we are subclassing a base class, we get tons of extra options.
+
+* automatic OPTIONS request handling
+* automatic naive HEAD request handling
+* automatic HTTP 405 on unknown verbs
+
