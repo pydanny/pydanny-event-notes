@@ -13,3 +13,16 @@ About CBVs
 
 * Introduced in Django 1.3 in 2011
 
+History per 2005
+-------------------
+
+* Django is for building websites
+* Views are for displaying content
+* There are lots of refactorable things to do
+* Generic views
+
+    * Display template
+    * Display object or list of objects
+    * Handle forms
+    * Every view is a function
+    * Configuration via arguments
