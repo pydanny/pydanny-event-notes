@@ -38,6 +38,7 @@ Django Circus
    advanced_python
    seeds
    mock_your_dtabase
+   CBVs
    
 
 PyWaW
