@@ -6,7 +6,7 @@ by Lennart Regebro
 
     * Freelancer
     * Django, Pyramid, and Zope guy
-    * One of the tech reviews of `Two Scoops of Django`_!
+    * One of the tech reviewers of `Two Scoops of Django`_!
     * Author of `Porting Python Python 3`_
     
         * worth it if you are upgrading from Python 2 to 3!
