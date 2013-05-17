@@ -92,3 +92,10 @@ Implementation Choices
     * What's the lifespan?
     * What about state? (race conditions!!!)
     * How does it work with ``urls.py``?
+    * How do you configure things?
+    
+* Django's admin system is a CBV
+
+    * Implemented using simple ``__call__()``
+    * Doesn't have HTTP Verb support
+    * Suffers from serious state issues
