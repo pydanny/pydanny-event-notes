@@ -130,3 +130,18 @@ Documentation
 * Bad as originally designed
 * Much better now
 * Still need framework decisions needed
+
+.. note:: Use django-braces to fill out the missing pieces of CBVs.
+
+Where to from here?
+=====================
+
+* Add new features?
+* Did they solve the wrong problem? Modern problems:
+
+    * Multiple forms/formsets per page
+    * Conditional forms
+    * Continuous scrolling, not pagination
+    * AHAX support
+    * PJAX
+    * Multiple "actions" per page
