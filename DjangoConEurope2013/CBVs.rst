@@ -34,4 +34,4 @@ Problems with function based generic views
 * No control over logic flow
 * No re-use between views
 
-.. note:: Another thing against FBVs was that people would implement their own broken CBV system.
+.. note:: Another thing against function-based generic views was that people would implement their own broken CBV system.
