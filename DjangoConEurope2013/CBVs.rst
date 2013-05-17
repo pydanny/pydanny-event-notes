@@ -19,10 +19,19 @@ History per 2005
 * Django is for building websites
 * Views are for displaying content
 * There are lots of refactorable things to do
-* Generic views
+* Generic views could handle all of this:
 
     * Display template
     * Display object or list of objects
     * Handle forms
     * Every view is a function
     * Configuration via arguments
+    
+Problems with function based generic views
+------------------------------------------
+
+* Configuration options limited by urls.py args
+* No control over logic flow
+* No re-use between views
+
+.. note:: Another thing against FBVs was that people would implement their own broken CBV system.
