@@ -91,4 +91,4 @@ Implementation Choices
     * Once per process or request?
     * What's the lifespan?
     * What about state? (race conditions!!!)
-    * How does it work with urls.py?
+    * How does it work with ``urls.py``?
