@@ -107,6 +107,7 @@ Django Lets Us Use Python
 --------------------------
 
 Python is awesome!
+
 * Python has Zen
 * Python has a style guide
 * And indentation and such
@@ -116,26 +117,28 @@ Django Has Awesome APIs
 
 Requests is known for having an elegant API. Look at sample code from using the Django test client. It's practically the same code!
 
-Example of models and model methods
+* Example of models and model methods
 
-API conventions encourage clean design
+API conventions encourage clean design:
+
 * Make it easy to separate content from presentation
 * Helps us get things done
 
 Django Views are Functions
 -----------------------------
 
-Function views are very simple. Request -> Response
+Function views are very simple. ``Request -> Response``
 
-Even with class-based views, you have View.as_view() which is basically the same thing.
+Even with class-based views, you have ``View.as_view()`` which is basically the same thing.
 
 Django Has Awesome Features
 -----------------------------
 
-The admin is what we're known for. Aka "How to sell Django 101"
-Shortest admin module possible in 3 lines.
-* Don't hack the admin to force it to bend to NoSQL. Write separate code
-* Pydanny will be sprinting on django-admin2
+* The admin is what we're known for. Aka "How to sell Django 101".
+* Shortest admin module possible in 3 lines.
+
+    * Don't hack the admin to force it to bend to NoSQL. Write separate code
+    * Pydanny will be sprinting on django-admin2
 
 Django's Full Stack Is Awesome
 -------------------------------
