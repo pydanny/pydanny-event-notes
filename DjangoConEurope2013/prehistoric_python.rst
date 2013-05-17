@@ -102,9 +102,9 @@ String Concatenation
     
 adding is faster than using the .join() method used above. WTF?!?
 
-Explaining the WTF?!?
-=======================
+Explaining the 'WTF?!?'
+-----------------------
 
 * Looping over a list of strings and adding them together is slow.
 * Using .join with a list of strings is fast.
-* if you add just two strings, adding them is faster.
+* If you add just two strings, adding them is faster.
