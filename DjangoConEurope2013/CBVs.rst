@@ -99,3 +99,5 @@ Implementation Choices
     * Implemented using simple ``__call__()``
     * Doesn't have HTTP Verb support
     * Suffers from serious state issues
+
+.. warning:: Don't put ``self`` on Django admin objects or you will cause state issues.
