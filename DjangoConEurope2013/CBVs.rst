@@ -46,10 +46,6 @@ What went wrong
 -----------------
 
 * Fundamental confusion over purpose
-
-    * Not clear what to use it for.
-    * Implementation not obvious
-
 * Confusion over implementation choices
 * Ravioli code
 
