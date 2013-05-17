@@ -21,16 +21,17 @@ How to do it
 * Serialized Dictionary Django apps
 
     * Dangerous because of use of Pickle
-    * Problematic because of lack of searchability
+    * Problematic because of lack of searchability (this is mitigated via tools like PostgreSQL hstore or MongoDB)
 
 * Runtime schema updates
 
     * Allow updates of the database schema by non-technical user action
-    * This sounds kind of of risky
-
-
-Problems
-=========
-
-* Dynamic models problematic since it can interfere of how the database is designed.
-* Complexity is another issue
+    
+        * This sounds kind of of risky
+        
+    * Dynamic models problematic since it can interfere of how the database is designed.
+    * Complexity is another issue. How do you keep the database from going nuts from user action?
+    * Database integrity is a major issue.
+    * Column updates is a really nasty issue. For example, the database has to lock the for minutes or hours.
+    
+    
