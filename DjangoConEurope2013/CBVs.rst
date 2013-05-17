@@ -41,3 +41,19 @@ Django 1.3
 -----------
 
 * They kept trying to get CBVs into Django starting with Django 1.0.
+
+What went wrong
+-----------------
+
+* Fundamental confusion over purpose
+
+    * Not clear what to use it for.
+    * Implementation not obvious
+
+* Confusion over implementation choices
+* Ravioli code
+
+    * Luke Plant described the effort as bad code.
+    * "You don't know what's in the ravioli."
+
+* Bad documentation
