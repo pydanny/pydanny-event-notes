@@ -81,3 +81,24 @@ Conditional Expressions
     # new way
     first_choice = blank_choice if include_blank else []
     
+Constants and Loops
+=====================
+
+.. code-block:: python
+
+    # outside vs inside
+    # PyPy is 33x slower on this one!
+    each * 5 ** a_var
+    
+.. note:: Thought: Evaliate your constants outside the loop
+
+String Concatenation
+======================
+
+.. code-block:: python
+
+    # The 'fastest' way
+    self._leftover = b''.join([bytes, self._leftover])
+    
+adding is faster than using the .join() method. WTF?
+
