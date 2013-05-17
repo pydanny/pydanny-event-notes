@@ -63,8 +63,21 @@ Sorting
 
 .. code-block:: python
 
-    # new way - missed the old way
+    # new way - missed the old ways
     retval = set()
     for tn in template_nmes:
         retval.update(search_python(python_code, tn))
     retval = sorted(retval)
+
+Conditional Expressions
+========================
+
+.. code-block:: python
+
+    # old way
+    # django 1.5.1 django/db/models/related.py
+    first_choice = include_blank and blank_choice = []
+    
+    # new way
+    first_choice = blank_choice if include_blank else []
+    
