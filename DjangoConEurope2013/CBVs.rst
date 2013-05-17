@@ -72,3 +72,9 @@ Because we are subclassing a base class, we get tons of extra options.
 * automatic naive HEAD request handling
 * automatic HTTP 405 on unknown verbs
 
+CB Generic Views
+-------------------
+
+* Uses Class Based Views as a base
+* Creates analogs of the old generic views
+* Addresses limits of functional approach
