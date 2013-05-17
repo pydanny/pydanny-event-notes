@@ -161,3 +161,4 @@ Documentation Ideas for CBVs during the sprints
 
 * Tutorials in the CBVs section of the core Django documents.
 * More working code examples
+* Flow charts!
