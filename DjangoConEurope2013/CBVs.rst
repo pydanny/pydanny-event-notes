@@ -108,6 +108,25 @@ Other concept design:
 
         * Current: a callable
         * Change to: A callable or a class
-        * The problem is that this would have forced them to change a lot of code and make things under the hood much more complex.
+        * The problem is that this would have forced them to change a lot of source code and make things under the hood much more complex.
         
     * Decision: keep the ``urls.py`` contract clear
+    
+Ravioli
+------------
+
+* Goal: Replace FBV generics with CBV generics
+* Make it easy to extend
+* Unfortunately complex class hierarchy
+* However...
+
+    * Allows for maximum reuse of core logic
+    * Extremely flexible for inserting new logic
+    * Easy to add your own mixins
+
+Documentation
+-----------------
+
+* Bad as originally designed
+* Much better now
+* Still need framework decisions needed
