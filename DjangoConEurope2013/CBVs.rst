@@ -51,5 +51,6 @@ What went wrong
 
     * Luke Plant described the effort as bad code.
     * "You don't know what's in the ravioli."
+    * Steep learning curve
 
 * Bad documentation
