@@ -154,7 +154,10 @@ Call to Action
 * #18830 - FormCollection
 * Experiment with APIs. Django's admin is a useful case study
 
-Documentation Ideas for CBVs
-==============================
+Documentation Ideas for CBVs during the sprints
+================================================
 
-* Tutorials in the CBVs section of the documents.
+.. note:: I'm not working on Django CBV documentation during the sprints. However, I'm open to suggesting paths to take:
+
+* Tutorials in the CBVs section of the core Django documents.
+* More working code examples
