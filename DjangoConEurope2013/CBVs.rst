@@ -35,7 +35,7 @@ Problems with function based generic views
 * No control over logic flow
 * No re-use between views
 
-.. warning:: Another thing against function-based generic views was that people can and do implement their own broken CBV system. Leaky states is a serious issue.
+.. warning:: Another thing against function-based generic views was that people can and do implement their own broken CBV system. Leaky states is a serious issue. Don't roll your own unless you really understand 
 
 Django 1.3
 -----------
@@ -153,3 +153,8 @@ Call to Action
 * Docs can still be improved. YESSS!!!!
 * #18830 - FormCollection
 * Experiment with APIs. Django's admin is a useful case study
+
+Documentation Ideas for CBVs
+==============================
+
+* Tutorials in the CBVs section of the documents.
