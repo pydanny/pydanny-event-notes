@@ -167,4 +167,4 @@ Django's Community is the Best
 Call To Action
 ---------------
 
-Be awesome. "I want us to change the world." Use your knowledge of Django to help people and do good things.
+Be awesome. "**I want us to change the world.**" Use your knowledge of Django to help people and do good things.
