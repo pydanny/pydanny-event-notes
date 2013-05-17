@@ -35,7 +35,7 @@ Problems with function based generic views
 * No control over logic flow
 * No re-use between views
 
-.. note:: Another thing against function-based generic views was that people would implement their own broken CBV system.
+.. warning:: Another thing against function-based generic views was that people can and do implement their own broken CBV system. Leaky states is a serious issue.
 
 Django 1.3
 -----------
@@ -101,3 +101,13 @@ Implementation Choices
     * Suffers from serious state issues
 
 .. warning:: Don't put ``self`` on Django admin objects or you will cause state issues.
+
+Other concept design:
+
+    * Change the ``urls.py`` contract
+
+        * Current: a callable
+        * Change to: A callable or a class
+        * The problem is that this would have forced them to change a lot of code and make things under the hood much more complex.
+        
+    * Decision: keep the ``urls.py`` contract clear
