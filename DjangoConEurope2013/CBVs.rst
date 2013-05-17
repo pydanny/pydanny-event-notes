@@ -73,8 +73,22 @@ Because we are subclassing a base class, we get tons of extra options.
 * automatic HTTP 405 on unknown verbs
 
 CB Generic Views
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 * Uses Class Based Views as a base
 * Creates analogs of the old generic views
 * Addresses limits of functional approach
+
+Implementation Choices
+--------------------------
+
+* See details of the debate at https://code.djangoproject.com/wiki/ClassBasedViews
+* A class that is instantiated as a view
+* Problems:
+
+    * What gets instantiated?
+    * How does it gets instantiated?
+    * Once per process or request?
+    * What's the lifespan?
+    * What about state? (race conditions!!!)
+    * How does it work with urls.py?
