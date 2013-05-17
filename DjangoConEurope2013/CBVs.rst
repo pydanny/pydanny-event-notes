@@ -8,10 +8,11 @@ by Dr. Russell Keith-Magee
     * DSF President since June 2010
     * CTO and co-founder of TradesCloud
 
-About CBVs
+Why CBVs?
 ============
 
-* Introduced in Django 1.3 in 2011
+Introduced in Django 1.3 in 2011. What's the history?
+
 
 History per 2005
 -------------------
@@ -35,3 +36,8 @@ Problems with function based generic views
 * No re-use between views
 
 .. note:: Another thing against function-based generic views was that people would implement their own broken CBV system.
+
+Django 1.3
+-----------
+
+* They kept trying to get CBVs into Django starting with Django 1.0.
