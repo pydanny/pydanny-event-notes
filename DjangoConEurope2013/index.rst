@@ -39,6 +39,7 @@ Django Circus
    seeds
    mock_your_dtabase
    CBVs
+   dynamic_models
    
 
 PyWaW
