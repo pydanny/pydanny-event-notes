@@ -57,3 +57,14 @@ Sets before sets
         d[each] = None
         
     list_of_things = d.keys()
+    
+Sorting
+---------
+
+.. code-block:: python
+
+    # new way - missed the old way
+    retval = set()
+    for tn in template_nmes:
+        retval.update(search_python(python_code, tn))
+    retval = sorted(retval)
