@@ -13,7 +13,7 @@ by Lennart Regebro
     
 
 .. _`Porting Python Python 3`: https://gumroad.com/l/python3
-.. _`Two Scoops of Django`: https://gumroad.com/l/python3
+.. _`Two Scoops of Django`: https://2scoops.org
 
 There are many idioms and patterns that used to be a best practice but isn't anymore, thanks to changes in Python. Despite that they often show up even in new code, and some of these patterns are even explained to be Good Ideas at stackoverflow and similar. 
 
