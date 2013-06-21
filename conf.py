@@ -49,9 +49,6 @@ copyright = u'2007-%s, Daniel Greenfeld. Some rights reserved: http://creativeco
 # built documents.
 #
 # The short X.Y version.
-from datetime import datetime
-
-#version = str((datetime.now() - datetime(1967, 7, 24)).days / 365)
 version = '45'
 # The full version, including alpha/beta/rc tags.
 release = version
