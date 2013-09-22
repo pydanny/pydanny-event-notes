@@ -7,6 +7,7 @@ DjangoCon Europe 2013 (Django Circus)
 * Other people's notes:
 
     * http://reinout.vanrees.org/weblog/tags/djangocon.html
+    * http://foobacca.github.io/foobacca-event-notes/DjangoConEurope2013/index.html
 
 Opening Statements
 --------------------
