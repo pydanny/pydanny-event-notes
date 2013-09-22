@@ -14,6 +14,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   europython2013/index
    DjangoConEurope2013/index
    Pycon2013/index
    lamigrahack2012/index
