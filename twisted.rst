@@ -42,7 +42,7 @@ How Twisted Works
 
         * IReactorBase: run, stop
         * IReactor(TCP|IDP|SSL|Multicast|UNIX|etc)
-        
+
 * Deferreds
 
     * An object that you get now
@@ -59,7 +59,7 @@ How Twisted Works
         * Get an object representing the future result right now
 
 SOA - Service Oriented Architecture
-=====
+========================================
 
 * Loosely coupled things that talk to each other
 * Components written in Python, Cobol, 

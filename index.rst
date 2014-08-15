@@ -14,6 +14,7 @@ Conferences
 .. toctree::
    :maxdepth: 1
 
+   pydaymendoza/index
    europython2013/index
    DjangoConEurope2013/index
    Pycon2013/index
@@ -47,7 +48,7 @@ Hackathons
 
 .. toctree::
     :maxdepth: 1
-    
+
     GoogleAppsScriptsHackathon/index
 
 Meetups
@@ -65,7 +66,7 @@ Meetups
    LADjango/index
    LAHackNight/index
    chapter_04_starting_a_project.rst
-   
+
 Articles
 ========
 
@@ -73,7 +74,7 @@ Articles
 
 Credits
 ========
- 
+
 * Audrey Roy. She makes this and so much more possible. She is my life.
 * Eric Holscher and the http://rtfd.org community.
 * Github for DVCS hosting.
