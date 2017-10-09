@@ -102,7 +102,7 @@ Stupid Database Tricks
 One schema trick
 -----------------
 
-* If one model ha sa constantly-updated section and a rarely-updated section
+* If one model has a constantly-updated section and a rarely-updated section
 
     * last-seen on site field
     * cut out that field into a new model
@@ -210,7 +210,7 @@ Vacuum FREEZE
 ----------------------
 
 * Once in a while PostgreSQL needs to scan every table
-* THis can be a very big surprise
+* This can be a very big surprise
 * Run VACUUM manually periodically
 
 Hardware
