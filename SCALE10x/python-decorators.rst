@@ -43,7 +43,7 @@ Functions have attributes
 
     >>> spam.func_name
     'spam'
-    >>> spam.__docstring__
+    >>> spam.__doc__
     "A function"
     
 A function knows about itself
@@ -310,7 +310,7 @@ Warning: Function attributes get mangled in decorators
                 result = function(*args, **kwargs)
                 result = result[:length]
             return wrapper
-            wrapper.__docstring__ = function.__docstring__
+            wrapper.__doc__ = function.__doc__
         return decorator
 
 You can also use functools to deal with this issue, but it's not as clear a read
@@ -325,7 +325,7 @@ You can also use functools to deal with this issue, but it's not as clear a read
                 result = function(*args, **kwargs)
                 result = result[:length]
             return wrapper
-            wrapper.__docstring__ = function.__docstring__
+            wrapper.__doc__ = function.__doc__
         return decorator
 
 Uses for decorators
