@@ -57,7 +57,7 @@ by cast of thousands
  
  * Justin Bronn
  
-    * Linux kernal hacking
+    * Linux kernel hacking
  
  * Karen Tracy
  

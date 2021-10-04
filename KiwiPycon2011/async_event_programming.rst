@@ -35,7 +35,7 @@ Really awesome until you hit issues like:
 Multiprocessing
 ===============
 
-* Let the kernal care
+* Let the kernel care
 * Easy to write MP code on unix-likes
 * Can even go multi-system
 

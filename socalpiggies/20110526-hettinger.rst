@@ -111,7 +111,7 @@ Fun things to do with Python
 Not so bad
 -----------
 
-The iter() function has a two argument form that takes a sentinal value::
+The iter() function has a two argument form that takes a sentinel value::
 
     for block in iter(partial(f.read,20), "")
         ...

@@ -29,7 +29,7 @@ Forms are ubiquitous across all Python frameworks
     * This is where they tend to see our mistakes
     
 * Our first line of defense against security against CSRF and other attack methods.
-* Boilerplate and repition removal
+* Boilerplate and repetition removal
 
 Scope of Features
 -----------------------
