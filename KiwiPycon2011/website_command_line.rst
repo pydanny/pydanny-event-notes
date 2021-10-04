@@ -21,7 +21,7 @@ see: http://validation.linaro.org/
 Why a command-line interface?
 ==============================
 
-* We want to do things like trigger test runs when a kernal build finished
+* We want to do things like trigger test runs when a kernel build finished
 * This basically means some kind of Remote Procedure Call (RPC)
 
 Need security

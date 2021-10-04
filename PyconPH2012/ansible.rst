@@ -21,7 +21,7 @@ Dependencies
 
 * Jinja2 (in case you want fancy templates of configuration files)
 * PyYAML (for settings configuration)
-* parameiko
+* paramiko
 
 Question
 --------

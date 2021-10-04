@@ -102,7 +102,7 @@ Only on database fields that are defined to accept null::
 
     author = models.ForeignKey(Person, on_delete=models.SET_NULL)
     
-For setting a new value via a handy sentinal object::
+For setting a new value via a handy sentinel object::
 
     def get_dummy_person():
     p, created = Person.objects.get_or_create(name='DELETED')

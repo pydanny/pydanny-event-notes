@@ -38,7 +38,7 @@ MVC
 
 How it works on the web:
 
-* Listen for reqursts
+* Listen for requests
 
     * Load session state for this user
     * Persist session state, clean up objects
